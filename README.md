@@ -92,3 +92,37 @@ SQLite DB에는 원천 출현, 의미, 독립적인 영·한 검증 결과, 후�
 `derive_wiktextract_inflections.py`는 두 표제어가 원천에 있고 품사 조건을 만족할 때 같은 릴리스의 굴절형 목록과 `form-of` 항목을 대조합니다. 문법 자질이 양쪽에서 일치한 굴절 관계와 근거를 만들어 분석 입력에 추가할 수 있습니다.
 
 원본, OCR, 사전 후보와 원천 정보를 포함하는 생성물은 로컬에서 관리합니다. Git은 코드, 문서, 공개 자료의 체크섬과 이용 근거를 추적합니다.
+
+## Batch RAG 검증
+
+`scripts/batch_rag.py`는 기존 SQLite에 저장된 Anki·PDF 출현, 검증된 의미, 공개 사전과 말뭉치를 사용합니다. 표제어·품사 일치부터 검색하고 사전에 기록된 활용형과 변이형을 추가합니다. 각 사전 의미에 원천 ID와 버전을 유지합니다. 한국어 표기 일치, 사전 내 관계와 말뭉치 용례는 후보를 정렬하고 검토할 때 사용합니다.
+
+| 등급 | 영어 정의 근거 |
+| --- | --- |
+| A | 지정된 독립 영영사전 두 곳 이상에서 확인 |
+| B | 독립 공개 어휘 자료 두 곳 이상에서 같은 개별 의미를 확인 |
+| C | 단일 사전 출처에서 확인 |
+| D | 후보가 있으며 의미 또는 출처 독립성 검토 필요 |
+| E | 적용 가능한 사전 의미 근거 미확보 |
+
+영어 정의와 한국어 뜻은 각각 검증합니다. 말뭉치와 공식 TOEIC 샘플은 용법의 근거입니다. 공개 사전 B등급은 기존 지정 사전 교차 검증 통계와 분리합니다. SQLite의 `batch_rag_current`에서 마지막 전체 실행의 등급·근거·별도 한국어 상태를 확인할 수 있습니다.
+
+```bash
+python scripts/batch_rag.py prepare --top-k 12
+python scripts/batch_rag.py pilot --top-k 12 \
+  --gold data/intermediate/batch_rag/pilot_gold.jsonl \
+  --model-decisions data/intermediate/batch_rag/decisions_pilot.jsonl
+python scripts/batch_rag_archive_probe.py --source oewn
+python scripts/batch_rag_archive_probe.py --source kaikki
+python scripts/batch_rag.py full --top-k 12 \
+  --model-decisions data/intermediate/batch_rag/all_decisions.jsonl \
+  --module-reviews data/intermediate/batch_rag/module_model_judgments.jsonl \
+  --archive-observations data/intermediate/batch_rag/archive/oewn.archive_candidates.jsonl \
+  --archive-observations data/intermediate/batch_rag/archive/kaikki.archive_candidates.jsonl
+python scripts/batch_rag_study.py \
+  --assessments data/intermediate/batch_rag/full/assessments.jsonl
+```
+
+`prepare`는 고정 100개 표본의 검색 결과와 모델 입력을 생성합니다. 독립 검토로 만든 기준 JSONL과 실제 판정 JSONL의 형식은 각각 `batch_rag_benchmark.py`와 `batch_rag_verify.py`에서 확인할 수 있습니다. `pilot`에서 기준 표본과 대조한 결과가 통과하면 같은 DB와 설정으로 `full`을 실행합니다. 같은 입력과 설정으로 명령을 반복하면 SQLite 체크포인트에서 재개합니다. 다음 배치용 입력은 `prepare --review-queue data/intermediate/batch_rag/full/review_queue.jsonl --review-limit 100 --top-k 12`로 생성할 수 있습니다.
+
+선택 사항인 `batch_rag_model.py`는 이용 권한과 호출 한도를 확인한 로컬 모델 명령에 검색 자료를 배치로 전달합니다. 학습 노트와 Anki TSV, 항목별 검토 대기열은 원천이나 사전의 개별 기록이 포함되므로 로컬에 보관합니다. [실행 및 평가 결과](reports/batch_rag_report.md)
