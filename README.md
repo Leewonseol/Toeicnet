@@ -134,3 +134,25 @@ python scripts/batch_rag_study.py \
 `prepare`는 고정 100개 표본의 검색 결과와 모델 입력을 생성합니다. 독립 검토로 만든 기준 JSONL과 실제 판정 JSONL의 형식은 각각 `batch_rag_benchmark.py`와 `batch_rag_verify.py`에서 확인할 수 있습니다. `pilot`에서 기준 표본과 대조한 결과가 통과하면 같은 DB와 설정으로 `full`을 실행합니다. 같은 입력과 설정으로 명령을 반복하면 SQLite 체크포인트에서 재개합니다. 다음 배치용 입력은 `prepare --review-queue data/intermediate/batch_rag/full/review_queue.jsonl --review-limit 100 --top-k 12`로 생성할 수 있습니다.
 
 선택 사항인 `batch_rag_model.py`는 이용 권한과 호출 한도를 확인한 로컬 모델 명령에 검색 자료를 배치로 전달합니다. 학습 노트와 Anki TSV, 항목별 검토 대기열은 원천이나 사전의 개별 기록이 포함되므로 로컬에 보관합니다. [실행 및 평가 결과](reports/batch_rag_report.md)
+
+## rebuild-v2 재구축
+
+기존 OCR·DB·분석 결과를 전제로 하지 않고 Anki 원천과 공개 데이터에서 다시 만든 경로입니다. 결과와 정확도는 [재구축 보고서](reports/rebuild_v2_report.md)에 있습니다.
+
+```sh
+python scripts/download_datasets.py gcide oewn oanc kaikki
+# 덱별 추출: import_anki.py --deck-prefix '노랭이::01.빈출단어' 등 4개 덱 → data/intermediate/anki-{core,basic,800,900}.jsonl
+python scripts/rebuild_sources.py                 # 원천 항목표, 중복·관계 주석 감사
+python scripts/extract_lexicon.py                 # WordNet·Wiktextract·GCIDE 대상 레코드
+python scripts/extract_korean_entries.py          # Wiktionary 한국어 항목(의미 선택·한국어 검토용)
+python scripts/import_corpus.py --input data/external/OANC_GrAF.tgz \
+  --targets data/rebuild/corpus_targets.jsonl --output data/rebuild/oanc_usage.jsonl
+python scripts/rebuild_sample.py                  # 고정 100개 표본
+python scripts/rebuild_analyze.py --items data/rebuild/sample100.jsonl --output data/rebuild/sample.jsonl
+python scripts/rebuild_evaluate.py --predictions data/rebuild/sample.jsonl --output data/rebuild/sample_eval.json
+python scripts/rebuild_analyze.py --output data/rebuild/full.jsonl \
+  --model-review data/rebuild/gold/core_model_review.jsonl
+python scripts/rebuild_outputs.py --analysis data/rebuild/full.jsonl
+```
+
+B등급은 WordNet 의미와 Wiktionary 의미가 같은 품사·의미로 정렬되고 교재 한국어 뜻에 해당할 때만 줍니다. 규칙 판정과 모델 검토 판정은 등급 표시와 카드 덱에서 구분합니다. GCIDE는 근거 계보 확인에만 쓰고 B의 근거로 쓰지 않습니다. 카드·노트·항목별 결과에는 교재 한국어 뜻이 들어 있으므로 로컬에만 둡니다.
