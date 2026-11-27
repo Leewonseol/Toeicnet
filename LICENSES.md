@@ -32,3 +32,7 @@ Wiktextract는 추출 소프트웨어와 Wiktionary 데이터가 별도로 공�
 - 해커스 원본 PDF, OCR, Quizlet 내보내기 파일과 해당 원천 텍스트를 담은 결과물은 로컬 작업 자료로 관리한다. GitHub 저장과 재배포 범위는 권리 확인을 거친다.
 - Quizlet의 공식 내보내기는 세트 작성자가 자기 세트를 내려받는 기능이다. 작업 입력은 사용자가 적법하게 보유한 내보내기 파일을 사용한다. [Quizlet 서비스 약관](https://quizlet.com/tos), [내보내기 안내](https://help.quizlet.com/hc/en-us/articles/360034345672-Exporting-your-sets)
 - 보카바이블 4.0의 공개 목차와 출판사 소개는 학습 설계의 참고 출처다. 프로젝트의 집단과 일정에는 자체 데이터의 근거를 연결한다. [스텝업 출판사 소개 및 목차](https://www.yes24.com/Product/Goods/61307273)
+
+## 학습용 vocabulary.csv
+
+교재 원뜻(`뜻` 열의 한국어)은 공개 라이선스 대상이 아니다. 나머지 열에 들어간 WordNet(CC BY 4.0)과 Wiktionary(CC BY-SA 4.0) 유래 텍스트는 각각의 출처 표시 조건을 따르며, 결합된 영어 부분은 CC BY-SA 4.0으로 표시한다. 출처: Open English Wordnet Community · Princeton WordNet(https://en-word.net/), 영어 Wiktionary 기여자 · Wiktextract/Kaikki(https://kaikki.org/).

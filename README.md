@@ -1,22 +1,15 @@
-# Toeicnet 학습 자료 바로가기
+# Toeicnet 학습 자료
 
-rebuild-v2 결과(규칙 v3.1, Anki 덱 항목 5,071개 · 본 단어 1,241). 표는 GitHub에서 표로 보이도록 교재 DAY별로 나눴다. 한 DAY 폴더에 그 DAY의 모든 덱(빈출·기초·800·900) 항목이 들어 있다. `korean_textbook` 열은 해커스 교재의 한국어 뜻으로, 비공개 저장소에 개인 학습용으로 둔 것이다. 정확도와 한계는 [재구축 보고서](reports/rebuild_v2_report.md), 출처·라이선스와 DAY별 행 수는 [vocabulary/README.md](vocabulary/README.md).
+**▶ [vocabulary/vocabulary.csv](vocabulary/vocabulary.csv)** — 해커스 토익 보카 DAY 01–30 표제어 5,078개(본 단어 1,241 포함)를 한 파일에 정리한 학습용 표. 각 표제어의 **뜻 · 파생어 · 합성어 · 접두사 · 접미사 · 어근 · 공통 어원 · 동의어 · 유의어 · 사용 용법**을 한 행에서 볼 수 있고, 관련어와 표현마다 뜻을 함께 적었다. Excel에서 열면 된다. 열 설명은 [vocabulary/README.md](vocabulary/README.md).
 
-**DAY:** [01](vocabulary/days/DAY01) · [02](vocabulary/days/DAY02) · [03](vocabulary/days/DAY03) · [04](vocabulary/days/DAY04) · [05](vocabulary/days/DAY05) · [06](vocabulary/days/DAY06) · [07](vocabulary/days/DAY07) · [08](vocabulary/days/DAY08) · [09](vocabulary/days/DAY09) · [10](vocabulary/days/DAY10) · [11](vocabulary/days/DAY11) · [12](vocabulary/days/DAY12) · [13](vocabulary/days/DAY13) · [14](vocabulary/days/DAY14) · [15](vocabulary/days/DAY15) · [16](vocabulary/days/DAY16) · [17](vocabulary/days/DAY17) · [18](vocabulary/days/DAY18) · [19](vocabulary/days/DAY19) · [20](vocabulary/days/DAY20) · [21](vocabulary/days/DAY21) · [22](vocabulary/days/DAY22) · [23](vocabulary/days/DAY23) · [24](vocabulary/days/DAY24) · [25](vocabulary/days/DAY25) · [26](vocabulary/days/DAY26) · [27](vocabulary/days/DAY27) · [28](vocabulary/days/DAY28) · [29](vocabulary/days/DAY29) · [30](vocabulary/days/DAY30)
+| 함께 쓰는 자료 | 위치 |
+| --- | --- |
+| Anki 카드 1,776장 | Drive [APKG](https://drive.google.com/file/d/1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa/view) · [덱별 TSV](https://drive.google.com/drive/folders/1Musi9p4IWJYA6yJqMf538BeHDey46zza) |
+| 보카바이블 PART 1–3 노트 | Drive [PART 1](https://drive.google.com/file/d/1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-/view) · [PART 2](https://drive.google.com/file/d/1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv/view) · [PART 3](https://drive.google.com/file/d/1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR/view) |
+| 전체 데이터베이스(SQLite·JSONL) | Drive [data/](https://drive.google.com/drive/folders/1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub) · [합치는 방법](https://drive.google.com/file/d/1nrQIeCG5OXU0ue1MKbFfu2bm-keYHtt_/view) |
+| 정확도·한계 | [재구축 보고서](reports/rebuild_v2_report.md) · [학습용 표 보고서](reports/vocabulary_csv_report.md) |
 
-| 자료 | DAY 폴더 안의 파일 | 전체 묶음 |
-| --- | --- | --- |
-| 핵심 표제어·한국어 뜻·영어 정의 | `headwords.csv` | [Drive csv/headwords.csv](https://drive.google.com/file/d/1v9uW0fkMxckI2e6cEzhikxUuKdtTks-0/view) |
-| 형태론 | `derivations.csv` | [접두사](vocabulary/morphology/prefixes.csv) · [접미사](vocabulary/morphology/suffixes.csv) · [어기](vocabulary/morphology/roots.csv) |
-| 어원론 | `historical_roots.csv` | [공통 PIE 어근 집단](vocabulary/etymology/shared_origins.csv) |
-| 어휘 의미론 | `synonyms.csv` · `antonyms.csv` · `themes.csv` | – |
-| 어휘 결합 및 용법 | `collocations.csv` · `colligations.csv`(OANC 미검토 후보) · `idioms.csv` | – |
-| 보카바이블 PART 1–3 | – | Drive [PART 1](https://drive.google.com/file/d/1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-/view) · [PART 2](https://drive.google.com/file/d/1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv/view) · [PART 3](https://drive.google.com/file/d/1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR/view) |
-| Anki 다운로드 | – | Drive [APKG 1,776장](https://drive.google.com/file/d/1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa/view) · [덱별 TSV](https://drive.google.com/drive/folders/1Musi9p4IWJYA6yJqMf538BeHDey46zza) |
-| 전체 데이터베이스 | – | Drive [SQLite·전체 JSONL(분할)](https://drive.google.com/drive/folders/1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub) · [합치는 방법](https://drive.google.com/file/d/1nrQIeCG5OXU0ue1MKbFfu2bm-keYHtt_/view) |
-| 검토 대기열 | `pending.csv` | [모델 검토 판정](vocabulary/review/model_review.jsonl) · [기준 판정](vocabulary/review/gold_sample_and_holdout.jsonl) |
-
-PDF 뒷단어 3종(120쪽)은 OCR과 페이지 이미지 확인으로 Anki 뒷단어와 대조했다. `headwords.csv`의 `pdf_status`·`pdf_page`·`pdf_pos` 열과 [pdf_crosscheck.csv](vocabulary/review/pdf_crosscheck.csv)에 결과가 있다. Anki 뒷단어 3,830개 중 3,828개를 PDF에서 확인했고(4개는 손으로 지운 줄), PDF에만 있는 9개를 각 DAY 표에 `pdf_only_not_in_anki`로 넣었다. 다음 배치 작업은 각 DAY의 `pending.csv`부터 시작한다. 배치가 끝날 때마다 `python scripts/rebuild_export.py`로 `vocabulary/`를 다시 만들어 커밋하고 `exports/rebuild-v2/`를 Drive에 올린다.
+분석용 표와 검토 대기열은 `vocabulary/internal/`에 있다. 다음 작업은 그 안의 검토 대기열에서 시작한다. 배치가 끝나면 `python scripts/rebuild_export.py && python scripts/build_vocabulary_csv.py`로 다시 만든다.
 
 # 해커스 TOEIC VOCA × 보카바이블 B
 

@@ -277,7 +277,8 @@ def build_apkg(path, cards_dir):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--analysis", type=Path, default=DATA / "full_v31r.jsonl")
-    parser.add_argument("--public", type=Path, default=ROOT / "vocabulary")
+    parser.add_argument("--public", type=Path, default=ROOT / "vocabulary/internal",
+                        help="internal analysis tables; the learner file is vocabulary/vocabulary.csv")
     parser.add_argument("--private", type=Path, default=ROOT / "exports/rebuild-v2")
     parser.add_argument("--part-size", type=int, default=8 * 1024 * 1024)
     args = parser.parse_args()
@@ -290,7 +291,9 @@ def main():
     # Repository tables, split by textbook DAY so each file renders as a table on GitHub. By
     # the owner's decision of 2026-11-27 they include the textbook Korean glosses (private repo).
     if args.public.exists():
-        shutil.rmtree(args.public)
+        for child in args.public.iterdir():  # keep files written by build_vocabulary_csv.py
+            if child.name != "vocabulary_coverage.csv":
+                shutil.rmtree(child) if child.is_dir() else child.unlink()
     collig = list(colligation_candidates())
     for name in ("morphology/prefixes", "morphology/suffixes", "morphology/roots", "etymology/shared_origins"):
         header, data = tables(rows, korean=True, colligations=[])[name]
@@ -387,7 +390,7 @@ def main():
 
     manifest = {"source_analysis": args.analysis.name, "rules": rows[0]["rules"], "counts": counts, "files": {}}
     for base in (out, args.public):
-        for f in sorted(p for p in base.rglob("*") if p.is_file() and p.name != "MANIFEST.json"):
+        for f in sorted(p for p in base.rglob("*") if p.is_file() and p.name not in ("MANIFEST.json", "vocabulary_coverage.csv")):
             manifest["files"][str(f.relative_to(ROOT))] = {"bytes": f.stat().st_size, "sha256": sha256(f)}
     for base in (out, args.public):
         (base / "MANIFEST.json").write_text(json.dumps(
