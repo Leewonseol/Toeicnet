@@ -26,6 +26,12 @@ DAY 01–06, 11–12, 16, 30의 40쪽에서 1,279개 출현을 이미지와 대�
 
 자동 후보에서 철자가 일치하지 않거나 누락된 출현은 609개였고 일치하는 출현을 찾지 못한 후보는 139개였다. 이 집계는 표제어 철자 대조이며 한국어 뜻·품사의 자동 추출 정확도는 별도로 산정하지 않았다.
 
+## 미검토 후보 대조
+
+`python scripts/triage_ocr_candidates.py`로 아직 이미지 대조가 필요한 80쪽의 OCR 후보 1,677건과 사용자가 제공한 Anki 뒷단어 3,860건을 비교했다. 원본 PDF의 4쪽마다 DAY가 바뀐다고 잠정 배정했다. 이미지 대조가 끝난 40쪽의 DAY 표기와 이 배정이 모두 일치했다. 같은 잠정 DAY에서 정규화한 철자가 Anki 항목 한 건과 일치한 후보는 1,418건이었다. 일치하는 철자가 없었던 후보는 259건이었다.
+
+대조 결과는 이미지 검토용 단서로 `data/intermediate/ocr_fast/anki-pending-review.jsonl`에 보관한다. 1,677건 모두 검토 대기·미검증 상태이며, 해당 대조 결과로 교재 출현이나 한국어 뜻을 확정하지 않았다.
+
 ## 검토 절차
 
 1. 실제 PDF를 배치하고 `python scripts/extract_ocr.py --tessdata-dir data/external/tessdata`를 실행한다. PDF 쪽수는 1부터 센다. 출력 폴더 `data/intermediate/ocr/`에 SHA-256과 렌더링 설정으로 구분한 페이지 이미지, 텍스트, TSV 좌표 및 신뢰도와 후보 CSV를 보관한다. 빠른 옵션은 선택 의존성 설치 후 `--renderer pdfium --dpi 185 --psm 11 --output-dir data/intermediate/ocr_fast`로 실행한다. 선택 의존성은 `pypdfium2`와 `Pillow`다.

@@ -242,6 +242,7 @@ def main():
         write_jsonl(args.output, normalized)
         by_source = Counter(row["source_id"] for row in normalized)
         expected_pages = sum(value[2] for value in HACKERS_PDFS.values())
+        expected_pages = sum(value[2] for value in HACKERS_PDFS.values())
         write_json(args.manifest, {
             "normalized_at": datetime.now(timezone.utc).isoformat(),
             "output_records_sha256": sha256_file(args.output),

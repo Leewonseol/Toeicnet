@@ -110,14 +110,18 @@ def main():
         measured = coverage(db)
     if args.quizlet_output:
         errors.extend(validate_tsv(args.quizlet_output))
+    integrity_passed = not errors
     if args.require_coverage and (
         not measured["intake_manifest_complete"]
         or measured["core_occurrences"] != measured["expected_quizlet_occurrences"]
-        or measured["back_days"] != 30
+        or measured["core_days"] != 30 or measured["back_days"] != 30
         or measured["back_pages_image_reviewed"] != 120
     ):
         errors.append("Count-matched Quizlet and/or full image-reviewed Hackers DAY 01–30 coverage is missing")
-    print(json.dumps({"integrity_passed": not errors, "errors": errors, "coverage": measured}, ensure_ascii=False))
+    print(json.dumps({
+        "passed": not errors, "integrity_passed": integrity_passed,
+        "errors": errors, "coverage": measured,
+    }, ensure_ascii=False))
     return bool(errors)
 
 

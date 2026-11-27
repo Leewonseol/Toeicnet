@@ -12,11 +12,11 @@
 
 ## 데이터베이스와 학습 자료
 
-- [SQLite](/workspace/toeic-etymology/data/processed/toeic.db)
-- [검증 상태와 분류별 수량](/workspace/toeic-etymology/reports/database.generated.md)
-- [GraphML](/workspace/toeic-etymology/data/processed/vocabulary.graphml)
-- [PART 1–3 학습 노트](/workspace/toeic-etymology/notes/README.md) 및 [자체 60일 학습표](/workspace/toeic-etymology/notes/schedule.md)
-- [Quizlet UTF-8 TSV 목록](/workspace/toeic-etymology/exports/quizlet/README.md)
+- [SQLite](../data/processed/toeic.db)
+- [검증 상태와 분류별 수량](../reports/database.generated.md)
+- [GraphML](../data/processed/vocabulary.graphml)
+- [PART 1–3 학습 노트](../notes/README.md) 및 [자체 60일 학습표](../notes/schedule.md)
+- [Quizlet UTF-8 TSV 목록](../exports/quizlet/README.md)
 
 교차 검증 비율의 분모는 등록된 개별 의미다. 전체 원천 대비 검증 진척은 검토된 의미와 직접 연결된 원천 출현의 비율로 별도 집계한다. Open English WordNet, Wiktextract, OANC에서 추출된 관계와 용법은 후속 검토에 사용한다. ETS 공개 샘플의 근거는 실제 샘플 문항 위치로 기록했다. [원천의 버전·라이선스](../SOURCES.md)
 
