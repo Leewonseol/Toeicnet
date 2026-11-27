@@ -1,0 +1,43 @@
+headword,formation_type,segmentation,bases,affixes,source_record
+consistently,derivation,consistent + -ly,consistent,-ly,kaikki:consistently:adv:0:5115
+advanced,derivation,advance + -ed,advance,-ed,kaikki:advanced:verb:0:2024
+demonstration,derivation,demonstrate + -ion,demonstrate,-ion,kaikki:demonstration:noun:0:2750
+effective,derivation,effect + -ive,effect,-ive,kaikki:effective:adj:0:4383
+especially,derivation,especial + -ly,especial,-ly,kaikki:especially:adv:0:4134
+closely,derivation,close + -ly,close,-ly,kaikki:closely:adv:0:4680
+cooperate,derivation,co- + operate,operate,co-,kaikki:cooperate:verb:0:2771
+publicize,derivation,public + -ize,public,-ize,kaikki:publicize:verb:0:6518
+extremely,derivation,extreme + -ly,extreme,-ly,kaikki:extremely:adv:0:4505
+seasonal,derivation,season + -al,season,-al,kaikki:seasonal:adj:0:3220
+mounting,derivation,mount + -ing,mount,-ing,kaikki:mounting:adj:0:5361
+reflective,derivation,reflect + -ive,reflect,-ive,kaikki:reflective:adj:0:6363
+based,derivation,base + -ed,base,-ed,kaikki:based:adj:1:4087
+energy drink,compound,energy + drink,energy;drink,,kaikki:energy drink:noun:0:7327
+informal,derivation,in- + formal,formal,in-,kaikki:informal:adj:0:4071
+marketplace,compound,market + place,market;place,,kaikki:marketplace:noun:0:5884
+typical,derivation,typic + -al,typic,-al,kaikki:typical:adj:0:4542
+appealing,derivation,appeal + -ing,appeal,-ing,kaikki:appealing:adj:0:2208
+preview,derivation,pre- + view,view,pre-,kaikki:preview:noun:0:6574
+upside down,compound,up + so + down,up;so;down,,kaikki:upside down:adv:0:4387
+boldly,derivation,bold + -ly,bold,-ly,kaikki:boldly:adv:0:6001
+forgetfully,derivation,forgetful + -ly,forgetful,-ly,kaikki:forgetfully:adv:0:7152
+potentially,derivation,potential + -ly,potential,-ly,kaikki:potentially:adv:0:5445
+randomly,derivation,random + -ly,random,-ly,kaikki:randomly:adv:0:5804
+suitable,derivation,suit + -able,suit,-able,kaikki:suitable:adj:0:4303
+astonishingly,derivation,astonishing + -ly,astonishing,-ly,kaikki:astonishingly:adv:0:6975
+compilation,derivation,compile + -ation,compile,-ation,kaikki:compilation:noun:0:3301
+criticize,derivation,critic + -ize,critic,-ize,kaikki:criticize:verb:0:5736
+modestly,derivation,modest + -ly,modest,-ly,kaikki:modestly:adv:0:6951
+persistent,derivation,persist + -ent,persist,-ent,kaikki:persistent:adj:0:4701
+publicity,derivation,public + -ity,public,-ity,kaikki:publicity:noun:0:5908
+unacceptable,derivation,un- + acceptable,acceptable,un-,kaikki:unacceptable:adj:0:5126
+all-out,compound,all + out,all;out,,kaikki:all-out:adj:0:6165
+misleading,derivation,mislead + -ing,mislead,-ing,kaikki:misleading:adj:0:4663
+recognizable,derivation,recognize + -able,recognize,-able,kaikki:recognizable:adj:0:6415
+telling,derivation,tell + -ing,tell,-ing,kaikki:telling:noun:2:4962
+confiscation,derivation,confiscate + -ion,confiscate,-ion,kaikki:confiscation:noun:0:3314
+intervention,derivation,intervene + -tion,intervene,-tion,kaikki:intervention:noun:0:6157
+irretrievable,derivation,ir- + retrievable,retrievable,ir-,kaikki:irretrievable:adj:0:6811
+jeopardize,derivation,jeopardy + -ize,jeopardy,-ize,kaikki:jeopardize:verb:0:6559
+reputable,derivation,repute + -able,repute,-able,kaikki:reputable:adj:0:6068
+underlying,derivation,underlie + -ing,underlie,-ing,kaikki:underlying:adj:0:4892

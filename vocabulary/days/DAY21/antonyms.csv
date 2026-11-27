@@ -1,0 +1,4 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+establish,abolish,wordnet_antonym,oewn-establish__2.41.00..,model_reviewed_pair
+correctly,incorrectly,wordnet_antonym,oewn-correctly__4.02.01..,monosemous_pair
+anticipated,unanticipated,textbook_note,,

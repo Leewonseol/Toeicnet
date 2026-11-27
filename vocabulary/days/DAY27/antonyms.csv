@@ -1,0 +1,3 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+cautious,incautious,wordnet_antonym,oewn-cautious__3.00.00..,double_korean_anchor
+unprecedented,precedented,wordnet_antonym,oewn-unprecedented__3.00.00..,monosemous_pair

@@ -1,0 +1,170 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+appoint,"임명하다, 지명하다",verb,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459675
+appraisal,평가,noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459676
+promote,"승진시키다, 촉진하다",verb,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459677
+skilled,"숙련된, 노련한",adjective,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459678
+radically,"완전히, 철저히",adverb,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459679
+exceptional,"뛰어난, 예외적인",adjective,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459680
+appreciation,감사,noun,core,D,,unverified,proposed_pair_needs_review,,,,,24,anki_core:1766527459681
+evaluate,평가하다,verb,core,B,"evaluate or estimate the nature, quality, ability, extent, or significance of",verified,double_korean_anchor,oewn,oewn-evaluate__2.31.00..,kaikki:evaluate:verb:0:5071:s0,평가하다,24,anki_core:1766527459682
+suggest,"제안하다, 추천하다",verb,core,C,"To explicitly mention (something) as a possibility for consideration, often to recommend it.",verified,single_source_korean_anchor,kaikki,,kaikki:suggest:verb:0:3022:s2,제안하다,24,anki_core:1766527459683
+preference,선호,noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459684
+management,"경영진, 경영",noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459685
+predict,예측하다,verb,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459686
+transfer,"보내다, 전근시키다",verb,core,B,send from one person or place to another,unverified,model_reviewed_pair,oewn,oewn-transfer__2.35.00..,kaikki:transfer:verb:0:2996:s0,,24,anki_core:1766527459687
+award,"상, (상 등을) 수여하다",verb,core,B,"give, especially as an honor or reward",unverified,model_reviewed_pair,oewn,oewn-award__2.40.00..,kaikki:award:verb:0:2643:s2,,24,anki_core:1766527459688
+mandatory,의무적인,adjective,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459689
+competent,"유능한, 능숙한",adjective,core,B,properly or sufficiently qualified or capable or efficient,unverified,model_reviewed_pair,oewn,oewn-competent__3.00.00..,kaikki:competent:adj:0:6057:s0,,24,anki_core:1766527459690
+performance,"실적, 성과, 공연, 연주, 연기",noun,core,C,A live show or concert.,verified,single_source_korean_anchor,kaikki,,kaikki:performance:noun:0:2618:s2,공연;연주,24,anki_core:1766527459691
+reward,"~에 보답하다, 보상하다, 보상, 포상",noun,core,C,Something of value given in return for an act.,verified,single_source_korean_anchor,kaikki,,kaikki:reward:noun:1:3019:s0,보상;보상하다,24,anki_core:1766527459692
+search,"찾기, 수색, 조사",noun,core,C,An attempt to find something.,verified,single_source_korean_anchor,kaikki,,kaikki:search:noun:0:1217:s0,수색;찾기,24,anki_core:1766527459693
+inexperienced,"경험 없는, 미숙한",adjective,core,B,lacking practical experience or training,unverified,monosemous_pair,oewn,oewn-inexperienced__3.00.00..,kaikki:inexperienced:adj:0:4319:s0,,24,anki_core:1766527459694
+early,"시간상 이른, 조기의",adjective,core,D,,unverified,proposed_pair_needs_review,,,,,24,anki_core:1766527459695
+designate,"지명하다, 지정하다",verb,core,B,assign a name or title to,unverified,model_reviewed_pair,oewn,oewn-designate__2.32.00..,kaikki:designate:verb:0:4929:s1,,24,anki_core:1766527459696
+executive,"경영의, 관리의",adjective,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459697
+dedication,헌신,noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459698
+unanimously,만장일치로,adverb,core,C,In a unanimous manner; without objection.,verified,single_source_korean_anchor,kaikki,,kaikki:unanimously:adv:0:6896:s0,만장일치로,24,anki_core:1766527459699
+progress,"진행, 진척, 진전",noun,core,B,a movement forward,verified,double_korean_anchor,oewn,oewn-progress__1.11.00..,kaikki:progress:noun:1:3541:s4,진행,24,anki_core:1766527459700
+congratulate,축하하다,verb,core,B,express congratulations,verified,double_korean_anchor,oewn,oewn-congratulate__2.32.01..,kaikki:congratulate:verb:0:5066:s0,축하하다,24,anki_core:1766527459701
+dismiss,"해임하다, 해고하다",verb,core,B,terminate the employment of; discharge from an office or position,verified,double_korean_anchor,oewn,oewn-dismiss__2.41.00..,kaikki:dismiss:verb:0:4289:s0,해고하다,24,anki_core:1766527459702
+independence,독립성,noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459703
+participation,"참여, 참가, 가입",noun,core,C,"The act of participating, of taking part in something.",verified,single_source_korean_anchor,kaikki,,kaikki:participation:noun:0:4950:s0,참가,24,anki_core:1766527459704
+praise,칭찬,noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459705
+accomplishment,"성과, 업적",noun,core,D,,unverified,proposed_pair_needs_review,,,,,24,anki_core:1766527459706
+deliberation,"토의, 심의",noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459707
+leadership,"리더십, 지도력",noun,core,C,The capacity of someone to lead others.,verified,single_source_korean_anchor,kaikki,,kaikki:leadership:noun:0:4821:s0,리더십;지도력,24,anki_core:1766527459708
+retire,"퇴직하다, 은퇴하다",verb,core,C,"To stop working on a permanent basis, usually because of old age or illness.",verified,single_source_korean_anchor,kaikki,,kaikki:retire:verb:1:3591:s0,퇴직하다,24,anki_core:1766527459709
+nomination,"임명, 지명",noun,core,C,An act or instance of nominating.,verified,single_source_korean_anchor,kaikki,,kaikki:nomination:noun:0:5396:s0,지명,24,anki_core:1766527459710
+reorganize,"재편성하다, 재조직하다",verb,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459711
+serve,"일하다, 근무하다",verb,core,B,"work for, or be a servant to",verified,double_korean_anchor,oewn,oewn-serve__2.41.01..,kaikki:serve:verb:0:3611:s1,근무하다,24,anki_core:1766527459712
+encouragement,격려,noun,core,C,The act of encouraging,verified,single_source_korean_anchor,kaikki,,kaikki:encouragement:noun:0:5827:s0,격려,24,anki_core:1766527459713
+resignation,"사임, 사직, 사직서",noun,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459714
+strictly,엄격히,adverb,core,D,,unverified,candidates_unaligned,,,,,24,anki_core:1766527459715
+accept an award,상을 받다,phrase,basic,E,,unverified,no_sense_record,,,,,24,anki_basic:1766527459716
+anniversary celebration,기념일 축하 행사,phrase,basic,E,,unverified,no_sense_record,,,,,24,anki_basic:1766527459717
+fire,해고하다,verb,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459718
+flash,"번쩍임, 섬광",noun,basic,B,a burst of light used to communicate or illuminate,verified,double_korean_anchor,oewn,oewn-flash__1.10.01..,kaikki:flash:noun:1:1043:s0,섬광,24,anki_basic:1766527459719
+go downstairs,아래층으로 내려가다,phrase,basic,E,,unverified,no_sense_record,,,,,24,anki_basic:1766527459720
+greenhouse,온실,noun,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459721
+gymnasium,체육관,noun,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459722
+job title,직함,phrase,basic,C,"A specific designation of a post within an organization, normally associated with a job description that details the tasks and responsibilities that go with it.",unverified,single_source_only_sense,kaikki,,kaikki:job title:noun:0:7321:s0,,24,anki_basic:1766527459723
+knob,손잡이,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,24,anki_basic:1766527459724
+ladder,사다리,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,24,anki_basic:1766527459725
+lengthy,"(시간이) 긴, 오랜",det,basic,E,,unverified,no_sense_record,,,,,24,anki_basic:1766527459726
+move around,돌아다니다,phrase,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459727
+plan,"계획, 계획을 세우다",verb,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459728
+point at,~을 가리키다,phrase,basic,E,,unverified,no_sense_record,,,,,24,anki_basic:1766527459729
+scale,"규모, 저울",noun,basic,C,Size; scope.,verified,single_source_korean_anchor,kaikki,,kaikki:scale:noun:1:1854:s2,규모,24,anki_basic:1766527459730
+scatter,흩뿌리다,verb,basic,D,,unverified,proposed_pair_needs_review,,,,,24,anki_basic:1766527459731
+send out,배부하다,phrase,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459732
+yell,소리치다,verb,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459733
+appointment,"약속, 임명",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,24,anki_basic:1766527459734
+characteristic,"특징, 특성",noun,basic,B,a distinguishing quality; a feature that can be used to identify something,verified,double_korean_anchor,oewn,oewn-characteristic__1.07.00..,kaikki:characteristic:noun:0:1453:s0,특성;특징,24,anki_basic:1766527459735
+helping,"도움의, (음식물) 한 그릇",noun,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459736
+hopeful,"희망에 찬 , 기대하는",adjective,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459737
+level,"(사회적) 지위, 수준",noun,basic,B,a position on a scale of intensity or amount or quality,verified,double_korean_anchor,oewn,oewn-level__1.07.00..,kaikki:level:noun:0:2994:s2,수준,24,anki_basic:1766527459738
+resign,"사직하다, 물러나다",verb,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459739
+role,역할,noun,basic,B,an actor's portrayal of someone in a play,verified,double_korean_anchor,oewn,oewn-role__1.09.00..,kaikki:role:noun:1:4167:s0,역할,24,anki_basic:1766527459740
+safeguard,"예방 수단, 안전장치",noun,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459741
+throughout the day,하루 종일,phrase,basic,E,,unverified,no_sense_record,,,,,24,anki_basic:1766527459742
+view,"견해, ~이라고 여기다",verb,basic,D,,unverified,candidates_unaligned,,,,,24,anki_basic:1766527459743
+arm in arm,"팔짱을 끼고, 제휴하여",phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461717
+experienced employee,경력이 있는 직원,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461718
+face away from,~으로부터 고개를 돌리다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461719
+fill in for,"~를 대신하다, ~의 일을 대신봐주다",phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461720
+get a promotion,승진하다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461721
+give A an advance,A에게 가불 해주다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461722
+kneel,무릎을 꿇다,verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461723
+language acquisition,언어습득,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461724
+move over one seat,자리를 한 칸 옮기다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461725
+move up,승진하다,phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461726
+newly arrived,새로 부임한,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461727
+obviously qualified,명백히 자격을 갖춘,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461728
+pavilion,전시관,noun,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461729
+personnel management,인사관리,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461730
+rear,뒤,noun,800,D,,unverified,proposed_pair_needs_review,,,,,24,anki_800:1766527461731
+regional director,지사장,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461732
+reposition,~의 위치를 바꾸다,verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461733
+retiree,퇴직자,noun,800,B,someone who has retired from active working,unverified,monosemous_pair,oewn,oewn-retiree__1.18.00..,kaikki:retiree:noun:0:6840:s0,,24,anki_800:1766527461734
+retirement,"은퇴, 퇴직",noun,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461735
+senior executive,고위간부,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461736
+spare key,여분의 열쇠,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461737
+take early retirement,조기 퇴직하다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461738
+take note,주목하다,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,24,anki_800:1766527461739
+take one's place,~의 자리를 차지하다,phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461740
+take over,인수하다,phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461741
+achiever,크게 성공한 사람,noun,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461742
+admired,존경받는,adjective,800,C,regarded with admiration,unverified,single_source_only_sense,oewn,oewn-admired__5.00.00.loved.00,,,24,anki_800:1766527461743
+as a result of,~의 결과로써,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461744
+elect,선출하다,verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461745
+incompetent,무능한,adjective,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461746
+knowledgeable,아는 것이 많은,adjective,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461747
+namely,"즉, 다시 말해",noun,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461748
+nearby,인근의,adjective,800,B,close at hand,unverified,monosemous_pair,oewn,oewn-nearby__5.00.00.near.00,kaikki:nearby:adj:0:2327:s0,,24,anki_800:1766527461749
+nominate,"지명하다, 추천하다",verb,800,C,"To name someone as a candidate for a particular role or position, including that of an office.",verified,single_source_korean_anchor,kaikki,,kaikki:nominate:verb:0:4789:s0,지명하다,24,anki_800:1766527461750
+promotion,승진,noun,800,C,An advancement in rank or position.,verified,single_source_korean_anchor,kaikki,,kaikki:promotion:noun:0:4362:s0,승진,24,anki_800:1766527461751
+put in for,~을 신청하다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461752
+recommendable,추천할 수 있는,adjective,800,C,Capable of being recommended.,unverified,single_source_only_sense,kaikki,,kaikki:recommendable:adj:0:7236:s0,,24,anki_800:1766527461753
+specially,특별히,adverb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461754
+stand in for,"~의 대리를 맡다, ~를 대신하다",phrase,800,C,To replace; to act as a double or substitute for.,unverified,single_source_only_sense,kaikki,,kaikki:stand in for:verb:0:1570:s0,,24,anki_800:1766527461755
+state,"상태, 진술하다",verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461756
+tech-savvy,최신 기술을 잘 아는,adjective,800,C,"Proficient in the use of technology, especially computers.",unverified,single_source_only_sense,kaikki,,kaikki:tech-savvy:adj:0:7302:s0,,24,anki_800:1766527461757
+undoubtedly,"의심할 여지없이, 틀림없이",adverb,800,B,without doubt; certainly,unverified,monosemous_pair,oewn,oewn-undoubtedly__4.02.00..,kaikki:undoubtedly:adv:0:5817:s0,,24,anki_800:1766527461758
+aspire to,~을 갈망하다,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461759
+dismissal,해고,noun,800,C,Deprivation of office; the fact or process of being fired from employment or stripped of rank.,verified,single_source_korean_anchor,kaikki,,kaikki:dismissal:noun:0:4290:s1,해고,24,anki_800:1766527461760
+empower,~에게 권한을 부여하다,verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461761
+go forward,앞으로 나아가다,phrase,800,C,move ahead; travel onward in time or space,unverified,single_source_only_sense,oewn,oewn-go_forward__2.38.00..,,,24,anki_800:1766527461762
+heighten,높이다,verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461763
+immigrant,이주자,noun,800,C,A non-native person who comes to a country from another country to permanently settle there.,verified,single_source_korean_anchor,kaikki,,kaikki:immigrant:noun:0:6251:s0,이주자,24,anki_800:1766527461764
+initiative,"계획, 진취성",noun,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461765
+inter department,부서 간의,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461766
+job cutback,인력감축,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461767
+lay off,해고하다,phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461768
+named representative,지명된 대표자,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461769
+new appointment,"새로 임명함, 신임",phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461770
+official title,공식 직함,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461771
+on the recommendation of,~의 추천으로,phrase,800,E,,unverified,no_sense_record,,,,,24,anki_800:1766527461772
+pass up,"(기회 등을) 거절하다, 포기하다",phrase,800,D,,unverified,proposed_pair_needs_review,,,,,24,anki_800:1766527461773
+preach,"설교하다, 충고하다",verb,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461774
+predecessor,전임자,noun,800,C,"One who precedes; one who has preceded another in any state, position, office, etc.; one whom another follows or comes after, in any office or position.",verified,single_source_korean_anchor,kaikki,,kaikki:predecessor:noun:0:3533:s0,전임자,24,anki_800:1766527461775
+provincial,지방의,adjective,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461776
+push back,연기하다,phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461777
+ritual,"(정규) 행사, 반드시 지키는 일",noun,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461778
+run for,~에 입후보하다,phrase,800,C,extend or continue for a certain period of time,unverified,single_source_only_sense,oewn,oewn-run_for__2.42.00..,,,24,anki_800:1766527461779
+speck,작은 얼룩,noun,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461780
+supervisory,"감독의, 관리의",adjective,800,B,of or limited to or involving supervision,unverified,monosemous_pair,oewn,oewn-supervisory__3.01.00..,kaikki:supervisory:adj:0:7150:s0,,24,anki_800:1766527461781
+turn away,내쫓다,phrase,800,D,,unverified,candidates_unaligned,,,,,24,anki_800:1766527461782
+underestimate,과소평가하다,verb,800,C,"To estimate too low; to perceive (someone or something) as having a lower value, quantity, worth, etc., than what he/she/it actually has.",verified,single_source_korean_anchor,kaikki,,kaikki:underestimate:verb:0:5183:s0,과소평가하다,24,anki_800:1766527461783
+understaffed,인원부족의,adjective,800,B,inadequate in number of workers or assistants etc.,unverified,monosemous_pair,oewn,oewn-understaffed__5.00.00.inadequate.00,kaikki:understaffed:adj:0:5220:s0,,24,anki_800:1766527461784
+plunge,떨어지다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462958
+salute,"경례하다, 인사하다",verb,900,C,To make a gesture in honor of (someone or something).,verified,single_source_korean_anchor,kaikki,,kaikki:salute:verb:0:5526:s0,경례하다,24,anki_900:1766527462959
+scheme,계획,noun,900,D,,unverified,proposed_pair_needs_review,,,,,24,anki_900:1766527462960
+cordially,"진심으로, 성심성의껏",noun,900,E,,unverified,no_sense_record,,,,,24,anki_900:1766527462961
+delicate,"민감한, 세심한 주의가 필요한",adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462962
+designation,"지정, 지명",noun,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462963
+intent,"의지, 목적; 열심인",adjective/noun,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462964
+irreversible,되돌릴 수 없는,adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462965
+lingering,"오래 끄는, 오래 가는",adjective,900,E,,unverified,no_sense_record,,,,,24,anki_900:1766527462966
+lose oneself in,~에 몰두하다,phrase,900,E,,unverified,no_sense_record,,,,,24,anki_900:1766527462967
+perpetual,끊임없이 계속되는,adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462968
+tolerant,"관대한, 아량 있는",adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462969
+degrade,(품위·지위 등을) 떨어뜨리다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,24,anki_900:1766527462970
+demote,강등시키다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462971
+deploy,배치하다,verb,900,C,"To prepare and arrange (originally military unit or units, i.e., to array troops) for use.",verified,single_source_korean_anchor,kaikki,,kaikki:deploy:verb:0:6929:s0,배치하다,24,anki_900:1766527462972
+dignitary,고위 인사,noun,900,C,"An important or influential person, or one of high rank or position.",verified,single_source_korean_anchor,kaikki,,kaikki:dignitary:noun:0:5045:s0,고위 인사,24,anki_900:1766527462973
+disorient,혼란스럽게 하다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462974
+extraordinary feat,놀랄 만한 업적,phrase,900,E,,unverified,no_sense_record,,,,,24,anki_900:1766527462975
+forage,찾아다니다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462976
+gratis,무료로,adverb,900,B,without charge,unverified,monosemous_pair,oewn,oewn-gratis__4.02.00..,kaikki:gratis:adv:0:6:s0,,24,anki_900:1766527462977
+hurdle,"곤란한 문제, 장애",noun,900,C,"An obstacle, real or perceived, physical or abstract.",verified,single_source_korean_anchor,kaikki,,kaikki:hurdle:noun:1:2922:s1,장애,24,anki_900:1766527462978
+immensity,"광대함, 엄청난 크기",noun,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462979
+in defiance of,~에 반항하여,phrase,900,E,,unverified,no_sense_record,,,,,24,anki_900:1766527462980
+in one's grasp,~의 수중에,phrase,900,E,,unverified,no_sense_record,,,,,24,anki_900:1766527462981
+incumbent,현직의,adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462982
+miscellaneous,다양한,adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462983
+reinstate,복직시키다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462984
+scuff,마모시키다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462985
+shred,갈기갈기 찢다,verb,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462986
+underpass,지하도,noun,900,C,"A passage, especially for pedestrians, that crosses underneath a road, railroad or obstacle.",verified,single_source_korean_anchor,kaikki,,kaikki:underpass:noun:0:5219:s0,지하도,24,anki_900:1766527462987
+unwind,"(감긴 것을) 풀다, (긴장을) 풀다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,24,anki_900:1766527462988
+upbeat,낙관적인,adjective,900,D,,unverified,candidates_unaligned,,,,,24,anki_900:1766527462989

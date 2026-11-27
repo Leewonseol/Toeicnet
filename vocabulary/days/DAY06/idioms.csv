@@ -1,0 +1,13 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+film festival,compound_noun,C,a cinematic festival that features films (usually films produced during the past year),oewn,oewn-film_festival__1.04.00..
+amusement park,compound_noun,C,"A commercially-operated collection of rides, games and other entertainment attractions.",kaikki,kaikki:amusement park:noun:0:7097:s0
+flower bed,compound_noun,C,A part of a garden or park where flowers are grown.,kaikki,kaikki:flowerbed:noun:0:8877:s0
+musical instrument,compound_noun,C,"A device, object, contrivance or machine used to produce musical notes or sounds.",kaikki,kaikki:musical instrument:noun:0:4053:s0
+oil painting,compound_noun,C,A painting done with oil paints.,kaikki,kaikki:oil painting:noun:0:4797:s0
+slide down,phrasal_or_multiword_verb,C,fall or sink heavily,oewn,oewn-slide_down__2.38.00..
+take a break,phrasal_or_multiword_verb,C,"To have a short rest period in one's work, studies, or other activities (This entry is a translation hub.)",kaikki,kaikki:take a break:verb:0:7259:s0
+even though,conjunction,C,Although; though; despite or in spite of the fact that.,kaikki,kaikki:even though:conj:0:7206:s0
+make oneself at home,phrasal_or_multiword_verb,C,To make oneself comfortable as if one were in one's own home.,kaikki,kaikki:make oneself at home:verb:0:7456:s0
+for a change,phrase,C,As a departure from the usual (whether deliberate or not).,kaikki,kaikki:for a change:prep_phrase:0:7392:s0
+pass the time,phrasal_or_multiword_verb,C,To occupy oneself for a period of time.,kaikki,kaikki:pass the time:verb:0:7325:s0
+botanical garden,compound_noun,C,"A place where a variety of plants are grown, primarily for scientific or educational reasons, but are normally open to the public, and include ornamental plants from around the world.",kaikki,kaikki:botanical garden:noun:0:7113:s0

@@ -1,0 +1,93 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+comply,abide by,wordnet_synset,oewn-comply__2.41.00..,monosemous_pair
+comply,follow,wordnet_synset,oewn-comply__2.41.00..,monosemous_pair
+thoroughly,good,wordnet_synset,oewn-thoroughly__4.02.01..,model_reviewed_pair
+thoroughly,soundly,wordnet_synset,oewn-thoroughly__4.02.01..,model_reviewed_pair
+approach,come near,wordnet_synset,oewn-approach__2.38.00..,model_reviewed_pair
+approach,come on,wordnet_synset,oewn-approach__2.38.00..,model_reviewed_pair
+approach,draw close,wordnet_synset,oewn-approach__2.38.00..,model_reviewed_pair
+approach,draw near,wordnet_synset,oewn-approach__2.38.00..,model_reviewed_pair
+approach,go up,wordnet_synset,oewn-approach__2.38.00..,model_reviewed_pair
+approach,near,wordnet_synset,oewn-approach__2.38.00..,model_reviewed_pair
+immediately,at once,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,directly,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,forthwith,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,instantly,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,like a shot,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,now,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,right away,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+immediately,straight off,wordnet_synset,oewn-immediately__4.02.00..,double_korean_anchor
+inspection,review,wordnet_synset,oewn-inspection__1.04.00..,double_korean_anchor
+mandate,authorisation,wordnet_synset,oewn-mandate__1.10.00..,double_korean_anchor
+mandate,authorization,wordnet_synset,oewn-mandate__1.10.00..,double_korean_anchor
+effect,consequence,wordnet_synset,oewn-effect__1.19.00..,double_korean_anchor
+effect,event,wordnet_synset,oewn-effect__1.19.00..,double_korean_anchor
+effect,issue,wordnet_synset,oewn-effect__1.19.00..,double_korean_anchor
+effect,outcome,wordnet_synset,oewn-effect__1.19.00..,double_korean_anchor
+effect,result,wordnet_synset,oewn-effect__1.19.00..,double_korean_anchor
+effect,upshot,wordnet_synset,oewn-effect__1.19.00..,double_korean_anchor
+standard,criterion,wordnet_synset,oewn-standard__1.10.00..,double_korean_anchor
+standard,measure,wordnet_synset,oewn-standard__1.10.00..,double_korean_anchor
+standard,touchstone,wordnet_synset,oewn-standard__1.10.00..,double_korean_anchor
+act,acquit,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,bear,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,behave,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,carry,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,comport,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,conduct,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,deport,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+act,do,wordnet_synset,oewn-act__2.29.00..,double_korean_anchor
+obligation,duty,wordnet_synset,oewn-obligation__1.04.00..,double_korean_anchor
+obligation,responsibility,wordnet_synset,oewn-obligation__1.04.00..,double_korean_anchor
+prohibit,disallow,wordnet_synset,oewn-prohibit__2.32.00..,model_reviewed_pair
+prohibit,forbid,wordnet_synset,oewn-prohibit__2.32.00..,model_reviewed_pair
+prohibit,interdict,wordnet_synset,oewn-prohibit__2.32.00..,model_reviewed_pair
+prohibit,nix,wordnet_synset,oewn-prohibit__2.32.00..,model_reviewed_pair
+prohibit,proscribe,wordnet_synset,oewn-prohibit__2.32.00..,model_reviewed_pair
+prohibit,veto,wordnet_synset,oewn-prohibit__2.32.00..,model_reviewed_pair
+abolish,get rid of,wordnet_synset,oewn-abolish__2.41.00..,monosemous_pair
+habit,use,wordnet_synset,oewn-habit__1.04.02..,double_korean_anchor
+legislation,statute law,wordnet_synset,oewn-legislation__1.10.00..,double_korean_anchor
+restrict,bound,wordnet_synset,oewn-restrict__2.30.00..,double_korean_anchor
+restrict,confine,wordnet_synset,oewn-restrict__2.30.00..,double_korean_anchor
+restrict,limit,wordnet_synset,oewn-restrict__2.30.00..,double_korean_anchor
+restrict,throttle,wordnet_synset,oewn-restrict__2.30.00..,double_korean_anchor
+restrict,trammel,wordnet_synset,oewn-restrict__2.30.00..,double_korean_anchor
+ruler,rule,wordnet_synset,oewn-ruler__1.06.00..,double_korean_anchor
+stop,halt,wordnet_synset,oewn-stop__2.38.00..,double_korean_anchor
+dress,attire,wordnet_synset,oewn-dress__1.06.01..,double_korean_anchor
+dress,garb,wordnet_synset,oewn-dress__1.06.01..,double_korean_anchor
+theft,larceny,wordnet_synset,oewn-theft__1.04.00..,double_korean_anchor
+theft,stealing,wordnet_synset,oewn-theft__1.04.00..,double_korean_anchor
+theft,thievery,wordnet_synset,oewn-theft__1.04.00..,double_korean_anchor
+theft,thieving,wordnet_synset,oewn-theft__1.04.00..,double_korean_anchor
+try,assay,wordnet_synset,oewn-try__2.41.00..,double_korean_anchor
+try,attempt,wordnet_synset,oewn-try__2.41.00..,double_korean_anchor
+try,essay,wordnet_synset,oewn-try__2.41.00..,double_korean_anchor
+try,seek,wordnet_synset,oewn-try__2.41.00..,double_korean_anchor
+abuse,misuse,wordnet_synset,oewn-abuse__1.04.01..,double_korean_anchor
+alert,alarm,wordnet_synset,oewn-alert__2.32.00..,monosemous_pair
+endure,abide,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,bear,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,brook,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,digest,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,put up,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,stand,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,stick out,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+endure,stomach,wordnet_synset,oewn-endure__2.31.00..,double_korean_anchor
+attorney,lawyer,wordnet_synset,oewn-attorney__1.18.00..,double_korean_anchor
+distrust,mistrust,wordnet_synset,oewn-distrust__2.31.00..,monosemous_pair
+distrust,suspect,wordnet_synset,oewn-distrust__2.31.00..,monosemous_pair
+in a strict way,strictly,textbook_note,,
+inadvertently,unknowingly,wordnet_synset,oewn-inadvertently__4.02.00..,monosemous_pair
+inadvertently,unwittingly,wordnet_synset,oewn-inadvertently__4.02.00..,monosemous_pair
+keenly,acutely,wordnet_synset,oewn-keenly__4.02.00..,monosemous_pair
+lawsuit,case,wordnet_synset,oewn-lawsuit__1.04.00..,monosemous_pair
+lawsuit,causa,wordnet_synset,oewn-lawsuit__1.04.00..,monosemous_pair
+lawsuit,cause,wordnet_synset,oewn-lawsuit__1.04.00..,monosemous_pair
+lawsuit,suit,wordnet_synset,oewn-lawsuit__1.04.00..,monosemous_pair
+off-limits,out-of-bounds,wordnet_synset,oewn-off--limits__5.00.00.restricted.00,monosemous_pair
+infringement,infraction,wordnet_synset,oewn-infringement__1.04.00..,double_korean_anchor
+infringement,misdemeanor,wordnet_synset,oewn-infringement__1.04.00..,double_korean_anchor
+infringement,misdemeanour,wordnet_synset,oewn-infringement__1.04.00..,double_korean_anchor
+infringement,violation,wordnet_synset,oewn-infringement__1.04.00..,double_korean_anchor

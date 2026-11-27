@@ -1,0 +1,51 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+assume,presume,wordnet_synset,oewn-assume__2.31.00..,model_reviewed_pair
+assume,take for granted,wordnet_synset,oewn-assume__2.31.00..,model_reviewed_pair
+occasionally,at times,wordnet_synset,oewn-occasionally__4.02.00..,double_korean_anchor
+occasionally,from time to time,wordnet_synset,oewn-occasionally__4.02.00..,double_korean_anchor
+occasionally,now and again,wordnet_synset,oewn-occasionally__4.02.00..,double_korean_anchor
+occasionally,now and then,wordnet_synset,oewn-occasionally__4.02.00..,double_korean_anchor
+occasionally,on occasion,wordnet_synset,oewn-occasionally__4.02.00..,double_korean_anchor
+occasionally,once in a while,wordnet_synset,oewn-occasionally__4.02.00..,double_korean_anchor
+assist,aid,wordnet_synset,oewn-assist__2.41.02..,double_korean_anchor
+assist,help,wordnet_synset,oewn-assist__2.41.02..,double_korean_anchor
+skillfully,skilfully,wordnet_synset,oewn-skillfully__4.02.00..,monosemous_pair
+transform,transmute,wordnet_synset,oewn-transform__2.30.00..,model_reviewed_pair
+transform,transubstantiate,wordnet_synset,oewn-transform__2.30.00..,model_reviewed_pair
+duplicate,duplication,wordnet_synset,oewn-duplicate__1.06.00..,model_reviewed_pair
+contrary,opposite,wordnet_synset,oewn-contrary__1.24.01..,model_reviewed_pair
+contrary,reverse,wordnet_synset,oewn-contrary__1.24.01..,model_reviewed_pair
+disturbing,distressful,wordnet_synset,oewn-disturbing__5.00.00.heavy.02,monosemous_pair
+disturbing,distressing,wordnet_synset,oewn-disturbing__5.00.00.heavy.02,monosemous_pair
+disturbing,perturbing,wordnet_synset,oewn-disturbing__5.00.00.heavy.02,monosemous_pair
+disturbing,troubling,wordnet_synset,oewn-disturbing__5.00.00.heavy.02,monosemous_pair
+disturbing,worrisome,wordnet_synset,oewn-disturbing__5.00.00.heavy.02,monosemous_pair
+disturbing,worrying,wordnet_synset,oewn-disturbing__5.00.00.heavy.02,monosemous_pair
+case,event,wordnet_synset,oewn-case__1.26.00..,double_korean_anchor
+keypad,computer keyboard,wordnet_synset,oewn-keypad__1.06.00..,monosemous_pair
+photocopy,run off,wordnet_synset,oewn-photocopy__1.06.00..,monosemous_pair
+photocopy,xerox,wordnet_synset,oewn-photocopy__1.06.00..,monosemous_pair
+right away,at once,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,directly,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,forthwith,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,immediately,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,instantly,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,like a shot,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,now,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+right away,straight off,wordnet_synset,oewn-right_away__4.02.00..,double_korean_anchor
+task,chore,wordnet_synset,oewn-task__1.04.00..,double_korean_anchor
+task,job,wordnet_synset,oewn-task__1.04.00..,double_korean_anchor
+stationery,letter paper,wordnet_synset,oewn-stationery__1.10.00..,monosemous_pair
+automobile,auto,wordnet_synset,oewn-automobile__1.06.00..,double_korean_anchor
+automobile,car,wordnet_synset,oewn-automobile__1.06.00..,double_korean_anchor
+automobile,machine,wordnet_synset,oewn-automobile__1.06.00..,double_korean_anchor
+automobile,motorcar,wordnet_synset,oewn-automobile__1.06.00..,double_korean_anchor
+instrument,musical instrument,wordnet_synset,oewn-instrument__1.06.01..,double_korean_anchor
+workplace,work,wordnet_synset,oewn-workplace__1.06.00..,monosemous_pair
+seamless,without trouble,textbook_note,,
+motivation,motive,wordnet_synset,oewn-motivation__1.03.00..,double_korean_anchor
+motivation,need,wordnet_synset,oewn-motivation__1.03.00..,double_korean_anchor
+invaluable,priceless,wordnet_synset,oewn-invaluable__5.00.00.valuable.00,monosemous_pair
+respective,several,wordnet_synset,oewn-respective__5.00.00.individual.00,monosemous_pair
+respective,various,wordnet_synset,oewn-respective__5.00.00.individual.00,monosemous_pair
+ambiance,ambience,textbook_note,,

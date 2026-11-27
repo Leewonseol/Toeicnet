@@ -1,0 +1,169 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+congestion,"(교통의) 체증, 혼잡",noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459744
+alleviate,완화하다,verb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459745
+divert,"우회시키다, 다른 곳으로 돌리다",verb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459746
+detour,우회,noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459747
+fuel,연료,noun,core,C,"Substance consumed to provide energy through combustion, or through chemical or nuclear reaction.",verified,single_source_korean_anchor,kaikki,,kaikki:fuel:noun:0:1289:s0,연료,25,anki_core:1766527459748
+malfunction,"오작동, 기능 불량",noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459749
+permit,"허락하다, 허가증",noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459750
+transportation,"교통 (수단), 운송 수단",noun,core,C,"The act of transporting, or the state of being transported; conveyance, often of people, goods etc.",verified,single_source_korean_anchor,kaikki,,kaikki:transportation:noun:0:4419:s0,교통,25,anki_core:1766527459751
+opportunity,기회,noun,core,C,"A chance for advancement, progress or profit.",verified,single_source_korean_anchor,kaikki,,kaikki:opportunity:noun:0:502:s0,기회,25,anki_core:1766527459752
+clearly,명확히,adverb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459753
+ongoing,계속 진행 중인,adjective,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459754
+detailed,상세한,adjective,core,B,developed or executed with care and in minute detail,verified,monosemous_pair,oewn,oewn-detailed__5.00.00.careful.00,kaikki:detailed:adj:0:6393:s0,상세하다,25,anki_core:1766527459755
+alternative,"대안, 대체, 다른, 대신의",adjective,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459756
+obtain,"획득하다, 얻다",verb,core,C,"To get hold of; to gain possession of, to procure; to acquire, in any way.",verified,single_source_korean_anchor,kaikki,,kaikki:obtain:verb:0:2606:s0,얻다;획득하다,25,anki_core:1766527459757
+designated,지정된,adjective,core,C,Having a specified designation or purpose.,unverified,single_source_only_sense,kaikki,,kaikki:designated:adj:0:7257:s0,,25,anki_core:1766527459758
+intersection,"교차로, 교차 지점",noun,core,B,a junction where one street or road crosses another,verified,double_korean_anchor,oewn,oewn-intersection__1.06.00..,kaikki:intersection:noun:0:1459:s0,교차로,25,anki_core:1766527459759
+equip,"갖추다, 설비하다",verb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459760
+commute,통근하다,verb,core,C,"To regularly travel from one's home to one's workplace or school, or vice versa.",verified,single_source_korean_anchor,kaikki,,kaikki:commute:verb:2:3709:s0,통근하다,25,anki_core:1766527459761
+downtown,"시내에서, 도심지로",adverb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459762
+automotive,자동차의,adjective,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459763
+closure,폐쇄,noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459764
+vehicle,"차량, 운송 수단",noun,core,C,"A conveyance: a spacious device for carrying or transporting substances, objects, people or animals.",verified,single_source_korean_anchor,kaikki,,kaikki:vehicle:noun:0:1798:s0,차량,25,anki_core:1766527459765
+platform,승강장,noun,core,C,A raised structure or other area alongside rails or a driveway alongside which vehicles stop to take in and discharge passengers.,verified,single_source_korean_anchor,kaikki,,kaikki:platform:noun:0:1082:s5,승강장,25,anki_core:1766527459766
+official,"공무원, 관리, 공식적인",adjective,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459767
+transit,"교통, 수송",noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459768
+fare,교통 요금,noun,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459769
+expense,"비용, 지출",noun,core,C,"A spending or consuming, often a disbursement of funds.",verified,single_source_korean_anchor,kaikki,,kaikki:expense:noun:0:3826:s0,비용,25,anki_core:1766527459770
+trust,"신뢰, 신임, 믿다, 신뢰하다",verb,core,B,be confident about something,verified,double_korean_anchor,oewn,oewn-trust__2.31.02..,kaikki:trust:verb:0:1692:s0,믿다;신뢰;신뢰하다;신임,25,anki_core:1766527459771
+head,"(~의 방향으로) 나아가다, 향하게 하다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,25,anki_core:1766527459772
+drive,"(차 등을) 운전하다, 타고 가다, 조종하다",verb,core,B,operate or control a vehicle,verified,double_korean_anchor,oewn,oewn-drive__2.38.01..,kaikki:drive:verb:0:576:s0,운전하다,25,anki_core:1766527459773
+fine,벌금,noun,core,C,A fee levied as punishment for breaking the law.,verified,single_source_korean_anchor,kaikki,,kaikki:fine:noun:2:2518:s0,벌금,25,anki_core:1766527459774
+pass,"지나가다, 통과하다",verb,core,B,move past,verified,double_korean_anchor,oewn,oewn-pass__2.38.05..;oewn-pass__2.38.05..,kaikki:pass:verb:1:1046:s0;kaikki:pass:verb:1:1046:s1,지나가다,25,anki_core:1766527459775
+securely,"(매듭 등이) 단단하게, 튼튼하게",adverb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459776
+prominently,"눈에 잘 띄게, 두드러지게",adverb,core,B,in a prominent way,unverified,monosemous_pair,oewn,oewn-prominently__4.02.00..,kaikki:prominently:adv:0:5809:s0,,25,anki_core:1766527459777
+reserved,"예약된, 예약한, 지정된",adjective,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459778
+average,"평균치, 평균",noun,core,C,The arithmetic mean.,verified,single_source_korean_anchor,kaikki,,kaikki:average:noun:1:2239:s1,평균,25,anki_core:1766527459779
+collision,충돌,noun,core,C,An instance of colliding.,verified,single_source_korean_anchor,kaikki,,kaikki:collision:noun:0:5117:s0,충돌,25,anki_core:1766527459780
+tow,(차를) 견인하다,verb,core,D,,unverified,candidates_unaligned,,,,,25,anki_core:1766527459781
+reverse,"뒤의, 반대의",adjective,core,B,directed or moving toward the rear,unverified,model_reviewed_pair,oewn,oewn-reverse__5.00.00.backward.01,kaikki:reverse:adj:1:3141:s1,,25,anki_core:1766527459782
+obstruct,"(전망 등을) 가리다, 차단하다; (도로 등을) 막다",verb,core,B,shut out from view or get in the way so as to hide from sight,unverified,model_reviewed_pair,oewn,oewn-obstruct__2.39.04..,kaikki:obstruct:verb:0:4149:s2,,25,anki_core:1766527459783
+bus stop,버스 정류장,phrase,basic,C,A place where public transport buses stop to allow passengers to board or leave.,verified,single_source_korean_anchor,kaikki,,kaikki:bus stop:noun:0:5984:s0,버스 정류장,25,anki_basic:1766527459784
+busy street,붐비는 거리,phrase,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459785
+cab,택시,noun,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459786
+car rental,자동차 대여,phrase,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459787
+crosswalk,횡단보도,noun,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459788
+free parking,무료 주차,phrase,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459789
+gas station,주유소,phrase,basic,D,,unverified,proposed_pair_needs_review,,,,,25,anki_basic:1766527459790
+get off,"떠나다, 출발하다",phrase,basic,D,,unverified,proposed_pair_needs_review,,,,,25,anki_basic:1766527459791
+hang,"걸다, 걸리다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,25,anki_basic:1766527459792
+heavy traffic,교통 혼잡,phrase,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459793
+highway,고속도로,adverb,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459794
+on foot,"걸어서, 도보로",phrase,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459795
+park,주차하다,verb,basic,C,To bring (something such as a vehicle) to a halt or store in a specified place.,verified,single_source_korean_anchor,kaikki,,kaikki:park:verb:0:2614:s0,주차하다,25,anki_basic:1766527459796
+path,통행로,adverb,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459797
+subway station,지하철역,phrase,basic,C,a terminal/node where subways/rapid transit systems load and unload passengers,unverified,single_source_only_sense,oewn,oewn-subway_station__1.06.00..,,,25,anki_basic:1766527459798
+tour bus,관광버스,phrase,basic,C,"A bus used for a touring group, especially by musicians.",unverified,single_source_only_sense,kaikki,,kaikki:tour bus:noun:0:7296:s0,,25,anki_basic:1766527459799
+traffic light,교통 신호(등),phrase,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459800
+wall,벽,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,25,anki_basic:1766527459801
+wash the car,세차하다,phrase,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459802
+wheel,바퀴,noun,basic,C,"A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.",verified,single_source_korean_anchor,kaikki,,kaikki:wheel:noun:0:1604:s0,바퀴,25,anki_basic:1766527459803
+access to,~에의 접근,phrase,basic,E,,unverified,no_sense_record,,,,,25,anki_basic:1766527459804
+cite,언급하다,verb,basic,D,,unverified,proposed_pair_needs_review,,,,,25,anki_basic:1766527459805
+hood,"(자동차의) 보닛, 덮개",noun,basic,B,protective covering consisting of a metal part that covers the engine,verified,double_korean_anchor,oewn,oewn-hood__1.06.00..,kaikki:hood:noun:1:3929:s5,보닛,25,anki_basic:1766527459806
+inside,"~의 안에, 이내에",noun,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459807
+route,노선,noun,basic,B,an established line of travel or access,verified,double_korean_anchor,oewn,oewn-route__1.15.00..,kaikki:route:noun:1:3602:s0,노선,25,anki_basic:1766527459808
+sharp,"뾰족한, 예리한",adjective,basic,C,Intelligent.,verified,single_source_korean_anchor,kaikki,,kaikki:sharp:adj:0:966:s1,예리한,25,anki_basic:1766527459809
+solve,해결하다,verb,basic,B,find the solution,verified,double_korean_anchor,oewn,oewn-solve__2.31.01..,kaikki:solve:verb:0:2884:s0,해결하다,25,anki_basic:1766527459810
+stand,서다,verb,basic,D,,unverified,candidates_unaligned,,,,,25,anki_basic:1766527459811
+across the street,길을 가로질러,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461785
+around the corner,"길모퉁이에, 임박한, 매우 가까이에 있는",phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461786
+be closed to traffic,왕래를 금하다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461787
+be held up in traffic,교통체증에 걸리다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461788
+be lined with,줄지어 있다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461789
+broadcast,"방송하다, 방송",noun,800,B,a radio or television show,verified,double_korean_anchor,oewn,oewn-broadcast__1.10.01..,kaikki:broadcast:noun:0:563:s0,방송;방송하다,25,anki_800:1766527461790
+bypass,우회로,adverb,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461791
+carpool,승용차 함께 타기를 하다,verb,800,C,To travel together in such a pool.,unverified,single_source_only_sense,kaikki,,kaikki:carpool:verb:0:6630:s0,,25,anki_800:1766527461792
+come to a standstill,"멈추다, 정지하다",phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461793
+commuter,통근자,noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461794
+cross the street,길을 건너다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461795
+direct traffic,교통정리를 하다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461796
+driver's license,운전 면허증,phrase,800,C,"A document issued to a specific person by a government authority, permitting this person to drive one or more classes of motor vehicle on public roads and highways, often used as an identification document.",verified,single_source_korean_anchor,kaikki,,kaikki:driver's license:noun:0:2665:s0,운전 면허증,25,anki_800:1766527461797
+driveway,"차도, (집, 차고까지의) 진입로",adverb,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461798
+driving direction,주행방향,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461799
+footrest,발받침,noun,800,B,a low seat or a stool to rest the feet of a seated person,unverified,monosemous_pair,oewn,oewn-footrest__1.06.00..,kaikki:footrest:noun:0:5284:s0,,25,anki_800:1766527461800
+get a ride,차를 얻어 타다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461801
+get lost,길을 잃다,phrase,800,C,To lose one's way.,verified,single_source_korean_anchor,kaikki,,kaikki:get lost:verb:0:3977:s0,길을 잃다,25,anki_800:1766527461802
+get to,~에 도착하다,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461803
+give A a ride,A를 태워주다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461804
+have a flat tire,타이어에 바람이 빠지다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461805
+headlight,전조등,noun,800,C,"A bright light, with a lens and reflector, on the front of a motor vehicle (or originally a ship or train), designed to illuminate the road when driving at night; normally one of a pair.",verified,single_source_korean_anchor,kaikki,,kaikki:headlight:noun:0:6197:s0,전조등,25,anki_800:1766527461806
+land at the dock,부두에 정박하다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461807
+lane,차선,noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461808
+lean over the railing,난간 위로 기대다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461809
+license plate number,차량 번호,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461810
+lock the key in the car,열쇠를 차에 두고 잠그다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461811
+make a stop,정지하다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461812
+make a transfer,"(차를) 갈아타다, 바꾸다",phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461813
+march,행진하다,verb,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461814
+mileage,주행거리,noun,800,C,The number of miles travelled by a vehicle on a certain volume of fuel.,verified,single_source_korean_anchor,kaikki,,kaikki:mileage:noun:0:6119:s1,주행거리,25,anki_800:1766527461815
+navigation,"항해, 운항",noun,800,C,"Traffic or travel by vessel, especially commercial shipping.",verified,single_source_korean_anchor,kaikki,,kaikki:navigation:noun:0:4413:s1,항해,25,anki_800:1766527461816
+one-way ticket,편도 차표,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461817
+parking garage,차고,phrase,800,C,"A building or structured facility designed primarily for the storage of vehicles, usually automobiles, in designated parking spaces.",unverified,single_source_only_sense,kaikki,,kaikki:parking garage:noun:0:7190:s0,,25,anki_800:1766527461818
+pathway,통행로,adverb,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461819
+push one's way through,~을 뚫고 지나가다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461820
+ride away,타고 가다,phrase,800,C,"ride away on a horse, for example",unverified,single_source_only_sense,oewn,oewn-ride_away__2.38.00..,,,25,anki_800:1766527461821
+road sign,도로표지,phrase,800,C,A sign for the control of traffic or the information of drivers.,verified,single_source_korean_anchor,kaikki,,kaikki:road sign:noun:0:7254:s0,도로표지,25,anki_800:1766527461822
+roadwork,도로 공사,noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461823
+shortcut,지름길,noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461824
+stop at a light,신호등에서 정지하다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461825
+stop for fuel,주유소에 들르다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461826
+storage compartment,짐 싣는 곳,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461827
+street sign,도로 표지판,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461828
+toll price,통행료,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461829
+traffic jam,교통정체,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461830
+walk through,~을 통과해 걷다,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461831
+walking distance,걸어서 갈 수 있는 거리,phrase,800,C,A distance that a person can reasonably walk.,unverified,single_source_only_sense,kaikki,,kaikki:walking distance:noun:0:7973:s0,,25,anki_800:1766527461832
+walkway,통로,noun,800,B,a path set aside for walking,unverified,monosemous_pair,oewn,oewn-walkway__1.06.00..,kaikki:walkway:noun:0:6615:s0,,25,anki_800:1766527461833
+windshield,바람막이 창,noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461834
+creation,창조,noun,800,C,The act of creating something.,verified,single_source_korean_anchor,kaikki,,kaikki:creation:noun:0:2793:s1,창조,25,anki_800:1766527461835
+motivate,"동기를 부여하다, 자극하다",verb,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461836
+normal,"정상, 표준",noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461837
+still,"조용한, 정지한, 여전히",adverb,800,C,"Up to a time, as in the preceding time.",verified,single_source_korean_anchor,kaikki,,kaikki:still:adv:1:1019:s1,여전히,25,anki_800:1766527461838
+traffic signal,교통 신호,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461839
+valuable,"소중한, 귀중한",adjective,800,C,Having a great value.,verified,single_source_korean_anchor,kaikki,,kaikki:valuable:adj:0:2094:s0,귀중하다;귀중한,25,anki_800:1766527461840
+volunteer,자원봉사자,noun,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461841
+at full speed,전속력으로,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461842
+clear A from B,A를 B에서 치우다,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461843
+collide,충돌하다,verb,800,C,"To make a direct impact, especially if violent.",verified,single_source_korean_anchor,kaikki,,kaikki:collide:verb:0:4159:s0,충돌하다,25,anki_800:1766527461844
+congested,"(사람·교통이) 붐비는, 혼잡한",adjective,800,B,overfull as with blood,unverified,monosemous_pair,oewn,oewn-congested__5.00.00.full.00,kaikki:congested:adj:0:6893:s0,,25,anki_800:1766527461845
+encounter,"(우연히) 만나다, (문제에) 부닥치다",verb,800,C,"To meet (someone) or find (something), especially unexpectedly.",verified,single_source_korean_anchor,kaikki,,kaikki:encounter:verb:0:5928:s0,만나다;부닥치다,25,anki_800:1766527461846
+move forward,앞으로 나아가다,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461847
+principal,"주요한, 주된, (단체의) 장, 교장",noun,800,B,the educator who has executive authority for a school,verified,double_korean_anchor,oewn,oewn-principal__1.18.00..,kaikki:principal:noun:0:3050:s1,교장,25,anki_800:1766527461848
+public transportation,대중교통,phrase,800,C,Public transport.,unverified,single_source_only_sense,kaikki,,kaikki:public transportation:noun:0:7589:s0,,25,anki_800:1766527461849
+standing room,입석,phrase,800,D,,unverified,candidates_unaligned,,,,,25,anki_800:1766527461850
+steering wheel,핸들,phrase,800,C,"A wheel-shaped control that is rotated by the driver to steer, existing in most modern land vehicles.",verified,single_source_korean_anchor,kaikki,,kaikki:steering wheel:noun:0:6535:s0,핸들,25,anki_800:1766527461851
+traffic congestion,교통체증,phrase,800,E,,unverified,no_sense_record,,,,,25,anki_800:1766527461852
+be towed away,(차가) 견인되다,phrase,900,E,,unverified,no_sense_record,,,,,25,anki_900:1766527462990
+bicycle rack,자전거 보관대,phrase,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527462991
+carriage,"차량, 객차",noun,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527462992
+fuel-efficient,연료 효율이 높은,adjective,900,E,,unverified,no_sense_record,,,,,25,anki_900:1766527462993
+navigate,길을 찾다,verb,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527462994
+overnight express,심야 고속,phrase,900,E,,unverified,no_sense_record,,,,,25,anki_900:1766527462995
+pass by,지나가다,phrase,900,D,,unverified,proposed_pair_needs_review,,,,,25,anki_900:1766527462996
+passerby,행인,noun,900,B,a person who passes by casually or by chance,unverified,monosemous_pair,oewn,oewn-passerby__1.18.00..,kaikki:passer-by:noun:0:8769:s0,,25,anki_900:1766527462997
+pave,(도로를) 포장하다,verb,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527462998
+pedestrian,보행자,noun,900,D,,unverified,proposed_pair_needs_review,,,,,25,anki_900:1766527462999
+pull into,(배가 항구에) 서다,phrase,900,C,Synonym of pull in (To park frontways in a parking spot),unverified,single_source_only_sense,kaikki,,kaikki:pull into:verb:0:8010:s0,,25,anki_900:1766527463000
+sidewalk,보도,noun,900,B,walk consisting of a paved area for pedestrians; usually beside a street or roadway,verified,double_korean_anchor,oewn,oewn-sidewalk__1.06.00..,kaikki:sidewalk:noun:0:494:s0,보도,25,anki_900:1766527463001
+specialist,"전문가, 전공자",noun,900,B,an expert who is devoted to one occupation or branch of learning,verified,double_korean_anchor,oewn,oewn-specialist__1.18.00..,kaikki:specialist:noun:0:5372:s0,전문가,25,anki_900:1766527463002
+spoke,바퀴살,noun,900,D,,unverified,proposed_pair_needs_review,,,,,25,anki_900:1766527463003
+streetcar,전차,noun,900,B,a wheeled vehicle that runs on rails and is propelled by electricity,unverified,monosemous_pair,oewn,oewn-streetcar__1.06.00..,kaikki:streetcar:noun:0:6863:s0,,25,anki_900:1766527463004
+towing service,견인 서비스,phrase,900,E,,unverified,no_sense_record,,,,,25,anki_900:1766527463005
+wagon,화물 기차,noun,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463006
+bear,~을 몸에 지니다,verb,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463007
+emphatic,"단호한, 강한",adjective,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463008
+hastily,"급히, 서둘러서",noun,900,E,,unverified,no_sense_record,,,,,25,anki_900:1766527463009
+inconveniently,불편하게,adverb,900,B,in an inconvenient manner,unverified,monosemous_pair,oewn,oewn-inconveniently__4.02.00..,kaikki:inconveniently:adv:0:7178:s0,,25,anki_900:1766527463010
+necessitate,~을 필요하게 만들다,verb,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463011
+opposition,"반대, 대항",noun,900,C,A political party or movement opposed to the party or government in power.,verified,single_source_korean_anchor,kaikki,,kaikki:opposition:noun:0:1885:s3,반대,25,anki_900:1766527463012
+ridership,"(공공 교통 기관의) 이용자 수, 승객 수",noun,900,C,The people who ride a form of transportation.,unverified,single_source_only_sense,kaikki,,kaikki:ridership:noun:0:7242:s0,,25,anki_900:1766527463013
+surround,"둘러싸다, 에워싸다",verb,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463014
+compact car,소형차,phrase,900,C,a small and economical car,unverified,single_source_only_sense,oewn,oewn-compact_car__1.06.00..,,,25,anki_900:1766527463015
+conform to,"(규칙 등에) 부합하다, 따르다",phrase,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463016
+drawbridge,도개교 (위로 들어올리는 다리),noun,900,B,a bridge that can be raised to block passage or to allow boats or ships to pass beneath it,verified,double_korean_anchor,oewn,oewn-drawbridge__1.06.00..,kaikki:drawbridge:noun:0:1973:s0,도개교,25,anki_900:1766527463017
+give off,방출하다,phrase,900,D,,unverified,candidates_unaligned,,,,,25,anki_900:1766527463018
+gratuity,"팁, 봉사료",noun,900,D,,unverified,proposed_pair_needs_review,,,,,25,anki_900:1766527463019
+ramp,경사로,adverb,900,E,,unverified,no_sense_record,,,,,25,anki_900:1766527463020
+refurbish,"개조하다, 새로 꾸미다",verb,900,B,make brighter and prettier,unverified,monosemous_pair,oewn,oewn-refurbish__2.30.00..,kaikki:refurbish:verb:0:6864:s0,,25,anki_900:1766527463021

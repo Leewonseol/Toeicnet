@@ -1,0 +1,59 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+refuse,decline,wordnet_synset,oewn-refuse__2.40.00..,double_korean_anchor
+refuse,pass up,wordnet_synset,oewn-refuse__2.40.00..,double_korean_anchor
+refuse,reject,wordnet_synset,oewn-refuse__2.40.00..,double_korean_anchor
+refuse,turn down,wordnet_synset,oewn-refuse__2.40.00..,double_korean_anchor
+dealer,bargainer,wordnet_synset,oewn-dealer__1.18.02..,double_korean_anchor
+dealer,monger,wordnet_synset,oewn-dealer__1.18.02..,double_korean_anchor
+dealer,trader,wordnet_synset,oewn-dealer__1.18.02..,double_korean_anchor
+short,inadequate,wordnet_synset,oewn-short__5.00.00.insufficient.00,model_reviewed_pair
+short,jejune,wordnet_synset,oewn-short__5.00.00.insufficient.00,model_reviewed_pair
+short,poor,wordnet_synset,oewn-short__5.00.00.insufficient.00,model_reviewed_pair
+order,purchase order,wordnet_synset,oewn-order__1.10.01..,double_korean_anchor
+provide,cater,wordnet_synset,oewn-provide__2.34.00..,model_reviewed_pair
+provide,ply,wordnet_synset,oewn-provide__2.34.00..,model_reviewed_pair
+provide,supply,wordnet_synset,oewn-provide__2.34.00..,model_reviewed_pair
+discount,deduction,wordnet_synset,oewn-discount__1.04.00..,double_korean_anchor
+discount,price reduction,wordnet_synset,oewn-discount__1.04.00..,double_korean_anchor
+assure,ensure,wordnet_synset,oewn-assure__2.32.03..,model_reviewed_pair
+assure,guarantee,wordnet_synset,oewn-assure__2.32.03..,model_reviewed_pair
+assure,insure,wordnet_synset,oewn-assure__2.32.03..,model_reviewed_pair
+assure,secure,wordnet_synset,oewn-assure__2.32.03..,model_reviewed_pair
+seek,look for,wordnet_synset,oewn-seek__2.35.00..,double_korean_anchor
+seek,search,wordnet_synset,oewn-seek__2.35.00..,double_korean_anchor
+stock,inventory,wordnet_synset,oewn-stock__1.06.00..,double_korean_anchor
+acclaim,acclamation,wordnet_synset,oewn-acclaim__1.10.00..,monosemous_pair
+acclaim,eclat,wordnet_synset,oewn-acclaim__1.10.00..,monosemous_pair
+acclaim,plaudit,wordnet_synset,oewn-acclaim__1.10.00..,monosemous_pair
+acclaim,plaudits,wordnet_synset,oewn-acclaim__1.10.00..,monosemous_pair
+rating,evaluation,wordnet_synset,oewn-rating__1.09.00..,double_korean_anchor
+rating,valuation,wordnet_synset,oewn-rating__1.09.00..,double_korean_anchor
+encompass,comprehend,wordnet_synset,oewn-encompass__2.42.00..,model_reviewed_pair
+encompass,cover,wordnet_synset,oewn-encompass__2.42.00..,model_reviewed_pair
+encompass,embrace,wordnet_synset,oewn-encompass__2.42.00..,model_reviewed_pair
+reader,referee,wordnet_synset,oewn-reader__1.18.05..,double_korean_anchor
+reader,reviewer,wordnet_synset,oewn-reader__1.18.05..,double_korean_anchor
+excellently,famously,wordnet_synset,oewn-excellently__4.02.00..,monosemous_pair
+excellently,magnificently,wordnet_synset,oewn-excellently__4.02.00..,monosemous_pair
+excellently,splendidly,wordnet_synset,oewn-excellently__4.02.00..,monosemous_pair
+govern,rule,wordnet_synset,oewn-govern__2.41.00..,double_korean_anchor
+politics,government,wordnet_synset,oewn-politics__1.09.00..,double_korean_anchor
+politics,political science,wordnet_synset,oewn-politics__1.09.00..,double_korean_anchor
+salesperson,sales rep,wordnet_synset,oewn-salesperson__1.18.00..,monosemous_pair
+salesperson,sales representative,wordnet_synset,oewn-salesperson__1.18.00..,monosemous_pair
+stockroom,stock room,wordnet_synset,oewn-stockroom__1.06.00..,monosemous_pair
+storeroom,storage room,wordnet_synset,oewn-storeroom__1.06.00..,monosemous_pair
+storeroom,stowage,wordnet_synset,oewn-storeroom__1.06.00..,monosemous_pair
+correspond,agree,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+correspond,check,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+correspond,fit,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+correspond,gibe,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+correspond,jibe,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+correspond,match,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+correspond,tally,wordnet_synset,oewn-correspond__2.42.00..,double_korean_anchor
+depot,entrepot,wordnet_synset,oewn-depot__1.06.01..,double_korean_anchor
+depot,storage,wordnet_synset,oewn-depot__1.06.01..,double_korean_anchor
+depot,store,wordnet_synset,oewn-depot__1.06.01..,double_korean_anchor
+depot,storehouse,wordnet_synset,oewn-depot__1.06.01..,double_korean_anchor
+status,position,wordnet_synset,oewn-status__1.26.00..,double_korean_anchor
+wholesaler,jobber,wordnet_synset,oewn-wholesaler__1.18.00..,monosemous_pair

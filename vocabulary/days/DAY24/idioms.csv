@@ -1,0 +1,5 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+job title,compound_noun,C,"A specific designation of a post within an organization, normally associated with a job description that details the tasks and responsibilities that go with it.",kaikki,kaikki:job title:noun:0:7321:s0
+stand in for,phrasal_or_multiword_verb,C,To replace; to act as a double or substitute for.,kaikki,kaikki:stand in for:verb:0:1570:s0
+go forward,phrasal_or_multiword_verb,C,move ahead; travel onward in time or space,oewn,oewn-go_forward__2.38.00..
+run for,phrasal_or_multiword_verb,C,extend or continue for a certain period of time,oewn,oewn-run_for__2.42.00..

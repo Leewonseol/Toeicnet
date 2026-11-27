@@ -2,22 +2,281 @@
  "source_analysis": "full_v31r.jsonl",
  "rules": "v3.1",
  "counts": {
-  "vocabulary/headwords.csv": 5071,
-  "vocabulary/morphology/derivations.csv": 1383,
   "vocabulary/morphology/prefixes.csv": 224,
   "vocabulary/morphology/suffixes.csv": 973,
   "vocabulary/morphology/roots.csv": 1220,
-  "vocabulary/etymology/historical_roots.csv": 3237,
   "vocabulary/etymology/shared_origins.csv": 155,
-  "vocabulary/semantics/synonyms.csv": 1563,
-  "vocabulary/semantics/antonyms.csv": 105,
-  "vocabulary/semantics/themes.csv": 803,
-  "vocabulary/usage/collocations.csv": 5671,
-  "vocabulary/usage/colligations.csv": 12402,
-  "vocabulary/usage/idioms.csv": 289,
+  "vocabulary/days/DAY01/headwords.csv": 168,
+  "vocabulary/days/DAY01/derivations.csv": 43,
+  "vocabulary/days/DAY01/historical_roots.csv": 102,
+  "vocabulary/days/DAY01/synonyms.csv": 47,
+  "vocabulary/days/DAY01/antonyms.csv": 7,
+  "vocabulary/days/DAY01/themes.csv": 31,
+  "vocabulary/days/DAY01/collocations.csv": 159,
+  "vocabulary/days/DAY01/colligations.csv": 360,
+  "vocabulary/days/DAY01/idioms.csv": 12,
+  "vocabulary/days/DAY02/headwords.csv": 168,
+  "vocabulary/days/DAY02/derivations.csv": 44,
+  "vocabulary/days/DAY02/historical_roots.csv": 117,
+  "vocabulary/days/DAY02/synonyms.csv": 92,
+  "vocabulary/days/DAY02/antonyms.csv": 6,
+  "vocabulary/days/DAY02/themes.csv": 36,
+  "vocabulary/days/DAY02/collocations.csv": 253,
+  "vocabulary/days/DAY02/colligations.csv": 560,
+  "vocabulary/days/DAY02/idioms.csv": 13,
+  "vocabulary/days/DAY03/headwords.csv": 168,
+  "vocabulary/days/DAY03/derivations.csv": 35,
+  "vocabulary/days/DAY03/historical_roots.csv": 89,
+  "vocabulary/days/DAY03/synonyms.csv": 31,
+  "vocabulary/days/DAY03/antonyms.csv": 2,
+  "vocabulary/days/DAY03/themes.csv": 17,
+  "vocabulary/days/DAY03/collocations.csv": 127,
+  "vocabulary/days/DAY03/colligations.csv": 353,
+  "vocabulary/days/DAY03/idioms.csv": 11,
+  "vocabulary/days/DAY04/headwords.csv": 172,
+  "vocabulary/days/DAY04/derivations.csv": 53,
+  "vocabulary/days/DAY04/historical_roots.csv": 100,
+  "vocabulary/days/DAY04/synonyms.csv": 50,
+  "vocabulary/days/DAY04/antonyms.csv": 1,
+  "vocabulary/days/DAY04/themes.csv": 27,
+  "vocabulary/days/DAY04/collocations.csv": 120,
+  "vocabulary/days/DAY04/colligations.csv": 340,
+  "vocabulary/days/DAY04/idioms.csv": 8,
+  "vocabulary/days/DAY05/headwords.csv": 168,
+  "vocabulary/days/DAY05/derivations.csv": 57,
+  "vocabulary/days/DAY05/historical_roots.csv": 105,
+  "vocabulary/days/DAY05/synonyms.csv": 37,
+  "vocabulary/days/DAY05/antonyms.csv": 4,
+  "vocabulary/days/DAY05/themes.csv": 22,
+  "vocabulary/days/DAY05/collocations.csv": 161,
+  "vocabulary/days/DAY05/colligations.csv": 350,
+  "vocabulary/days/DAY05/idioms.csv": 8,
+  "vocabulary/days/DAY06/headwords.csv": 170,
+  "vocabulary/days/DAY06/derivations.csv": 30,
+  "vocabulary/days/DAY06/historical_roots.csv": 103,
+  "vocabulary/days/DAY06/synonyms.csv": 37,
+  "vocabulary/days/DAY06/antonyms.csv": 2,
+  "vocabulary/days/DAY06/themes.csv": 24,
+  "vocabulary/days/DAY06/collocations.csv": 190,
+  "vocabulary/days/DAY06/colligations.csv": 468,
+  "vocabulary/days/DAY06/idioms.csv": 12,
+  "vocabulary/days/DAY07/headwords.csv": 167,
+  "vocabulary/days/DAY07/derivations.csv": 42,
+  "vocabulary/days/DAY07/historical_roots.csv": 96,
+  "vocabulary/days/DAY07/synonyms.csv": 59,
+  "vocabulary/days/DAY07/antonyms.csv": 5,
+  "vocabulary/days/DAY07/themes.csv": 29,
+  "vocabulary/days/DAY07/collocations.csv": 194,
+  "vocabulary/days/DAY07/colligations.csv": 400,
+  "vocabulary/days/DAY07/idioms.csv": 18,
+  "vocabulary/days/DAY08/headwords.csv": 168,
+  "vocabulary/days/DAY08/derivations.csv": 43,
+  "vocabulary/days/DAY08/historical_roots.csv": 102,
+  "vocabulary/days/DAY08/synonyms.csv": 67,
+  "vocabulary/days/DAY08/antonyms.csv": 4,
+  "vocabulary/days/DAY08/themes.csv": 24,
+  "vocabulary/days/DAY08/collocations.csv": 188,
+  "vocabulary/days/DAY08/colligations.csv": 405,
+  "vocabulary/days/DAY08/idioms.csv": 8,
+  "vocabulary/days/DAY09/headwords.csv": 168,
+  "vocabulary/days/DAY09/derivations.csv": 52,
+  "vocabulary/days/DAY09/historical_roots.csv": 111,
+  "vocabulary/days/DAY09/synonyms.csv": 57,
+  "vocabulary/days/DAY09/antonyms.csv": 3,
+  "vocabulary/days/DAY09/themes.csv": 27,
+  "vocabulary/days/DAY09/collocations.csv": 203,
+  "vocabulary/days/DAY09/colligations.csv": 392,
+  "vocabulary/days/DAY09/idioms.csv": 10,
+  "vocabulary/days/DAY10/headwords.csv": 168,
+  "vocabulary/days/DAY10/derivations.csv": 56,
+  "vocabulary/days/DAY10/historical_roots.csv": 114,
+  "vocabulary/days/DAY10/synonyms.csv": 46,
+  "vocabulary/days/DAY10/themes.csv": 26,
+  "vocabulary/days/DAY10/collocations.csv": 222,
+  "vocabulary/days/DAY10/colligations.csv": 432,
+  "vocabulary/days/DAY10/idioms.csv": 6,
+  "vocabulary/days/DAY11/headwords.csv": 168,
+  "vocabulary/days/DAY11/derivations.csv": 61,
+  "vocabulary/days/DAY11/historical_roots.csv": 112,
+  "vocabulary/days/DAY11/synonyms.csv": 79,
+  "vocabulary/days/DAY11/antonyms.csv": 7,
+  "vocabulary/days/DAY11/themes.csv": 34,
+  "vocabulary/days/DAY11/collocations.csv": 234,
+  "vocabulary/days/DAY11/colligations.csv": 485,
+  "vocabulary/days/DAY11/idioms.csv": 8,
+  "vocabulary/days/DAY12/headwords.csv": 169,
+  "vocabulary/days/DAY12/derivations.csv": 51,
+  "vocabulary/days/DAY12/historical_roots.csv": 102,
+  "vocabulary/days/DAY12/synonyms.csv": 51,
+  "vocabulary/days/DAY12/antonyms.csv": 4,
+  "vocabulary/days/DAY12/themes.csv": 22,
+  "vocabulary/days/DAY12/collocations.csv": 199,
+  "vocabulary/days/DAY12/colligations.csv": 355,
+  "vocabulary/days/DAY12/idioms.csv": 8,
+  "vocabulary/days/DAY13/headwords.csv": 168,
+  "vocabulary/days/DAY13/derivations.csv": 40,
+  "vocabulary/days/DAY13/historical_roots.csv": 109,
+  "vocabulary/days/DAY13/synonyms.csv": 71,
+  "vocabulary/days/DAY13/antonyms.csv": 5,
+  "vocabulary/days/DAY13/themes.csv": 31,
+  "vocabulary/days/DAY13/collocations.csv": 162,
+  "vocabulary/days/DAY13/colligations.csv": 393,
+  "vocabulary/days/DAY13/idioms.csv": 4,
+  "vocabulary/days/DAY14/headwords.csv": 172,
+  "vocabulary/days/DAY14/derivations.csv": 55,
+  "vocabulary/days/DAY14/historical_roots.csv": 120,
+  "vocabulary/days/DAY14/synonyms.csv": 39,
+  "vocabulary/days/DAY14/antonyms.csv": 4,
+  "vocabulary/days/DAY14/themes.csv": 26,
+  "vocabulary/days/DAY14/collocations.csv": 225,
+  "vocabulary/days/DAY14/colligations.csv": 376,
+  "vocabulary/days/DAY14/idioms.csv": 9,
+  "vocabulary/days/DAY15/headwords.csv": 169,
+  "vocabulary/days/DAY15/derivations.csv": 42,
+  "vocabulary/days/DAY15/historical_roots.csv": 110,
+  "vocabulary/days/DAY15/synonyms.csv": 36,
+  "vocabulary/days/DAY15/antonyms.csv": 2,
+  "vocabulary/days/DAY15/themes.csv": 23,
+  "vocabulary/days/DAY15/collocations.csv": 181,
+  "vocabulary/days/DAY15/colligations.csv": 408,
+  "vocabulary/days/DAY15/idioms.csv": 9,
+  "vocabulary/days/DAY16/headwords.csv": 169,
+  "vocabulary/days/DAY16/derivations.csv": 49,
+  "vocabulary/days/DAY16/historical_roots.csv": 106,
+  "vocabulary/days/DAY16/synonyms.csv": 58,
+  "vocabulary/days/DAY16/antonyms.csv": 2,
+  "vocabulary/days/DAY16/themes.csv": 30,
+  "vocabulary/days/DAY16/collocations.csv": 233,
+  "vocabulary/days/DAY16/colligations.csv": 570,
+  "vocabulary/days/DAY16/idioms.csv": 12,
+  "vocabulary/days/DAY17/headwords.csv": 170,
+  "vocabulary/days/DAY17/derivations.csv": 38,
+  "vocabulary/days/DAY17/historical_roots.csv": 109,
+  "vocabulary/days/DAY17/synonyms.csv": 38,
+  "vocabulary/days/DAY17/antonyms.csv": 4,
+  "vocabulary/days/DAY17/themes.csv": 21,
+  "vocabulary/days/DAY17/collocations.csv": 181,
+  "vocabulary/days/DAY17/colligations.csv": 362,
+  "vocabulary/days/DAY17/idioms.csv": 9,
+  "vocabulary/days/DAY18/headwords.csv": 169,
+  "vocabulary/days/DAY18/derivations.csv": 42,
+  "vocabulary/days/DAY18/historical_roots.csv": 119,
+  "vocabulary/days/DAY18/synonyms.csv": 64,
+  "vocabulary/days/DAY18/antonyms.csv": 1,
+  "vocabulary/days/DAY18/themes.csv": 31,
+  "vocabulary/days/DAY18/collocations.csv": 113,
+  "vocabulary/days/DAY18/colligations.csv": 331,
+  "vocabulary/days/DAY18/idioms.csv": 5,
+  "vocabulary/days/DAY19/headwords.csv": 169,
+  "vocabulary/days/DAY19/derivations.csv": 43,
+  "vocabulary/days/DAY19/historical_roots.csv": 117,
+  "vocabulary/days/DAY19/synonyms.csv": 35,
+  "vocabulary/days/DAY19/antonyms.csv": 5,
+  "vocabulary/days/DAY19/themes.csv": 28,
+  "vocabulary/days/DAY19/collocations.csv": 256,
+  "vocabulary/days/DAY19/colligations.csv": 568,
+  "vocabulary/days/DAY19/idioms.csv": 5,
+  "vocabulary/days/DAY20/headwords.csv": 169,
+  "vocabulary/days/DAY20/derivations.csv": 46,
+  "vocabulary/days/DAY20/historical_roots.csv": 106,
+  "vocabulary/days/DAY20/synonyms.csv": 40,
+  "vocabulary/days/DAY20/antonyms.csv": 5,
+  "vocabulary/days/DAY20/themes.csv": 25,
+  "vocabulary/days/DAY20/collocations.csv": 222,
+  "vocabulary/days/DAY20/colligations.csv": 398,
+  "vocabulary/days/DAY20/idioms.csv": 11,
+  "vocabulary/days/DAY21/headwords.csv": 170,
+  "vocabulary/days/DAY21/derivations.csv": 50,
+  "vocabulary/days/DAY21/historical_roots.csv": 122,
+  "vocabulary/days/DAY21/synonyms.csv": 77,
+  "vocabulary/days/DAY21/antonyms.csv": 3,
+  "vocabulary/days/DAY21/themes.csv": 29,
+  "vocabulary/days/DAY21/collocations.csv": 222,
+  "vocabulary/days/DAY21/colligations.csv": 537,
+  "vocabulary/days/DAY21/idioms.csv": 6,
+  "vocabulary/days/DAY22/headwords.csv": 174,
+  "vocabulary/days/DAY22/derivations.csv": 33,
+  "vocabulary/days/DAY22/historical_roots.csv": 90,
+  "vocabulary/days/DAY22/synonyms.csv": 37,
+  "vocabulary/days/DAY22/antonyms.csv": 3,
+  "vocabulary/days/DAY22/themes.csv": 21,
+  "vocabulary/days/DAY22/collocations.csv": 176,
+  "vocabulary/days/DAY22/colligations.csv": 477,
+  "vocabulary/days/DAY22/idioms.csv": 16,
+  "vocabulary/days/DAY23/headwords.csv": 167,
+  "vocabulary/days/DAY23/derivations.csv": 37,
+  "vocabulary/days/DAY23/historical_roots.csv": 92,
+  "vocabulary/days/DAY23/synonyms.csv": 49,
+  "vocabulary/days/DAY23/antonyms.csv": 5,
+  "vocabulary/days/DAY23/themes.csv": 20,
+  "vocabulary/days/DAY23/collocations.csv": 159,
+  "vocabulary/days/DAY23/colligations.csv": 394,
+  "vocabulary/days/DAY23/idioms.csv": 14,
+  "vocabulary/days/DAY24/headwords.csv": 169,
+  "vocabulary/days/DAY24/derivations.csv": 53,
+  "vocabulary/days/DAY24/historical_roots.csv": 115,
+  "vocabulary/days/DAY24/synonyms.csv": 43,
+  "vocabulary/days/DAY24/antonyms.csv": 2,
+  "vocabulary/days/DAY24/themes.csv": 20,
+  "vocabulary/days/DAY24/collocations.csv": 144,
+  "vocabulary/days/DAY24/colligations.csv": 448,
+  "vocabulary/days/DAY24/idioms.csv": 4,
+  "vocabulary/days/DAY25/headwords.csv": 168,
+  "vocabulary/days/DAY25/derivations.csv": 39,
+  "vocabulary/days/DAY25/historical_roots.csv": 96,
+  "vocabulary/days/DAY25/synonyms.csv": 48,
+  "vocabulary/days/DAY25/antonyms.csv": 2,
+  "vocabulary/days/DAY25/themes.csv": 23,
+  "vocabulary/days/DAY25/collocations.csv": 176,
+  "vocabulary/days/DAY25/colligations.csv": 391,
+  "vocabulary/days/DAY25/idioms.csv": 13,
+  "vocabulary/days/DAY26/headwords.csv": 170,
+  "vocabulary/days/DAY26/derivations.csv": 37,
+  "vocabulary/days/DAY26/historical_roots.csv": 91,
+  "vocabulary/days/DAY26/synonyms.csv": 28,
+  "vocabulary/days/DAY26/antonyms.csv": 4,
+  "vocabulary/days/DAY26/themes.csv": 24,
+  "vocabulary/days/DAY26/collocations.csv": 198,
+  "vocabulary/days/DAY26/colligations.csv": 371,
+  "vocabulary/days/DAY26/idioms.csv": 16,
+  "vocabulary/days/DAY27/headwords.csv": 168,
+  "vocabulary/days/DAY27/derivations.csv": 57,
+  "vocabulary/days/DAY27/historical_roots.csv": 113,
+  "vocabulary/days/DAY27/synonyms.csv": 53,
+  "vocabulary/days/DAY27/antonyms.csv": 2,
+  "vocabulary/days/DAY27/themes.csv": 32,
+  "vocabulary/days/DAY27/collocations.csv": 187,
+  "vocabulary/days/DAY27/colligations.csv": 375,
+  "vocabulary/days/DAY27/idioms.csv": 8,
+  "vocabulary/days/DAY28/headwords.csv": 168,
+  "vocabulary/days/DAY28/derivations.csv": 58,
+  "vocabulary/days/DAY28/historical_roots.csv": 121,
+  "vocabulary/days/DAY28/synonyms.csv": 80,
+  "vocabulary/days/DAY28/antonyms.csv": 4,
+  "vocabulary/days/DAY28/themes.csv": 36,
+  "vocabulary/days/DAY28/collocations.csv": 143,
+  "vocabulary/days/DAY28/colligations.csv": 336,
+  "vocabulary/days/DAY28/idioms.csv": 9,
+  "vocabulary/days/DAY29/headwords.csv": 171,
+  "vocabulary/days/DAY29/derivations.csv": 53,
+  "vocabulary/days/DAY29/historical_roots.csv": 130,
+  "vocabulary/days/DAY29/synonyms.csv": 65,
+  "vocabulary/days/DAY29/antonyms.csv": 2,
+  "vocabulary/days/DAY29/themes.csv": 37,
+  "vocabulary/days/DAY29/collocations.csv": 210,
+  "vocabulary/days/DAY29/colligations.csv": 444,
+  "vocabulary/days/DAY29/idioms.csv": 5,
+  "vocabulary/days/DAY30/headwords.csv": 169,
+  "vocabulary/days/DAY30/derivations.csv": 44,
+  "vocabulary/days/DAY30/historical_roots.csv": 118,
+  "vocabulary/days/DAY30/synonyms.csv": 49,
+  "vocabulary/days/DAY30/antonyms.csv": 5,
+  "vocabulary/days/DAY30/themes.csv": 27,
+  "vocabulary/days/DAY30/collocations.csv": 233,
+  "vocabulary/days/DAY30/colligations.csv": 323,
+  "vocabulary/days/DAY30/idioms.csv": 12,
   "vocabulary/review/model_review.jsonl": 174,
   "vocabulary/review/gold_sample_and_holdout.jsonl": 140,
-  "vocabulary/review/pending.csv": 3295,
   "csv/headwords.csv": 5071,
   "csv/morphology/derivations.csv": 1383,
   "csv/morphology/prefixes.csv": 224,
@@ -36,45 +295,1229 @@
   "toeicnet_rebuild_v2.apkg:notes": 1776,
   "lexicon/kaikki_targets.jsonl.gz": {
    "parts": 2,
-   "sha256_joined": "c6358e7b8a838e8073956b661e3deb94c2247b934d213a7009ad365840c301b8"
+   "sha256_joined": "e6b90117bd8a8b746ca57dae4b600c4b322406d4ddfb0d61c2e6eefd2684081c"
   },
   "lexicon/kaikki_korean.jsonl.gz": {
    "parts": 1,
-   "sha256_joined": "289bbb674844c923b94acd47c5e2f84bf855c3ca2e8fffb202bf7d2d07883aa1"
+   "sha256_joined": "c5c0fcacae20e80ce0673c872cf458c82a6cf3039988e6648c96cf17d050e632"
   },
   "lexicon/wordnet_targets.json.gz": {
    "parts": 1,
-   "sha256_joined": "4fc75baa5689f0f772c06a8e9d97acee930ef4a63bb9df54a4366c93e29d69ad"
+   "sha256_joined": "2c9accaea0a95db0a8907040fed9b08b4ef3b95b463d67d1a92869a12bccf72f"
   },
   "lexicon/gcide_targets.jsonl.gz": {
    "parts": 1,
-   "sha256_joined": "fd80536ff579071574ab83c2a5051e26a0ed3fff5842d03ae82e53d23ec880b5"
+   "sha256_joined": "30b1acc5231b1c1154d60da44cf6219d8ee8022ed3126ba3bf6b59a06f09a933"
   },
   "lexicon/oanc_usage.jsonl.gz": {
    "parts": 2,
-   "sha256_joined": "f54e1e1e7363243e9873ed49e17adb020914592e8a127a91fe6436125d6c138f"
+   "sha256_joined": "5f41b5f3346548450ed06050487e054b4ade24457e9ca75508668b5a886d0b35"
   }
  },
  "files": {
   "vocabulary/README.md": {
-   "bytes": 1196,
-   "sha256": "6ca6913e44fed5b7eff7a4190cd8233ca4307534d5752d3bf21e3f4ea23cd65b"
+   "bytes": 12574,
+   "sha256": "d8f0321f8ca223d6ae803dc37fe58774f278457759ab50f2bd9e700b653c6032"
   },
-  "vocabulary/etymology/historical_roots.csv": {
-   "bytes": 232019,
-   "sha256": "ec55029a8a5e5b32eb3365fac46b4fd9599fe1af543ea23cb812044d0a429e80"
+  "vocabulary/days/DAY01/antonyms.csv": {
+   "bytes": 615,
+   "sha256": "d5f58bcb71ec5917ab58265a516c61e3cea131e1132285a56942fc348816ebdd"
+  },
+  "vocabulary/days/DAY01/colligations.csv": {
+   "bytes": 43681,
+   "sha256": "f20cadda030bd839aa86b3da31934b3afa364d0d72e9466aa771ab709a8a8dd7"
+  },
+  "vocabulary/days/DAY01/collocations.csv": {
+   "bytes": 21637,
+   "sha256": "867443a2109068820742b619922a0b99c5eb8e72b651b26b117e3c6ca929b1a8"
+  },
+  "vocabulary/days/DAY01/derivations.csv": {
+   "bytes": 3332,
+   "sha256": "4f191478e22ae905824bfd18e404f48e57e1b0942b2a5ef368702dcefef257b9"
+  },
+  "vocabulary/days/DAY01/headwords.csv": {
+   "bytes": 26720,
+   "sha256": "1cfe6fc8a6c334e6470675aaa0db4aab05ef8075310ac663abe0096c24defc2f"
+  },
+  "vocabulary/days/DAY01/historical_roots.csv": {
+   "bytes": 7500,
+   "sha256": "d6b7871b8610f2a2e3250acaa8b201e30b6cd3ab946e762e6c5645994e8c2181"
+  },
+  "vocabulary/days/DAY01/idioms.csv": {
+   "bytes": 2187,
+   "sha256": "512a58c0481da51178808094f2a27ab447e6868c6dd20d8ab7cea11ec9c51b0d"
+  },
+  "vocabulary/days/DAY01/pending.csv": {
+   "bytes": 6378,
+   "sha256": "5aba9a7bc0b3ca66a40fdf6e32686d3d76f287cfd875ae195608e580ae29fd2d"
+  },
+  "vocabulary/days/DAY01/synonyms.csv": {
+   "bytes": 3792,
+   "sha256": "ced0e009ff37cc638ec4683a831015478d14ef269dfc972398447b021b69438c"
+  },
+  "vocabulary/days/DAY01/themes.csv": {
+   "bytes": 2167,
+   "sha256": "2fa23e3ebbb446072246de5773f2a29f74775cf2632a46915da7305bf0a9c489"
+  },
+  "vocabulary/days/DAY02/antonyms.csv": {
+   "bytes": 517,
+   "sha256": "01ce7905d3cc81b19d1e583083bf8d1ae5919c482615ec5cc0ea27b2a6b1651f"
+  },
+  "vocabulary/days/DAY02/colligations.csv": {
+   "bytes": 66095,
+   "sha256": "e03e9a0dd046a633d0e004c0078cb243dc07bd7bfc730ff89c39e85618d0317c"
+  },
+  "vocabulary/days/DAY02/collocations.csv": {
+   "bytes": 33737,
+   "sha256": "f516d87f1a2f91cc084ff17efe3f103744e2675f8585d9eec97c21241e5cff3e"
+  },
+  "vocabulary/days/DAY02/derivations.csv": {
+   "bytes": 3508,
+   "sha256": "98544d536947f04bb8c526a39419482ccfaf9b53fda98eb2f926831e0fcbdbb8"
+  },
+  "vocabulary/days/DAY02/headwords.csv": {
+   "bytes": 26238,
+   "sha256": "5b563cac4816d446bf9d9b06ebd8c6b3b44190e44f150ddaeed71301e74e5cdd"
+  },
+  "vocabulary/days/DAY02/historical_roots.csv": {
+   "bytes": 8479,
+   "sha256": "e888d79da15c13a17b0309ef3b3927c2b777aefd29f77abe9583b27e87492393"
+  },
+  "vocabulary/days/DAY02/idioms.csv": {
+   "bytes": 1645,
+   "sha256": "d9c376bcdfab17fca97c34643e208a4ecf2f12fddc77806b9cd21781ba760de3"
+  },
+  "vocabulary/days/DAY02/pending.csv": {
+   "bytes": 8302,
+   "sha256": "dcecbe23d053dea14f5c294ad2d9e4c839d3aeb76e80d128174fb352ffc16f90"
+  },
+  "vocabulary/days/DAY02/synonyms.csv": {
+   "bytes": 7087,
+   "sha256": "eec00c21baa2bc76415f358759bb300443052da3cd3da60828edccde9d566dfa"
+  },
+  "vocabulary/days/DAY02/themes.csv": {
+   "bytes": 2417,
+   "sha256": "fc3f52cd04b8a2e42a3b12b54b63f1920d76be221c1981e9f15b2103774010fe"
+  },
+  "vocabulary/days/DAY03/antonyms.csv": {
+   "bytes": 238,
+   "sha256": "f00264975715b61bc872feb443e8af265a671de48bf3e3d8f4249a9cda57125d"
+  },
+  "vocabulary/days/DAY03/colligations.csv": {
+   "bytes": 41719,
+   "sha256": "2e8a9892a350394055b65085c583aa72bacd6f9ba341345219dd70e6bd104bfc"
+  },
+  "vocabulary/days/DAY03/collocations.csv": {
+   "bytes": 16438,
+   "sha256": "7213596bda0bbe513e7a9a44b2d022de0cf16f482e78978fc42cefe36b28c9b4"
+  },
+  "vocabulary/days/DAY03/derivations.csv": {
+   "bytes": 2751,
+   "sha256": "d462b3612a36c12ef303fec49b810ada7c9b53df7ae7929427f8a07fd39f06cf"
+  },
+  "vocabulary/days/DAY03/headwords.csv": {
+   "bytes": 24060,
+   "sha256": "678a332cc60bfc1572d607a0814c1d1df57f6a4592b5a37d8f60d5ba80f13031"
+  },
+  "vocabulary/days/DAY03/historical_roots.csv": {
+   "bytes": 6480,
+   "sha256": "11cb2f4840fd314334abf56edbcb4b7aa632d269897f68fb69c66b04a4fd3b6e"
+  },
+  "vocabulary/days/DAY03/idioms.csv": {
+   "bytes": 1726,
+   "sha256": "0c9de7c2aac822f29a8c4683ae58a625b7ed9b315d45e14f7d0c4bee76a51e52"
+  },
+  "vocabulary/days/DAY03/pending.csv": {
+   "bytes": 9483,
+   "sha256": "decfce424a7d0e8367e98e465dd288f4aec0d7b913be4ab7f4a10d5e81028244"
+  },
+  "vocabulary/days/DAY03/synonyms.csv": {
+   "bytes": 2549,
+   "sha256": "3145ef3d606626437ab66e82bc5835da3e43a40a7540ecc46f816c3e21517574"
+  },
+  "vocabulary/days/DAY03/themes.csv": {
+   "bytes": 1217,
+   "sha256": "f440f4db93f3913e9b6c2d34506a6c2867b7e2c715bba9d2f4f12ecb3b379676"
+  },
+  "vocabulary/days/DAY04/antonyms.csv": {
+   "bytes": 139,
+   "sha256": "e64a83fcbd9ac1cfa7b82f39df89ac4024b36b595b63a51eee02019133cdcf94"
+  },
+  "vocabulary/days/DAY04/colligations.csv": {
+   "bytes": 40065,
+   "sha256": "4560d7e6c62ef18e090d6782e969dccea3ce87db898b6ba61e562e4660e4f45f"
+  },
+  "vocabulary/days/DAY04/collocations.csv": {
+   "bytes": 15606,
+   "sha256": "bf7738c0736e47f904b1eb7adcb96dbf87f6474d0819ded02fdaaaaaa4a45169"
+  },
+  "vocabulary/days/DAY04/derivations.csv": {
+   "bytes": 4246,
+   "sha256": "12f4d708c475802ed3101c3e06113dbcc108676e8a8d046836d639dc74e55f20"
+  },
+  "vocabulary/days/DAY04/headwords.csv": {
+   "bytes": 25311,
+   "sha256": "22d3a8df055ad78972f5375cd017539c348ec0979b754c6b982200fc8505df73"
+  },
+  "vocabulary/days/DAY04/historical_roots.csv": {
+   "bytes": 7241,
+   "sha256": "67db410c3e0c5968e3507566d7f90c6bf5249123f7220bf33a7c21f99ac543b4"
+  },
+  "vocabulary/days/DAY04/idioms.csv": {
+   "bytes": 1016,
+   "sha256": "31181987f37ef0ef320a376c76bb613466f1f434b048e9c4b14f28b9ae2fa6a1"
+  },
+  "vocabulary/days/DAY04/pending.csv": {
+   "bytes": 8809,
+   "sha256": "0940121adaf384c42ff2d85fe126be6263df2a4a3055e6c7065430d1e4455fef"
+  },
+  "vocabulary/days/DAY04/synonyms.csv": {
+   "bytes": 4133,
+   "sha256": "3a65e920cce1438eb83ee6b40bd30b5c93477f5c267b3f1a1dd630015180ea9e"
+  },
+  "vocabulary/days/DAY04/themes.csv": {
+   "bytes": 1911,
+   "sha256": "826a4f51f3d4b51904f495efe1856290e185527a1b9652a96e4915288c55c2f6"
+  },
+  "vocabulary/days/DAY05/antonyms.csv": {
+   "bytes": 378,
+   "sha256": "ec35c9f414698c3fe67f3077ddd7a981e084899ff7e505c3806c665fee0278d8"
+  },
+  "vocabulary/days/DAY05/colligations.csv": {
+   "bytes": 42549,
+   "sha256": "9cfd1d9c0e33adc08d77fb0d925efd9f203a99061f1f1904321f0af1e0a975b7"
+  },
+  "vocabulary/days/DAY05/collocations.csv": {
+   "bytes": 21845,
+   "sha256": "18679b73acbbe9a8df52651a9a089d22018eb4e6cfb0c61688a5dc4c2db9e399"
+  },
+  "vocabulary/days/DAY05/derivations.csv": {
+   "bytes": 4508,
+   "sha256": "2653f371724a6c2291a1fdcecd80b2d568bd33c5bd55e1b1912b21f862907fb7"
+  },
+  "vocabulary/days/DAY05/headwords.csv": {
+   "bytes": 24328,
+   "sha256": "1d404c6c5c0bb5120714f2cb413651eeb8da8d4523cec65a030434a3963acbfb"
+  },
+  "vocabulary/days/DAY05/historical_roots.csv": {
+   "bytes": 7740,
+   "sha256": "d346915632e6f5d0e4826b43ae77b23342e34eec14e6d8cd12faa835250dcc51"
+  },
+  "vocabulary/days/DAY05/idioms.csv": {
+   "bytes": 1355,
+   "sha256": "1dceed460029dca68b5b8f3426adca4cb2ba12f6eaf556851457af3b0f249a48"
+  },
+  "vocabulary/days/DAY05/pending.csv": {
+   "bytes": 9204,
+   "sha256": "e197a9b26ab094b810b33e5aaf2c855e8c3873a7937ed636384f41c81ef0e5f5"
+  },
+  "vocabulary/days/DAY05/synonyms.csv": {
+   "bytes": 2985,
+   "sha256": "d5c3e55f81423214d048e9994fa28e04a5bfeaf5da05b35c159a4fb1760447d1"
+  },
+  "vocabulary/days/DAY05/themes.csv": {
+   "bytes": 1558,
+   "sha256": "1d5ebc7c533a81fdc7c06d63971b95a7a175de7bf76005e4158d170b67169252"
+  },
+  "vocabulary/days/DAY06/antonyms.csv": {
+   "bytes": 221,
+   "sha256": "4b04c6dcce08c3869e9b19fbb1d77e889234e38e28279d385a3b6973332e52d2"
+  },
+  "vocabulary/days/DAY06/colligations.csv": {
+   "bytes": 55108,
+   "sha256": "839db78350ff47c177ed560977e42261e771832ca5c944cd9009f933644a8845"
+  },
+  "vocabulary/days/DAY06/collocations.csv": {
+   "bytes": 24428,
+   "sha256": "2021fff7b97f088cb9de8f2b90db38e6dc462c1016db2337e3996582eff93774"
+  },
+  "vocabulary/days/DAY06/derivations.csv": {
+   "bytes": 2401,
+   "sha256": "f78a944d884e7be937dfab11d1358e3cb97896372e9e7c13dcfd37816cda1c95"
+  },
+  "vocabulary/days/DAY06/headwords.csv": {
+   "bytes": 26667,
+   "sha256": "d48bc177ebc78e53d8190104b69bb258ec3935362140525ca472798176bce48a"
+  },
+  "vocabulary/days/DAY06/historical_roots.csv": {
+   "bytes": 7341,
+   "sha256": "efa378e4dc3d58391b82175f6380291e16796f53a40a5e94a1c2cbbded5835d9"
+  },
+  "vocabulary/days/DAY06/idioms.csv": {
+   "bytes": 1884,
+   "sha256": "f2693d29a931b9ca4a892efc892d9cd6f2fde152b69b914c42e5b706580384a4"
+  },
+  "vocabulary/days/DAY06/pending.csv": {
+   "bytes": 7786,
+   "sha256": "756b007af1ddd4c6ca8edc2c60cae3449a22e89a4c6a1780e0e46fa232c4ee8d"
+  },
+  "vocabulary/days/DAY06/synonyms.csv": {
+   "bytes": 3026,
+   "sha256": "bb020aa21a3488c1f621aad869809f50988a4e6bf671720c2102a98e917d0fe9"
+  },
+  "vocabulary/days/DAY06/themes.csv": {
+   "bytes": 1663,
+   "sha256": "3a2ab1c224db1f584eee43f12153b6c778cfe90891320736e3b0e13277ea213b"
+  },
+  "vocabulary/days/DAY07/antonyms.csv": {
+   "bytes": 460,
+   "sha256": "5b5489948be17d5545dcabe7561ffc8db61a8938b11ca75ff50b24c940a60659"
+  },
+  "vocabulary/days/DAY07/colligations.csv": {
+   "bytes": 48349,
+   "sha256": "c8e679c4a7deb6ace37fb3e9d9f0b25ec3a226d519c49e72769201b1d8bd7576"
+  },
+  "vocabulary/days/DAY07/collocations.csv": {
+   "bytes": 25966,
+   "sha256": "2658811edf93877a5e147c6b40f1ef68eae4b5824062fa22ad5633b8e8a0386e"
+  },
+  "vocabulary/days/DAY07/derivations.csv": {
+   "bytes": 3362,
+   "sha256": "0f19e5e086c5e36d02354b1a24a222f04f11d254b8fb52749440e71d3c299920"
+  },
+  "vocabulary/days/DAY07/headwords.csv": {
+   "bytes": 26044,
+   "sha256": "65d75db53c6f3c9f459f893da9e843b671d96a322ea75874dc87829c05d62b68"
+  },
+  "vocabulary/days/DAY07/historical_roots.csv": {
+   "bytes": 7059,
+   "sha256": "9d1140cb4cb32d31b66715e6dac2e352217eb76a8a576777c34709c8de16db28"
+  },
+  "vocabulary/days/DAY07/idioms.csv": {
+   "bytes": 2969,
+   "sha256": "368d083b78ab2b9b8547f1a3790e21d70baefa152462d56184b689f6acc1ab10"
+  },
+  "vocabulary/days/DAY07/pending.csv": {
+   "bytes": 7329,
+   "sha256": "dd2433f65637d440f3f59287989ffca0b91552ebd2105bc85963632f0cc59839"
+  },
+  "vocabulary/days/DAY07/synonyms.csv": {
+   "bytes": 4727,
+   "sha256": "7f81e911acfb3c379ca25da2a43d82f5ebda1507bd420c598872062883a97eeb"
+  },
+  "vocabulary/days/DAY07/themes.csv": {
+   "bytes": 2014,
+   "sha256": "3c93be5b8f4f1d3807115eae2f597e46ecb16d6431577747986079232291cd07"
+  },
+  "vocabulary/days/DAY08/antonyms.csv": {
+   "bytes": 396,
+   "sha256": "ba36b3b91d8d2395f80ca4f8bb871d40c1521e7eb47ef8f606c2a44218157362"
+  },
+  "vocabulary/days/DAY08/colligations.csv": {
+   "bytes": 48435,
+   "sha256": "206b1fb8a37deac300f442b4fba65895e2eb2854e8ce3806d41bebbb72b372bf"
+  },
+  "vocabulary/days/DAY08/collocations.csv": {
+   "bytes": 25304,
+   "sha256": "5efec8563b2aa3c4116530deaae0dfc70148228f30a1505a3c537c9a19624ed4"
+  },
+  "vocabulary/days/DAY08/derivations.csv": {
+   "bytes": 3379,
+   "sha256": "106fa9889250b0fabba161a34208d421104a5c5fab04e60cabc0aa18c0e60630"
+  },
+  "vocabulary/days/DAY08/headwords.csv": {
+   "bytes": 24984,
+   "sha256": "173061fd4c2d5bc146af362b4069a6a673c4f6d6ff6e5021a067ba6d4b147dc9"
+  },
+  "vocabulary/days/DAY08/historical_roots.csv": {
+   "bytes": 7350,
+   "sha256": "dcefeaf99fdc27c440922a689b97f9bf0402a3d50101dd9131532d64bd9347c9"
+  },
+  "vocabulary/days/DAY08/idioms.csv": {
+   "bytes": 1076,
+   "sha256": "50ad9f213ed72ed5c1dd2910eb32dca5785156c4d1596c427658a5ff19f7d01f"
+  },
+  "vocabulary/days/DAY08/pending.csv": {
+   "bytes": 8189,
+   "sha256": "1a40370a2eea508d5c818b7f9bebb0f72cca13e6b281c11d7e08c943cab96df3"
+  },
+  "vocabulary/days/DAY08/synonyms.csv": {
+   "bytes": 5415,
+   "sha256": "20591f1aedba20df34910a057e2ebf6fe178b7b29fc54878412f0e0c904e6a5b"
+  },
+  "vocabulary/days/DAY08/themes.csv": {
+   "bytes": 1712,
+   "sha256": "06675439780a2c82bd3017a5fee1a4360309ea2fec6a33475245159f0765950a"
+  },
+  "vocabulary/days/DAY09/antonyms.csv": {
+   "bytes": 308,
+   "sha256": "4d7cc1025d680d445564f03c73f604ca58bb82c106d1b22b63b1fdafe621d657"
+  },
+  "vocabulary/days/DAY09/colligations.csv": {
+   "bytes": 46607,
+   "sha256": "0b79a4e69a5b980f3c5723cc7d288a221aa21d8877071ebd74db5015c17cb162"
+  },
+  "vocabulary/days/DAY09/collocations.csv": {
+   "bytes": 27397,
+   "sha256": "49fe133a889f4ad56e5112688f5e6628f219b9630a63b90e26cd3266dff41997"
+  },
+  "vocabulary/days/DAY09/derivations.csv": {
+   "bytes": 4082,
+   "sha256": "500e092df38fd746938a6bfb803c13bfd81b9d00895e79d378a7bcb2aef1e044"
+  },
+  "vocabulary/days/DAY09/headwords.csv": {
+   "bytes": 24882,
+   "sha256": "1a60037634acbd8d9f2af1e89d2252ac6de67afda542c9a68d7cea70e863af2f"
+  },
+  "vocabulary/days/DAY09/historical_roots.csv": {
+   "bytes": 8105,
+   "sha256": "9495d410ddc6340402ca554ae00095a7497b5a64962182d2342976f8caccf602"
+  },
+  "vocabulary/days/DAY09/idioms.csv": {
+   "bytes": 1670,
+   "sha256": "2a0b9dc96fc178474d55a1e80c91158c4fca921a2e39895de993dd7b7d684eb9"
+  },
+  "vocabulary/days/DAY09/pending.csv": {
+   "bytes": 8873,
+   "sha256": "a835fc7058a515fd6fc4a1e51051b7facfaa88b6183db4d08d7641bf12b29e37"
+  },
+  "vocabulary/days/DAY09/synonyms.csv": {
+   "bytes": 4731,
+   "sha256": "66d3cd25a18d161fb34384ea0a5d088153a081daf37364921ed37f41ee4db48e"
+  },
+  "vocabulary/days/DAY09/themes.csv": {
+   "bytes": 1933,
+   "sha256": "53859bd76f93703d531f392817df120947178b076342071c4b455a07c5a3ac4e"
+  },
+  "vocabulary/days/DAY10/colligations.csv": {
+   "bytes": 49379,
+   "sha256": "1d919fe206a62432c85a54af437cda6cce6a188e06433c2b4033232a8a016cfa"
+  },
+  "vocabulary/days/DAY10/collocations.csv": {
+   "bytes": 28087,
+   "sha256": "fefe92e3e82df3a77c220994a995df87707408b13773f71131fd9faee1401760"
+  },
+  "vocabulary/days/DAY10/derivations.csv": {
+   "bytes": 4322,
+   "sha256": "df907d4fdc33adc20d3ddc383576ba1d0642cdd8df859d2e962d0188aabcb40a"
+  },
+  "vocabulary/days/DAY10/headwords.csv": {
+   "bytes": 26111,
+   "sha256": "75697a3769cb1912f9d64b0fc34dd169089f1144e31f043c55190f8bd5033c9b"
+  },
+  "vocabulary/days/DAY10/historical_roots.csv": {
+   "bytes": 8169,
+   "sha256": "8c7f69ed6da68e3147fb3767f5bf73a35b734b2145e195d4ed44ba18d6bfb272"
+  },
+  "vocabulary/days/DAY10/idioms.csv": {
+   "bytes": 1015,
+   "sha256": "6d766fa5397ecf764438af1e560be6df71fd22436d005fbcd6cfd21d40dec0d0"
+  },
+  "vocabulary/days/DAY10/pending.csv": {
+   "bytes": 8300,
+   "sha256": "b198738ec1ba12f2bb2a06045e26331b4f84b46e80028f97de89f04a3f523185"
+  },
+  "vocabulary/days/DAY10/synonyms.csv": {
+   "bytes": 3577,
+   "sha256": "fd070ce1c6a0b2d417bf89555f52b213ebb5532ab9cce363891217d6fb7fed6e"
+  },
+  "vocabulary/days/DAY10/themes.csv": {
+   "bytes": 1848,
+   "sha256": "0001ed54b7631743ca600406ca922f76b50369df6ebfa153995c80b69292e7bf"
+  },
+  "vocabulary/days/DAY11/antonyms.csv": {
+   "bytes": 587,
+   "sha256": "ce002ce3c3eff990a2b99a5f316e6ff15c52b594a620c1595023f15186c993dd"
+  },
+  "vocabulary/days/DAY11/colligations.csv": {
+   "bytes": 58641,
+   "sha256": "93a109ab7e13d346effc6a8b35588088eef9cd2236e64171e75c2357518b6033"
+  },
+  "vocabulary/days/DAY11/collocations.csv": {
+   "bytes": 32248,
+   "sha256": "fe6ba99cdb7f7214bc4ff70878dfa4be821a080cc5809497ea95f8eaa2cbfc30"
+  },
+  "vocabulary/days/DAY11/derivations.csv": {
+   "bytes": 4911,
+   "sha256": "513335e9074014cf050fa937cbe2ed2f494b237360caba0153566e38964ede03"
+  },
+  "vocabulary/days/DAY11/headwords.csv": {
+   "bytes": 26720,
+   "sha256": "11494fc5a6a1a87f57ab92aab5afc3d5d184efb9280d319efec0dcd77517c6d5"
+  },
+  "vocabulary/days/DAY11/historical_roots.csv": {
+   "bytes": 8180,
+   "sha256": "1f471e746d9c4ff1e7532a6cf054ee83c0d6ead411b2838fbfbd733ef54acf81"
+  },
+  "vocabulary/days/DAY11/idioms.csv": {
+   "bytes": 1298,
+   "sha256": "ca3a7c03720517eedd6da380ce4e65b685304cc35d723a59dcd886d08ebb136e"
+  },
+  "vocabulary/days/DAY11/pending.csv": {
+   "bytes": 7732,
+   "sha256": "3ee4ea5ceb754d78a72a8961f64f1d906eb66b02e3032d024d4f4a449029a07a"
+  },
+  "vocabulary/days/DAY11/synonyms.csv": {
+   "bytes": 6430,
+   "sha256": "fcc95487789f0146c36c76039967725af37614265dc45d5e1ad6bbca2d236a3e"
+  },
+  "vocabulary/days/DAY11/themes.csv": {
+   "bytes": 2410,
+   "sha256": "b69130d3f5637d410b29009fafa2e2c88047bb2f194908377d9ea0f73576cff0"
+  },
+  "vocabulary/days/DAY12/antonyms.csv": {
+   "bytes": 395,
+   "sha256": "80817497a23150f5623575068e904d79a7ab1b0cfe8b1f34cd43fb19dfa4b7b4"
+  },
+  "vocabulary/days/DAY12/colligations.csv": {
+   "bytes": 42317,
+   "sha256": "b2e84f0b53d2477c469005c6d5acca64e5cf43817904c12f1a5d022608280b2c"
+  },
+  "vocabulary/days/DAY12/collocations.csv": {
+   "bytes": 26329,
+   "sha256": "5b0d0d9aa5fa7776419be80094392c7fe8413b6c35f1ee7c891fd8b0ee9f64a9"
+  },
+  "vocabulary/days/DAY12/derivations.csv": {
+   "bytes": 4187,
+   "sha256": "48773ba5c00d657ceca40c87198bb5cd76c75880993cd04be68a019175fd957e"
+  },
+  "vocabulary/days/DAY12/headwords.csv": {
+   "bytes": 25049,
+   "sha256": "62d9b0353adf841a60bd65314957379242ec8c7576879be3ab0f4fb60c64fb4b"
+  },
+  "vocabulary/days/DAY12/historical_roots.csv": {
+   "bytes": 7442,
+   "sha256": "4f8d38cb5e96c8a40c1a4cd221a8fc23592e800fc92e779f721efff9d901f485"
+  },
+  "vocabulary/days/DAY12/idioms.csv": {
+   "bytes": 1295,
+   "sha256": "84ef02e785b042828d309c50ae6518fa872d1c62144e6f6be7268e28649aaa7d"
+  },
+  "vocabulary/days/DAY12/pending.csv": {
+   "bytes": 7972,
+   "sha256": "69cb7403ac984cf7ef35931053d9e2c172ac23ddc6b0da17df66fd2657339470"
+  },
+  "vocabulary/days/DAY12/synonyms.csv": {
+   "bytes": 3922,
+   "sha256": "9ebec066c3b4bc569191a1e0951104a69851f4bbfba0239564fdcc0cbcb89c73"
+  },
+  "vocabulary/days/DAY12/themes.csv": {
+   "bytes": 1491,
+   "sha256": "c743b3eb8349eab0472f1ba15b3ef226617ca81f90744e5e8e88015e9d2223b5"
+  },
+  "vocabulary/days/DAY13/antonyms.csv": {
+   "bytes": 479,
+   "sha256": "4cdc648c3c569df6a23a3ac58f38857f011c19eb0aba1f51dd7a8aa9d2323bba"
+  },
+  "vocabulary/days/DAY13/colligations.csv": {
+   "bytes": 47906,
+   "sha256": "b21f5b21251c35c82a5a492b702722b64e4cf829dc2bee22024a8199e0eabeb4"
+  },
+  "vocabulary/days/DAY13/collocations.csv": {
+   "bytes": 21482,
+   "sha256": "0e0eb853e2ee970406b9a6c53925b5d62388a600869ea1657df5f81e198f0940"
+  },
+  "vocabulary/days/DAY13/derivations.csv": {
+   "bytes": 3196,
+   "sha256": "a7a5391babd7211e939cae10ecd85d87502022cc21be9993ab6cf917ce521ee9"
+  },
+  "vocabulary/days/DAY13/headwords.csv": {
+   "bytes": 24814,
+   "sha256": "492d7797f273908804ac2cccbf70dfae345b9130ad43f4f1233010f7aedea9e6"
+  },
+  "vocabulary/days/DAY13/historical_roots.csv": {
+   "bytes": 7909,
+   "sha256": "d92bebd53ae2fead57e09a07e1c73fcefadfc8629ec590b98a67898a9df2ade3"
+  },
+  "vocabulary/days/DAY13/idioms.csv": {
+   "bytes": 670,
+   "sha256": "2a132cc55e6e6c1ee9ee21a40dc251383db7ab499e5998d86563f47e1f35aefe"
+  },
+  "vocabulary/days/DAY13/pending.csv": {
+   "bytes": 8759,
+   "sha256": "0474abd5473af7f25f4d4f9c680060c56389f21c3b7817103901ca53eca8e0c6"
+  },
+  "vocabulary/days/DAY13/synonyms.csv": {
+   "bytes": 5628,
+   "sha256": "1e730e755cdd550e1b4f3320a2f1db74f32f43f216976de5f88dd41c29580ffd"
+  },
+  "vocabulary/days/DAY13/themes.csv": {
+   "bytes": 2191,
+   "sha256": "d7d60f4666dee4d6bb24098793bb424aef13d214ec27059fcdff7099160d6436"
+  },
+  "vocabulary/days/DAY14/antonyms.csv": {
+   "bytes": 390,
+   "sha256": "6eb60f3fda736307ccd99c1e7208b7611210fe8344f1183670340dfdf2db11fa"
+  },
+  "vocabulary/days/DAY14/colligations.csv": {
+   "bytes": 43335,
+   "sha256": "c8cb505b5253f652f694e0154a7680f96a6f935af2af94bb77ad33c0129b86b7"
+  },
+  "vocabulary/days/DAY14/collocations.csv": {
+   "bytes": 28311,
+   "sha256": "d200bd3cf70445735c2805d53c67833217cea3ef77e88b919f32489ec43ea0a2"
+  },
+  "vocabulary/days/DAY14/derivations.csv": {
+   "bytes": 4195,
+   "sha256": "51770d3bad6bfdd86637a465024745f075e1541f89b11376b03b6282ccef2493"
+  },
+  "vocabulary/days/DAY14/headwords.csv": {
+   "bytes": 26612,
+   "sha256": "b346fee196459153ca595d26156442381f516ceb355b4a69c03fd81001b52cfd"
+  },
+  "vocabulary/days/DAY14/historical_roots.csv": {
+   "bytes": 8478,
+   "sha256": "55e7f4490c231311007a83ebaa28ddb121e5478d957133c77837df6384e3414e"
+  },
+  "vocabulary/days/DAY14/idioms.csv": {
+   "bytes": 1640,
+   "sha256": "cd4286957acb477070ff5b902db77597f64b3d6a3655bd4d141076240e6e2fc6"
+  },
+  "vocabulary/days/DAY14/pending.csv": {
+   "bytes": 7943,
+   "sha256": "08d04b4c88a41b0cbc02472e2b1473c213ce67a32a330d0eaa606d2023b640c8"
+  },
+  "vocabulary/days/DAY14/synonyms.csv": {
+   "bytes": 3088,
+   "sha256": "edd131b82a6d2d6303bff7af0233348e6c3396afc1667bd2ca7fb4a1dffbc47b"
+  },
+  "vocabulary/days/DAY14/themes.csv": {
+   "bytes": 1788,
+   "sha256": "f9092256a95091a61cc14fdf286a7601542f12e9b0486ea4049524a97dba218c"
+  },
+  "vocabulary/days/DAY15/antonyms.csv": {
+   "bytes": 223,
+   "sha256": "56a37845ca6f1c6565bf97996119718a17c86aa9cdaa7d48424d797d52680115"
+  },
+  "vocabulary/days/DAY15/colligations.csv": {
+   "bytes": 48542,
+   "sha256": "42268e341e4a307935ce08e8876f1ea14be0b2d614c7a328fdec3d6c9ee2d94a"
+  },
+  "vocabulary/days/DAY15/collocations.csv": {
+   "bytes": 23325,
+   "sha256": "34064853465921f8abd029afe1f34198b775462e93f14061b1d6d140896aae37"
+  },
+  "vocabulary/days/DAY15/derivations.csv": {
+   "bytes": 3336,
+   "sha256": "443afb5c6260b732b2a084acd87a3df1a6fe72d68da851d48d7094da31e69dad"
+  },
+  "vocabulary/days/DAY15/headwords.csv": {
+   "bytes": 24658,
+   "sha256": "fcc2bf6ffe19580236c1b757db0f68a74d2190a19845613dbc2e868970aa3792"
+  },
+  "vocabulary/days/DAY15/historical_roots.csv": {
+   "bytes": 8029,
+   "sha256": "eb67bcb51cefc8f2a2d9491d68281dc2eff9cae26c7027d73bfb9960ad6a524d"
+  },
+  "vocabulary/days/DAY15/idioms.csv": {
+   "bytes": 1270,
+   "sha256": "10f9accd1aa06aca823d9efadb6303f9d4fe49cf2d1bd7b70184322aed625c42"
+  },
+  "vocabulary/days/DAY15/pending.csv": {
+   "bytes": 8387,
+   "sha256": "a30a3d564d56f61d17ff983dffdee543ff3edbfe4570394adb254c8589dd3993"
+  },
+  "vocabulary/days/DAY15/synonyms.csv": {
+   "bytes": 2945,
+   "sha256": "86bfdd741ccefeb537fa35f0fdb632e4d3af439d0c821769e288c160230cf84b"
+  },
+  "vocabulary/days/DAY15/themes.csv": {
+   "bytes": 1673,
+   "sha256": "eef0de643481cc3e8cdb12e64da1566a48e5d7570fe5c177c8fc3a6b608aabee"
+  },
+  "vocabulary/days/DAY16/antonyms.csv": {
+   "bytes": 221,
+   "sha256": "259a0d44739c022720982334bdb8f77c64ce28719ace2d7c7c6406dff22838ab"
+  },
+  "vocabulary/days/DAY16/colligations.csv": {
+   "bytes": 67915,
+   "sha256": "3bf8933f0f41ace1ca97ef17ee13ce8f669e0b60ced8f68ec32b6e5eee39da2a"
+  },
+  "vocabulary/days/DAY16/collocations.csv": {
+   "bytes": 30085,
+   "sha256": "82c19c251ce364eba86b1425204394bf67f5de2be64abbc56e99f73be3a812a6"
+  },
+  "vocabulary/days/DAY16/derivations.csv": {
+   "bytes": 3836,
+   "sha256": "0b646077621868a782e191449416fd137b88d18d8dc73a987f757ac88828709f"
+  },
+  "vocabulary/days/DAY16/headwords.csv": {
+   "bytes": 26270,
+   "sha256": "91f83a78dd4508598ccae3de8e95c7e3ca71d6251f2f3c6a2bedf46e549135e6"
+  },
+  "vocabulary/days/DAY16/historical_roots.csv": {
+   "bytes": 7715,
+   "sha256": "5c080547908275817f69de23030377bb9690bd7cd1b61eb93282c6ff02b3456a"
+  },
+  "vocabulary/days/DAY16/idioms.csv": {
+   "bytes": 1713,
+   "sha256": "3fb7a8a1c2dfb853eab42bcf41e67e1c78d9b02d2338ddccd988cf2f07ead091"
+  },
+  "vocabulary/days/DAY16/pending.csv": {
+   "bytes": 7180,
+   "sha256": "1c7fcdd3725acacabc1fbb28a81e30b0ba848436a3486dc687e11d3fcb31cb0a"
+  },
+  "vocabulary/days/DAY16/synonyms.csv": {
+   "bytes": 4577,
+   "sha256": "a0b0c79665926b168ee8f6ec66fc659ba3870e675fc153204e38ab9c950d58b3"
+  },
+  "vocabulary/days/DAY16/themes.csv": {
+   "bytes": 2061,
+   "sha256": "b5223486a1c050d5005f00ae6dcab45683f0b93e8ce76f1d13e1fbe7a1dc32b0"
+  },
+  "vocabulary/days/DAY17/antonyms.csv": {
+   "bytes": 369,
+   "sha256": "9b62f8f72d3613f1d9b08a30e6b298374e71515d24c0c9d9a446e8a4a0c91e1d"
+  },
+  "vocabulary/days/DAY17/colligations.csv": {
+   "bytes": 42399,
+   "sha256": "14c0ea2808f64f54ec89d77ca5830da046309f7403413f529ae240260cd95663"
+  },
+  "vocabulary/days/DAY17/collocations.csv": {
+   "bytes": 23403,
+   "sha256": "40e257b5286baf656306da423773c81bc608a969d9d06c44a370fa1447ed687b"
+  },
+  "vocabulary/days/DAY17/derivations.csv": {
+   "bytes": 2947,
+   "sha256": "e76ac7ba3d99698814252e15f905b165c2f81ffc1b526c9072c639cca00a0c8f"
+  },
+  "vocabulary/days/DAY17/headwords.csv": {
+   "bytes": 25266,
+   "sha256": "9b6ab756785578a2e0a5fd70f016d914bc2b9db4d315cfdfba68938b5439ef9a"
+  },
+  "vocabulary/days/DAY17/historical_roots.csv": {
+   "bytes": 7741,
+   "sha256": "8b1965a0b11597372b4f897ee5cee297e2930a15c787bd704c8fe2eeb600b767"
+  },
+  "vocabulary/days/DAY17/idioms.csv": {
+   "bytes": 1184,
+   "sha256": "a68b15609cd12efef327a641ade92537e75aea157137fcfbda9fd9fab7b0ff7c"
+  },
+  "vocabulary/days/DAY17/pending.csv": {
+   "bytes": 9368,
+   "sha256": "b08842cc2008e32df2686ddb960afc24af0e374959af784ac40bfcbfa48b1780"
+  },
+  "vocabulary/days/DAY17/synonyms.csv": {
+   "bytes": 2984,
+   "sha256": "c6130d687c25422070ac32cee2df545af590200b525cf447700671db1d43061f"
+  },
+  "vocabulary/days/DAY17/themes.csv": {
+   "bytes": 1447,
+   "sha256": "f7e8f8d46b7a6afa8664ef34c065b34ce93598a26ae27e384479c8a76afa134f"
+  },
+  "vocabulary/days/DAY18/antonyms.csv": {
+   "bytes": 155,
+   "sha256": "af9d3e6f15c9f7acf1ea9e72decab80495464ccbfb0d00d3a607b596b321f87c"
+  },
+  "vocabulary/days/DAY18/colligations.csv": {
+   "bytes": 39166,
+   "sha256": "bd7f241860d5c152649de73edd2e79463eaa747394da7dfaf62428c9e597d6e1"
+  },
+  "vocabulary/days/DAY18/collocations.csv": {
+   "bytes": 14437,
+   "sha256": "1ca90249bc14c9ef10756f78897df742b5583dfad5d6f4d5bb2684c926381f7d"
+  },
+  "vocabulary/days/DAY18/derivations.csv": {
+   "bytes": 3232,
+   "sha256": "1d094623d0a963ddffdf203a07396b309023fff3743b0df98885e7d7b467dcdb"
+  },
+  "vocabulary/days/DAY18/headwords.csv": {
+   "bytes": 25696,
+   "sha256": "2b11a5dd1a504c9993e8107c3adef20540ff8818165bbbf8591c53946981c044"
+  },
+  "vocabulary/days/DAY18/historical_roots.csv": {
+   "bytes": 8314,
+   "sha256": "b0a42ab08e4f5ed2ec24bf6e412393cbcb8fad54fb224012bb2cfec10ef638ee"
+  },
+  "vocabulary/days/DAY18/idioms.csv": {
+   "bytes": 719,
+   "sha256": "1cb30f6892d138a97441d72ddb206861b3b05be749e8139b0f806fd789b96e87"
+  },
+  "vocabulary/days/DAY18/pending.csv": {
+   "bytes": 7579,
+   "sha256": "c7583eb13dc21fc15849ca80ba015f6b4e8e2d98fface2f63c088c9030b437fe"
+  },
+  "vocabulary/days/DAY18/synonyms.csv": {
+   "bytes": 5041,
+   "sha256": "1109db9781d46616b1db32839b9bb27f9ddedf35c4c322ea694063ca72b5c637"
+  },
+  "vocabulary/days/DAY18/themes.csv": {
+   "bytes": 2155,
+   "sha256": "904e4149ef5215aabca703af57263c9b78a320dd78dae3c3486ccb8d2299903e"
+  },
+  "vocabulary/days/DAY19/antonyms.csv": {
+   "bytes": 418,
+   "sha256": "5784333b89a1d64d550c5ec432c501557cdf5362d2c0c2b03e8db03a4a33d5eb"
+  },
+  "vocabulary/days/DAY19/colligations.csv": {
+   "bytes": 67172,
+   "sha256": "acd97988f10bb8f21fce75eb2f117cc35ec6c20983dc0ae395f1e535a64cf7c2"
+  },
+  "vocabulary/days/DAY19/collocations.csv": {
+   "bytes": 33324,
+   "sha256": "d87157187c310af3295a1c954c13d25bae8410d2e87850538ee0db735f993d28"
+  },
+  "vocabulary/days/DAY19/derivations.csv": {
+   "bytes": 3355,
+   "sha256": "9b8d32f601a0c7bc934863711d7a5277f2b7479f69946a0fccbc14dc60ff72f3"
+  },
+  "vocabulary/days/DAY19/headwords.csv": {
+   "bytes": 23890,
+   "sha256": "b3bd254dc23fd96be1a0ae6ac4b90d751bb60604239f876fde895984dfbc37bc"
+  },
+  "vocabulary/days/DAY19/historical_roots.csv": {
+   "bytes": 8365,
+   "sha256": "53cddd2336fe25d513d986ccc06430fe11c06e46664722a2b87c2fa544a17bcb"
+  },
+  "vocabulary/days/DAY19/idioms.csv": {
+   "bytes": 671,
+   "sha256": "ac38569236556e6e90dd9f7e77724ed7c6d06b057df7ae77ffc1d23d32aac0ef"
+  },
+  "vocabulary/days/DAY19/pending.csv": {
+   "bytes": 8456,
+   "sha256": "cb93becfeb4c76b40c8ed1c44dfd836cc784ae30dd192c3849c2623ed899ef1f"
+  },
+  "vocabulary/days/DAY19/synonyms.csv": {
+   "bytes": 2766,
+   "sha256": "8db1f5a7ccfca7cef5f50fc75541a4e08df9ac3df20de6f29d30ff2131342d5b"
+  },
+  "vocabulary/days/DAY19/themes.csv": {
+   "bytes": 1899,
+   "sha256": "f1dea8b15821d524b9e4833f3a3fd7e0168934ab3050e0962f822faf8ed6b315"
+  },
+  "vocabulary/days/DAY20/antonyms.csv": {
+   "bytes": 471,
+   "sha256": "edc3fc4a17af7d25da010e82d79c3babe824c502c05a66adf762772355a0c07c"
+  },
+  "vocabulary/days/DAY20/colligations.csv": {
+   "bytes": 48324,
+   "sha256": "dad3647af76aec0354a6aadaa635782462a6f0173e7ff0c768ecf5923b44fb15"
+  },
+  "vocabulary/days/DAY20/collocations.csv": {
+   "bytes": 29486,
+   "sha256": "d620d579becac0a7062afb990baaae3012d0b35aba61cb2092fdaf1d37b2f496"
+  },
+  "vocabulary/days/DAY20/derivations.csv": {
+   "bytes": 3642,
+   "sha256": "a954c9797f9e7cab480dccef55a6b518a7c6582181ad609a4a4e17f41e82b146"
+  },
+  "vocabulary/days/DAY20/headwords.csv": {
+   "bytes": 25909,
+   "sha256": "b1ec2a188612f5cee5ef37d43d77bc851f0891be9a051513b52d190aa87904a0"
+  },
+  "vocabulary/days/DAY20/historical_roots.csv": {
+   "bytes": 7743,
+   "sha256": "fb88186b1dcde544d2b3c471dfd20d27383d68103f6851f7386a830ef9c8ea52"
+  },
+  "vocabulary/days/DAY20/idioms.csv": {
+   "bytes": 1802,
+   "sha256": "a371e72eb01134df8800902c0bd7d99979d69acd9595a8bdc096adfcdd97a0d2"
+  },
+  "vocabulary/days/DAY20/pending.csv": {
+   "bytes": 7692,
+   "sha256": "25983b3cee00c2be0ae9699f5f39fb4501513992ee916205a0b4fa99c0d0a842"
+  },
+  "vocabulary/days/DAY20/synonyms.csv": {
+   "bytes": 3397,
+   "sha256": "ba06c00e5f2ad0a60661f9e0d1e5db80a0bc911fc8bc9716f42010a9fac0b83e"
+  },
+  "vocabulary/days/DAY20/themes.csv": {
+   "bytes": 1766,
+   "sha256": "9fa456ebe0acee2d259026b389a54222247bf0ca9853d6c66bddea42cc69a4d1"
+  },
+  "vocabulary/days/DAY21/antonyms.csv": {
+   "bytes": 266,
+   "sha256": "622ff5be36a07e5e40ced9426676c88f2f70b7dd90a3791c6c775c9c02f40ed3"
+  },
+  "vocabulary/days/DAY21/colligations.csv": {
+   "bytes": 63280,
+   "sha256": "9e2aae7abac735d1e4606c690962a9fda1701f2d59b18dc0105743e39ba626b1"
+  },
+  "vocabulary/days/DAY21/collocations.csv": {
+   "bytes": 29201,
+   "sha256": "445ef645b289adbf9422c911b80582eab5c0c6bf1a2bc2df31d1c7576cf45f90"
+  },
+  "vocabulary/days/DAY21/derivations.csv": {
+   "bytes": 3934,
+   "sha256": "3b1800b7e97a07f280aec89c2ec2cdac10283e4b54efde7ed0702665f7d93b97"
+  },
+  "vocabulary/days/DAY21/headwords.csv": {
+   "bytes": 24689,
+   "sha256": "e1e3b54eee08dbddca2838afd38c2ef08914ed968456128fc7c1dfcd5ce718fd"
+  },
+  "vocabulary/days/DAY21/historical_roots.csv": {
+   "bytes": 8796,
+   "sha256": "830f8e69868fde04629e7c5a99db7814db2f166f334ae5f282656479329add41"
+  },
+  "vocabulary/days/DAY21/idioms.csv": {
+   "bytes": 981,
+   "sha256": "8f348b716b7b7da93b349b8f1fd2d7e415da5ad255ce6ac65424177008b187bc"
+  },
+  "vocabulary/days/DAY21/pending.csv": {
+   "bytes": 9227,
+   "sha256": "8daf272689c845043c6aa5970a71b8241db935950f947ea6daa3d4cb2fd039ab"
+  },
+  "vocabulary/days/DAY21/synonyms.csv": {
+   "bytes": 6137,
+   "sha256": "a91277155dc6fb2fe302ae92d8c52c59c5586b5afcd2c7ee1595b70f7b574f90"
+  },
+  "vocabulary/days/DAY21/themes.csv": {
+   "bytes": 2008,
+   "sha256": "4a53aff6b0d14a40721f8bac5ecd8dc967b128370ff2805f49f92870ef5cf1ea"
+  },
+  "vocabulary/days/DAY22/antonyms.csv": {
+   "bytes": 295,
+   "sha256": "688824e4ea1c994c70fcc43be8cf32d561b386f4de6717e52a26417b705cff55"
+  },
+  "vocabulary/days/DAY22/colligations.csv": {
+   "bytes": 56525,
+   "sha256": "b9e352d55f77871cd42a6c5e1915a9b4dd723c5eb6935edb3823682162f7897a"
+  },
+  "vocabulary/days/DAY22/collocations.csv": {
+   "bytes": 22728,
+   "sha256": "c9e4ddb91849835ad150a32af59c54ec2e7cb99e2508fa17e3938d009cba23b3"
+  },
+  "vocabulary/days/DAY22/derivations.csv": {
+   "bytes": 2653,
+   "sha256": "01963f48d6395db1fa05eef08118bb8a206abbbcc7fd1b0ec5e1f249a509c12a"
+  },
+  "vocabulary/days/DAY22/headwords.csv": {
+   "bytes": 26223,
+   "sha256": "e86041af6c4fef2b76b4f1e6e020c7ecf2105acad72bdfc22f3a87f4c3b48110"
+  },
+  "vocabulary/days/DAY22/historical_roots.csv": {
+   "bytes": 6553,
+   "sha256": "bd3ee821ff6de141c44a1845a4b90f8ebdc9bb5926a7ac6f78f0fd63e4c1ca7b"
+  },
+  "vocabulary/days/DAY22/idioms.csv": {
+   "bytes": 2207,
+   "sha256": "dfb449893f2c548c48b0955ab926d6e06d45e72d896fd9e9126ad219f12ea8e2"
+  },
+  "vocabulary/days/DAY22/pending.csv": {
+   "bytes": 8093,
+   "sha256": "8d15f3ed4b60085f3909c1873da9fe0d2f39d9283b307f7d96624e3a9ff7ca5f"
+  },
+  "vocabulary/days/DAY22/synonyms.csv": {
+   "bytes": 2875,
+   "sha256": "ab64b1e1479335b29b7be268e1b61a692d7aa4ecde76f8f7fffc7690e3681d19"
+  },
+  "vocabulary/days/DAY22/themes.csv": {
+   "bytes": 1466,
+   "sha256": "0563f64729241adf21cd6d9e45d2a906cbeae8f31486cd510e6189e47887694f"
+  },
+  "vocabulary/days/DAY23/antonyms.csv": {
+   "bytes": 483,
+   "sha256": "16659991a579ef7b1f64afd283ea1a89889031bc5c7aac51821e2f5a1ee212fb"
+  },
+  "vocabulary/days/DAY23/colligations.csv": {
+   "bytes": 47422,
+   "sha256": "c024850cfb3969ed3fa1ce10f03e94308b0af5ba0854e82ddc3c29199d58fd31"
+  },
+  "vocabulary/days/DAY23/collocations.csv": {
+   "bytes": 20601,
+   "sha256": "a125f1e8bcbea7482430151b6b56fa091464b892cd80beb3fcd19d5371c2736d"
+  },
+  "vocabulary/days/DAY23/derivations.csv": {
+   "bytes": 2980,
+   "sha256": "61fb0f82eb726d97487016d21729962480c11d3ac115c1ff801e67d3cc9bb0fc"
+  },
+  "vocabulary/days/DAY23/headwords.csv": {
+   "bytes": 25232,
+   "sha256": "3ac646c47c699d71e4366ea9684e8259099f7143e3ad4ecb4dc9ea35d96261bc"
+  },
+  "vocabulary/days/DAY23/historical_roots.csv": {
+   "bytes": 6647,
+   "sha256": "7a0cef822acee65e473fc97e84cd05f8aad1f9eb897b89f2836d765be1383626"
+  },
+  "vocabulary/days/DAY23/idioms.csv": {
+   "bytes": 2274,
+   "sha256": "8b6d43ed37ce01c050df2ee832a99815e48a71164419efc6ddf2e06f25adcc61"
+  },
+  "vocabulary/days/DAY23/pending.csv": {
+   "bytes": 8536,
+   "sha256": "7d045cd5f95fc075f1ce1c7f677ee160753998b3dba2ef27ed8739db1cf65f05"
+  },
+  "vocabulary/days/DAY23/synonyms.csv": {
+   "bytes": 4022,
+   "sha256": "7a5b486aa6fa349d2a93efb504628b622e9b45d072703a4c56001dd3f11994a7"
+  },
+  "vocabulary/days/DAY23/themes.csv": {
+   "bytes": 1460,
+   "sha256": "4c27fdfb3ad37b02ff61cd759cc0ce0340c15e6c8a032902a56a24f38583d228"
+  },
+  "vocabulary/days/DAY24/antonyms.csv": {
+   "bytes": 235,
+   "sha256": "d7a20378690a589395118456a54831259946d36f2828d98f90ffd6db6c0f9c58"
+  },
+  "vocabulary/days/DAY24/colligations.csv": {
+   "bytes": 53624,
+   "sha256": "09b9ed5ea54802b36b334deacaaea8f9e026d13d573455eeff1e6d5e6aef02bf"
+  },
+  "vocabulary/days/DAY24/collocations.csv": {
+   "bytes": 18945,
+   "sha256": "85f8c6097509990a31cd0185195c4904fbe108d4463fea95edaad54dc7ad7cb6"
+  },
+  "vocabulary/days/DAY24/derivations.csv": {
+   "bytes": 4262,
+   "sha256": "62cfec1a3f6eb647ae6a266f422d4d7f898823a33e3ba77c68a237df3c9e7e90"
+  },
+  "vocabulary/days/DAY24/headwords.csv": {
+   "bytes": 23760,
+   "sha256": "5f7b048917894b09a317aa55e338841677fa8409b11da63c83f0c85b96e10812"
+  },
+  "vocabulary/days/DAY24/historical_roots.csv": {
+   "bytes": 8396,
+   "sha256": "29978f7848280fde9f74b4e5f468f1b9e5380cdb7d122f4bc3cda3f1e0cd46cd"
+  },
+  "vocabulary/days/DAY24/idioms.csv": {
+   "bytes": 670,
+   "sha256": "ca234164921c6d7fe41b153a9c316cab29810f044d8eed4427a98db9701c461e"
+  },
+  "vocabulary/days/DAY24/pending.csv": {
+   "bytes": 8908,
+   "sha256": "129b3d9c483ba9ad778ec2bccc7d984bb620fc775093540dce7f964dcd01b4b9"
+  },
+  "vocabulary/days/DAY24/synonyms.csv": {
+   "bytes": 3459,
+   "sha256": "7f71a6d2c9f2d385c498784befc8e09ea0bf9da704d85a06724c77ce5516348f"
+  },
+  "vocabulary/days/DAY24/themes.csv": {
+   "bytes": 1430,
+   "sha256": "704789c0ebd2f9ce5bf35638e840d50a6850170b872d9022486e92e326538dd3"
+  },
+  "vocabulary/days/DAY25/antonyms.csv": {
+   "bytes": 240,
+   "sha256": "05231fd1f30f173076cfbe9140c27277ab57ffce9cdd6feb82a15149b7c2d469"
+  },
+  "vocabulary/days/DAY25/colligations.csv": {
+   "bytes": 45021,
+   "sha256": "3facc4b5ac425c775924e90b146b15f8c724fd01f5dc2d57063f47d0cbb9a3ed"
+  },
+  "vocabulary/days/DAY25/collocations.csv": {
+   "bytes": 22164,
+   "sha256": "44076f586cf2a1f83f917b2760251a9630ee83dfaba1e21fa8c2bdd131be8c79"
+  },
+  "vocabulary/days/DAY25/derivations.csv": {
+   "bytes": 2989,
+   "sha256": "b3f1da3daf0131b6a386673cb77fba7c05a78f9dcfeb97d538356d6e1872406e"
+  },
+  "vocabulary/days/DAY25/headwords.csv": {
+   "bytes": 25253,
+   "sha256": "beade0a53c9f06e35b2f2dfd9e95fd8867df5c1ed9e0edea46280b93ef05052f"
+  },
+  "vocabulary/days/DAY25/historical_roots.csv": {
+   "bytes": 6820,
+   "sha256": "fcdcc7adbd47a3dafea29676bac900a2848e058ab85315d4eba892f5e838da8d"
+  },
+  "vocabulary/days/DAY25/idioms.csv": {
+   "bytes": 1963,
+   "sha256": "1e493efdd9326e7e68f144d24b112333bc1234532d4348f124afe2e16b83ef30"
+  },
+  "vocabulary/days/DAY25/pending.csv": {
+   "bytes": 7849,
+   "sha256": "1f81e0f0cda120154a6d9b125783978f5245344b81f9ebe063737e796a8d5b6d"
+  },
+  "vocabulary/days/DAY25/synonyms.csv": {
+   "bytes": 3647,
+   "sha256": "3c673ff4b69c8d05e7ebb7047bed45f70378ad15dd4197deb2d2c9ba83115b1d"
+  },
+  "vocabulary/days/DAY25/themes.csv": {
+   "bytes": 1626,
+   "sha256": "cf89780c8e007a5b8c69ef66d4fd42ac9ba783e117e300f4d7d6fa3c90e39b71"
+  },
+  "vocabulary/days/DAY26/antonyms.csv": {
+   "bytes": 413,
+   "sha256": "0b398fe51dfa8f6243dd4425e725c2512c6ddb62531ebd2e4db8c1dd8b14b287"
+  },
+  "vocabulary/days/DAY26/colligations.csv": {
+   "bytes": 44182,
+   "sha256": "6e15db32675a51b4b9ac6da624628effd02f033f8095f42bf9588820365c499d"
+  },
+  "vocabulary/days/DAY26/collocations.csv": {
+   "bytes": 25578,
+   "sha256": "b4d04fb5d953ea1c42e9ae1323b33f56743dff433b03d03673ff64bd33bc03d9"
+  },
+  "vocabulary/days/DAY26/derivations.csv": {
+   "bytes": 2885,
+   "sha256": "99169780588d0e1d4d60117eff084d499e42cb471906703c4b7c9467e9ceb789"
+  },
+  "vocabulary/days/DAY26/headwords.csv": {
+   "bytes": 26236,
+   "sha256": "78994dd436c62b9a06a4824bf5a48c327a113cdd5fcff6dfe90bb9c7fa98ba2a"
+  },
+  "vocabulary/days/DAY26/historical_roots.csv": {
+   "bytes": 6657,
+   "sha256": "21463544991630463e8a6b765677ca430b57dbeca0cbcad779a7c6bbd6009cef"
+  },
+  "vocabulary/days/DAY26/idioms.csv": {
+   "bytes": 2440,
+   "sha256": "a7b36ea3a8bcb15f938b4f9c19d738b277e7448dc849c38b11a0bfb3ffeed777"
+  },
+  "vocabulary/days/DAY26/pending.csv": {
+   "bytes": 7581,
+   "sha256": "11c661f866c7d784d31258e88af18e41c7ac0060f1ddc592952ffad6c1ea4e83"
+  },
+  "vocabulary/days/DAY26/synonyms.csv": {
+   "bytes": 2268,
+   "sha256": "01fed1e6e9ed12550da3625faa62fcfef2dfb6b19414e049aa1552647497fd31"
+  },
+  "vocabulary/days/DAY26/themes.csv": {
+   "bytes": 1711,
+   "sha256": "e0175c3c211f3c02863c929d19ca100e9ef5da149feb5340e93cd0574db45cb2"
+  },
+  "vocabulary/days/DAY27/antonyms.csv": {
+   "bytes": 233,
+   "sha256": "a9143b633a73ae4c4e4b3b81ead02cd9fa26b5079dae4cd95803f9926fa50693"
+  },
+  "vocabulary/days/DAY27/colligations.csv": {
+   "bytes": 45572,
+   "sha256": "9bf301980ca58bb85a0a30774c88efc09e44ec3f7e26acf89b90afa376459f77"
+  },
+  "vocabulary/days/DAY27/collocations.csv": {
+   "bytes": 24570,
+   "sha256": "ae3fe9d282bdef5172bf25245b6b5fdd01e7ae3dbdecbe36c3a8d1c8f12ee9a6"
+  },
+  "vocabulary/days/DAY27/derivations.csv": {
+   "bytes": 4459,
+   "sha256": "1115c235270f63f4948707546e4b1e8b87ebb257f7c0780985db22b4f802eac6"
+  },
+  "vocabulary/days/DAY27/headwords.csv": {
+   "bytes": 25431,
+   "sha256": "532979f74e79e4724137d4116aa0a9165fb9f23a72f43ecc55495e6a3a9f9f83"
+  },
+  "vocabulary/days/DAY27/historical_roots.csv": {
+   "bytes": 8145,
+   "sha256": "d446c9fed78ba222bbb27682f8bf19d8ac048f2517ecc1778e3f5ae5616522cf"
+  },
+  "vocabulary/days/DAY27/idioms.csv": {
+   "bytes": 1214,
+   "sha256": "2c5f7a804d71f6a6a3d98f4a120e36c4637ddeef3318dbce043b33f175457695"
+  },
+  "vocabulary/days/DAY27/pending.csv": {
+   "bytes": 6991,
+   "sha256": "8216d139fb62414aa7222f25d7efc62975b7b995c6ccead69155a0c3a4920e66"
+  },
+  "vocabulary/days/DAY27/synonyms.csv": {
+   "bytes": 4216,
+   "sha256": "f27f1cbd06c4a2c2f0906b632727ed500f26dd1c02e577832f20534762a23728"
+  },
+  "vocabulary/days/DAY27/themes.csv": {
+   "bytes": 2233,
+   "sha256": "46e7e1a356b34d8b58fa0b095cd45f097dbf13766cd3a1fa05c256db22521188"
+  },
+  "vocabulary/days/DAY28/antonyms.csv": {
+   "bytes": 328,
+   "sha256": "f6ea267c7e0adc89e428e731fe55cc613ef7e8fe777abe482ef2873a6bee121f"
+  },
+  "vocabulary/days/DAY28/colligations.csv": {
+   "bytes": 40673,
+   "sha256": "caa0c3df01d5663068ca08bd693ec98c2b10ed59759673c1bbbb8f29f1262be8"
+  },
+  "vocabulary/days/DAY28/collocations.csv": {
+   "bytes": 18712,
+   "sha256": "656d629067273f4122ed6afbc502285b16323044468c8aabbb7f6a1bb86e95e9"
+  },
+  "vocabulary/days/DAY28/derivations.csv": {
+   "bytes": 4483,
+   "sha256": "163ff7af1873e0c30d9c63bc53f844635aea037c4115fa9c41fcb2bcc00e951f"
+  },
+  "vocabulary/days/DAY28/headwords.csv": {
+   "bytes": 27850,
+   "sha256": "1a32d40eab81ff54e4976f37e237f92f50889ddb89ec975835d6ac1e9c658b72"
+  },
+  "vocabulary/days/DAY28/historical_roots.csv": {
+   "bytes": 8744,
+   "sha256": "c7309abd511a5f4a0832550f300b1877b2d05a53e24181b98f2907a6dbd2abeb"
+  },
+  "vocabulary/days/DAY28/idioms.csv": {
+   "bytes": 1606,
+   "sha256": "99f4b3db93737c7f5384cc3ae2c7a4a76ecdb50c1aa8e28ee983ebed23b7efc8"
+  },
+  "vocabulary/days/DAY28/pending.csv": {
+   "bytes": 6642,
+   "sha256": "4f0fd1aef0bcb4f7ee19131662eb525145e7d4162ac7f74dc875381b0b2f2e8b"
+  },
+  "vocabulary/days/DAY28/synonyms.csv": {
+   "bytes": 6381,
+   "sha256": "cc7a19bd7cf354e65d28d2cdecd55c75d7f9ca2efab920d4a9927da6ef3f1c9a"
+  },
+  "vocabulary/days/DAY28/themes.csv": {
+   "bytes": 2488,
+   "sha256": "276d5f7695c032612a9bf60bc328a68e332211916424a43ad8af70d762880fea"
+  },
+  "vocabulary/days/DAY29/antonyms.csv": {
+   "bytes": 185,
+   "sha256": "e62f4720719f746e84b2e12779dcdacb6ba7cb3e68a6b64004d289d88c3d1853"
+  },
+  "vocabulary/days/DAY29/colligations.csv": {
+   "bytes": 52296,
+   "sha256": "9ad8a95bdddb3f9f354bd0db8c3f53e5f95647daf3f93b0eac629b2968500440"
+  },
+  "vocabulary/days/DAY29/collocations.csv": {
+   "bytes": 27290,
+   "sha256": "26a688e595dcc11a45f41030690736feaf18ee56a7ef429d3105387e5dfea4c4"
+  },
+  "vocabulary/days/DAY29/derivations.csv": {
+   "bytes": 4071,
+   "sha256": "2aece01f91be0f9a489e8ef81a18da9aa710048c94d787dc25732c72e14d597f"
+  },
+  "vocabulary/days/DAY29/headwords.csv": {
+   "bytes": 26394,
+   "sha256": "dee3f77c7afd4ebee5bfbe442072b942e63e2ad4a44fa08fea63795d2af9ee75"
+  },
+  "vocabulary/days/DAY29/historical_roots.csv": {
+   "bytes": 9268,
+   "sha256": "7c7d70e2d13fed1710d76ff5e3fdc982ff99f819b0c8fad500d3fdc62e061fa8"
+  },
+  "vocabulary/days/DAY29/idioms.csv": {
+   "bytes": 904,
+   "sha256": "5b33a1d87e2f64ce41da3f6aecbb053344e8a27902a17c098c9214d7aee8e4d8"
+  },
+  "vocabulary/days/DAY29/pending.csv": {
+   "bytes": 8169,
+   "sha256": "9f0fc6925ed20a1a748efd2ce2cfa1823125411887203be24c91835fbf27eeac"
+  },
+  "vocabulary/days/DAY29/synonyms.csv": {
+   "bytes": 5079,
+   "sha256": "e181ab61720ed06ea57cfb11f8e9c868c93606fc0c46263fd9432a01bf1da28d"
+  },
+  "vocabulary/days/DAY29/themes.csv": {
+   "bytes": 2556,
+   "sha256": "40d6c590bba00175e56263ba3d0b83bc29a709200a469c784087378ae86bb0ae"
+  },
+  "vocabulary/days/DAY30/antonyms.csv": {
+   "bytes": 462,
+   "sha256": "65a389f9242fe12fe0f137ae0b65d3e72baeb0f7ce3fbe559c4c25bb2864c22d"
+  },
+  "vocabulary/days/DAY30/colligations.csv": {
+   "bytes": 39109,
+   "sha256": "4d0fe804359d6056cefef14122b43a1980861cecaa0ec00ea22af97cce814e2d"
+  },
+  "vocabulary/days/DAY30/collocations.csv": {
+   "bytes": 31093,
+   "sha256": "46e405e7a276ba28933b07a53719d1ff4d32c1b2ebe038ca169247a511e371a7"
+  },
+  "vocabulary/days/DAY30/derivations.csv": {
+   "bytes": 3450,
+   "sha256": "e6045f8db8572d16d106ee9b5337fd76444b70c36b6236b55e8f8428676884d9"
+  },
+  "vocabulary/days/DAY30/headwords.csv": {
+   "bytes": 27477,
+   "sha256": "beb76791d9bd31c45c2a7cbcd1ac45c81bb150509a761543e3e8a394d64078d4"
+  },
+  "vocabulary/days/DAY30/historical_roots.csv": {
+   "bytes": 8701,
+   "sha256": "3c3cb66ba11c8dbb480ed2977c5c15b3ff392a3fc1af7fb24443e6986586cde6"
+  },
+  "vocabulary/days/DAY30/idioms.csv": {
+   "bytes": 2175,
+   "sha256": "7e0b78125bf409a7fc7f6cb3191e87b2536fe8197364099a8a90db8458145a03"
+  },
+  "vocabulary/days/DAY30/pending.csv": {
+   "bytes": 7343,
+   "sha256": "862da5bf4abcfe80fe2bbf0f223b0a788e401a91646efa6f0728f3490671477d"
+  },
+  "vocabulary/days/DAY30/synonyms.csv": {
+   "bytes": 3957,
+   "sha256": "f0e5e5cf86a65fc5634d98850a9c304088bc9ceccb53dded0e08f8c0c91bb2ab"
+  },
+  "vocabulary/days/DAY30/themes.csv": {
+   "bytes": 1827,
+   "sha256": "15f8fd80ddbead0a0ee1a72d509f2c9575f47f90108b38e8ae928e441c3887a5"
   },
   "vocabulary/etymology/shared_origins.csv": {
    "bytes": 8112,
    "sha256": "9d27eea6377f13bc78dfe26483a2b3603cfca7963f343283da02b2464192114a"
-  },
-  "vocabulary/headwords.csv": {
-   "bytes": 625181,
-   "sha256": "56d8bf1d17d0470b80506214d2af76de4ef899c0fce9d09c31b55e66bd14cb58"
-  },
-  "vocabulary/morphology/derivations.csv": {
-   "bytes": 106980,
-   "sha256": "5af36a6c1e450d2427171d62a320aeae3d1762f89a25c8b0472e70edc9265ecc"
   },
   "vocabulary/morphology/prefixes.csv": {
    "bytes": 13039,
@@ -89,40 +1532,12 @@
    "sha256": "8d219927470f420a5f44cd3e849a58944dd71ed7aba87e0de3885f1420821fdb"
   },
   "vocabulary/review/gold_sample_and_holdout.jsonl": {
-   "bytes": 33325,
-   "sha256": "61ea6e4caf146863508b45c9b186954b0089cdc4b77af9fa16e4deaad6bca85d"
+   "bytes": 34700,
+   "sha256": "137b0a1286637b27597e4f09dbf38488d51b3f6e2ba25df1c632be967efd3d52"
   },
   "vocabulary/review/model_review.jsonl": {
    "bytes": 48453,
    "sha256": "9f756dc5a03d3eba9c0d6a566068bced338e4785b133ea7bffdbeb83b1433392"
-  },
-  "vocabulary/review/pending.csv": {
-   "bytes": 241726,
-   "sha256": "bb5904a5fbd16eea2fc6cc2fc5f9c8c848332fb72ef420b0a6234c9378845524"
-  },
-  "vocabulary/semantics/antonyms.csv": {
-   "bytes": 8412,
-   "sha256": "e7ba7c7dca5d575397da648e3d7c5c051ee34fc04a23d9945ec8c403e3f3d33b"
-  },
-  "vocabulary/semantics/synonyms.csv": {
-   "bytes": 123072,
-   "sha256": "f1600a588558ed9475b739a68ec1fe37496c0905554eea755e43bfc819337fe0"
-  },
-  "vocabulary/semantics/themes.csv": {
-   "bytes": 54067,
-   "sha256": "6d003788ffce7bf2b282d986e6368b1fc0c55914eebf4bf30081224e97d17561"
-  },
-  "vocabulary/usage/colligations.csv": {
-   "bytes": 1473190,
-   "sha256": "bec11656e8487c471c6acb1f261884c3e2f8c58120b52b77bac9702cc483040c"
-  },
-  "vocabulary/usage/collocations.csv": {
-   "bytes": 741582,
-   "sha256": "54f442356242c504764851af31f7dd3b3b226bb25d23ffed3a6e66e0bbcf8bee"
-  },
-  "vocabulary/usage/idioms.csv": {
-   "bytes": 42977,
-   "sha256": "10a0c35268e9a96a82011163b69c3fdb2585d58fd16825da10f9f379ef2a74cc"
   }
  }
 }

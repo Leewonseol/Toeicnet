@@ -1,0 +1,6 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+tie,untie,wordnet_antonym,oewn-tie__2.35.00..,double_korean_anchor
+traditional,nontraditional,wordnet_antonym,oewn-traditional__3.00.00..,double_korean_anchor
+impressively,unimpressively,wordnet_antonym,oewn-impressively__4.02.00..,monosemous_pair
+relevance,irrelevance,wordnet_antonym,oewn-relevance__1.24.00..,monosemous_pair
+reliably,unreliably,wordnet_antonym,oewn-reliably__4.02.00..,monosemous_pair

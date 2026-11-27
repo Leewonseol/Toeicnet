@@ -1,0 +1,6 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+appropriately,inappropriately,wordnet_antonym,oewn-appropriately__4.02.00..,model_reviewed_pair
+certain,uncertain,wordnet_antonym,oewn-certain__3.00.02..,double_korean_anchor
+politely,impolitely,wordnet_antonym,oewn-politely__4.02.00..,monosemous_pair
+often,rarely,wordnet_antonym,oewn-often__4.02.00..,double_korean_anchor
+successfully,unsuccessfully,wordnet_antonym,oewn-successfully__4.02.00..,monosemous_pair

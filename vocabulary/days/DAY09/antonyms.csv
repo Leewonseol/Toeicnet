@@ -1,0 +1,4 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+worsen,better,wordnet_antonym,oewn-worsen__2.30.00..,double_korean_anchor
+synthesis,analysis,wordnet_antonym,oewn-synthesis__1.09.00..,double_korean_anchor
+deteriorate,recuperate,wordnet_antonym,oewn-deteriorate__2.29.00..,double_korean_anchor

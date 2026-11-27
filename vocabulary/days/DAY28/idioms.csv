@@ -1,0 +1,10 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+heating system,compound_noun,C,utility to warm a building,oewn,oewn-heating_system__1.06.00..
+washing machine,compound_noun,C,"A machine, usually automatic, that washes clothes, etc.",kaikki,kaikki:washing machine:noun:0:4879:s0
+emergency exit,compound_noun,C,An exit that is designed to allow rapid evacuation in the case of emergencies such as a fire.,kaikki,kaikki:emergency exit:noun:0:7278:s0
+home improvement,compound_noun,C,"The act of making changes to one's home in order to make it prettier, larger, more efficient, or generally better",kaikki,kaikki:home improvement:noun:0:7926:s0
+make the bed,phrasal_or_multiword_verb,C,"To arrange the sheets, blankets, or other coverings of a bed smoothly and neatly, with the corners tucked under the mattress.",kaikki,kaikki:make the bed:verb:0:7281:s0
+fire alarm,compound_noun,C,"An electromechanical or electronic bell, klaxon, chime, horn, speaker, strobe light or other device which warns people in a building etc. of a possible fire or other condition requiring evacuation.",kaikki,kaikki:fire alarm:noun:0:4630:s0
+fire extinguisher,compound_noun,B,a manually operated device for extinguishing small fires,oewn,kaikki:fire extinguisher:noun:0:7015:s0
+fitting room,compound_noun,C,A room in a store for trying on clothes before purchase.,kaikki,kaikki:fitting room:noun:0:6610:s0
+housing development,compound_noun,C,a residential area of similar dwellings built by property developers and usually under a single management,oewn,oewn-housing_development__1.15.00..

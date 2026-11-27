@@ -1,0 +1,170 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+equipment,"장비, 설비",noun,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458839
+automate,자동화하다,verb,core,B,make automatic or control or operate automatically,verified,monosemous_pair,oewn,oewn-automate__2.30.00..,kaikki:automate:verb:0:6846:s0,자동화하다,12,anki_core:1766527458840
+specification,"명세서, 설명서, 사양",noun,core,C,"An explicit set of requirements to be satisfied by a material, product, or service.",verified,single_source_korean_anchor,kaikki,,kaikki:specification:noun:0:6008:s0,사양,12,anki_core:1766527458841
+properly,"제대로, 정확하게",adverb,core,B,in accordance with what is appropriate or suitable for the circumstances,unverified,model_reviewed_pair,oewn,oewn-properly__4.02.02..,kaikki:properly:adv:0:4864:s0,,12,anki_core:1766527458842
+safety,안전,noun,core,C,The condition or feeling of being safe; security; certainty.,verified,single_source_korean_anchor,kaikki,,kaikki:safety:noun:0:1377:s0,안전,12,anki_core:1766527458843
+precaution,"예방 조치, 예방책",noun,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458844
+operate,"(기계 등이) 작동하다, 움직이다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458845
+processing,"가공, 처리",noun,core,C,The action of the verb to process.,verified,single_source_korean_anchor,kaikki,,kaikki:processing:noun:0:6375:s0,처리,12,anki_core:1766527458846
+capacity,"용량, 수용력, 역할",noun,core,C,"The ability to hold, receive, or absorb.",verified,single_source_korean_anchor,kaikki,,kaikki:capacity:noun:0:4139:s0,수용력;용량,12,anki_core:1766527458847
+assemble,"(부품·기계 등을) 조립하다, (사람을) 모으다",verb,core,C,To gather as a group.,verified,single_source_korean_anchor,kaikki,,kaikki:assemble:verb:0:3264:s1,모으다,12,anki_core:1766527458848
+utilize,"이용하다, 활용하다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458849
+place,"~을 ~한 상태에 두다, (지시·주문·신청 등을) 하다",verb,core,B,put into a certain place or abstract location,unverified,model_reviewed_pair,oewn,oewn-place__2.35.00..,kaikki:place:verb:2:2591:s0,,12,anki_core:1766527458850
+fill,"~을 채우다, (주문대로) 이행하다",verb,core,B,"fill, satisfy or meet a want or need or condition or restriction",unverified,model_reviewed_pair,oewn,oewn-fill__2.34.02..,kaikki:fill:verb:1:3152:s5,,12,anki_core:1766527458851
+manufacturing,제조(업)의,adjective,core,C,Used in manufacturing.,unverified,single_source_only_sense,kaikki,,kaikki:manufacturing:adj:0:6233:s0,,12,anki_core:1766527458852
+renovate,"(낡은 건물·가구 등을) 개조하다, 수리하다, 보수하다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458853
+decision,"결정, 판단",noun,core,B,a position or opinion or judgment reached after consideration,verified,double_korean_anchor,oewn,oewn-decision__1.09.00..,kaikki:decision:noun:0:1921:s1,결정,12,anki_core:1766527458854
+material,"재료, 물질",noun,core,B,the tangible substance that goes into the makeup of a physical object,verified,double_korean_anchor,oewn,oewn-material__1.27.00..,kaikki:material:noun:0:2941:s0,물질;재료,12,anki_core:1766527458855
+success,"성공, 성과",noun,core,C,The achievement of one's aim or goal.,verified,single_source_korean_anchor,kaikki,,kaikki:success:noun:0:1685:s0,성공,12,anki_core:1766527458856
+attribute,(원인을)~의 덕분으로 돌리다,verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458857
+efficiency,"효율, 능률",noun,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458858
+limit,"한계, 제한",noun,core,B,the greatest possible degree of something,verified,double_korean_anchor,oewn,oewn-limit__1.07.00..,kaikki:limit:noun:1:3015:s0,제한,12,anki_core:1766527458859
+tailored,"맞춤의, 주문에 따라 맞춘",noun,core,E,,unverified,no_sense_record,,,,,12,anki_core:1766527458860
+component,"부품, (구성) 요소",noun,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458861
+capable,"~을 할 수 있는, ~할 능력이 있는",adjective,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458862
+economize,"절약하다, 아끼다",verb,core,B,"spend sparingly, avoid the waste of",unverified,model_reviewed_pair,oewn,oewn-economize__2.40.02..;oewn-economize__2.40.00..,kaikki:economize:verb:0:4568:s0;kaikki:economize:verb:0:4568:s1,,12,anki_core:1766527458863
+flexible,"융통성 있는, 유연한, 잘 구부러지는",adjective,core,C,Capable of being flexed or bent without breaking; able to be turned or twisted without breaking.,verified,single_source_korean_anchor,kaikki,,kaikki:flexible:adj:0:3083:s0,유연한,12,anki_core:1766527458864
+comparable,"필적하는, 비교되는",adjective,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458865
+produce,생산하다,verb,core,C,"To bring forth, to yield, make, manufacture, or otherwise generate.",verified,single_source_korean_anchor,kaikki,,kaikki:produce:verb:1:1379:s0,생산하다,12,anki_core:1766527458866
+respectively,"각각, 따로",adverb,core,C,"In a relative manner; often used when comparing array lists, where the term denotes that the items in the lists correspond to each other in the order they are given.",verified,single_source_korean_anchor,kaikki,,kaikki:respectively:adv:0:5994:s0,각각,12,anki_core:1766527458867
+device,장치,noun,core,C,"Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",verified,single_source_korean_anchor,kaikki,,kaikki:device:noun:0:1118:s0,장치,12,anki_core:1766527458868
+trim,"(깎아) 다듬다, 없애다, 삭감하다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458869
+launch,(신제품을) 출시하다,verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458870
+separately,"개별적으로, 따로따로",adverb,core,B,apart from others,unverified,monosemous_pair,oewn,oewn-separately__4.02.02..,kaikki:separately:adv:0:5515:s0,,12,anki_core:1766527458871
+expiration,"(기간·임기 등의) 만료, 만기",noun,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458872
+maneuver,"이동시키다, 움직이다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458873
+coming,다가오는,adjective,core,B,of the relatively near future,unverified,model_reviewed_pair,oewn,oewn-coming__5.00.01.future.00,kaikki:coming:adj:2:6245:s0,,12,anki_core:1766527458874
+damaged,"손상된, 손해를 입은",adjective,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458875
+prevent,"~을 막다, ~을 예방하다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458876
+power,"전력, 전기",noun,core,B,energy made available by the flow of electric charge through a conductor,verified,double_korean_anchor,oewn,oewn-power__1.19.01..,kaikki:power:noun:0:918:s11,전력,12,anki_core:1766527458877
+chemical,화학 제품,noun,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458878
+minimize,"최소화하다, 축소하다",verb,core,D,,unverified,candidates_unaligned,,,,,12,anki_core:1766527458879
+clothing line,의류 상품,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458880
+craft,기술,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,12,anki_basic:1766527458881
+crop,"농작물, 산출량",noun,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458882
+curved,"구부러진, 곡선 모양의",adjective,basic,B,having or marked by a curve or smoothly rounded bend,unverified,monosemous_pair,oewn,oewn-curved__3.00.00..,kaikki:curved:adj:0:5247:s0,,12,anki_basic:1766527458883
+cyclist,자전거 타는 사람,noun,basic,C,"A person who rides a cycle, especially a bicycle, or who habitually engages in cycling.",verified,single_source_korean_anchor,kaikki,,kaikki:cyclist:noun:0:3941:s0,자전거 타는 사람,12,anki_basic:1766527458884
+firewood,장작,noun,basic,B,wood used for fuel,verified,monosemous_pair,oewn,oewn-firewood__1.27.00..,kaikki:firewood:noun:0:5160:s0,장작,12,anki_basic:1766527458885
+iron,"철, 다리미질을 하다",verb,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458886
+look up,"~을 찾다, 쳐다보다",phrase,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458887
+machinery,"기계류, 기계장치",noun,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458888
+not at all,"전혀~아니다, 천만에",phrase,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458889
+not far from,~에서 멀지 않은,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458890
+plant,"식물, 공장, (식물을) 심다",verb,basic,C,To place (a seed or plant) in soil or other substrate in order that it may live and grow.,verified,single_source_korean_anchor,kaikki,,kaikki:plant:verb:0:266:s0,식물;심다,12,anki_basic:1766527458891
+publication company,출판 회사,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458892
+scratch,긁다,verb,basic,C,"To rub a surface with a sharp object, especially by a living creature to remove itching with nails, claws, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:scratch:verb:0:6751:s0,긁다,12,anki_basic:1766527458893
+tool belt,공구 벨트,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458894
+watering can,물뿌리개,phrase,basic,C,"A utensil for watering plants, consisting of a container with a handle and long spout, the spout sometimes being fitted with a perforated nozzle.",verified,single_source_korean_anchor,kaikki,,kaikki:watering can:noun:0:3834:s0,물뿌리개,12,anki_basic:1766527458895
+a number of,많은,phrase,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458896
+be composed of,~으로 구성되다,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458897
+be filled with,~으로 채워지다,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458898
+be made up of,~으로 구성되다,phrase,basic,E,,unverified,no_sense_record,,,,,12,anki_basic:1766527458899
+facility,시설,noun,basic,C,"The physical means or contrivances to make something (especially a public service) possible; the required equipment, infrastructure, location etc.",verified,single_source_korean_anchor,kaikki,,kaikki:facility:noun:0:5036:s0,시설,12,anki_basic:1766527458900
+fasten,"매다, 잠그다",verb,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458901
+incredible,"놀라운, 믿기 어려운",adjective,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458902
+modification,"변경, 수정",noun,basic,C,The act of making a change to something while keeping its essential character intact; an alteration or adjustment.,verified,single_source_korean_anchor,kaikki,,kaikki:modification:noun:0:4154:s4,수정,12,anki_basic:1766527458903
+rank,"계급, 순위, 등급을 매기다",verb,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458904
+raw material,원자재,phrase,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458905
+shortage,부족,noun,basic,C,A lack or deficiency; an insufficient amount.,verified,single_source_korean_anchor,kaikki,,kaikki:shortage:noun:0:1763:s0,부족,12,anki_basic:1766527458906
+underground,"지하의, 비밀의",adjective,basic,D,,unverified,candidates_unaligned,,,,,12,anki_basic:1766527458907
+assembly,"조립, 집회",noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460902
+fasten the strap,끈을 조이다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460903
+give a hand,돕다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460904
+go out of production,생산을 중단하다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460905
+in a moment,"순식간에, 곧",phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460906
+maintenance cost,유지비,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460907
+makeup,"조립, 구성",noun,800,D,,unverified,proposed_pair_needs_review,,,,,12,anki_800:1766527460908
+much to one's surprise,매우 놀랍게도,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460909
+not only A but also B,A뿐만 아니라 B도,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460910
+pack away,"모아두다, 저장하다",phrase,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460911
+remarkably,두드러지게,adverb,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460912
+scale model,축소 모형,phrase,800,C,"A three-dimensional copy or representation of something in which all parts have dimensions in the same proportion to that of the original (i.e., all aspect ratios are preserved).",unverified,single_source_only_sense,kaikki,,kaikki:scale model:noun:0:7300:s0,,12,anki_800:1766527460913
+squeaking sound,끽끽거리는 소리,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460914
+wearable,착용할 수 있는,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460915
+workbench,작업대,noun,800,C,"A sturdy bench or table at which manual work is done by a carpenter, machinist, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:workbench:noun:0:4692:s0,작업대,12,anki_800:1766527460916
+adapted,"적당한, 알맞은, 개조된",adjective,800,B,changed in order to improve or made more fit for a particular purpose,unverified,monosemous_pair,oewn,oewn-adapted__5.00.00.modified.00,kaikki:adapted:adj:0:6498:s0,,12,anki_800:1766527460917
+automatically,자동적으로,adverb,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460918
+carelessly,부주의하게,adverb,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460919
+combustible,"타기 쉬운, 흥분하기 쉬운",adjective,800,B,capable of igniting and burning,unverified,monosemous_pair,oewn,oewn-combustible__3.00.00..,kaikki:combustible:adj:0:6639:s0,,12,anki_800:1766527460920
+fitted,"꼭 맞게 만들어진, 갖추어진",noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460921
+priced,값이 붙은,adjective,800,C,Having a price of the kind specified.,unverified,single_source_only_sense,kaikki,,kaikki:priced:adj:0:6593:s0,,12,anki_800:1766527460922
+reform,"개혁, 개혁하다",verb,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460923
+representation,"묘사, 표현",noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460924
+technically,"기술적으로, 엄밀히 말하면",noun,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460925
+technician,"기술자, 기사",noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460926
+utterly,"완전히, 철저히",adverb,800,B,completely and without qualification; used informally as intensifiers,unverified,monosemous_pair,oewn,oewn-utterly__4.02.00..,kaikki:utterly:adv:0:5762:s0,,12,anki_800:1766527460927
+adversely,불리하게,adverb,800,B,in an adverse manner,unverified,monosemous_pair,oewn,oewn-adversely__4.02.00..,kaikki:adversely:adv:0:6895:s0,,12,anki_800:1766527460928
+agricultural,농업의,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460929
+artificial,인공적인,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460930
+be irrelevant to,~과 무관하다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460931
+crude,"천연 그대로의, 미숙한",adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460932
+crude oil,원유,phrase,800,C,"Unrefined oil; as it is found underground, consisting mainly of hydrocarbons.",verified,single_source_korean_anchor,kaikki,,kaikki:crude oil:noun:0:54:s0,원유,12,anki_800:1766527460933
+custom-made,주문 제작한,adjective,800,B,made according to the specifications of an individual,unverified,monosemous_pair,oewn,oewn-custom--made__3.00.00..,kaikki:custom-made:adj:0:7125:s0,,12,anki_800:1766527460934
+downsize,(인력·규모를) 줄이다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,12,anki_800:1766527460935
+gadget,간단한 도구,noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460936
+gem,보석,noun,800,C,"A precious stone, usually of substantial monetary value or prized for its beauty or shine.",verified,single_source_korean_anchor,kaikki,,kaikki:gem:noun:0:1108:s0,보석,12,anki_800:1766527460937
+generator,발전기,noun,800,D,,unverified,proposed_pair_needs_review,,,,,12,anki_800:1766527460938
+grease,윤활유,noun,800,C,Any oily or fatty matter.,verified,single_source_korean_anchor,kaikki,,kaikki:grease:noun:0:1606:s1,윤활유,12,anki_800:1766527460939
+identically,똑같이,adverb,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460940
+in the event of,~의 경우에는,phrase,800,C,In case of.,unverified,single_source_only_sense,kaikki,,kaikki:in the event of:prep:0:7637:s0,,12,anki_800:1766527460941
+in the process of,~이 진행 중인,phrase,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460942
+individually tailored,개인 맞춤의,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460943
+integration,통합,noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460944
+line worker,작업 라인 노동자,phrase,800,C,an employee who works on an assembly line,unverified,single_source_only_sense,oewn,oewn-line_worker__1.18.00..,,,12,anki_800:1766527460945
+made-to-order,맞춤 제작된,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460946
+make an arrangement,준비하다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460947
+make an exception,예외로 하다,phrase,800,C,To permit something that does not follow the usual rules or standards.,unverified,single_source_only_sense,kaikki,,kaikki:make an exception:verb:0:8001:s0,,12,anki_800:1766527460948
+make public,발표하다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460949
+market awareness,시장 인지도,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460950
+neatly,"깔끔하게, 단정하게",adverb,800,B,with neatness,unverified,monosemous_pair,oewn,oewn-neatly__4.02.00..,kaikki:neatly:adv:0:6023:s0,,12,anki_800:1766527460951
+on call,"언제든지 사용할 수 있는, 대기하고 있는",phrase,800,C,Available to be summoned.,unverified,single_source_only_sense,kaikki,,kaikki:on call:prep_phrase:0:6759:s0,,12,anki_800:1766527460952
+on the edge of,막~하려는 찰나에,phrase,800,C,"Very near, imminently approaching; ready to, about to.",unverified,single_source_only_sense,kaikki,,kaikki:on the edge of:prep:0:8033:s0,,12,anki_800:1766527460953
+on the spot,"현장에, 즉시",phrase,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460954
+outlast,~보다 오래가다,verb,800,B,live longer than,unverified,monosemous_pair,oewn,oewn-outlast__2.42.00..,kaikki:outlast:verb:0:4827:s0,,12,anki_800:1766527460955
+output,생산량,noun,800,D,,unverified,proposed_pair_needs_review,,,,,12,anki_800:1766527460956
+put in place,제자리에 두다,phrase,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460957
+query,질문,noun,800,B,an instance of questioning,verified,double_korean_anchor,oewn,oewn-query__1.10.00..,kaikki:query:noun:0:4241:s0,질문,12,anki_800:1766527460958
+ready-made,기성품의,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460959
+reassemble,"재조립하다, 다시 모이다",verb,800,C,To assemble again.,verified,single_source_korean_anchor,kaikki,,kaikki:reassemble:verb:0:7174:s0,재조립하다,12,anki_800:1766527460960
+refine,"정제하다, 개선하다",verb,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460961
+reproduction,"모조품, 재생",noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460962
+sector,"부문, 구역",noun,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460963
+settle on,~을 결정하다,phrase,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460964
+sort out,~을 정리하다,phrase,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460965
+synthetic,합성의,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460966
+tailor-made,맞춤의,adjective,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460967
+upon-ing,하자마자,noun,800,E,,unverified,no_sense_record,,,,,12,anki_800:1766527460968
+wear and tear,"마모, 손상",phrase,800,D,,unverified,candidates_unaligned,,,,,12,anki_800:1766527460969
+come apart,부서지다,phrase,900,D,,unverified,proposed_pair_needs_review,,,,,12,anki_900:1766527462544
+flow chart,작업 공정도,phrase,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462545
+production quota,생산량 할당,phrase,900,E,,unverified,no_sense_record,,,,,12,anki_900:1766527462546
+discontinue,중단하다,verb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462547
+halt,"중단, 정지",noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462548
+occurrence,발생하는 것,noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462549
+operating,"(기계·설비의) 조작상의, 운영상의",adjective,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462550
+predicted,예상되는,adjective,900,E,,unverified,no_sense_record,,,,,12,anki_900:1766527462551
+welding,용접,noun,900,C,"The joining two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination.",verified,single_source_korean_anchor,kaikki,,kaikki:welding:noun:0:1148:s0,용접,12,anki_900:1766527462552
+arable,(땅이) 경작에 알맞은,adjective,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462553
+broadly,대략,adverb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462554
+continuity,지속성,noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462555
+disassemble,분해하다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,12,anki_900:1766527462556
+excavation,발굴,noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462557
+fabricate,제작하다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,12,anki_900:1766527462558
+involuntarily,본의 아니게,adverb,900,B,against one's will or done without conscious thought,unverified,monosemous_pair,oewn,oewn-involuntarily__4.02.00..,kaikki:involuntarily:adv:0:6029:s0,,12,anki_900:1766527462559
+liquidity,(자산의) 유동성,noun,900,D,,unverified,proposed_pair_needs_review,,,,,12,anki_900:1766527462560
+nimble,"민첩한, 재빠른",noun,900,E,,unverified,no_sense_record,,,,,12,anki_900:1766527462561
+obfuscate,"당황하게 하다, 혼란스럽게 만들다",verb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462562
+pertinent,관련된,adjective,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462563
+perturbed,동요하는,adjective,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462564
+pragmatic,실용적인,adjective,900,C,"Practical, concerned with making decisions and actions that are useful in practice, not just theory.",verified,single_source_korean_anchor,kaikki,,kaikki:pragmatic:adj:0:1375:s0,실용적인,12,anki_900:1766527462565
+precede,"~보다 앞서다, ~보다 중요하다",verb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462566
+prevail,"널리 퍼지다, 이기다",verb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462567
+procurement,(필수품의) 조달,noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462568
+provoke,"화나게 하다, 유발하다",verb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462569
+recede,(가치·품질이) 떨어지다,verb,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462570
+tolerance,관용,noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462571
+unfailingly,"변함없이, 영락없이",noun,900,E,,unverified,no_sense_record,,,,,12,anki_900:1766527462572
+unmet,(요구 등이) 채워지지 않은,adjective,900,C,Not achieved; unfulfilled.,unverified,single_source_only_sense,kaikki,,kaikki:unmet:adj:1:7184:s1,,12,anki_900:1766527462573
+tie up,"단단히 묶다, (일을) 마무리 짓다",phrase,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462577
+void,빈 공간; 텅빈,noun,900,D,,unverified,candidates_unaligned,,,,,12,anki_900:1766527462578

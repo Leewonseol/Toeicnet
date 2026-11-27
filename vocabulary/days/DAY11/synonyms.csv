@@ -1,0 +1,80 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+devise,contrive,wordnet_synset,oewn-devise__2.36.00..,double_korean_anchor
+devise,excogitate,wordnet_synset,oewn-devise__2.36.00..,double_korean_anchor
+devise,forge,wordnet_synset,oewn-devise__2.36.00..,double_korean_anchor
+devise,formulate,wordnet_synset,oewn-devise__2.36.00..,double_korean_anchor
+devise,invent,wordnet_synset,oewn-devise__2.36.00..,double_korean_anchor
+envision,fancy,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,figure,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,image,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,picture,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,project,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,see,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,visualise,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+envision,visualize,wordnet_synset,oewn-envision__2.36.00..,model_reviewed_pair
+following,next,wordnet_synset,oewn-following__5.00.02.succeeding.00,model_reviewed_pair
+inspect,audit,wordnet_synset,oewn-inspect__2.31.00..,model_reviewed_pair
+inspect,scrutinise,wordnet_synset,oewn-inspect__2.31.00..,model_reviewed_pair
+inspect,scrutinize,wordnet_synset,oewn-inspect__2.31.00..,model_reviewed_pair
+improve,ameliorate,wordnet_synset,oewn-improve__2.30.01..,double_korean_anchor
+improve,amend,wordnet_synset,oewn-improve__2.30.01..,double_korean_anchor
+improve,better,wordnet_synset,oewn-improve__2.30.01..,double_korean_anchor
+improve,meliorate,wordnet_synset,oewn-improve__2.30.01..,double_korean_anchor
+increasingly,more and more,wordnet_synset,oewn-increasingly__4.02.00..,monosemous_pair
+increasingly,progressively,wordnet_synset,oewn-increasingly__4.02.00..,monosemous_pair
+response,answer,wordnet_synset,oewn-response__1.10.01..,double_korean_anchor
+response,reply,wordnet_synset,oewn-response__1.10.01..,double_korean_anchor
+advance,advancement,wordnet_synset,oewn-advance__1.04.00..,model_reviewed_pair
+advance,forward motion,wordnet_synset,oewn-advance__1.04.00..,model_reviewed_pair
+advance,onward motion,wordnet_synset,oewn-advance__1.04.00..,model_reviewed_pair
+advance,procession,wordnet_synset,oewn-advance__1.04.00..,model_reviewed_pair
+advance,progress,wordnet_synset,oewn-advance__1.04.00..,model_reviewed_pair
+advance,progression,wordnet_synset,oewn-advance__1.04.00..,model_reviewed_pair
+quality,character,wordnet_synset,oewn-quality__1.09.00..,double_korean_anchor
+quality,lineament,wordnet_synset,oewn-quality__1.09.00..,double_korean_anchor
+development,growing,wordnet_synset,oewn-development__1.22.01..,double_korean_anchor
+development,growth,wordnet_synset,oewn-development__1.22.01..,double_korean_anchor
+development,maturation,wordnet_synset,oewn-development__1.22.01..,double_korean_anchor
+development,ontogenesis,wordnet_synset,oewn-development__1.22.01..,double_korean_anchor
+development,ontogeny,wordnet_synset,oewn-development__1.22.01..,double_korean_anchor
+inquiry,enquiry,wordnet_synset,oewn-inquiry__1.10.01..,double_korean_anchor
+inquiry,interrogation,wordnet_synset,oewn-inquiry__1.10.01..,double_korean_anchor
+inquiry,query,wordnet_synset,oewn-inquiry__1.10.01..,double_korean_anchor
+inquiry,question,wordnet_synset,oewn-inquiry__1.10.01..,double_korean_anchor
+superior,higher-ranking,wordnet_synset,oewn-superior__5.00.00.senior.00,double_korean_anchor
+superior,ranking,wordnet_synset,oewn-superior__5.00.00.senior.00,double_korean_anchor
+broaden,extend,wordnet_synset,oewn-broaden__2.30.02..,model_reviewed_pair
+broaden,widen,wordnet_synset,oewn-broaden__2.30.02..,model_reviewed_pair
+handmade,hand-crafted,wordnet_synset,oewn-handmade__3.00.00..,monosemous_pair
+catalog,catalogue,wordnet_synset,oewn-catalog__1.10.01..,double_korean_anchor
+repeat,ingeminate,wordnet_synset,oewn-repeat__2.32.00..,double_korean_anchor
+repeat,iterate,wordnet_synset,oewn-repeat__2.32.00..,double_korean_anchor
+repeat,reiterate,wordnet_synset,oewn-repeat__2.32.00..,double_korean_anchor
+repeat,restate,wordnet_synset,oewn-repeat__2.32.00..,double_korean_anchor
+repeat,retell,wordnet_synset,oewn-repeat__2.32.00..,double_korean_anchor
+sensor,detector,wordnet_synset,oewn-sensor__1.06.00..,monosemous_pair
+sensor,sensing element,wordnet_synset,oewn-sensor__1.06.00..,monosemous_pair
+test,essay,wordnet_synset,oewn-test__2.41.00..,double_korean_anchor
+test,examine,wordnet_synset,oewn-test__2.41.00..,double_korean_anchor
+test,prove,wordnet_synset,oewn-test__2.41.00..,double_korean_anchor
+test,try,wordnet_synset,oewn-test__2.41.00..,double_korean_anchor
+test,try out,wordnet_synset,oewn-test__2.41.00..,double_korean_anchor
+laboratory,lab,wordnet_synset,oewn-laboratory__1.06.00..,double_korean_anchor
+laboratory,research lab,wordnet_synset,oewn-laboratory__1.06.00..,double_korean_anchor
+laboratory,research laboratory,wordnet_synset,oewn-laboratory__1.06.00..,double_korean_anchor
+laboratory,science lab,wordnet_synset,oewn-laboratory__1.06.00..,double_korean_anchor
+laboratory,science laboratory,wordnet_synset,oewn-laboratory__1.06.00..,double_korean_anchor
+designed,intentional,wordnet_synset,oewn-designed__3.00.00..,monosemous_pair
+designed,unintentional,wordnet_synset,oewn-designed__3.00.00..,monosemous_pair
+quantity,amount,wordnet_synset,oewn-quantity__1.03.00..,double_korean_anchor
+quantity,measure,wordnet_synset,oewn-quantity__1.03.00..,double_korean_anchor
+custom-built,made-to-order,wordnet_synset,oewn-custom--built__5.00.00.custom-made.00,monosemous_pair
+long-lasting,durable,wordnet_synset,oewn-long--lasting__5.00.00.long.02,monosemous_pair
+long-lasting,lasting,wordnet_synset,oewn-long--lasting__5.00.00.long.02,monosemous_pair
+long-lasting,long-lived,wordnet_synset,oewn-long--lasting__5.00.00.long.02,monosemous_pair
+apparatus,setup,wordnet_synset,oewn-apparatus__1.06.00..,double_korean_anchor
+distill,distil,wordnet_synset,oewn-distill__2.29.00..,double_korean_anchor
+dysfunction,disfunction,wordnet_synset,oewn-dysfunction__1.26.00..,monosemous_pair
+cutting-edge,up to date,wordnet_synset,oewn-cutting--edge__5.00.00.fashionable.00,monosemous_pair
+cutting-edge,up-to-date,wordnet_synset,oewn-cutting--edge__5.00.00.fashionable.00,monosemous_pair
+cutting-edge,with-it,wordnet_synset,oewn-cutting--edge__5.00.00.fashionable.00,monosemous_pair

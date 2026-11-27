@@ -1,0 +1,5 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+repair,break,wordnet_antonym,oewn-repair__2.30.00..,double_korean_anchor
+urban,rural,textbook_note,,
+urban,rural,wordnet_antonym,oewn-urban__3.00.00..,double_korean_anchor
+symmetrically,asymmetrically,wordnet_antonym,oewn-symmetrically__4.02.00..,monosemous_pair

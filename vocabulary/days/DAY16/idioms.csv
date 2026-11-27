@@ -1,0 +1,13 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+business day,compound_noun,C,A day on which business is conducted; a workday or working day.,kaikki,kaikki:business day:noun:0:7430:s0
+place an order,phrasal_or_multiword_verb,C,To order something; to submit an order for a product.,kaikki,kaikki:place an order:verb:0:7303:s0
+retail store,compound_noun,C,a place of business for retailing goods,oewn,oewn-retail_store__1.06.00..
+sold out,adjective,C,Completely sold; of which no more is in stock.,kaikki,kaikki:sold out:adj:0:7523:s0
+along with,prepositional_expression,C,In addition to; coupled with.,kaikki,kaikki:along with:prep:0:7444:s0
+at the latest,phrase,C,no later than,kaikki,kaikki:at the latest:prep_phrase:0:7492:s0
+Department of Commerce,compound_noun,C,the United States federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913,oewn,oewn-department_of_commerce__1.14.00..
+breaking news,compound_noun,C,News that has either just happened or is currently happening.,kaikki,kaikki:breaking news:noun:0:4482:s0
+come to power,phrasal_or_multiword_verb,C,"To be installed in high office, for example as a king, president, or prime minister.",kaikki,kaikki:come to power:verb:0:7488:s0
+contend with,phrasal_or_multiword_verb,C,Synonym of deal with.,kaikki,kaikki:contend with:verb:0:8049:s0
+in place of,prepositional_expression,C,instead of,kaikki,kaikki:in place of:prep:0:7376:s0
+third party,compound_noun,C,Someone not directly involved in a transaction; an entity beyond the seller (first party) and customer (second party).,kaikki,kaikki:third party:noun:0:6389:s0

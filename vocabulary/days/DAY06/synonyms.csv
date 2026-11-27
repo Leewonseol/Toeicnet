@@ -1,0 +1,38 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+rest,balance,wordnet_synset,oewn-rest__1.24.00..,model_reviewed_pair
+rest,remainder,wordnet_synset,oewn-rest__1.24.00..,model_reviewed_pair
+rest,residual,wordnet_synset,oewn-rest__1.24.00..,model_reviewed_pair
+rest,residue,wordnet_synset,oewn-rest__1.24.00..,model_reviewed_pair
+rest,residuum,wordnet_synset,oewn-rest__1.24.00..,model_reviewed_pair
+donation,contribution,wordnet_synset,oewn-donation__1.21.00..,model_reviewed_pair
+admission,access,wordnet_synset,oewn-admission__1.04.00..,model_reviewed_pair
+admission,accession,wordnet_synset,oewn-admission__1.04.00..,model_reviewed_pair
+admission,admittance,wordnet_synset,oewn-admission__1.04.00..,model_reviewed_pair
+admission,entree,wordnet_synset,oewn-admission__1.04.00..,model_reviewed_pair
+anniversary,day of remembrance,wordnet_synset,oewn-anniversary__1.28.00..,double_korean_anchor
+issue,number,wordnet_synset,oewn-issue__1.10.00..,model_reviewed_pair
+note,observe,wordnet_synset,oewn-note__2.39.02..,model_reviewed_pair
+note,take note,wordnet_synset,oewn-note__2.39.02..,model_reviewed_pair
+upcoming,approaching,wordnet_synset,oewn-upcoming__5.00.00.future.00,model_reviewed_pair
+upcoming,coming,wordnet_synset,oewn-upcoming__5.00.00.future.00,model_reviewed_pair
+upcoming,forthcoming,wordnet_synset,oewn-upcoming__5.00.00.future.00,model_reviewed_pair
+gallery,art gallery,wordnet_synset,oewn-gallery__1.06.04..,double_korean_anchor
+gallery,picture gallery,wordnet_synset,oewn-gallery__1.06.04..,double_korean_anchor
+length,distance,wordnet_synset,oewn-length__1.07.03..,double_korean_anchor
+leisure,leisure time,wordnet_synset,oewn-leisure__1.28.00..,double_korean_anchor
+sightseeing,rubber-necking,wordnet_synset,oewn-sightseeing__1.04.00..,monosemous_pair
+stroll,saunter,wordnet_synset,oewn-stroll__2.38.00..,double_korean_anchor
+delight,joy,wordnet_synset,oewn-delight__1.09.00..,double_korean_anchor
+delight,pleasure,wordnet_synset,oewn-delight__1.09.00..,double_korean_anchor
+enjoyable,gratifying,wordnet_synset,oewn-enjoyable__5.00.00.pleasant.00,monosemous_pair
+enjoyable,pleasurable,wordnet_synset,oewn-enjoyable__5.00.00.pleasant.00,monosemous_pair
+excursion,expedition,wordnet_synset,oewn-excursion__1.04.00..,double_korean_anchor
+excursion,jaunt,wordnet_synset,oewn-excursion__1.04.00..,double_korean_anchor
+excursion,junket,wordnet_synset,oewn-excursion__1.04.00..,double_korean_anchor
+excursion,outing,wordnet_synset,oewn-excursion__1.04.00..,double_korean_anchor
+excursion,pleasure trip,wordnet_synset,oewn-excursion__1.04.00..,double_korean_anchor
+excursion,sashay,wordnet_synset,oewn-excursion__1.04.00..,double_korean_anchor
+mural,wall painting,wordnet_synset,oewn-mural__1.06.00..,monosemous_pair
+publication,publishing,wordnet_synset,oewn-publication__1.04.00..,double_korean_anchor
+unsanitary,insanitary,wordnet_synset,oewn-unsanitary__3.00.00..,monosemous_pair
+unsanitary,unhealthful,wordnet_synset,oewn-unsanitary__3.00.00..,monosemous_pair

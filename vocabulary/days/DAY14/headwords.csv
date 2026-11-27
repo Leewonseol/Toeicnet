@@ -1,0 +1,173 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+international,국제적인,adjective,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458976
+attraction,관광 명소,noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458977
+itinerary,여행 일정,noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458978
+exotic,"이국적인, 매혹적인",adjective,core,C,"Foreign, especially in an exciting way.",verified,single_source_korean_anchor,kaikki,,kaikki:exotic:adj:0:1841:s0,이국적인,14,anki_core:1766527458979
+diverse,다양한,adjective,core,B,distinctly dissimilar or unlike,verified,double_korean_anchor,oewn,oewn-diverse__5.00.00.different.00,kaikki:diverse:adj:1:3357:s4,다양하다,14,anki_core:1766527458980
+superb,"최고의, 뛰어난",noun,core,E,,unverified,no_sense_record,,,,,14,anki_core:1766527458981
+baggage,수화물,noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458982
+destination,목적지,noun,core,C,The place set for the end of a journey or to which something is sent; place or point aimed at.,verified,single_source_korean_anchor,kaikki,,kaikki:destination:noun:0:3344:s0,목적지,14,anki_core:1766527458983
+missing,"분실된, 없어진",noun,core,C,A value that is missing.,unverified,single_source_only_sense,kaikki,,kaikki:missing:noun:0:4826:s0,,14,anki_core:1766527458984
+locate,"(~의 위치를) 찾아내다, ~을 위치시키다",verb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458985
+approximately,대략,adverb,core,C,Imprecise but close to in quantity or amount.,verified,single_source_korean_anchor,kaikki,,kaikki:approximately:adv:0:6314:s0,대략,14,anki_core:1766527458986
+duty,"관세, 세금, 직무, 의무",noun,core,B,the social force that binds you to the courses of action demanded by that force,verified,double_korean_anchor,oewn,oewn-duty__1.04.00..,kaikki:duty:noun:0:1892:s0,의무,14,anki_core:1766527458987
+process,"과정, 처리하다",verb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458988
+board,"탑승하다, 이사회",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458989
+comfortable,편안한,adjective,core,C,Providing physical comfort and ease; agreeable.,verified,single_source_korean_anchor,kaikki,,kaikki:comfortable:adj:0:1901:s0,편안하다,14,anki_core:1766527458990
+declare,(세관에서) 신고하다,verb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458991
+specify,명시하다,verb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458992
+depart,출발하다,verb,core,C,To leave.,verified,single_source_korean_anchor,kaikki,,kaikki:depart:verb:0:2297:s0,출발하다,14,anki_core:1766527458993
+emergency,"비상시, 비상사태",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458994
+passenger,승객,noun,core,C,"One who rides or travels in a vehicle, but who does not operate it and is not a member of the crew.",verified,single_source_korean_anchor,kaikki,,kaikki:passenger:noun:0:3175:s0,승객,14,anki_core:1766527458995
+outgoing,"(장소를) 출발하는, 떠나는, (지위를) 떠나는",adjective,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458996
+tightly,"단단히, 꽉",noun,core,E,,unverified,no_sense_record,,,,,14,anki_core:1766527458997
+tour,"(공장·시설 등의) 견학, 짧은 여행",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458998
+carrier,"항공사, 수송기, 수송 회사",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527458999
+customarily,"관례상, 습관적으로",adverb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459000
+confuse,혼란시키다,verb,core,C,"To puzzle, perplex, baffle, bewilder (somebody); to afflict by being complicated, contradictory, or otherwise difficult to understand.",verified,single_source_korean_anchor,kaikki,,kaikki:confuse:verb:1:2252:s0,혼란시키다,14,anki_core:1766527459001
+arrive,도착하다,verb,core,C,To reach; to get to a certain place.,verified,single_source_korean_anchor,kaikki,,kaikki:arrive:verb:0:2296:s0,도착하다,14,anki_core:1766527459002
+brochure,"(홍보용) 소책자, 브로셔",noun,core,B,a small book usually having a paper cover,verified,double_korean_anchor,oewn,oewn-brochure__1.10.00..,kaikki:brochure:noun:0:426:s0,소책자,14,anki_core:1766527459003
+involve,"수반하다, 포함하다, 참여시키다",verb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459004
+ship,"(배나 다른 운송 수단으로) 운송하다, 수송하다, 선박, 배",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459005
+suitcase,여행 가방,noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459006
+unavailable,"이용할 수 없는, 구할 수 없는",adjective,core,B,not available or accessible or at hand,unverified,monosemous_pair,oewn,oewn-unavailable__3.00.00..,kaikki:unavailable:adj:0:6915:s1,,14,anki_core:1766527459007
+fill out/in,"(서류에) 기입하다, 적어 넣다",phrase,core,E,,unverified,no_sense_record,,,,,14,anki_core:1766527459008
+customs,세관,noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459009
+away,떨어져서,noun,core,E,,unverified,no_sense_record,,,,,14,anki_core:1766527459010
+dramatic,"멋진, 극적인, 급격한",adjective,core,B,sensational in appearance or thrilling in effect,unverified,model_reviewed_pair,oewn,oewn-dramatic__5.00.00.impressive.00,kaikki:dramatic:adj:0:5058:s1,,14,anki_core:1766527459011
+hospitality,"환대, 친절",noun,core,B,kindness in welcoming guests or strangers,verified,double_korean_anchor,oewn,oewn-hospitality__1.10.00..,kaikki:hospitality:noun:0:5499:s0,환대,14,anki_core:1766527459012
+indulge,"빠지다, 탐닉하다",verb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459013
+proximity,"가까움, 근접함",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459014
+seating,"(집합적) 좌석 설비, 좌석 배열",noun,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459015
+unlimited,무제한의,adjective,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459016
+simply,"그저, 단지, 간단히",adverb,core,B,and nothing more,unverified,model_reviewed_pair,oewn,oewn-simply__4.02.00..,kaikki:simply:adv:0:3625:s3,,14,anki_core:1766527459017
+besides,"게다가, 뿐만 아니라, ~외에",noun,core,E,,unverified,no_sense_record,,,,,14,anki_core:1766527459018
+traditionally,전통적으로,adverb,core,D,,unverified,candidates_unaligned,,,,,14,anki_core:1766527459019
+agent,대리인,noun,basic,C,"One who acts for, or in the place of, another (the principal), by that person's authority; someone entrusted to act on behalf of or in behalf of another, such as to transact business for them.",verified,single_source_korean_anchor,kaikki,,kaikki:agent:noun:0:2061:s1,대리인,14,anki_basic:1766527459020
+airport,공항,noun,basic,B,an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo,unverified,monosemous_pair,oewn,oewn-airport__1.06.00..,kaikki:airport:noun:0:3058:s0,,14,anki_basic:1766527459021
+beach,해변,noun,basic,C,"The shore of a body of water, especially when sandy or pebbly.",verified,single_source_korean_anchor,kaikki,,kaikki:beach:noun:0:1516:s0,해변,14,anki_basic:1766527459022
+boat,"보트, 작은 배",noun,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459023
+business class,(비행기의) 비즈니스석,phrase,basic,C,"A high-quality class of travelling (especially in airlines), higher than economy class or budget, lower than first class.",unverified,single_source_only_sense,kaikki,,kaikki:business class:noun:0:7308:s0,,14,anki_basic:1766527459024
+connect,~을 연결하다,verb,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459025
+departure time,출발 시간,phrase,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459026
+duty-free shop,면세점,phrase,basic,E,,unverified,no_sense_record,,,,,14,anki_basic:1766527459027
+first class,(비행기의) 일등석,phrase,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459028
+flight,"비행, 항공편, (비행기) 여행",noun,basic,B,an instance of traveling by air,verified,double_korean_anchor,oewn,oewn-flight__1.04.00..,kaikki:flight:noun:1:1282:s0,비행;항공편,14,anki_basic:1766527459029
+go on vacation,휴가를 떠나다,phrase,basic,C,Synonym of go on holiday.,unverified,single_source_only_sense,kaikki,,kaikki:go on vacation:verb:0:8069:s0,,14,anki_basic:1766527459030
+guidebook,(여행) 안내서,noun,basic,B,something that offers basic information or instruction,unverified,monosemous_pair,oewn,oewn-guidebook__1.10.00..,kaikki:guide book:noun:0:8922:s0,,14,anki_basic:1766527459031
+journey,여행,noun,basic,C,"A set amount of travelling, seen as a single unit; a discrete trip, a voyage.",verified,single_source_korean_anchor,kaikki,,kaikki:journey:noun:1:885:s0,여행,14,anki_basic:1766527459032
+nonstop flight,직항,phrase,basic,C,a flight made without intermediate stops between source and destination,unverified,single_source_only_sense,oewn,oewn-nonstop_flight__1.04.00..,,,14,anki_basic:1766527459033
+pack,"짐, 짐을 꾸리다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,14,anki_basic:1766527459034
+passport,여권,noun,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459035
+pilot,비행기 조종사,noun,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459036
+salon,(의상·미용실 등의) 가게,noun,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459037
+span,"(다리 등이 강 등에) 걸리다, 놓이다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,14,anki_basic:1766527459038
+trip,여행,noun,basic,B,a journey for some purpose (usually including the return),verified,double_korean_anchor,oewn,oewn-trip__1.04.00..,kaikki:trip:noun:1:3726:s0,여행,14,anki_basic:1766527459039
+border,국경,noun,basic,C,The line or frontier area separating political or geographical regions.,verified,single_source_korean_anchor,kaikki,,kaikki:border:noun:0:4113:s0,국경,14,anki_basic:1766527459040
+central,"중심이 되는, 가장 중요한",adjective,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459041
+safe,안전한,adjective,basic,D,,unverified,proposed_pair_needs_review,,,,,14,anki_basic:1766527459042
+sudden,갑작스러운,adjective,basic,B,happening without warning or in a short space of time,unverified,monosemous_pair,oewn,oewn-sudden__3.00.00..,kaikki:sudden:adj:0:3005:s0,,14,anki_basic:1766527459043
+travel,"여행, 여행 가다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,14,anki_basic:1766527459044
+underwater,"수중의, 물속의",adjective,basic,B,beneath the surface of the water,verified,double_korean_anchor,oewn,oewn-underwater__5.00.00.subsurface.00,kaikki:underwater:adj:1:1935:s0,수중,14,anki_basic:1766527459045
+unique,독특한,adjective,basic,D,,unverified,candidates_unaligned,,,,,14,anki_basic:1766527459046
+visitor,"손님, 방문객",noun,basic,C,Someone who visits someone else; someone staying as a guest.,verified,single_source_korean_anchor,kaikki,,kaikki:visitor:noun:0:5118:s0,방문객;손님,14,anki_basic:1766527459047
+aboard,"배로, 승선하여, ~에 타고",noun,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461038
+aircraft,항공기,noun,800,C,"A vehicle capable of atmospheric flight due to interaction with the air, such as buoyancy or lift.",verified,single_source_korean_anchor,kaikki,,kaikki:aircraft:noun:0:1199:s0,항공기,14,anki_800:1766527461039
+airfare,항공 요금,noun,800,B,the fare charged for traveling by airplane,unverified,monosemous_pair,oewn,oewn-airfare__1.21.00..,kaikki:airfare:noun:0:6635:s0,,14,anki_800:1766527461040
+aisle seat,통로 쪽 좌석,phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461041
+be on a trip,여행을 하다,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461042
+board flight,비행기에 탑승하다,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461043
+boarding gate,탑승구,phrase,800,C,"A part of an airport, in a departure lounge, behind which passengers wait to board an aircraft",unverified,single_source_only_sense,kaikki,,kaikki:boarding gate:noun:0:7942:s0,,14,anki_800:1766527461044
+boarding pass,(비행기)탑승권,phrase,800,C,"A document or card, similar to a ticket, needed in order to board an airplane or other mode of transport.",verified,single_source_korean_anchor,kaikki,,kaikki:boarding pass:noun:0:6952:s0,탑승권,14,anki_800:1766527461045
+boarding time,탑승 시간,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461046
+by air,비행기로,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461047
+carry-on baggage,기내 휴대 수하물,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461048
+connecting flight,연결 항공편,phrase,800,C,a flight with an intermediate stop and a change of aircraft (possibly a change of airlines),unverified,single_source_only_sense,oewn,oewn-connecting_flight__1.04.00..,,,14,anki_800:1766527461049
+crew,승무원,noun,800,C,"A group of people (often staff) manning and operating a large facility or piece of equipment such as a factory, ship, boat, airplane, or spacecraft.",verified,single_source_korean_anchor,kaikki,,kaikki:crew:noun:1:375:s1,승무원,14,anki_800:1766527461050
+cruise,유람선 여행,noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461051
+currency exchange,환전,phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461052
+drift,떠다니다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,14,anki_800:1766527461053
+ferry,여객선,noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461054
+flight attendant,승무원,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,14,anki_800:1766527461055
+fluid,"액체, 마실 것",noun,800,D,,unverified,proposed_pair_needs_review,,,,,14,anki_800:1766527461056
+guest pass,손님용 입장권,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461057
+guided tour,가이드 동반 여행,phrase,800,C,"A trip where a knowledgeable guide leads a group to a destination, providing commentary and historical context while often handling logistics like accommodation and transportation.",unverified,single_source_only_sense,kaikki,,kaikki:guided tour:noun:0:7875:s0,,14,anki_800:1766527461058
+immigration,"입국 심사, 이민",noun,800,C,The act of immigrating; the passing or coming into a country of which one is not native born for the purpose of permanent residence.,verified,single_source_korean_anchor,kaikki,,kaikki:immigration:noun:0:3429:s0,이민,14,anki_800:1766527461059
+in-flight,기내의,adjective,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461060
+landing,착륙,noun,800,C,"An arrival at a surface, as of an airplane or any descending object.",verified,single_source_korean_anchor,kaikki,,kaikki:landing:noun:0:3993:s0,착륙,14,anki_800:1766527461061
+landmark,"유명한 건물, 유명한 장소",noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461062
+layover,"(비행 시의) 도중하차, 경유지",noun,800,B,a brief stay in the course of a journey,unverified,monosemous_pair,oewn,oewn-layover__1.04.00..,kaikki:layover:noun:0:6678:s0,,14,anki_800:1766527461063
+leave for,~로 떠나다,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461064
+line up,"한 줄로 늘어서다, 줄을 이루다",phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461065
+luggage tag,수하물 표,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461066
+mainland,본토,noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461067
+missing luggage,분실 수하물,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461068
+native,그 지방 고유의,adjective,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461069
+observation tower,"관측탑, 전망탑",phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461070
+overbook,예약을 정원 이상으로 받다,verb,800,C,To sell or guarantee more seats for (an event) than actually exist.,unverified,single_source_only_sense,kaikki,,kaikki:overbook:verb:0:7188:s0,,14,anki_800:1766527461071
+overhead rack,(머리 위의 짐 넣는) 선반,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461072
+port,항구,noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461073
+porter,"운반인, 짐꾼",noun,800,C,A person who carries luggage and related objects; (historically) one who carried luggage or did manual labour in the transloading of cargo.,verified,single_source_korean_anchor,kaikki,,kaikki:porter:noun:1:2945:s0,짐꾼,14,anki_800:1766527461074
+reclaim,(분실물을) 되찾다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,14,anki_800:1766527461075
+row the boat,배를 젓다,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461076
+stop over,~에 잠깐 들르다,phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461077
+take off,이륙하다,phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461078
+take one's bag off,가방을 내려놓다,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461079
+train conductor,기차 차장,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461080
+travel agency,여행사,phrase,800,C,A company that arranges travel and accommodation for travellers.,verified,single_source_korean_anchor,kaikki,,kaikki:travel agency:noun:0:6508:s0,여행사,14,anki_800:1766527461081
+unload,짐을 내리다,verb,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461082
+unlock,자물쇠를 열다,verb,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461083
+walking tour,도보 여행,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461084
+distant,멀리 떨어진,noun,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461085
+favor,"호의, 친절",noun,800,B,a feeling of favorable regard,verified,double_korean_anchor,oewn,oewn-favor__1.12.00..,kaikki:favor:noun:0:2745:s1,호의,14,anki_800:1766527461086
+overhead,머리 위의,adjective,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461087
+remains,유물,noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461088
+rightly,"당연히, 마땅히",adverb,800,B,with honesty,unverified,monosemous_pair,oewn,oewn-rightly__4.02.00..,kaikki:rightly:adv:0:6002:s0,,14,anki_800:1766527461089
+tastefully,"고상하게, 우아하게",adverb,800,B,with taste; in a tasteful manner,unverified,monosemous_pair,oewn,oewn-tastefully__4.02.00..,kaikki:tastefully:adv:0:7040:s0,,14,anki_800:1766527461090
+travel arrangement,여행 준비,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461091
+accumulate,축적하다,verb,800,C,"To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively), often gradually and without active intent.",verified,single_source_korean_anchor,kaikki,,kaikki:accumulate:verb:0:236:s0,축적하다,14,anki_800:1766527461092
+geographic,지리상의,adjective,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461093
+go through customs,세관을 통과하다,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461094
+jet lag,시차증(여행 시 시차로 인한 피로),phrase,800,C,A physical condition caused by crossing time zones during flight; often the result of disruption to the circadian rhythms of the body.,verified,single_source_korean_anchor,kaikki,,kaikki:jet lag:noun:0:4183:s0,시차증,14,anki_800:1766527461095
+memorable,"기억할 만한, 잊혀지지 않는",adjective,800,B,worth remembering,unverified,monosemous_pair,oewn,oewn-memorable__5.00.02.unforgettable.00,kaikki:memorable:adj:0:6138:s0,,14,anki_800:1766527461096
+memorial,"기념물, 기념의",adjective,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461097
+precisely,정확히,adverb,800,D,,unverified,proposed_pair_needs_review,,,,,14,anki_800:1766527461098
+round trip,왕복 여행,phrase,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461099
+runway,활주로,noun,800,C,"A section of land, usually paved, for airplanes to land on or take off from.",verified,single_source_korean_anchor,kaikki,,kaikki:runway:noun:0:4248:s4,활주로,14,anki_800:1766527461100
+seasickness,뱃멀미,noun,800,C,"Nausea, dizziness, etc. caused by the motion of a ship; a form of motion sickness.",verified,single_source_korean_anchor,kaikki,,kaikki:seasickness:noun:0:6704:s0,뱃멀미,14,anki_800:1766527461101
+sensation,"느낌, 감각",noun,800,C,A physical feeling or perception from something that comes into contact with the body; something sensed.,verified,single_source_korean_anchor,kaikki,,kaikki:sensation:noun:0:4420:s0,감각,14,anki_800:1766527461102
+suburban train line,교외로 나가는 열차선,phrase,800,E,,unverified,no_sense_record,,,,,14,anki_800:1766527461103
+voyage,(원거리) 항해,noun,800,C,"A long journey, especially by ship.",verified,single_source_korean_anchor,kaikki,,kaikki:voyage:noun:0:2720:s0,항해,14,anki_800:1766527461104
+wildlife,야생 동물,noun,800,D,,unverified,candidates_unaligned,,,,,14,anki_800:1766527461105
+airsickness,비행기 멀미,noun,900,B,motion sickness experienced while traveling by air (especially during turbulence),unverified,monosemous_pair,oewn,oewn-airsickness__1.26.00..,kaikki:airsickness:noun:0:5987:s0,,14,anki_900:1766527462638
+barge,"짐배, 바지선",noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462639
+be left unattended,방치되다,phrase,900,E,,unverified,no_sense_record,,,,,14,anki_900:1766527462640
+buckle up,안전벨트를 매다,phrase,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462641
+carousel,(공항의) 회전식 수화물 컨베이어,noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462642
+channel,"해협, 수로",noun,900,B,a deep and relatively narrow body of water (as in a river or a harbor or a strait linking two larger bodies) that allows the best passage for vessels,verified,double_korean_anchor,oewn,oewn-channel__1.17.00..;oewn-channel__1.17.00..,kaikki:channel:noun:1:3837:s2;kaikki:channel:noun:1:3837:s3,수로;해협,14,anki_900:1766527462643
+deck,갑판,noun,900,B,a porch that resembles the deck on a ship,verified,double_korean_anchor,oewn,oewn-deck__1.06.02..,kaikki:deck:noun:1:3329:s1,갑판,14,anki_900:1766527462644
+dock,"선창, 부두",noun,900,B,a platform built out from the shore into the water and supported by piles; provides access to ships and boats,verified,double_korean_anchor,oewn,oewn-dock__1.06.01..,kaikki:dock:noun:3:2725:s0,부두,14,anki_900:1766527462645
+harbor,항구; (배를) 항구에 정박시키다,noun/verb,900,B,a sheltered port where ships can take on or discharge cargo,verified,double_korean_anchor,oewn,oewn-harbor__1.15.00..,kaikki:harbor:noun:1:2807:s1,항구,14,anki_900:1766527462646
+life preserver,(구명조끼 등의) 구명 기구,phrase,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462647
+meet one's flight,(비행기 도착 시간에 맞춰) 마중 나가다,phrase,900,E,,unverified,no_sense_record,,,,,14,anki_900:1766527462648
+stall,상품 진열대; 꼼짝 못하다,noun/verb,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462649
+tie the boat to,배를 ~에 정박시키다,phrase,900,E,,unverified,no_sense_record,,,,,14,anki_900:1766527462650
+turbulence,난기류,noun,900,C,"Disturbance in a gas or fluid, characterized by evidence of internal motion or unrest.",verified,single_source_korean_anchor,kaikki,,kaikki:turbulence:noun:0:6262:s1,난기류,14,anki_900:1766527462651
+allowance,"허용치, 참작, 특별한 고려",noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462652
+concourse,"중앙 홀, 중앙 광장",noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462653
+lodging,"임시 숙소, 하숙",noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462654
+presumable,"가정할 수 있는, 있음직한",adjective,900,B,capable of being inferred on slight grounds,unverified,monosemous_pair,oewn,oewn-presumable__5.00.00.thinkable.00,kaikki:presumable:adj:0:7141:s0,,14,anki_900:1766527462655
+touch down,착륙하다,phrase,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462656
+aviation,비행,noun,900,C,The art or science of making and flying aircraft.,verified,single_source_korean_anchor,kaikki,,kaikki:aviation:noun:0:2649:s0,비행,14,anki_900:1766527462657
+charter plane,전세 비행기,phrase,900,E,,unverified,no_sense_record,,,,,14,anki_900:1766527462658
+confer,"협의하다, 의논하다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,14,anki_900:1766527462659
+disembark,(비행기·배에서) 내리다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,14,anki_900:1766527462660
+dispense,나누어 주다,verb,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462661
+impound,(물건을) 압수하다,verb,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462662
+motion sickness,(탈것에 의한) 멀미,phrase,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462663
+prestigious,명성 있는,adjective,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462664
+quarantine desk,검역대,phrase,900,E,,unverified,no_sense_record,,,,,14,anki_900:1766527462665
+remittance,송금,noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462666
+swap,"맞바꾸다, 교환하다",verb,900,B,exchange or give (something) in exchange for,verified,double_korean_anchor,oewn,oewn-swap__2.40.00..,kaikki:swap:verb:1:17:s0,교환하다,14,anki_900:1766527462667
+turn up,"나타나다, 찾게 되다",phrase,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462668
+vessel,대형 선박,noun,900,D,,unverified,candidates_unaligned,,,,,14,anki_900:1766527462669

@@ -1,0 +1,14 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+bus stop,compound_noun,C,A place where public transport buses stop to allow passengers to board or leave.,kaikki,kaikki:bus stop:noun:0:5984:s0
+subway station,compound_noun,C,a terminal/node where subways/rapid transit systems load and unload passengers,oewn,oewn-subway_station__1.06.00..
+tour bus,compound_noun,C,"A bus used for a touring group, especially by musicians.",kaikki,kaikki:tour bus:noun:0:7296:s0
+driver's license,compound_noun,C,"A document issued to a specific person by a government authority, permitting this person to drive one or more classes of motor vehicle on public roads and highways, often used as an identification document.",kaikki,kaikki:driver's license:noun:0:2665:s0
+get lost,phrasal_or_multiword_verb,C,To lose one's way.,kaikki,kaikki:get lost:verb:0:3977:s0
+parking garage,compound_noun,C,"A building or structured facility designed primarily for the storage of vehicles, usually automobiles, in designated parking spaces.",kaikki,kaikki:parking garage:noun:0:7190:s0
+ride away,phrasal_or_multiword_verb,C,"ride away on a horse, for example",oewn,oewn-ride_away__2.38.00..
+road sign,compound_noun,C,A sign for the control of traffic or the information of drivers.,kaikki,kaikki:road sign:noun:0:7254:s0
+walking distance,compound_noun,C,A distance that a person can reasonably walk.,kaikki,kaikki:walking distance:noun:0:7973:s0
+public transportation,compound_noun,C,Public transport.,kaikki,kaikki:public transportation:noun:0:7589:s0
+steering wheel,compound_noun,C,"A wheel-shaped control that is rotated by the driver to steer, existing in most modern land vehicles.",kaikki,kaikki:steering wheel:noun:0:6535:s0
+pull into,phrasal_or_multiword_verb,C,Synonym of pull in (To park frontways in a parking spot),kaikki,kaikki:pull into:verb:0:8010:s0
+compact car,compound_noun,C,a small and economical car,oewn,oewn-compact_car__1.06.00..

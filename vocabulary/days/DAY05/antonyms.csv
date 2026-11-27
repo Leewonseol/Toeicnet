@@ -1,0 +1,5 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+divide,unite,wordnet_antonym,oewn-divide__2.41.00..,double_korean_anchor
+concerned,unconcerned,wordnet_antonym,oewn-concerned__3.00.00..,model_reviewed_pair
+expected,unexpected,wordnet_antonym,oewn-expected__3.00.00..,monosemous_pair
+undeniable,deniable,wordnet_antonym,oewn-undeniable__3.00.00..,monosemous_pair

@@ -1,0 +1,12 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+business card,compound_noun,C,"A small card with a person's name and professional information (such as occupation, business phone number, e-mail address, etc.).",kaikki,kaikki:business card:noun:0:5411:s0
+paper jam,compound_noun,C,A malfunction in a computer's printer or a photocopier or similar device occurring when sheets of paper become jammed inside.,kaikki,kaikki:paper jam:noun:0:7297:s0
+bulletin board,compound_noun,C,"A board on which messages may be posted, especially one in a public space.",kaikki,kaikki:bulletin board:noun:0:6374:s0
+hand in,phrasal_or_multiword_verb,C,To give something to a responsible person.,kaikki,kaikki:hand in:verb:0:6927:s0
+make an impression,phrasal_or_multiword_verb,C,To affect someone strongly and often favorably.,kaikki,kaikki:make an impression:verb:0:7963:s0
+on duty,phrase,C,"Actively engaged in an assigned task, duty or occupation.",kaikki,kaikki:on duty:prep_phrase:0:7243:s0
+pick up the phone,phrasal_or_multiword_verb,C,"To pick up the receiver of a telephone, generally with the intention of making a phone call.",kaikki,kaikki:pick up the phone:verb:0:6672:s0
+past due,adjective,C,late; overdue.,kaikki,kaikki:past due:adj:0:8110:s0
+call in sick,phrasal_or_multiword_verb,C,To inform one's workplace or school that one temporarily cannot attend work or school due to illness.,kaikki,kaikki:call in sick:verb:0:7870:s0
+in line with,phrase,C,In agreement or accordance with.,kaikki,kaikki:in line with:prep_phrase:0:8002:s0
+take the place of,phrasal_or_multiword_verb,C,To supersede; to come to be used instead of someone or something.,kaikki,kaikki:take the place of:verb:0:8022:s0

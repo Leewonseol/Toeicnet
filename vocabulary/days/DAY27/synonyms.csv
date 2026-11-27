@@ -1,0 +1,54 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+property,belongings,wordnet_synset,oewn-property__1.21.00..,model_reviewed_pair
+property,holding,wordnet_synset,oewn-property__1.21.00..,model_reviewed_pair
+propose,advise,wordnet_synset,oewn-propose__2.32.00..,model_reviewed_pair
+propose,suggest,wordnet_synset,oewn-propose__2.32.00..,model_reviewed_pair
+nearly,about,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+nearly,almost,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+nearly,most,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+nearly,near,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+nearly,nigh,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+nearly,virtually,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+nearly,well-nigh,wordnet_synset,oewn-nearly__4.02.00..,model_reviewed_pair
+consult,confer with,wordnet_synset,oewn-consult__2.32.02..,model_reviewed_pair
+insight,penetration,wordnet_synset,oewn-insight__1.09.02..,model_reviewed_pair
+solely,alone,wordnet_synset,oewn-solely__4.02.00..,monosemous_pair
+solely,entirely,wordnet_synset,oewn-solely__4.02.00..,monosemous_pair
+solely,exclusively,wordnet_synset,oewn-solely__4.02.00..,monosemous_pair
+solely,only,wordnet_synset,oewn-solely__4.02.00..,monosemous_pair
+entrepreneur,enterpriser,wordnet_synset,oewn-entrepreneur__1.18.00..,monosemous_pair
+eventually,finally,wordnet_synset,oewn-eventually__4.02.00..,double_korean_anchor
+shareholder,shareowner,wordnet_synset,oewn-shareholder__1.18.00..,double_korean_anchor
+shareholder,stockholder,wordnet_synset,oewn-shareholder__1.18.00..,double_korean_anchor
+outlook,expectation,wordnet_synset,oewn-outlook__1.09.00..,model_reviewed_pair
+outlook,prospect,wordnet_synset,oewn-outlook__1.09.00..,model_reviewed_pair
+distance,space,wordnet_synset,oewn-distance__1.28.00..,double_korean_anchor
+network,mesh,wordnet_synset,oewn-network__1.06.00..,double_korean_anchor
+network,meshing,wordnet_synset,oewn-network__1.06.00..,double_korean_anchor
+network,meshwork,wordnet_synset,oewn-network__1.06.00..,double_korean_anchor
+network,net,wordnet_synset,oewn-network__1.06.00..,double_korean_anchor
+relaxing,reposeful,wordnet_synset,oewn-relaxing__3.00.00..,monosemous_pair
+relaxing,restful,wordnet_synset,oewn-relaxing__3.00.00..,monosemous_pair
+owner,proprietor,wordnet_synset,oewn-owner__1.18.00..,double_korean_anchor
+usual,common,wordnet_synset,oewn-usual__5.00.00.familiar.02,double_korean_anchor
+hazardous,risky,wordnet_synset,oewn-hazardous__5.00.00.dangerous.00,monosemous_pair
+hazardous,wild,wordnet_synset,oewn-hazardous__5.00.00.dangerous.00,monosemous_pair
+self-esteem,self-pride,wordnet_synset,oewn-self--esteem__1.12.00..,monosemous_pair
+additionally,to boot,wordnet_synset,oewn-additionally__4.02.00..,monosemous_pair
+branch office,satellite office,textbook_note,,
+controversy,arguing,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+controversy,argument,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+controversy,contention,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+controversy,contestation,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+controversy,disceptation,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+controversy,disputation,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+controversy,tilt,wordnet_synset,oewn-controversy__1.10.00..,monosemous_pair
+legacy,bequest,wordnet_synset,oewn-legacy__1.21.00..,double_korean_anchor
+projected,jutting,wordnet_synset,oewn-projected__5.00.00.protrusive.00,monosemous_pair
+projected,projecting,wordnet_synset,oewn-projected__5.00.00.protrusive.00,monosemous_pair
+projected,protruding,wordnet_synset,oewn-projected__5.00.00.protrusive.00,monosemous_pair
+projected,relieved,wordnet_synset,oewn-projected__5.00.00.protrusive.00,monosemous_pair
+projected,sticking,wordnet_synset,oewn-projected__5.00.00.protrusive.00,monosemous_pair
+projected,sticking out,wordnet_synset,oewn-projected__5.00.00.protrusive.00,monosemous_pair
+throw out,throw away,textbook_note,,
+attainable,come-at-able,wordnet_synset,oewn-attainable__5.00.00.possible.00,monosemous_pair

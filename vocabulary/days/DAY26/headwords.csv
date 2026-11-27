@@ -1,0 +1,171 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+delinquent,"(세금 등이) 연체된, 미불의",adjective,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459812
+overdue,"(지불·반납 등의) 기한이 지난, 지불 기한이 넘은",adjective,core,B,past due; not paid at the scheduled time,unverified,monosemous_pair,oewn,oewn-overdue__5.00.00.due.00,kaikki:overdue:adj:0:5882:s0,,26,anki_core:1766527459813
+regrettably,유감스럽게도,noun,core,E,,unverified,no_sense_record,,,,,26,anki_core:1766527459814
+balance,"잔고, 차감 잔액",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459815
+deposit,"입금하다, 예금하다",verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459816
+investigation,조사,noun,core,C,"The act of investigating; the process of inquiring into or following up; research, especially patient or thorough inquiry or examination",verified,single_source_korean_anchor,kaikki,,kaikki:investigation:noun:0:3461:s0,조사,26,anki_core:1766527459817
+account,"계좌, 설명, 고려, (~의 이유를) 밝히다, 설명하다, (~의 비율을) 차지하다",verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459818
+statement,"명세서, 성명서",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459819
+amount,"액수, 약",noun,core,D,,unverified,proposed_pair_needs_review,,,,,26,anki_core:1766527459820
+withdrawal,(예금의) 인출,noun,core,B,the act of taking out money or other capital,verified,double_korean_anchor,oewn,oewn-withdrawal__1.04.03..,kaikki:withdrawal:noun:0:1107:s0,인출,26,anki_core:1766527459821
+previously,이전에,noun,core,E,,unverified,no_sense_record,,,,,26,anki_core:1766527459822
+due,"만기가 된, 지불기일이 된, (금전 등이)~에게 마땅히 지급되어야 할",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459823
+receive,"받다, 수취하다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,26,anki_core:1766527459824
+expect,"예상하다, 기대하다",verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459825
+certificate,"증명서, 증서",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459826
+document,"서류, 문서, 기록하다, 문서를 작성하다",verb,core,B,record in detail,unverified,model_reviewed_pair,oewn,oewn-document__2.32.00..,kaikki:document:verb:0:3361:s0,,26,anki_core:1766527459827
+spending,"소비, 지출",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459828
+successfully,성공적으로,adverb,core,B,with success; in a successful manner,unverified,monosemous_pair,oewn,oewn-successfully__4.02.00..,kaikki:successfully:adv:0:4956:s0,,26,anki_core:1766527459829
+bill,"~에게 청구서를 보내다, 청구서, 계산서",noun,core,B,an itemized statement of money owed for goods shipped or services rendered,verified,double_korean_anchor,oewn,oewn-bill__1.10.01..,kaikki:bill:noun:1:1317:s7,계산서,26,anki_core:1766527459830
+pleasure,"즐거움, 기쁨, 영광",noun,core,B,something or someone that provides a source of happiness,verified,double_korean_anchor,oewn,oewn-pleasure__1.09.00..,kaikki:pleasure:noun:0:1449:s0,기쁨;즐거움,26,anki_core:1766527459831
+study,연구,noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459832
+summary,"요약, 개요",noun,core,B,a brief statement that presents the main points in a concise form,verified,monosemous_pair,oewn,oewn-summary__1.10.00..,kaikki:summary:noun:2:4633:s0,개요;요약,26,anki_core:1766527459833
+temporary,임시의,adjective,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459834
+lower,(양·가격을) 줄이다,verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459835
+transaction,"거래, 업무",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459836
+double,두 배로 만들다,verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459837
+identification,"신분증, 신분증명서",noun,core,B,evidence of identity; something that identifies a person or thing,verified,double_korean_anchor,oewn,oewn-identification__1.10.01..,kaikki:identification:noun:0:1810:s4,신분증,26,anki_core:1766527459838
+dissatisfaction,"불만, 불평",noun,core,B,the feeling of being displeased and discontent,verified,double_korean_anchor,oewn,oewn-dissatisfaction__1.12.00..,kaikki:dissatisfaction:noun:0:6238:s0,불만,26,anki_core:1766527459839
+in common,"공통으로, 공동으로",phrase,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459840
+interest,"관심, 권리, 이자",noun,core,B,a fixed charge for borrowing money; usually a percentage of the amount borrowed,verified,model_reviewed_pair,oewn,oewn-interest__1.21.00..;oewn-interest__1.09.00..,kaikki:interest:noun:0:778:s0;kaikki:interest:noun:0:778:s2,관심;이자,26,anki_core:1766527459841
+reject,"거절하다, 거부하다",verb,core,C,To refuse to accept; to forswear.,verified,single_source_korean_anchor,kaikki,,kaikki:reject:verb:0:4903:s0,거절하다,26,anki_core:1766527459842
+relation,관계,noun,core,C,The manner in which two things may be associated.,verified,single_source_korean_anchor,kaikki,,kaikki:relation:noun:0:2983:s0,관계,26,anki_core:1766527459843
+tentatively,"임시로, 시험적으로",adverb,core,B,in a tentative manner,unverified,monosemous_pair,oewn,oewn-tentatively__4.02.00..,kaikki:tentatively:adv:0:6941:s0,,26,anki_core:1766527459844
+alternatively,"그렇지 않으면, 그 대신에",noun,core,E,,unverified,no_sense_record,,,,,26,anki_core:1766527459845
+attentive,"주의 깊은, 세심한",adjective,core,C,"Paying attention; noticing, watching, listening, or attending closely.",verified,single_source_korean_anchor,kaikki,,kaikki:attentive:adj:0:5478:s0,세심하다,26,anki_core:1766527459846
+convert,"전환하다, 변환하다",verb,core,B,change from one system to another or to a new plan or policy,unverified,model_reviewed_pair,oewn,oewn-convert__2.30.00..,kaikki:convert:verb:0:3206:s1,,26,anki_core:1766527459847
+heavily,"몹시, 심하게",adverb,core,B,to a considerable degree,unverified,model_reviewed_pair,oewn,oewn-heavily__4.02.00..,kaikki:heavily:adv:0:4767:s1,,26,anki_core:1766527459848
+loan,"대출, 대출금",noun,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459849
+unexpected,예기치 않은,adjective,core,B,not expected or anticipated,unverified,monosemous_pair,oewn,oewn-unexpected__3.00.00..,kaikki:unexpected:adj:0:5163:s0,,26,anki_core:1766527459850
+cash,현금으로 바꾸다,verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459851
+mortgage,(담보) 대출,noun,core,B,a conditional conveyance of property as security for the repayment of a loan,unverified,monosemous_pair,oewn,oewn-mortgage__1.21.00..,kaikki:mortgage:noun:0:396:s0,,26,anki_core:1766527459852
+payable,지불해야 하는,adjective,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459853
+personal,개인의,adjective,core,B,concerning or affecting a particular person or his or her private life and personality,verified,double_korean_anchor,oewn,oewn-personal__3.00.00..,kaikki:personal:adj:0:2619:s1,개인의,26,anki_core:1766527459854
+practice,"관행, 관례, 연습하다, 실습하다",verb,core,D,,unverified,candidates_unaligned,,,,,26,anki_core:1766527459855
+at the earliest,아무리 빨라도,phrase,basic,C,no sooner than,unverified,single_source_only_sense,kaikki,,kaikki:at the earliest:prep_phrase:0:7843:s0,,26,anki_basic:1766527459856
+at the same time,동시에,phrase,basic,D,,unverified,candidates_unaligned,,,,,26,anki_basic:1766527459857
+at this point,이 시점에서,phrase,basic,C,At the current time or the time that was just described.,unverified,single_source_only_sense,kaikki,,kaikki:at this point:prep_phrase:0:7999:s0,,26,anki_basic:1766527459858
+audition,"심사, 오디션",noun,basic,C,"A performance, by an aspiring performer, to demonstrate suitability or talent.",verified,single_source_korean_anchor,kaikki,,kaikki:audition:noun:0:6304:s0,오디션,26,anki_basic:1766527459859
+automatic payment,자동 납부,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459860
+banker,은행원,noun,basic,C,"One who conducts the business of banking; one who, individually, or as a member of a company, keeps an establishment for the deposit or loan of money, or for traffic in money, bills of exchange, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:banker:noun:1:3274:s0,은행원,26,anki_basic:1766527459861
+banking,"은행 업무, 은행업",noun,basic,D,,unverified,candidates_unaligned,,,,,26,anki_basic:1766527459862
+be used to -ing,~에 익숙하다,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459863
+by the end of the year,연말까지,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459864
+by this time,지금쯤,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459865
+clerk,"사원, 점원",noun,basic,C,"One who occupationally provides assistance by working with records, accounts, letters, etc.; an office worker.",verified,single_source_korean_anchor,kaikki,,kaikki:clerk:noun:0:4164:s0,점원,26,anki_basic:1766527459866
+cozy,아늑한,adjective,basic,C,Affording comfort and warmth; snug; social and comfortable.,verified,single_source_korean_anchor,kaikki,,kaikki:cosy:adj:0:8406:s0,아늑하다,26,anki_basic:1766527459867
+credit card number,신용 카드 번호,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459868
+float,(물에) 뜨다,verb,basic,D,,unverified,proposed_pair_needs_review,,,,,26,anki_basic:1766527459869
+for a short time,잠깐 동안,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459870
+gesture,몸짓,noun,basic,C,"A motion of the limbs or body, especially one made to emphasize speech.",verified,single_source_korean_anchor,kaikki,,kaikki:gesture:noun:0:4695:s0,몸짓,26,anki_basic:1766527459871
+next to,~옆에,phrase,basic,C,"Beside, alongside, by, adjacent to, or near.",verified,single_source_korean_anchor,kaikki,,kaikki:next to:prep:0:5966:s0,옆에,26,anki_basic:1766527459872
+password,비밀번호,noun,basic,C,A word relayed to a person to gain admittance to a place or to gain access to information.,verified,single_source_korean_anchor,kaikki,,kaikki:password:noun:0:1125:s0,비밀번호,26,anki_basic:1766527459873
+coin,동전,noun,basic,C,"A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.",verified,single_source_korean_anchor,kaikki,,kaikki:coin:noun:0:291:s0,동전,26,anki_basic:1766527459874
+evening news,저녁 뉴스,phrase,basic,E,,unverified,no_sense_record,,,,,26,anki_basic:1766527459875
+generously,관대하게,adverb,basic,B,in a generous manner,unverified,monosemous_pair,oewn,oewn-generously__4.02.00..,kaikki:generously:adv:0:6675:s0,,26,anki_basic:1766527459876
+in addition,게다가,phrase,basic,D,,unverified,candidates_unaligned,,,,,26,anki_basic:1766527459877
+in addition to,~에 더하여,phrase,basic,C,as well as; besides,unverified,single_source_only_sense,kaikki,,kaikki:in addition to:prep:0:7613:s0,,26,anki_basic:1766527459878
+in short,요컨대,phrase,basic,D,,unverified,candidates_unaligned,,,,,26,anki_basic:1766527459879
+thankful,"고맙게 생각하는, 감사하는",adjective,basic,B,feeling or showing gratitude,unverified,monosemous_pair,oewn,oewn-thankful__3.00.00..,kaikki:thankful:adj:0:4001:s0,,26,anki_basic:1766527459880
+unnecessary,불필요한,adjective,basic,C,Not needed or necessary.,verified,single_source_korean_anchor,kaikki,,kaikki:unnecessary:adj:0:3160:s0,불필요하다,26,anki_basic:1766527459881
+useful,유용한,adjective,basic,C,Having a practical or beneficial use.,verified,single_source_korean_anchor,kaikki,,kaikki:useful:adj:0:4110:s0,유용하다,26,anki_basic:1766527459882
+awfully,"대단히, 정말",noun,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461853
+bank loan,은행 대출금,phrase,800,C,a loan made by a bank; to be repaid with interest on or before a fixed date,unverified,single_source_only_sense,oewn,oewn-bank_loan__1.21.00..,,,26,anki_800:1766527461854
+bank teller,은행출납원,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461855
+be amazed at,~에 놀라다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461856
+be caught in,"~에 붙잡히다, ~에 걸리다",phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461857
+be spread out,펼쳐져 있다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461858
+every other day,"격일로, 이틀에 한 번",phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461859
+flawed,결함이 있는,adjective,800,B,having a blemish or flaw,unverified,monosemous_pair,oewn,oewn-flawed__5.00.00.imperfect.00,kaikki:flawed:adj:0:5878:s0,,26,anki_800:1766527461860
+foreign currency,외화,phrase,800,C,"Any currency that is in use in a foreign nation, and an authorized medium of circulation and the basis for record-keeping in that nation.",unverified,single_source_only_sense,kaikki,,kaikki:foreign currency:noun:0:6458:s0,,26,anki_800:1766527461861
+gaze into,~을 뚫어지게 보다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461862
+get a loan,대출을 받다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461863
+give out,나눠주다,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461864
+glance at,~을 힐끗보다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461865
+go wrong with,~이 잘못되다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461866
+hang out,시간을 보내다,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461867
+have around,~을 가지고 다니다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461868
+if possible,가능하다면,phrase,800,C,Contingent upon the possibility or convenience of the request.,unverified,single_source_only_sense,kaikki,,kaikki:if possible:adv:0:7892:s0,,26,anki_800:1766527461869
+if you insist,굳이 원하신다면,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461870
+I'll bet,장담하건대,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461871
+locally,장소상으로,adverb,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461872
+pay off,"빚을 다 갚다, 이익이 되다",phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461873
+perhaps,"아마, 어쩌면",noun,800,C,An uncertainty.,unverified,single_source_only_sense,kaikki,,kaikki:perhaps:noun:0:2343:s0,,26,anki_800:1766527461874
+put in,"예금하다, 투자하다",phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461875
+savings,저축,noun,800,C,"Something (usually money) that is saved, particularly money that has been set aside for the future.",verified,single_source_korean_anchor,kaikki,,kaikki:saving:noun:0:8690:s1,저축,26,anki_800:1766527461876
+short-term deposit,단기예금,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461877
+the following day,그다음 날,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461878
+until the first next month,다음 달 1일까지,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461879
+across from,~에 바로 맞은편에,phrase,800,C,"facing, opposite.",unverified,single_source_only_sense,kaikki,,kaikki:across from:prep:0:7379:s0,,26,anki_800:1766527461880
+alarming,"걱정스러운, 두려움",noun,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461881
+anymore,"이제는, 더 이상은",adjective,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461882
+at a time,"한 번에, 동시에",phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461883
+indeed,"실로, 정말",noun,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461884
+otherwise,"다르게, 달리, 만약 그렇지 않으면",noun,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461885
+owing to,~로 인하여,phrase,800,C,"Because of, on account of.",unverified,single_source_only_sense,kaikki,,kaikki:owing to:prep:0:4853:s0,,26,anki_800:1766527461886
+partial,"부분적인, 편파적인",adjective,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461887
+pay out,"지불하다, 치르다",phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461888
+receptive,수용하다,verb,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461889
+simplify,간소화하다,verb,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461890
+someday,"언젠가, 머지않다",verb,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461891
+turn down,거절하다,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461892
+twofold,"두 배로, 이중으로, 두 배의, 이중의",adjective,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461893
+account payable,지급 계정,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461894
+bank account,계좌,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461895
+be highly regarded,높이 평가되다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461896
+be of particular interest to,~가 특별히 관심을 가질만하다,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461897
+billing information,청구서 정보,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461898
+credit,신용,noun,800,D,,unverified,proposed_pair_needs_review,,,,,26,anki_800:1766527461899
+creditor,채권자,noun,800,C,A person to whom a debt is owed.,verified,single_source_korean_anchor,kaikki,,kaikki:creditor:noun:0:6211:s0,채권자,26,anki_800:1766527461900
+currency,통화,noun,800,C,Money or other items used to facilitate transactions.,verified,single_source_korean_anchor,kaikki,,kaikki:currency:noun:0:288:s0,통화,26,anki_800:1766527461901
+debit card,(은행) 직불카드,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461902
+debt,빚,noun,800,C,"Money that one person or entity owes or is required to pay to another, generally as a result of a loan or other financial transaction.",verified,single_source_korean_anchor,kaikki,,kaikki:debt:noun:0:78:s2,빚,26,anki_800:1766527461903
+expiration date,만기일,phrase,800,C,"A date by which an object either should not be used or loses its value, depending upon the item.",unverified,single_source_only_sense,kaikki,,kaikki:expiration date:noun:0:7604:s0,,26,anki_800:1766527461904
+financial history,신용거래실적,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461905
+for the sake of,~을 위하여,phrase,800,C,Because of; out of consideration for; in the interest of.,unverified,single_source_only_sense,kaikki,,kaikki:for the sake of:prep_phrase:0:6932:s0,,26,anki_800:1766527461906
+forge,위조하다,verb,800,C,To create a forgery of; to make a counterfeit item of; to copy or imitate unlawfully.,verified,single_source_korean_anchor,kaikki,,kaikki:forge:verb:2:4332:s2,위조하다,26,anki_800:1766527461907
+forgery,위조하다,verb,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461908
+forthcoming,다가오는,adjective,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461909
+midtown,(도심지와 시 외곽 사이의) 중간지대,noun,800,C,The part of a city between uptown and downtown.,unverified,single_source_only_sense,kaikki,,kaikki:midtown:noun:0:7219:s0,,26,anki_800:1766527461910
+owe,빚지고 있다,verb,800,C,To have debt; to be in debt.,verified,single_source_korean_anchor,kaikki,,kaikki:owe:verb:0:3844:s1,빚지고 있다,26,anki_800:1766527461911
+paid with,(특정한 결제수단으로) 지불된,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461912
+PIN(personal identification number),개인 식별 번호,phrase,800,E,,unverified,no_sense_record,,,,,26,anki_800:1766527461913
+pop up,불쑥 나타나다,phrase,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461914
+public holiday,공휴일,phrase,800,B,authorized by law and limiting work or official business,verified,double_korean_anchor,oewn,oewn-public_holiday__1.28.00..,kaikki:public holiday:noun:0:7014:s0,공휴일,26,anki_800:1766527461915
+reluctant,마음이 내키지 않는,adjective,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461916
+requisition,"요구, 요구서",noun,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461917
+scrutinize,세밀히 조사하다,verb,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461918
+sustain,지속하다,verb,800,D,,unverified,candidates_unaligned,,,,,26,anki_800:1766527461919
+be held up,"잡히다, 지연되다",phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463022
+crash,"(주가의) 폭락, 추락, 충돌",noun,900,D,,unverified,proposed_pair_needs_review,,,,,26,anki_900:1766527463023
+make a withdrawal,돈을 인출하다,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463024
+on loan,대부하여,phrase,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463025
+overdrawn,잔액이 부족한,adjective,900,C,Portrayed in an overstated or exaggerated manner.,unverified,single_source_only_sense,kaikki,,kaikki:overdrawn:adj:0:6747:s0,,26,anki_900:1766527463026
+take out a loan,융자를 받다,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463027
+take out insurance on,~에 보험을 들다,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463028
+accrue,"축적하다, 모으다",verb,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463029
+credible,"신용할 수 있는, 확실한",adjective,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463030
+curb,"억제하다; 억제, 구속",noun/verb,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463031
+redemption,"구원, 구함",noun,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463032
+remit,"송금하다, 면제해 주다",verb,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463033
+secured,보증된,adjective,900,C,That has been secured or fastened.,unverified,single_source_only_sense,kaikki,,kaikki:secured:adj:0:5825:s0,,26,anki_900:1766527463034
+belatedly,뒤늦게,adverb,900,B,later than usual or than expected,unverified,monosemous_pair,oewn,oewn-belatedly__4.02.00..,kaikki:belatedly:adv:0:7126:s0,,26,anki_900:1766527463035
+bounce,(수표 등이) 부도가 나 되돌아오다,verb,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463036
+cluster,"무리, 집단, 송이",noun,900,D,,unverified,proposed_pair_needs_review,,,,,26,anki_900:1766527463037
+collateral,"담보, 저당물",noun,900,D,,unverified,proposed_pair_needs_review,,,,,26,anki_900:1766527463038
+confiscate,"압수하다, 몰수하다",verb,900,B,"take temporary possession of as a security, by legal authority",verified,monosemous_pair,oewn,oewn-confiscate__2.40.01..,kaikki:confiscate:verb:0:6088:s0,몰수하다,26,anki_900:1766527463039
+contender,"도전자, 경쟁자",noun,900,D,,unverified,proposed_pair_needs_review,,,,,26,anki_900:1766527463040
+counterfeit,"가짜, 모조품",noun,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463041
+credit money to one's account,~의 계좌에 돈을 입금하다,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463042
+deposit slip,예금 전표,phrase,900,C,"A form for a depositor to complete, designed to categorically document the items included in a deposit transaction.",unverified,single_source_only_sense,kaikki,,kaikki:deposit slip:noun:0:8059:s0,,26,anki_900:1766527463043
+deterrent,"제지하는 것, 방해물",noun,900,B,something immaterial that interferes with or delays action or progress,unverified,monosemous_pair,oewn,oewn-deterrent__1.09.00..,kaikki:deterrent:noun:0:7008:s0,,26,anki_900:1766527463044
+direct deposit,은행 자동 이체,phrase,900,C,"A deposit of money straight from the source (and initiated by the source) into a bank account, by wire, or other means.",unverified,single_source_only_sense,kaikki,,kaikki:direct deposit:noun:0:7463:s0,,26,anki_900:1766527463045
+draw a check,수표를 발행하다,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463046
+fortnight,2주간,noun,900,C,a period of fourteen consecutive days,unverified,single_source_only_sense,oewn,oewn-fortnight__1.28.00..,,,26,anki_900:1766527463047
+on standby,대기 중인,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463048
+spurious,"허위의, 잘못된",adjective,900,D,,unverified,candidates_unaligned,,,,,26,anki_900:1766527463049
+trust company,"신탁 회사, 신탁 은행",phrase,900,C,an organization (usually with a commercial bank) that is engaged as a trustee or fiduciary or agent in handling trust funds or estates of custodial arrangements or stock transfers or related services,unverified,single_source_only_sense,oewn,oewn-trust_company__1.14.00..,,,26,anki_900:1766527463050
+trustee,"피(被)신탁인, 수탁자",noun,900,C,"A person to whom property is legally committed in trust, to be applied either for the benefit of specified individuals (beneficiaries), or for public uses; one who is intrusted with property for the benefit of another.",verified,single_source_korean_anchor,kaikki,,kaikki:trustee:noun:0:3681:s0,수탁자,26,anki_900:1766527463051
+wire money to,~에게 송금하다,phrase,900,E,,unverified,no_sense_record,,,,,26,anki_900:1766527463052
+wire transfer,전신 송금,phrase,900,C,A transfer of funds between banks by electronic means.,unverified,single_source_only_sense,kaikki,,kaikki:wire transfer:noun:0:7361:s0,,26,anki_900:1766527463053

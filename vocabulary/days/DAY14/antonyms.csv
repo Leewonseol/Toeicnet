@@ -1,0 +1,5 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+unavailable,available,wordnet_antonym,oewn-unavailable__3.00.00..,monosemous_pair
+hospitality,inhospitality,wordnet_antonym,oewn-hospitality__1.10.00..,double_korean_anchor
+sudden,gradual,wordnet_antonym,oewn-sudden__3.00.00..,monosemous_pair
+tastefully,tastelessly,wordnet_antonym,oewn-tastefully__4.02.00..,monosemous_pair

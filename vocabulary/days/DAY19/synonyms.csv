@@ -1,0 +1,36 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+revenue,tax income,wordnet_synset,oewn-revenue__1.21.02..,double_korean_anchor
+revenue,tax revenue,wordnet_synset,oewn-revenue__1.21.02..,double_korean_anchor
+revenue,taxation,wordnet_synset,oewn-revenue__1.21.02..,double_korean_anchor
+anticipate,expect,wordnet_synset,oewn-anticipate__2.31.00..,double_korean_anchor
+improvement,advance,wordnet_synset,oewn-improvement__1.11.00..,model_reviewed_pair
+improvement,betterment,wordnet_synset,oewn-improvement__1.11.00..,model_reviewed_pair
+achieve,accomplish,wordnet_synset,oewn-achieve__2.41.00..,model_reviewed_pair
+achieve,attain,wordnet_synset,oewn-achieve__2.41.00..,model_reviewed_pair
+achieve,reach,wordnet_synset,oewn-achieve__2.41.00..,model_reviewed_pair
+share,parcel,wordnet_synset,oewn-share__1.04.00..,double_korean_anchor
+share,portion,wordnet_synset,oewn-share__1.04.00..,double_korean_anchor
+slightly,more or less,wordnet_synset,oewn-slightly__4.02.01..,double_korean_anchor
+slightly,somewhat,wordnet_synset,oewn-slightly__4.02.01..,double_korean_anchor
+booklet,brochure,wordnet_synset,oewn-booklet__1.10.00..,double_korean_anchor
+booklet,folder,wordnet_synset,oewn-booklet__1.10.00..,double_korean_anchor
+booklet,leaflet,wordnet_synset,oewn-booklet__1.10.00..,double_korean_anchor
+booklet,pamphlet,wordnet_synset,oewn-booklet__1.10.00..,double_korean_anchor
+miss,lose,wordnet_synset,oewn-miss__2.39.00..,double_korean_anchor
+win,advance,wordnet_synset,oewn-win__2.33.01..,double_korean_anchor
+win,gain,wordnet_synset,oewn-win__2.33.01..,double_korean_anchor
+win,gain ground,wordnet_synset,oewn-win__2.33.01..,double_korean_anchor
+win,get ahead,wordnet_synset,oewn-win__2.33.01..,double_korean_anchor
+win,make headway,wordnet_synset,oewn-win__2.33.01..,double_korean_anchor
+win,pull ahead,wordnet_synset,oewn-win__2.33.01..,double_korean_anchor
+gain,acquire,wordnet_synset,oewn-gain__2.40.01..,double_korean_anchor
+gain,win,wordnet_synset,oewn-gain__2.40.01..,double_korean_anchor
+possess,have,wordnet_synset,oewn-possess__2.40.00..,double_korean_anchor
+possess,own,wordnet_synset,oewn-possess__2.40.00..,double_korean_anchor
+quite,rather,wordnet_synset,oewn-quite__4.02.02..,double_korean_anchor
+unusually,notably,wordnet_synset,oewn-unusually__4.02.00..,monosemous_pair
+unusually,remarkably,wordnet_synset,oewn-unusually__4.02.00..,monosemous_pair
+unusually,unco,wordnet_synset,oewn-unusually__4.02.00..,monosemous_pair
+disappointing,dissatisfactory,wordnet_synset,oewn-disappointing__5.00.00.unsatisfactory.00,monosemous_pair
+disappointing,unsatisfying,wordnet_synset,oewn-disappointing__5.00.00.unsatisfactory.00,monosemous_pair
+subside,settle,wordnet_synset,oewn-subside__2.38.00..,double_korean_anchor

@@ -1,0 +1,8 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+confidence,diffidence,wordnet_antonym,oewn-confidence__1.09.00..,model_reviewed_pair
+hire,fire,wordnet_antonym,oewn-hire__2.41.00..,double_korean_anchor
+eligible,ineligible,wordnet_antonym,oewn-eligible__3.00.00..,model_reviewed_pair
+minimum,maximum,wordnet_antonym,oewn-minimum__3.00.00..,monosemous_pair
+talented,untalented,wordnet_antonym,oewn-talented__3.00.00..,monosemous_pair
+improperly,properly,wordnet_antonym,oewn-improperly__4.02.00..,monosemous_pair
+inexperience,experience,wordnet_antonym,oewn-inexperience__1.09.00..,monosemous_pair

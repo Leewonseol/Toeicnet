@@ -1,0 +1,170 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+completely,"전적으로, 완전히",adverb,core,C,In a complete manner; thoroughly.,verified,single_source_korean_anchor,kaikki,,kaikki:completely:adv:0:3302:s0,완전히,16,anki_core:1766527459117
+refuse,거절하다,verb,core,B,not accept as true,verified,double_korean_anchor,oewn,oewn-refuse__2.40.00..,kaikki:refuse:verb:2:2477:s0,거절하다,16,anki_core:1766527459118
+temporarily,일시적으로,adverb,core,B,for a limited time only; not permanently,unverified,monosemous_pair,oewn,oewn-temporarily__4.02.00..,kaikki:temporarily:adv:0:1067:s0,,16,anki_core:1766527459119
+dealer,"판매업자, 상인",noun,core,B,someone who purchases and maintains an inventory of goods to be sold,verified,double_korean_anchor,oewn,oewn-dealer__1.18.02..,kaikki:dealer:noun:0:4007:s0,상인,16,anki_core:1766527459120
+bulk,대량의,adjective,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459121
+inventory,"재고품, 재고 목록",noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459122
+short,부족한,adjective,core,B,of insufficient quantity to meet a need,unverified,model_reviewed_pair,oewn,oewn-short__5.00.00.insufficient.00,kaikki:short:adj:0:945:s10,,16,anki_core:1766527459123
+cost,"비용, (비용)이 들다",verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459124
+selection,"선택된 것, 정선품",noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459125
+commercial,"상업의, 상업적인, 광고",noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459126
+order,"주문하다, 주문, 주문품",noun,core,B,a commercial document used to request someone to supply something in return for payment and providing specifications and quantities,verified,double_korean_anchor,oewn,oewn-order__1.10.01..,kaikki:order:noun:0:1238:s5,주문;주문하다,16,anki_core:1766527459127
+provide,"공급하다, 제공하다",verb,core,B,"give what is desired or needed, especially support, food or sustenance",unverified,model_reviewed_pair,oewn,oewn-provide__2.34.00..,kaikki:provide:verb:0:3801:s3,,16,anki_core:1766527459128
+contact,"~와 연락하다, (상업적 목적으로) 교섭하고 있는 사람",noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459129
+invoice,송장,noun,core,C,"A bill; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",verified,single_source_korean_anchor,kaikki,,kaikki:invoice:noun:0:6102:s0,송장,16,anki_core:1766527459130
+move,"옮기다, 움직이다, 조치, 수단, 이동, 이사",noun,core,C,The event of changing one's residence.,verified,single_source_korean_anchor,kaikki,,kaikki:move:noun:0:2182:s3,옮기다;움직이다;이사,16,anki_core:1766527459131
+supply,"공급하다, 공급, 비품, 소모품",noun,core,B,an amount of something available for use,verified,model_reviewed_pair,oewn,oewn-supply__1.23.00..,kaikki:supply:noun:1:4123:s1,공급;공급하다,16,anki_core:1766527459132
+discount,할인,noun,core,B,the act of reducing the selling price of merchandise,verified,double_korean_anchor,oewn,oewn-discount__1.04.00..,kaikki:discount:noun:0:3349:s0,할인,16,anki_core:1766527459133
+distribute,"배포하다, 배급하다",verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459134
+acquisition,"인수, 구입한 것",noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459135
+assure,"~에게 보장하다, ~을 안심시키다, 장담하다",verb,core,B,make certain of,unverified,model_reviewed_pair,oewn,oewn-assure__2.32.03..,kaikki:assure:verb:0:3201:s0,,16,anki_core:1766527459136
+subject,"~의 영향을 받기 쉬운, (동의 등을) 조건으로 하는, ~에게 (~을) 받게 하다",verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459137
+seek,"구하다, 찾다",verb,core,B,"try to locate or discover, or try to establish the existence of",verified,double_korean_anchor,oewn,oewn-seek__2.35.00..,kaikki:seek:verb:0:761:s0,찾다,16,anki_core:1766527459138
+satisfactory,만족스러운,adjective,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459139
+confirmation,"확인, 확증",noun,core,C,An official indicator that things will happen as planned.,verified,single_source_korean_anchor,kaikki,,kaikki:confirmation:noun:0:2541:s0,확인,16,anki_core:1766527459140
+unable,~할 수 없는,adjective,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459141
+payment,"지불(금액), 납입(금액)",noun,core,C,The act of paying.,verified,single_source_korean_anchor,kaikki,,kaikki:payment:noun:0:453:s0,지불,16,anki_core:1766527459142
+measure,"대책, 조치, 수단, 측정하다",verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459143
+bargain,"특가품, 흥정",noun,core,D,,unverified,proposed_pair_needs_review,,,,,16,anki_core:1766527459144
+stock,"재고, 주식",noun,core,B,the merchandise that a shop has on hand,verified,double_korean_anchor,oewn,oewn-stock__1.06.00..,kaikki:stock:noun:1:117:s1,재고;주식,16,anki_core:1766527459145
+affordability,감당할 수 있는 내용,noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459146
+clientele,"(집합적) 고객들, (변호사·건축가 등의) 모든 의뢰인",adjective,core,E,,unverified,no_sense_record,,,,,16,anki_core:1766527459147
+acclaim,"호평, 찬사",noun,core,B,enthusiastic approval,unverified,monosemous_pair,oewn,oewn-acclaim__1.10.00..,kaikki:acclaim:noun:2:226:s0,,16,anki_core:1766527459148
+represent,~을 대표하다,verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459149
+rating,"등급, 평가",noun,core,B,an appraisal of the value of something,verified,double_korean_anchor,oewn,oewn-rating__1.09.00..,kaikki:rating:noun:0:4562:s1,등급;평가,16,anki_core:1766527459150
+encompass,"포함하다, 둘러싸다",verb,core,B,include in scope; include as part of something broader; have as one's sphere or territory,unverified,model_reviewed_pair,oewn,oewn-encompass__2.42.00..,kaikki:encompass:verb:0:4513:s2,,16,anki_core:1766527459151
+finalize,"마무리 짓다, 완결하다",verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459152
+market,시장,noun,core,B,the customers for a particular product or service,verified,model_reviewed_pair,oewn,oewn-market__1.14.00..,kaikki:market:noun:0:152:s3,시장,16,anki_core:1766527459153
+retail,소매,noun,core,C,"The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",verified,single_source_korean_anchor,kaikki,,kaikki:retail:noun:0:1655:s0,소매,16,anki_core:1766527459154
+commodity,"상품, 산물",noun,core,D,,unverified,proposed_pair_needs_review,,,,,16,anki_core:1766527459155
+quote,"견적(액), 견적을 내다",verb,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459156
+consignment,위탁 판매,noun,core,D,,unverified,candidates_unaligned,,,,,16,anki_core:1766527459157
+checklist,점검표,noun,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459158
+client,"고객, 의뢰인",adjective,basic,E,,unverified,no_sense_record,,,,,16,anki_basic:1766527459159
+communicate,의사소통하다,verb,basic,C,"To express or convey ideas, either through verbal or nonverbal means; to have intercourse, to exchange information.",verified,single_source_korean_anchor,kaikki,,kaikki:communicate:verb:1:4243:s6,의사소통하다,16,anki_basic:1766527459160
+exchange,"교환, 교환하다",verb,basic,C,To trade or barter.,verified,single_source_korean_anchor,kaikki,,kaikki:exchange:verb:2:2212:s0,교환;교환하다,16,anki_basic:1766527459161
+film studio,영화 제작사,phrase,basic,E,,unverified,no_sense_record,,,,,16,anki_basic:1766527459162
+journal,"신문, 잡지, 일지",noun,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459163
+journalist,기자,noun,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459164
+magazine,잡지,noun,basic,C,"A nonacademic, periodical publication which consists of articles by multiple writers on some broad topic or theme.",verified,single_source_korean_anchor,kaikki,,kaikki:magazine:noun:0:1702:s0,잡지,16,anki_basic:1766527459165
+newspaper,신문,noun,basic,C,"A publication, usually published daily or weekly, containing news and other articles. Traditionally a print publication typically printed on cheap, low-quality paper; today usually digital and often also available in print.",verified,single_source_korean_anchor,kaikki,,kaikki:newspaper:noun:0:1513:s0,신문,16,anki_basic:1766527459166
+newsstand,신문 가판대,noun,basic,C,"An open stall, often on a street, where newspapers and magazines are on sale to the public.",verified,single_source_korean_anchor,kaikki,,kaikki:newsstand:noun:0:6231:s0,신문 가판대,16,anki_basic:1766527459167
+parade,"퍼레이드, 행렬",noun,basic,B,a ceremonial procession including people marching,verified,double_korean_anchor,oewn,oewn-parade__1.14.00..,kaikki:parade:noun:1:5527:s1,퍼레이드;행렬,16,anki_basic:1766527459168
+publisher,"출판사, 발행자",noun,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459169
+reader,독자,noun,basic,B,someone who reads manuscripts and judges their suitability for publication,verified,double_korean_anchor,oewn,oewn-reader__1.18.05..,kaikki:reader:noun:0:4788:s1,독자,16,anki_basic:1766527459170
+reporter,"보도 기자, 리포터",noun,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459171
+sales trend,판매 추세,phrase,basic,E,,unverified,no_sense_record,,,,,16,anki_basic:1766527459172
+comforting,위로가 되는,adjective,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459173
+excellently,뛰어나게,adverb,basic,B,wonderfully,unverified,monosemous_pair,oewn,oewn-excellently__4.02.00..,kaikki:excellently:adv:0:7059:s0,,16,anki_basic:1766527459174
+export,"수출하다, 수출",noun,basic,C,Something that is exported.,verified,single_source_korean_anchor,kaikki,,kaikki:export:noun:0:3098:s0,수출,16,anki_basic:1766527459175
+former,예전의,adjective,basic,D,,unverified,proposed_pair_needs_review,,,,,16,anki_basic:1766527459176
+govern,"통치하다, 지배하다",verb,basic,B,exercise authority over; as of nations,verified,double_korean_anchor,oewn,oewn-govern__2.41.00..,kaikki:govern:verb:0:2488:s0,통치하다,16,anki_basic:1766527459177
+government,정부,noun,basic,C,"The body with the power to make and/or enforce laws to control a country, land area, people or organization.",verified,single_source_korean_anchor,kaikki,,kaikki:government:noun:0:142:s0,정부,16,anki_basic:1766527459178
+import,"수입하다, 수입",noun,basic,C,The practice of importing.,verified,single_source_korean_anchor,kaikki,,kaikki:import:noun:1:1500:s1,수입;수입하다,16,anki_basic:1766527459179
+politician,정치인,noun,basic,C,"One engaged in politics, especially an elected or appointed government official.",verified,single_source_korean_anchor,kaikki,,kaikki:politician:noun:0:2673:s0,정치인,16,anki_basic:1766527459180
+politics,"정치, 정치학",noun,basic,B,the study of government of states and other political units,verified,double_korean_anchor,oewn,oewn-politics__1.09.00..,kaikki:politics:noun:0:744:s0,정치,16,anki_basic:1766527459181
+shortly,얼마 안 되어,noun,basic,E,,unverified,no_sense_record,,,,,16,anki_basic:1766527459182
+start,"시작하다, 시작",noun,basic,C,The beginning of an activity.,verified,single_source_korean_anchor,kaikki,,kaikki:start:noun:1:1143:s0,시작;시작하다,16,anki_basic:1766527459183
+supplier,공급자,noun,basic,C,One who supplies; a provider.,verified,single_source_korean_anchor,kaikki,,kaikki:supplier:noun:0:6755:s0,공급자,16,anki_basic:1766527459184
+unlikely,~일 것 같지 않은,adjective,basic,D,,unverified,candidates_unaligned,,,,,16,anki_basic:1766527459185
+back away from,"~에서 뒷걸음치다, 물러나다",phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461174
+be closed for the day,(영업시간이 끝나) 문을 닫다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461175
+be determined to do,~하기로 결심하다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461176
+business day,영업일,phrase,800,C,A day on which business is conducted; a workday or working day.,unverified,single_source_only_sense,kaikki,,kaikki:business day:noun:0:7430:s0,,16,anki_800:1766527461177
+commercial space,상업공간,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461178
+day after tomorrow,모레,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461179
+front-page story,1면 기사,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461180
+give a good price,좋은 가격에 주다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461181
+headline,기사 제목,noun,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461182
+in stock,재고가 있는,phrase,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461183
+lead (up/down) to,"~로 이어지다, ~로 통하다",phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461184
+make a recording,"녹음하다, 녹화하다",phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461185
+normal operating hours,정상 영업시간,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461186
+on sale,판매되고 있는,phrase,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461187
+on the market,시판 중인,phrase,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461188
+out of print,절판된,phrase,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461189
+out of stock,재고가 없는,phrase,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461190
+overcharge,"바가지 씌우다, 부당한 값을 요구하다",verb,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461191
+payment option,결제 방법,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461192
+place an order,주문하다,phrase,800,C,To order something; to submit an order for a product.,unverified,single_source_only_sense,kaikki,,kaikki:place an order:verb:0:7303:s0,,16,anki_800:1766527461193
+put A out for sale,A를 판매하기 위해 내놓다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461194
+retail store,소매점,phrase,800,C,a place of business for retailing goods,unverified,single_source_only_sense,oewn,oewn-retail_store__1.06.00..,,,16,anki_800:1766527461195
+run out of,"~을 다 써 버리다, ~이 바닥나다",phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461196
+sales presentation,제품 소개,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461197
+salesperson,"판매원, 외판원",noun,800,B,a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited),unverified,monosemous_pair,oewn,oewn-salesperson__1.18.00..,kaikki:salesperson:noun:0:6084:s0,,16,anki_800:1766527461198
+sold out,매진된,phrase,800,C,Completely sold; of which no more is in stock.,unverified,single_source_only_sense,kaikki,,kaikki:sold out:adj:0:7523:s0,,16,anki_800:1766527461199
+stay open late,늦게까지 영업하다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461200
+stockroom,물품 보관소,noun,800,B,storeroom for storing goods and supplies used in a business,unverified,monosemous_pair,oewn,oewn-stockroom__1.06.00..,kaikki:stockroom:noun:0:7063:s0,,16,anki_800:1766527461201
+storage facility,창고 시설,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461202
+storeroom,저장실,noun,800,B,a room in which things are stored,unverified,monosemous_pair,oewn,oewn-storeroom__1.06.00..,kaikki:storeroom:noun:0:6754:s0,,16,anki_800:1766527461203
+take inventory,재고 목록을 만들다,phrase,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461204
+accordingly,"그에 알맞게, 따라서",adverb,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461205
+adaptable,적응할 수 있는,adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461206
+along with,~와 함께,phrase,800,C,In addition to; coupled with.,unverified,single_source_only_sense,kaikki,,kaikki:along with:prep:0:7444:s0,,16,anki_800:1766527461207
+at the latest,늦어도,phrase,800,C,no later than,unverified,single_source_only_sense,kaikki,,kaikki:at the latest:prep_phrase:0:7492:s0,,16,anki_800:1766527461208
+compliant,준수하는,adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461209
+correspond,"일치하다, 부합하다",verb,800,B,"be compatible, similar or consistent; coincide in their characteristics",verified,double_korean_anchor,oewn,oewn-correspond__2.42.00..,kaikki:correspond:verb:0:4565:s0,부합하다;일치하다,16,anki_800:1766527461210
+cultivation,"우호 증진, 양성",noun,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461211
+do business with,~와 거래하다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461212
+had better do,"~하는 편이 낫다, ~ 해야 한다",phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461213
+honorable,"고결한, 정직한",adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461214
+perceptive,통찰력 있는,adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461215
+reasonably,"합리적으로, 적당하게",adverb,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461216
+transformation,"변화, 변신",noun,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461217
+attain,(목표를) 달성하다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,16,anki_800:1766527461218
+barter,"물물 교환하다, 물물 교환",noun,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461219
+boycott,"불매하다, 불매 운동",noun,800,B,a group's refusal to have commercial dealings with some organization in protest against its policies,unverified,monosemous_pair,oewn,oewn-boycott__1.04.00..,kaikki:boycott:noun:0:4489:s0,,16,anki_800:1766527461220
+capitalize on,"~을 이용하다, 기회로 삼다",phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461221
+council,"이사회, 의회",noun,800,C,"A committee that leads or governs (e.g. city council, student council).",verified,single_source_korean_anchor,kaikki,,kaikki:council:noun:0:4093:s0,이사회,16,anki_800:1766527461222
+Department of Commerce,상무부,phrase,800,C,the United States federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913,unverified,single_source_only_sense,oewn,oewn-department_of_commerce__1.14.00..,,,16,anki_800:1766527461223
+depot,"창고, 저장소",noun,800,B,a depository for goods,verified,double_korean_anchor,oewn,oewn-depot__1.06.01..,kaikki:depot:noun:0:6407:s0,창고,16,anki_800:1766527461224
+diminish,감소하다,verb,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461225
+duty-free,"관세가 없는, 면세의",adjective,800,C,"Exempt from duty, especially from customs duty.",verified,single_source_korean_anchor,kaikki,,kaikki:duty-free:adj:0:6976:s0,면세,16,anki_800:1766527461226
+election,선거,noun,800,B,a vote to select the winner of a position or political office,verified,double_korean_anchor,oewn,oewn-election__1.04.01..,kaikki:election:noun:0:1011:s0,선거,16,anki_800:1766527461227
+exercise one's right,권리를 행사하다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461228
+federal,연방의,adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461229
+hold power,권력을 쥐다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461230
+inclination,"의향, 뜻",noun,800,D,,unverified,proposed_pair_needs_review,,,,,16,anki_800:1766527461231
+inevitable,불가피한,adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461232
+loyal customer,단골 고객,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461233
+outside provider,외부 공급자,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461234
+poll,여론 조사,noun,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461235
+possession,"소유물, 소유",noun,800,C,Something that is owned.,verified,single_source_korean_anchor,kaikki,,kaikki:possession:noun:0:3122:s1,소유물,16,anki_800:1766527461236
+scarce,부족한,adjective,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461237
+status,지위,noun,800,B,the relative position or standing of things or especially persons in a society,verified,double_korean_anchor,oewn,oewn-status__1.26.00..,kaikki:status:noun:0:4278:s0,지위,16,anki_800:1766527461238
+switch A to B,A를 B를 바꾸다,phrase,800,E,,unverified,no_sense_record,,,,,16,anki_800:1766527461239
+wholesaler,도매업자,noun,800,B,someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers,unverified,monosemous_pair,oewn,oewn-wholesaler__1.18.00..,kaikki:wholesaler:noun:0:4979:s0,,16,anki_800:1766527461240
+withstand,"견디다, 이겨내다",verb,800,D,,unverified,candidates_unaligned,,,,,16,anki_800:1766527461241
+be closed to the public,일반인의 출입이 금지되다,phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462702
+breaking news,속보,phrase,900,C,News that has either just happened or is currently happening.,verified,single_source_korean_anchor,kaikki,,kaikki:breaking news:noun:0:4482:s0,속보,16,anki_900:1766527462703
+run an article,기사를 게재하다,phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462704
+step down,물러나다,phrase,900,D,,unverified,proposed_pair_needs_review,,,,,16,anki_900:1766527462705
+write up,"(사건을) 기록하다, 쓰다",phrase,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462706
+diversified,"다양한, 여러 가지의",adjective,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462707
+engrave,(문자·도안 등을) ~에 새기다,verb,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462708
+facilitator,"조력자, 협력자",noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462709
+itemized,항목별로 구분한,adjective,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462710
+keep track of,"~을 계속 알고 있다, ~을 기록하다",phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462711
+predominantly,"대개, 대부분",noun,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462712
+profoundly,깊이,noun,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462713
+barring,~이 없다면,noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462714
+bureaucracy,관료 제도,noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462715
+cast a ballot,투표하다,phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462716
+come to power,권력을 잡다,phrase,900,C,"To be installed in high office, for example as a king, president, or prime minister.",unverified,single_source_only_sense,kaikki,,kaikki:come to power:verb:0:7488:s0,,16,anki_900:1766527462717
+constituency,"단골, 고객층, 선거구, 유권자",noun,900,C,A district represented by one or more elected officials.,verified,single_source_korean_anchor,kaikki,,kaikki:constituency:noun:0:5179:s0,선거구,16,anki_900:1766527462718
+contend with,~와 다투다,phrase,900,C,Synonym of deal with.,unverified,single_source_only_sense,kaikki,,kaikki:contend with:verb:0:8049:s0,,16,anki_900:1766527462719
+drawback,"약점, 문제점",noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462720
+in place of,~을 대신하여,phrase,900,C,instead of,unverified,single_source_only_sense,kaikki,,kaikki:in place of:prep:0:7376:s0,,16,anki_900:1766527462721
+in the prepaid envelope,우편 요금이 선납된 봉투에,phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462722
+nationalize,국영화하다,verb,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462723
+parliament,"의회, 국회",noun,900,B,a legislative assembly in certain countries,verified,double_korean_anchor,oewn,oewn-parliament__1.14.00..,kaikki:parliament:noun:0:1219:s1,국회;의회,16,anki_900:1766527462724
+peddler,행상인,adjective,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462725
+price quote,견적서,phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462726
+protocol,의정서,noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462727
+scarcity,부족,noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462728
+summit,정상 회담,noun,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462729
+surrender,"양도하다, 항복하다",verb,900,D,,unverified,candidates_unaligned,,,,,16,anki_900:1766527462730
+take an action against,~를 고소하다,phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462731
+third party,제삼자,phrase,900,C,Someone not directly involved in a transaction; an entity beyond the seller (first party) and customer (second party).,verified,single_source_korean_anchor,kaikki,,kaikki:third party:noun:0:6389:s0,제삼자,16,anki_900:1766527462732
+unsuccessful candidate,"불합격자, 낙선 후보",phrase,900,E,,unverified,no_sense_record,,,,,16,anki_900:1766527462733

@@ -1,0 +1,78 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+last,endure,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+last,go,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+last,hold out,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+last,hold up,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+last,live,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+last,live on,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+last,survive,wordnet_synset,oewn-last__2.42.01..,double_korean_anchor
+persist,die hard,wordnet_synset,oewn-persist__2.42.00..,model_reviewed_pair
+persist,endure,wordnet_synset,oewn-persist__2.42.00..,model_reviewed_pair
+persist,prevail,wordnet_synset,oewn-persist__2.42.00..,model_reviewed_pair
+persist,run,wordnet_synset,oewn-persist__2.42.00..,model_reviewed_pair
+establish,found,wordnet_synset,oewn-establish__2.41.00..,model_reviewed_pair
+establish,launch,wordnet_synset,oewn-establish__2.41.00..,model_reviewed_pair
+establish,set up,wordnet_synset,oewn-establish__2.41.00..,model_reviewed_pair
+renowned,celebrated,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+renowned,famed,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+renowned,famous,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+renowned,far-famed,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+renowned,illustrious,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+renowned,notable,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+renowned,noted,wordnet_synset,oewn-renowned__5.00.00.known.00,model_reviewed_pair
+minutes,proceedings,wordnet_synset,oewn-minutes__1.10.00..,double_korean_anchor
+minutes,transactions,wordnet_synset,oewn-minutes__1.10.00..,double_korean_anchor
+run,run for,wordnet_synset,oewn-run__2.42.05..,model_reviewed_pair
+premier,prime,wordnet_synset,oewn-premier__5.00.02.first.00,model_reviewed_pair
+plaza,piazza,wordnet_synset,oewn-plaza__1.15.00..,double_korean_anchor
+plaza,place,wordnet_synset,oewn-plaza__1.15.00..,double_korean_anchor
+correctly,aright,wordnet_synset,oewn-correctly__4.02.01..,monosemous_pair
+correctly,right,wordnet_synset,oewn-correctly__4.02.01..,monosemous_pair
+converse,discourse,wordnet_synset,oewn-converse__2.32.00..,double_korean_anchor
+crack,cleft,wordnet_synset,oewn-crack__1.17.00..,double_korean_anchor
+crack,crevice,wordnet_synset,oewn-crack__1.17.00..,double_korean_anchor
+crack,fissure,wordnet_synset,oewn-crack__1.17.00..,double_korean_anchor
+crack,scissure,wordnet_synset,oewn-crack__1.17.00..,double_korean_anchor
+newsletter,newssheet,wordnet_synset,oewn-newsletter__1.10.00..,monosemous_pair
+spokesperson,interpreter,wordnet_synset,oewn-spokesperson__1.18.00..,monosemous_pair
+spokesperson,representative,wordnet_synset,oewn-spokesperson__1.18.00..,monosemous_pair
+spokesperson,voice,wordnet_synset,oewn-spokesperson__1.18.00..,monosemous_pair
+anticipated,awaited,wordnet_synset,oewn-anticipated__5.00.00.expected.00,monosemous_pair
+anticipated,hoped-for,wordnet_synset,oewn-anticipated__5.00.00.expected.00,monosemous_pair
+commemorative,commemorating,wordnet_synset,oewn-commemorative__3.01.00..,monosemous_pair
+era,epoch,wordnet_synset,oewn-era__1.28.00..,double_korean_anchor
+fast-growing,aggressive,wordnet_synset,oewn-fast--growing__5.00.00.invasive.00,monosemous_pair
+fast-growing,strong-growing,wordnet_synset,oewn-fast--growing__5.00.00.invasive.00,monosemous_pair
+hinder,block,wordnet_synset,oewn-hinder__2.41.00..,double_korean_anchor
+hinder,blockade,wordnet_synset,oewn-hinder__2.41.00..,double_korean_anchor
+hinder,embarrass,wordnet_synset,oewn-hinder__2.41.00..,double_korean_anchor
+hinder,obstruct,wordnet_synset,oewn-hinder__2.41.00..,double_korean_anchor
+hinder,stymie,wordnet_synset,oewn-hinder__2.41.00..,double_korean_anchor
+hinder,stymy,wordnet_synset,oewn-hinder__2.41.00..,double_korean_anchor
+inhabitant,denizen,wordnet_synset,oewn-inhabitant__1.18.00..,double_korean_anchor
+inhabitant,dweller,wordnet_synset,oewn-inhabitant__1.18.00..,double_korean_anchor
+inhabitant,habitant,wordnet_synset,oewn-inhabitant__1.18.00..,double_korean_anchor
+inhabitant,indweller,wordnet_synset,oewn-inhabitant__1.18.00..,double_korean_anchor
+meditate,chew over,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,contemplate,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,excogitate,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,mull,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,mull over,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,muse,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,ponder,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+meditate,reflect,wordnet_synset,oewn-meditate__2.31.00..,double_korean_anchor
+rashly,headlong,wordnet_synset,oewn-rashly__4.02.03..,monosemous_pair
+retreat,draw back,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+retreat,move back,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+retreat,pull away,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+retreat,pull back,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+retreat,recede,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+retreat,retire,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+retreat,withdraw,wordnet_synset,oewn-retreat__2.38.00..,double_korean_anchor
+beware,mind,wordnet_synset,oewn-beware__2.31.00..,monosemous_pair
+makeshift,improvised,wordnet_synset,oewn-makeshift__5.00.00.impermanent.00,monosemous_pair
+makeshift,jury-rigged,wordnet_synset,oewn-makeshift__5.00.00.impermanent.00,monosemous_pair
+squeaky,screaky,wordnet_synset,oewn-squeaky__5.00.00.high.03,monosemous_pair
+squeaky,screechy,wordnet_synset,oewn-squeaky__5.00.00.high.03,monosemous_pair
+squeaky,squeaking,wordnet_synset,oewn-squeaky__5.00.00.high.03,monosemous_pair
+squeaky,squealing,wordnet_synset,oewn-squeaky__5.00.00.high.03,monosemous_pair

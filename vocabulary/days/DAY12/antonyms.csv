@@ -1,0 +1,5 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+curved,straight,wordnet_antonym,oewn-curved__3.00.00..,monosemous_pair
+combustible,noncombustible,wordnet_antonym,oewn-combustible__3.00.00..,monosemous_pair
+custom-made,ready-made,wordnet_antonym,oewn-custom--made__3.00.00..,monosemous_pair
+involuntarily,voluntarily,wordnet_antonym,oewn-involuntarily__4.02.00..,monosemous_pair

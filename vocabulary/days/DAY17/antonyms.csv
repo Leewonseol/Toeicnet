@@ -1,0 +1,5 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+perishable,imperishable,wordnet_antonym,oewn-perishable__3.00.00..,monosemous_pair
+separate,joint,wordnet_antonym,oewn-separate__3.00.00..,model_reviewed_pair
+detach,attach,wordnet_antonym,oewn-detach__2.35.01..,model_reviewed_pair
+closing,opening,wordnet_antonym,oewn-closing__3.00.00..,monosemous_pair

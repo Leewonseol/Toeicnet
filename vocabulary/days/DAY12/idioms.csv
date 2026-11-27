@@ -1,0 +1,9 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+watering can,compound_noun,C,"A utensil for watering plants, consisting of a container with a handle and long spout, the spout sometimes being fitted with a perforated nozzle.",kaikki,kaikki:watering can:noun:0:3834:s0
+scale model,compound_noun,C,"A three-dimensional copy or representation of something in which all parts have dimensions in the same proportion to that of the original (i.e., all aspect ratios are preserved).",kaikki,kaikki:scale model:noun:0:7300:s0
+crude oil,compound_noun,C,"Unrefined oil; as it is found underground, consisting mainly of hydrocarbons.",kaikki,kaikki:crude oil:noun:0:54:s0
+in the event of,prepositional_expression,C,In case of.,kaikki,kaikki:in the event of:prep:0:7637:s0
+line worker,compound_noun,C,an employee who works on an assembly line,oewn,oewn-line_worker__1.18.00..
+make an exception,phrasal_or_multiword_verb,C,To permit something that does not follow the usual rules or standards.,kaikki,kaikki:make an exception:verb:0:8001:s0
+on call,phrase,C,Available to be summoned.,kaikki,kaikki:on call:prep_phrase:0:6759:s0
+on the edge of,prepositional_expression,C,"Very near, imminently approaching; ready to, about to.",kaikki,kaikki:on the edge of:prep:0:8033:s0

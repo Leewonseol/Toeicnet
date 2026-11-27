@@ -1,0 +1,81 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+appropriate,suitable,wordnet_synset,oewn-appropriate__5.00.01.fit.02,double_korean_anchor
+appropriate,suited,wordnet_synset,oewn-appropriate__5.00.01.fit.02,double_korean_anchor
+repair,bushel,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+repair,doctor,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+repair,fix,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+repair,furbish up,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+repair,mend,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+repair,restore,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+repair,touch on,wordnet_synset,oewn-repair__2.30.00..,double_korean_anchor
+restore,reestablish,wordnet_synset,oewn-restore__2.41.00..,model_reviewed_pair
+restore,reinstate,wordnet_synset,oewn-restore__2.41.00..,model_reviewed_pair
+maintain,hold,wordnet_synset,oewn-maintain__2.42.00..,double_korean_anchor
+maintain,keep,wordnet_synset,oewn-maintain__2.42.00..,double_korean_anchor
+prepare,fix,wordnet_synset,oewn-prepare__2.30.00..,model_reviewed_pair
+prepare,gear up,wordnet_synset,oewn-prepare__2.30.00..,model_reviewed_pair
+prepare,ready,wordnet_synset,oewn-prepare__2.30.00..,model_reviewed_pair
+prepare,set,wordnet_synset,oewn-prepare__2.30.00..,model_reviewed_pair
+prepare,set up,wordnet_synset,oewn-prepare__2.30.00..,model_reviewed_pair
+finally,at last,wordnet_synset,oewn-finally__4.02.00..,double_korean_anchor
+finally,at long last,wordnet_synset,oewn-finally__4.02.00..,double_korean_anchor
+finally,in the end,wordnet_synset,oewn-finally__4.02.00..,double_korean_anchor
+finally,ultimately,wordnet_synset,oewn-finally__4.02.00..,double_korean_anchor
+district,dominion,wordnet_synset,oewn-district__1.15.00..,double_korean_anchor
+district,territorial dominion,wordnet_synset,oewn-district__1.15.00..,double_korean_anchor
+district,territory,wordnet_synset,oewn-district__1.15.00..,double_korean_anchor
+interfere,interpose,wordnet_synset,oewn-interfere__2.41.00..,double_korean_anchor
+interfere,intervene,wordnet_synset,oewn-interfere__2.41.00..,double_korean_anchor
+interfere,step in,wordnet_synset,oewn-interfere__2.41.00..,double_korean_anchor
+totally,all,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+totally,altogether,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+totally,completely,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+totally,entirely,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+totally,right,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+totally,whole,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+totally,wholly,wordnet_synset,oewn-totally__4.02.00..,model_reviewed_pair
+actually,properly speaking,wordnet_synset,oewn-actually__4.02.01..,model_reviewed_pair
+actually,really,wordnet_synset,oewn-actually__4.02.01..,model_reviewed_pair
+actually,strictly speaking,wordnet_synset,oewn-actually__4.02.01..,model_reviewed_pair
+actually,to be precise,wordnet_synset,oewn-actually__4.02.01..,model_reviewed_pair
+install,instal,wordnet_synset,oewn-install__2.35.00..,double_korean_anchor
+install,put in,wordnet_synset,oewn-install__2.35.00..,double_korean_anchor
+install,set up,wordnet_synset,oewn-install__2.35.00..,double_korean_anchor
+decoration,ornament,wordnet_synset,oewn-decoration__1.06.00..,double_korean_anchor
+decoration,ornamentation,wordnet_synset,oewn-decoration__1.06.00..,double_korean_anchor
+frame,framework,wordnet_synset,oewn-frame__1.06.04..,double_korean_anchor
+lobby,advocacy group,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,antechamber,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,anteroom,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,entrance hall,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,foyer,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,hall,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,lobby group,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+lobby,pressure group,wordnet_synset,oewn-lobby__1.06.00..,double_korean_anchor
+desktop,background,wordnet_synset,oewn-desktop__1.06.00..,double_korean_anchor
+desktop,screen background,wordnet_synset,oewn-desktop__1.06.00..,double_korean_anchor
+dwell,inhabit,wordnet_synset,oewn-dwell__2.42.00..,double_korean_anchor
+dwell,live,wordnet_synset,oewn-dwell__2.42.00..,double_korean_anchor
+dwell,populate,wordnet_synset,oewn-dwell__2.42.00..,double_korean_anchor
+inhabit,dwell,wordnet_synset,oewn-inhabit__2.42.00..,double_korean_anchor
+inhabit,live,wordnet_synset,oewn-inhabit__2.42.00..,double_korean_anchor
+inhabit,populate,wordnet_synset,oewn-inhabit__2.42.00..,double_korean_anchor
+neighbor,neighbour,wordnet_synset,oewn-neighbor__1.17.00..,double_korean_anchor
+column,pillar,wordnet_synset,oewn-column__1.06.00..,double_korean_anchor
+courtyard,court,wordnet_synset,oewn-courtyard__1.06.00..,monosemous_pair
+doorway,door,wordnet_synset,oewn-doorway__1.06.00..,double_korean_anchor
+doorway,room access,wordnet_synset,oewn-doorway__1.06.00..,double_korean_anchor
+doorway,threshold,wordnet_synset,oewn-doorway__1.06.00..,double_korean_anchor
+faucet,spigot,wordnet_synset,oewn-faucet__1.06.01..,double_korean_anchor
+handrail,balusters,wordnet_synset,oewn-handrail__1.06.00..,double_korean_anchor
+handrail,balustrade,wordnet_synset,oewn-handrail__1.06.00..,double_korean_anchor
+handrail,banister,wordnet_synset,oewn-handrail__1.06.00..,double_korean_anchor
+handrail,bannister,wordnet_synset,oewn-handrail__1.06.00..,double_korean_anchor
+stairway,staircase,wordnet_synset,oewn-stairway__1.06.00..,monosemous_pair
+fire extinguisher,asphyxiator,wordnet_synset,oewn-fire_extinguisher__1.06.00..,double_korean_anchor
+fire extinguisher,extinguisher,wordnet_synset,oewn-fire_extinguisher__1.06.00..,double_korean_anchor
+homebuilder,home-builder,wordnet_synset,oewn-homebuilder__1.18.00..,monosemous_pair
+homebuilder,house-builder,wordnet_synset,oewn-homebuilder__1.18.00..,monosemous_pair
+homebuilder,housebuilder,wordnet_synset,oewn-homebuilder__1.18.00..,monosemous_pair
+hedge,hedgerow,wordnet_synset,oewn-hedge__1.06.00..,double_korean_anchor
+complex,complicated,wordnet_synset,oewn-complex__5.00.01.complex.00,double_korean_anchor

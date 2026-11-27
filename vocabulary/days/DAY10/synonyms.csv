@@ -1,0 +1,47 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+affordable,low-cost,wordnet_synset,oewn-affordable__5.00.00.cheap.00,monosemous_pair
+affordable,low-priced,wordnet_synset,oewn-affordable__5.00.00.cheap.00,monosemous_pair
+warranty,guarantee,wordnet_synset,oewn-warranty__1.10.00..,double_korean_anchor
+warranty,warrant,wordnet_synset,oewn-warranty__1.10.00..,double_korean_anchor
+warranty,warrantee,wordnet_synset,oewn-warranty__1.10.00..,double_korean_anchor
+exclusively,alone,wordnet_synset,oewn-exclusively__4.02.00..,model_reviewed_pair
+exclusively,entirely,wordnet_synset,oewn-exclusively__4.02.00..,model_reviewed_pair
+exclusively,only,wordnet_synset,oewn-exclusively__4.02.00..,model_reviewed_pair
+exclusively,solely,wordnet_synset,oewn-exclusively__4.02.00..,model_reviewed_pair
+preparation,preparedness,wordnet_synset,oewn-preparation__1.26.00..,double_korean_anchor
+preparation,readiness,wordnet_synset,oewn-preparation__1.26.00..,double_korean_anchor
+area,country,wordnet_synset,oewn-area__1.15.01..,double_korean_anchor
+alter,change,wordnet_synset,oewn-alter__2.30.01..,double_korean_anchor
+alter,modify,wordnet_synset,oewn-alter__2.30.01..,double_korean_anchor
+desire,hope,wordnet_synset,oewn-desire__2.37.02..,double_korean_anchor
+desire,trust,wordnet_synset,oewn-desire__2.37.02..,double_korean_anchor
+desire,want,wordnet_synset,oewn-desire__2.37.02..,double_korean_anchor
+fabric,cloth,wordnet_synset,oewn-fabric__1.06.00..,model_reviewed_pair
+fabric,material,wordnet_synset,oewn-fabric__1.06.00..,model_reviewed_pair
+fabric,textile,wordnet_synset,oewn-fabric__1.06.00..,model_reviewed_pair
+bakery,bakehouse,wordnet_synset,oewn-bakery__1.06.00..,double_korean_anchor
+bakery,bakeshop,wordnet_synset,oewn-bakery__1.06.00..,double_korean_anchor
+brand,brand name,wordnet_synset,oewn-brand__1.10.00..,double_korean_anchor
+brand,marque,wordnet_synset,oewn-brand__1.10.00..,double_korean_anchor
+brand,trade name,wordnet_synset,oewn-brand__1.10.00..,double_korean_anchor
+keep,continue,wordnet_synset,oewn-keep__2.42.07..,double_korean_anchor
+keep,go along,wordnet_synset,oewn-keep__2.42.07..,double_korean_anchor
+keep,go on,wordnet_synset,oewn-keep__2.42.07..,double_korean_anchor
+keep,proceed,wordnet_synset,oewn-keep__2.42.07..,double_korean_anchor
+shoelace,shoe lace,wordnet_synset,oewn-shoelace__1.06.00..,monosemous_pair
+shoelace,shoe string,wordnet_synset,oewn-shoelace__1.06.00..,monosemous_pair
+shoelace,shoestring,wordnet_synset,oewn-shoelace__1.06.00..,monosemous_pair
+showroom,saleroom,wordnet_synset,oewn-showroom__1.06.00..,monosemous_pair
+showroom,salesroom,wordnet_synset,oewn-showroom__1.06.00..,monosemous_pair
+apparel,clothes,wordnet_synset,oewn-apparel__1.06.00..,double_korean_anchor
+apparel,dress,wordnet_synset,oewn-apparel__1.06.00..,double_korean_anchor
+apparel,wearing apparel,wordnet_synset,oewn-apparel__1.06.00..,double_korean_anchor
+glassware,glasswork,wordnet_synset,oewn-glassware__1.06.00..,monosemous_pair
+a variety of,various,textbook_note,,
+merchandise,product,wordnet_synset,oewn-merchandise__1.06.00..,double_korean_anchor
+merchandise,ware,wordnet_synset,oewn-merchandise__1.06.00..,double_korean_anchor
+voucher,coupon,wordnet_synset,oewn-voucher__1.10.00..,double_korean_anchor
+cooking utensil,cookware,textbook_note,,
+collectable,collectible,wordnet_synset,oewn-collectable__5.00.00.due.00,monosemous_pair
+collectable,payable,wordnet_synset,oewn-collectable__5.00.00.due.00,monosemous_pair
+secondhand,used,wordnet_synset,oewn-secondhand__5.00.00.old.01,double_korean_anchor

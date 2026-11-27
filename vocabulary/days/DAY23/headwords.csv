@@ -1,0 +1,168 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+host,(대회 등을) 주최하다,verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459608
+annual,매년의,adjective,core,B,occurring or payable every year,verified,double_korean_anchor,oewn,oewn-annual__5.00.00.periodic.00,kaikki:annual:adj:0:1720:s0,매년의,23,anki_core:1766527459609
+purpose,"목적, 의도",noun,core,C,"The end for which something is done, is made or exists.",verified,single_source_korean_anchor,kaikki,,kaikki:purpose:noun:1:2547:s0,목적,23,anki_core:1766527459610
+enroll,등록하다,verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459611
+lecture,"강의, 강연",noun,core,C,"A spoken lesson or exposition, usually delivered to a group.",verified,single_source_korean_anchor,kaikki,,kaikki:lecture:noun:0:3077:s0,강의,23,anki_core:1766527459612
+participant,참가자,noun,core,C,One who participates.,verified,single_source_korean_anchor,kaikki,,kaikki:participant:noun:0:1631:s0,참가자,23,anki_core:1766527459613
+attend,"참석하다, 출석하다",verb,core,B,"be present at (meetings, church services, university), etc.",verified,double_korean_anchor,oewn,oewn-attend__2.42.00..,kaikki:attend:verb:0:712:s2,출석하다,23,anki_core:1766527459614
+encourage,"장려하다, 북돋아주다",verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459615
+leave,"휴가, 떠나다, 남기다",verb,core,B,leave unchanged or undisturbed or refrain from taking,verified,double_korean_anchor,oewn,oewn-leave__2.30.02..,kaikki:leave:verb:1:626:s0,떠나다,23,anki_core:1766527459616
+recommendation,"추천 사항, 추천",noun,core,C,An act of recommending.,verified,single_source_korean_anchor,kaikki,,kaikki:recommendation:noun:0:5854:s0,추천,23,anki_core:1766527459617
+conference,"회의, 회담",noun,core,C,"A stated meeting of preachers and others, invested with authority to take cognizance of ecclesiastical matters.",verified,single_source_korean_anchor,kaikki,,kaikki:conference:noun:0:3911:s7,회의,23,anki_core:1766527459618
+schedule,~을 예정하다,verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459619
+include,포함하다,verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459620
+result,"결과, (~의 결과로) 되다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,23,anki_core:1766527459621
+register,등록하다,verb,core,C,To enter in a register; to enlist.,verified,single_source_korean_anchor,kaikki,,kaikki:register:verb:0:2068:s0,등록하다,23,anki_core:1766527459622
+require,요구하다,verb,core,B,"require as useful, just, or proper",verified,double_korean_anchor,oewn,oewn-require__2.42.00..,kaikki:require:verb:0:3584:s0,요구하다,23,anki_core:1766527459623
+grateful,"고마워하는, 감사하는",adjective,core,B,feeling or showing gratitude,unverified,model_reviewed_pair,oewn,oewn-grateful__3.00.00..,kaikki:grateful:adj:0:2890:s0,,23,anki_core:1766527459624
+overtime,"초과 근무, 야근",noun,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459625
+responsibility,"부담, 책임, 의무",noun,core,B,the social force that binds you to the courses of action demanded by that force,verified,double_korean_anchor,oewn,oewn-responsibility__1.04.00..,kaikki:responsibility:noun:0:4588:s2,책임,23,anki_core:1766527459626
+assent,"찬성하다, 승인, 동의",noun,core,B,agreement with a statement or proposal to do something,unverified,model_reviewed_pair,oewn,oewn-assent__1.10.00..,kaikki:assent:noun:0:2999:s0,,23,anki_core:1766527459627
+regard,"~을 -으로 간주하다, 여기다, 관심, 배려",noun,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459628
+tentative,"임시적인, 잠정적인",adjective,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459629
+welcome,"반가운, 기꺼이 받아들여지는, 환영하다, 맞이하다",verb,core,B,bid welcome to; greet upon arrival,verified,double_korean_anchor,oewn,oewn-welcome__2.32.00..,kaikki:welcome:verb:0:189:s0,환영하다,23,anki_core:1766527459630
+function,"행사, 연회",noun,core,C,An official or social occasion.,verified,single_source_korean_anchor,kaikki,,kaikki:function:noun:0:1309:s2,행사,23,anki_core:1766527459631
+commence,시작되다,verb,core,D,,unverified,proposed_pair_needs_review,,,,,23,anki_core:1766527459632
+objective,"목표, 목적",noun,core,B,the goal intended to be attained (and which is believed to be attainable),verified,double_korean_anchor,oewn,oewn-objective__1.09.00..,kaikki:objective:noun:0:1087:s1,목적,23,anki_core:1766527459633
+excited,"신이 난, 들뜬",noun,core,E,,unverified,no_sense_record,,,,,23,anki_core:1766527459634
+reimbursement,"상환, 변제, 배상",noun,core,B,compensation paid (to someone) for damages or losses or money already spent etc.,verified,double_korean_anchor,oewn,oewn-reimbursement__1.21.00..,kaikki:reimbursement:noun:0:6701:s0,변제,23,anki_core:1766527459635
+treatment,"대우, 처우",noun,core,C,The process or manner of treating someone or something.,verified,single_source_korean_anchor,kaikki,,kaikki:treatment:noun:0:4602:s0,대우,23,anki_core:1766527459636
+honor,"존경, 명예",noun,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459637
+emphasize,강조하다,verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459638
+entry,"(경기 등의) 참가자, 출품물",noun,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459639
+bonus,"상여금, 보너스",noun,core,C,"An extra sum given as a premium, e.g. to an employee or to a shareholder.",verified,single_source_korean_anchor,kaikki,,kaikki:bonus:noun:0:2380:s1,보너스,23,anki_core:1766527459640
+salary,급여,noun,core,B,something that remunerates,unverified,monosemous_pair,oewn,oewn-salary__1.21.00..,kaikki:salary:noun:0:1362:s0,,23,anki_core:1766527459641
+earn,"(금전 등을) 벌다, (평판을) 받다, 얻다",verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459642
+arise,"(문제 등이) 발생하다, 일어나다",verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459643
+labor,"노동, 일하다, 노동하다",verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459644
+union,노동조합,noun,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459645
+existing,"기존의, 현행의",adjective,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459646
+exploit,"착취하다, 부당하게 이용하다",verb,core,D,,unverified,candidates_unaligned,,,,,23,anki_core:1766527459647
+application,"지원, 신청",noun,basic,C,"A verbal or written request for assistance or employment or admission to a school, course or similar.",verified,single_source_korean_anchor,kaikki,,kaikki:application:noun:0:2282:s5,신청,23,anki_basic:1766527459648
+award ceremony,시상식,phrase,basic,C,"A ceremony, with a theme, at which awards are given out.",unverified,single_source_only_sense,kaikki,,kaikki:award ceremony:noun:0:7239:s0,,23,anki_basic:1766527459649
+chat,"담소, 담소를 나누다",verb,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459650
+clap,"박수, 손뼉 치다",verb,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459651
+get paid,급여를 받다,phrase,basic,E,,unverified,no_sense_record,,,,,23,anki_basic:1766527459652
+grab,"잡다, 움켜쥐다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,23,anki_basic:1766527459653
+group,(그룹으로) 나누다,verb,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459654
+hook,"걸이, ~에 걸다",verb,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459655
+introduction,"도입, 소개",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,23,anki_basic:1766527459656
+learning center,교육 센터,phrase,basic,E,,unverified,no_sense_record,,,,,23,anki_basic:1766527459657
+loudspeaker,확성기,noun,basic,C,An electromechanical transducer that converts an electrical signal into audible sound.,verified,single_source_korean_anchor,kaikki,,kaikki:loudspeaker:noun:0:6585:s0,확성기,23,anki_basic:1766527459658
+lounge,대합실,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,23,anki_basic:1766527459659
+management seminar,경영 세미나,phrase,basic,E,,unverified,no_sense_record,,,,,23,anki_basic:1766527459660
+smoking section,흡연 구역,phrase,basic,E,,unverified,no_sense_record,,,,,23,anki_basic:1766527459661
+take a vacation,휴가를 얻다,phrase,basic,E,,unverified,no_sense_record,,,,,23,anki_basic:1766527459662
+wallpaper,벽지,noun,basic,C,Decorative paper-like material used to cover the inner walls of buildings.,verified,single_source_korean_anchor,kaikki,,kaikki:wallpaper:noun:0:2117:s0,벽지,23,anki_basic:1766527459663
+bold,"대담한, 용감한",adjective,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459664
+finely,"곱게, 정교하게",adverb,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459665
+friendly,친절한,adjective,basic,C,"Generally warm, approachable and easy to relate with in character.",verified,single_source_korean_anchor,kaikki,,kaikki:friendly:adj:1:1372:s0,친절하다,23,anki_basic:1766527459666
+gentle,"온화한, 점잖은",adjective,basic,D,,unverified,proposed_pair_needs_review,,,,,23,anki_basic:1766527459667
+in charge of,"~을 맡아서, 담당해서",phrase,basic,E,,unverified,no_sense_record,,,,,23,anki_basic:1766527459668
+lively,"활기찬, 활발한",adjective,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459669
+pharmacy,약국,noun,basic,B,a retail shop where medicine and other articles are sold,verified,double_korean_anchor,oewn,oewn-pharmacy__1.06.00..,kaikki:pharmacy:noun:0:5951:s0,약국,23,anki_basic:1766527459670
+precise,"정확한, 정밀한",adjective,basic,B,"(of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct",verified,double_korean_anchor,oewn,oewn-precise__5.00.00.correct.00,kaikki:precise:adj:0:468:s0,정확한,23,anki_basic:1766527459671
+prize,"상품, 소중하게 여기다",verb,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459672
+registration,등록,noun,basic,D,,unverified,candidates_unaligned,,,,,23,anki_basic:1766527459673
+vacation,휴가,noun,basic,B,leisure time away from work devoted to rest or pleasure,verified,double_korean_anchor,oewn,oewn-vacation__1.28.00..,kaikki:vacation:noun:0:1864:s1,휴가,23,anki_basic:1766527459674
+a letter of gratitude,감사편지,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461649
+check out,"(책을) 대여하다, 빌리다",phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461650
+child care,"육아, 보육",phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461651
+don't have nerve to do,~할 용기가 없다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461652
+give a raise,임금을 인상해주다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461653
+going away party,송별회,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461654
+it's about time,~할 때이다,phrase,800,C,Used to express impatience at the eventual occurrence of something that the speaker or writer has deemed to be long overdue.,unverified,single_source_only_sense,kaikki,,kaikki:it's about time:intj:0:2341:s0,,23,anki_800:1766527461655
+it's no use-ing,~해봤자 소용없다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461656
+job satisfaction,업무 만족도,phrase,800,C,A feeling of contentment that employees derive from their work.,unverified,single_source_only_sense,kaikki,,kaikki:job satisfaction:noun:0:7670:s0,,23,anki_800:1766527461657
+just in case,"~할 경우를 대비해, 만일을 위해서",phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461658
+keep A up to date,A에게 최근 소식을 계속 알려주다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461659
+know like the back of one's hand,A를 아주 잘 알고 있다,phrase,800,C,To be intimately knowledgeable about something.,unverified,single_source_only_sense,kaikki,,kaikki:know like the back of one's hand:verb:0:6263:s0,,23,anki_800:1766527461660
+miserable,"비참한, 슬픔",noun,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461661
+paid leave,유급 휴가,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461662
+pick up one's paycheck,급여를 수령하다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461663
+pity,"유감, 동정",noun,800,C,A feeling of sympathy at the misfortune or suffering of someone or something.,verified,single_source_korean_anchor,kaikki,,kaikki:pity:noun:0:2154:s0,동정,23,anki_800:1766527461664
+privately,개인적으로,adverb,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461665
+psychological,정신적인,adjective,800,D,,unverified,proposed_pair_needs_review,,,,,23,anki_800:1766527461666
+put in some overtime,초과근무를 하다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461667
+safety drill,안전훈련,phrase,800,C,An emergency preparedness training activity such as a fire drill or an earthquake drill.,unverified,single_source_only_sense,kaikki,,kaikki:safety drill:noun:0:8089:s0,,23,anki_800:1766527461668
+sensitivity,감수성,noun,800,D,,unverified,proposed_pair_needs_review,,,,,23,anki_800:1766527461669
+show around,"안내하다, 관광시키다",phrase,800,C,"To accustom (someone) to a physical place, especially a building, site for an event, etc.",unverified,single_source_only_sense,kaikki,,kaikki:show around:verb:0:7933:s0,,23,anki_800:1766527461670
+stacks of books,"서고, 서가",phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461671
+surprisingly,놀랍게도,noun,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461672
+take place,"일어나다, 발생하다",phrase,800,B,come to pass,verified,double_korean_anchor,oewn,oewn-take_place__2.30.00..,kaikki:take place:verb:0:2585:s0,발생하다;일어나다,23,anki_800:1766527461673
+take some time off,"휴식을 취하다, 일을 쉬다",phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461674
+terribly,"몹시, 형편없이",noun,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461675
+terrific,훌륭한,adjective,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461676
+the next best,차선,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461677
+thrilling,"짜릿한, 흥분되는",adjective,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461678
+credit A with B(credit B to A),B를 A의 공으로 믿다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461679
+intentionally,"고의로, 의도적으로",adverb,800,B,with intention; in an intentional manner,unverified,monosemous_pair,oewn,oewn-intentionally__4.02.00..,kaikki:intentionally:adv:0:6784:s0,,23,anki_800:1766527461680
+meanwhile,"그동안에, 한편",adverb,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461681
+respectfully,"공손하게, 정중하게",adverb,800,B,in a respectful manner,unverified,monosemous_pair,oewn,oewn-respectfully__4.02.00..,kaikki:respectfully:adv:0:6021:s0,,23,anki_800:1766527461682
+sign up,"등록하다, 참가하다",phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461683
+unused,사용하지 않은,adjective,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461684
+be tired of,~에 실증이 나다,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461685
+biannual,연 2회의,adjective,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461686
+charitable,자선의,adjective,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461687
+course of study,교육과정,phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461688
+depressed,낙담한,adjective,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461689
+extra pay,추가급여,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461690
+featured speaker,특별 연사,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461691
+generous,관대한,adjective,800,C,"Noble in behaviour or actions; principled, not petty; kind, magnanimous.",verified,single_source_korean_anchor,kaikki,,kaikki:generous:adj:0:3778:s0,관대하다,23,anki_800:1766527461692
+laugh away,~을 웃음으로 넘기다,phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461693
+merit,장점,noun,800,C,A claim to commendation or a reward.,verified,single_source_korean_anchor,kaikki,,kaikki:merit:noun:1:3711:s0,장점,23,anki_800:1766527461694
+night shift,야간 근무,phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461695
+occupational safety and health,직장 안전 및 건강,phrase,800,C,"The activities and policies aimed at protecting the safety, health and welfare of people engaged in work or employment.",unverified,single_source_only_sense,kaikki,,kaikki:occupational safety and health:noun:0:7540:s0,,23,anki_800:1766527461696
+overtime allowance,초과근무수당,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461697
+overtime rate,초과근무수당,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461698
+paid vacation,유급 휴가,phrase,800,C,a vacation from work by an employee with pay granted,unverified,single_source_only_sense,oewn,oewn-paid_vacation__1.28.00..,,,23,anki_800:1766527461699
+pay increase,임금 인상,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461700
+pension,연금,noun,800,C,"An annuity paid regularly as benefit due to a retired employee, serviceman etc. in consideration of past services, originally and chiefly by a government but also by various private pension schemes.",verified,single_source_korean_anchor,kaikki,,kaikki:pension:noun:1:3814:s0,연금,23,anki_800:1766527461701
+poorly paid,박봉의,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461702
+preservation area,보호구역,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461703
+reference number,조회번호,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461704
+regional allowance,특별 근무지 수당,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461705
+regular working hours,정규 근무 시간,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461706
+retirement party,은퇴 기념 파티,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461707
+retirement plan,퇴직 연금 제도,phrase,800,C,a plan for setting aside money to be spent after retirement,unverified,single_source_only_sense,oewn,oewn-retirement_plan__1.09.00..,,,23,anki_800:1766527461708
+salary and benefits,급여와 복리후생,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461709
+sheltered housing,(노인·장애인) 보호 시설,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461710
+sick leave,병가,phrase,800,D,,unverified,candidates_unaligned,,,,,23,anki_800:1766527461711
+strong-willed,"의지가 강한, 완고한",adjective,800,B,having a determined will,unverified,monosemous_pair,oewn,oewn-strong--willed__5.00.00.stubborn.00,kaikki:strong-willed:adj:0:7148:s0,,23,anki_800:1766527461712
+time-off,"결석, 휴가",noun,800,C,A period of time where one is not required to work.,unverified,single_source_only_sense,kaikki,,kaikki:time off:noun:0:8878:s0,,23,anki_800:1766527461713
+welfare,복지,noun,800,B,something that aids or promotes well-being,verified,double_korean_anchor,oewn,oewn-welfare__1.07.00..,kaikki:welfare:noun:0:5905:s0,복지,23,anki_800:1766527461714
+work environment,"작업환경, 근무환경",phrase,800,C,Synonym of working environment.,unverified,single_source_only_sense,kaikki,,kaikki:work environment:noun:0:8052:s0,,23,anki_800:1766527461715
+working condition,근무조건,phrase,800,E,,unverified,no_sense_record,,,,,23,anki_800:1766527461716
+get reimbursed for,~을 환급받다,phrase,900,E,,unverified,no_sense_record,,,,,23,anki_900:1766527462926
+hearty,"마음에서 우러난, (음식의 양이) 풍부한",adjective,900,D,,unverified,proposed_pair_needs_review,,,,,23,anki_900:1766527462927
+kindhearted,친절한,adjective,900,D,,unverified,proposed_pair_needs_review,,,,,23,anki_900:1766527462928
+knock off,업무를 마치다,phrase,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462929
+maternity leave,출산 휴가,phrase,900,C,A leave of absence from a job for a mother to care of a baby.,unverified,single_source_only_sense,kaikki,,kaikki:maternity leave:noun:0:7334:s0,,23,anki_900:1766527462930
+misuse,"오용, 악용",noun,900,C,"An incorrect, improper or unlawful use of something.",verified,single_source_korean_anchor,kaikki,,kaikki:misuse:noun:1:5344:s0,오용,23,anki_900:1766527462931
+nursery,"유아원, 놀이방, 보육",noun,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462932
+nursing,"간호, 간호학",noun,900,C,The process or profession of caring for patients as a nurse.,verified,single_source_korean_anchor,kaikki,,kaikki:nursing:noun:0:6637:s1,간호,23,anki_900:1766527462933
+chronological,"시간순의, 연대순의",adjective,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462934
+exhibitor,(전시회의) 출품자,noun,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462935
+flatter,"아첨하다, 듣기 좋은 칭찬을 하다",verb,900,C,"To compliment someone, often (but not necessarily) insincerely and sometimes to win favour.",verified,single_source_korean_anchor,kaikki,,kaikki:flatter:verb:2:4714:s0,아첨하다,23,anki_900:1766527462936
+give in,"굴복하다, 양보하다",phrase,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462937
+second,"찬성하다, 지지하다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,23,anki_900:1766527462938
+citation,"인용구, 인용, 표창장",noun,900,D,,unverified,proposed_pair_needs_review,,,,,23,anki_900:1766527462939
+commemorate,기념하다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,23,anki_900:1766527462940
+conjunction,"연합, 공동",noun,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462941
+cut benefits,"복리 후생을 줄이다, 수당을 줄이다",phrase,900,E,,unverified,no_sense_record,,,,,23,anki_900:1766527462942
+discriminate,차별하다,verb,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462943
+distort,왜곡하다,verb,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462944
+flextime,자율 근무 시간제,noun,900,C,An arrangement that allows employees to set their own working hours within agreed limits; normally must include certain periods (core time) when they must be at work.,unverified,single_source_only_sense,kaikki,,kaikki:flexitime:noun:0:8940:s0,,23,anki_900:1766527462945
+fringe benefits,부가 급부,phrase,900,C,"A benefit received in addition to the normal benefits of holding a job, or, by extension, any relationship to the source of the benefit.",unverified,single_source_only_sense,kaikki,,kaikki:fringe benefit:noun:0:8944:s0,,23,anki_900:1766527462946
+goodwill,호의,noun,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462947
+labor costs,인건비,phrase,900,E,,unverified,no_sense_record,,,,,23,anki_900:1766527462948
+labor dispute,"노동쟁의, 노사분규",phrase,900,E,,unverified,no_sense_record,,,,,23,anki_900:1766527462949
+off-peak,"한산할 때의, 비수기의",adjective,900,C,"During a period of less use or demand than the maximum (peak), generally overnight.",unverified,single_source_only_sense,kaikki,,kaikki:off-peak:adj:0:4794:s0,,23,anki_900:1766527462950
+pique,"화, 불쾌, 불쾌감",noun,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462951
+sabotage,(고의적인) 방해 행위,noun,900,B,a deliberate act of destruction or disruption in which equipment is damaged,unverified,monosemous_pair,oewn,oewn-sabotage__1.04.00..,kaikki:sabotage:noun:0:2053:s0,,23,anki_900:1766527462952
+salary review,연봉 심사,phrase,900,E,,unverified,no_sense_record,,,,,23,anki_900:1766527462953
+severance pay,퇴직금,phrase,900,C,"Money paid as compensation to someone whose employment is ended, often in exchange of waiver.",unverified,single_source_only_sense,kaikki,,kaikki:severance pay:noun:0:7276:s0,,23,anki_900:1766527462954
+spry,"기운찬, 활발한",adjective,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462955
+straightforward,"정직한, 간단한",adjective,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462956
+yearn,열망하다,verb,900,D,,unverified,candidates_unaligned,,,,,23,anki_900:1766527462957

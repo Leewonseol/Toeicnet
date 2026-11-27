@@ -1,0 +1,37 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+negotiation,dialogue,wordnet_synset,oewn-negotiation__1.10.00..,double_korean_anchor
+negotiation,talks,wordnet_synset,oewn-negotiation__1.10.00..,double_korean_anchor
+direction,way,wordnet_synset,oewn-direction__1.15.00..,model_reviewed_pair
+collaborate,cooperate,wordnet_synset,oewn-collaborate__2.41.00..,double_korean_anchor
+collaborate,join forces,wordnet_synset,oewn-collaborate__2.41.00..,double_korean_anchor
+cooperatively,hand and glove,wordnet_synset,oewn-cooperatively__4.02.00..,monosemous_pair
+cooperatively,hand in glove,wordnet_synset,oewn-cooperatively__4.02.00..,monosemous_pair
+conflict,battle,wordnet_synset,oewn-conflict__1.04.00..,double_korean_anchor
+conflict,struggle,wordnet_synset,oewn-conflict__1.04.00..,double_korean_anchor
+dispute,conflict,wordnet_synset,oewn-dispute__1.10.00..,double_korean_anchor
+dispute,difference,wordnet_synset,oewn-dispute__1.10.00..,double_korean_anchor
+dispute,difference of opinion,wordnet_synset,oewn-dispute__1.10.00..,double_korean_anchor
+objection,expostulation,wordnet_synset,oewn-objection__1.10.01..,double_korean_anchor
+objection,remonstrance,wordnet_synset,oewn-objection__1.10.01..,double_korean_anchor
+objection,remonstration,wordnet_synset,oewn-objection__1.10.01..,double_korean_anchor
+security,protection,wordnet_synset,oewn-security__1.21.01..,double_korean_anchor
+proof,cogent evidence,wordnet_synset,oewn-proof__1.09.00..,double_korean_anchor
+meaning,import,wordnet_synset,oewn-meaning__1.10.00..,double_korean_anchor
+meaning,significance,wordnet_synset,oewn-meaning__1.10.00..,double_korean_anchor
+meaning,signification,wordnet_synset,oewn-meaning__1.10.00..,double_korean_anchor
+quit,break,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+quit,break off,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+quit,cease,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+quit,discontinue,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+quit,give up,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+quit,lay off,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+quit,stop,wordnet_synset,oewn-quit__2.42.04..,double_korean_anchor
+hesitate,waffle,wordnet_synset,oewn-hesitate__2.42.00..,double_korean_anchor
+hesitate,waver,wordnet_synset,oewn-hesitate__2.42.00..,double_korean_anchor
+opposing,opponent,wordnet_synset,oewn-opposing__5.00.00.hostile.01,monosemous_pair
+origin,beginning,wordnet_synset,oewn-origin__1.15.00..,double_korean_anchor
+origin,root,wordnet_synset,oewn-origin__1.15.00..,double_korean_anchor
+origin,rootage,wordnet_synset,oewn-origin__1.15.00..,double_korean_anchor
+origin,source,wordnet_synset,oewn-origin__1.15.00..,double_korean_anchor
+recollection,recall,wordnet_synset,oewn-recollection__1.09.01..,double_korean_anchor
+recollection,reminiscence,wordnet_synset,oewn-recollection__1.09.01..,double_korean_anchor

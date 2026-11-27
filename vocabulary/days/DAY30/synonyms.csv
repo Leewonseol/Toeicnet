@@ -1,0 +1,50 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+fatigue,tiredness,wordnet_synset,oewn-fatigue__1.26.00..,double_korean_anchor
+fatigue,weariness,wordnet_synset,oewn-fatigue__1.26.00..,double_korean_anchor
+recovery,convalescence,wordnet_synset,oewn-recovery__1.22.00..,double_korean_anchor
+recovery,recuperation,wordnet_synset,oewn-recovery__1.22.00..,double_korean_anchor
+operation,surgery,wordnet_synset,oewn-operation__1.04.00..,double_korean_anchor
+operation,surgical operation,wordnet_synset,oewn-operation__1.04.00..,double_korean_anchor
+operation,surgical procedure,wordnet_synset,oewn-operation__1.04.00..,double_korean_anchor
+operation,surgical process,wordnet_synset,oewn-operation__1.04.00..,double_korean_anchor
+pharmaceutical,pharmaceutic,wordnet_synset,oewn-pharmaceutical__3.01.00..,model_reviewed_pair
+health,wellness,wordnet_synset,oewn-health__1.26.00..,double_korean_anchor
+cavity,caries,wordnet_synset,oewn-cavity__1.22.00..,double_korean_anchor
+cavity,dental caries,wordnet_synset,oewn-cavity__1.22.00..,double_korean_anchor
+cavity,tooth decay,wordnet_synset,oewn-cavity__1.22.00..,double_korean_anchor
+gym,gymnasium,wordnet_synset,oewn-gym__1.06.00..,double_korean_anchor
+vision,sight,wordnet_synset,oewn-vision__1.09.01..,double_korean_anchor
+vision,visual modality,wordnet_synset,oewn-vision__1.09.01..,double_korean_anchor
+vision,visual sense,wordnet_synset,oewn-vision__1.09.01..,double_korean_anchor
+workout,exercise,wordnet_synset,oewn-workout__1.04.00..,double_korean_anchor
+workout,exercising,wordnet_synset,oewn-workout__1.04.00..,double_korean_anchor
+workout,physical exercise,wordnet_synset,oewn-workout__1.04.00..,double_korean_anchor
+workout,physical exertion,wordnet_synset,oewn-workout__1.04.00..,double_korean_anchor
+stomachache,bellyache,wordnet_synset,oewn-stomachache__1.26.00..,monosemous_pair
+stomachache,gastralgia,wordnet_synset,oewn-stomachache__1.26.00..,monosemous_pair
+stomachache,stomach ache,wordnet_synset,oewn-stomachache__1.26.00..,monosemous_pair
+well-being,eudaemonia,wordnet_synset,oewn-well--being__1.26.00..,monosemous_pair
+well-being,eudaimonia,wordnet_synset,oewn-well--being__1.26.00..,monosemous_pair
+well-being,upbeat,wordnet_synset,oewn-well--being__1.26.00..,monosemous_pair
+well-being,welfare,wordnet_synset,oewn-well--being__1.26.00..,monosemous_pair
+well-being,wellbeing,wordnet_synset,oewn-well--being__1.26.00..,monosemous_pair
+aging,ageing,wordnet_synset,oewn-aging__5.00.00.old.02,monosemous_pair
+aging,senescent,wordnet_synset,oewn-aging__5.00.00.old.02,monosemous_pair
+buzzing,abuzz,wordnet_synset,oewn-buzzing__5.00.00.noisy.00,monosemous_pair
+asthma,asthma attack,wordnet_synset,oewn-asthma__1.26.00..,monosemous_pair
+asthma,bronchial asthma,wordnet_synset,oewn-asthma__1.26.00..,monosemous_pair
+forbid,disallow,wordnet_synset,oewn-forbid__2.32.00..,double_korean_anchor
+forbid,interdict,wordnet_synset,oewn-forbid__2.32.00..,double_korean_anchor
+forbid,nix,wordnet_synset,oewn-forbid__2.32.00..,double_korean_anchor
+forbid,prohibit,wordnet_synset,oewn-forbid__2.32.00..,double_korean_anchor
+forbid,proscribe,wordnet_synset,oewn-forbid__2.32.00..,double_korean_anchor
+forbid,veto,wordnet_synset,oewn-forbid__2.32.00..,double_korean_anchor
+germ,bug,wordnet_synset,oewn-germ__1.05.00..,double_korean_anchor
+germ,microbe,wordnet_synset,oewn-germ__1.05.00..,double_korean_anchor
+painkiller,analgesic,wordnet_synset,oewn-painkiller__1.06.00..,double_korean_anchor
+painkiller,anodyne,wordnet_synset,oewn-painkiller__1.06.00..,double_korean_anchor
+painkiller,pain pill,wordnet_synset,oewn-painkiller__1.06.00..,double_korean_anchor
+paralysis,palsy,wordnet_synset,oewn-paralysis__1.26.00..,double_korean_anchor
+pulse,beat,wordnet_synset,oewn-pulse__1.11.00..,double_korean_anchor
+pulse,heartbeat,wordnet_synset,oewn-pulse__1.11.00..,double_korean_anchor
+pulse,pulsation,wordnet_synset,oewn-pulse__1.11.00..,double_korean_anchor

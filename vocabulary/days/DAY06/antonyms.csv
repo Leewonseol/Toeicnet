@@ -1,0 +1,3 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+current,noncurrent,wordnet_antonym,oewn-current__3.00.00..,model_reviewed_pair
+unsanitary,sanitary,wordnet_antonym,oewn-unsanitary__3.00.00..,monosemous_pair

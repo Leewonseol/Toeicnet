@@ -1,0 +1,44 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+evaluate,appraise,wordnet_synset,oewn-evaluate__2.31.00..,double_korean_anchor
+evaluate,assess,wordnet_synset,oewn-evaluate__2.31.00..,double_korean_anchor
+evaluate,measure,wordnet_synset,oewn-evaluate__2.31.00..,double_korean_anchor
+evaluate,valuate,wordnet_synset,oewn-evaluate__2.31.00..,double_korean_anchor
+evaluate,value,wordnet_synset,oewn-evaluate__2.31.00..,double_korean_anchor
+transfer,channel,wordnet_synset,oewn-transfer__2.35.00..,model_reviewed_pair
+transfer,channelise,wordnet_synset,oewn-transfer__2.35.00..,model_reviewed_pair
+transfer,channelize,wordnet_synset,oewn-transfer__2.35.00..,model_reviewed_pair
+transfer,transmit,wordnet_synset,oewn-transfer__2.35.00..,model_reviewed_pair
+transfer,transport,wordnet_synset,oewn-transfer__2.35.00..,model_reviewed_pair
+award,present,wordnet_synset,oewn-award__2.40.00..,model_reviewed_pair
+inexperienced,inexperient,wordnet_synset,oewn-inexperienced__3.00.00..,monosemous_pair
+designate,denominate,wordnet_synset,oewn-designate__2.32.00..,model_reviewed_pair
+progress,advance,wordnet_synset,oewn-progress__1.11.00..,double_korean_anchor
+progress,progression,wordnet_synset,oewn-progress__1.11.00..,double_korean_anchor
+congratulate,felicitate,wordnet_synset,oewn-congratulate__2.32.01..,double_korean_anchor
+dismiss,can,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,displace,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,fire,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,force out,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,give notice,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,give the axe,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,give the sack,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+dismiss,sack,wordnet_synset,oewn-dismiss__2.41.00..,double_korean_anchor
+serve,assist,wordnet_synset,oewn-serve__2.41.01..,double_korean_anchor
+serve,attend,wordnet_synset,oewn-serve__2.41.01..,double_korean_anchor
+serve,attend to,wordnet_synset,oewn-serve__2.41.01..,double_korean_anchor
+serve,wait on,wordnet_synset,oewn-serve__2.41.01..,double_korean_anchor
+flash,flare,wordnet_synset,oewn-flash__1.10.01..,double_korean_anchor
+level,degree,wordnet_synset,oewn-level__1.07.00..,double_korean_anchor
+level,grade,wordnet_synset,oewn-level__1.07.00..,double_korean_anchor
+role,character,wordnet_synset,oewn-role__1.09.00..,double_korean_anchor
+role,part,wordnet_synset,oewn-role__1.09.00..,double_korean_anchor
+role,persona,wordnet_synset,oewn-role__1.09.00..,double_korean_anchor
+role,theatrical role,wordnet_synset,oewn-role__1.09.00..,double_korean_anchor
+retiree,retired person,wordnet_synset,oewn-retiree__1.18.00..,monosemous_pair
+undoubtedly,doubtless,wordnet_synset,oewn-undoubtedly__4.02.00..,monosemous_pair
+undoubtedly,doubtlessly,wordnet_synset,oewn-undoubtedly__4.02.00..,monosemous_pair
+understaffed,short-handed,wordnet_synset,oewn-understaffed__5.00.00.inadequate.00,monosemous_pair
+understaffed,short-staffed,wordnet_synset,oewn-understaffed__5.00.00.inadequate.00,monosemous_pair
+understaffed,undermanned,wordnet_synset,oewn-understaffed__5.00.00.inadequate.00,monosemous_pair
+gratis,for free,wordnet_synset,oewn-gratis__4.02.00..,monosemous_pair
+gratis,free of charge,wordnet_synset,oewn-gratis__4.02.00..,monosemous_pair

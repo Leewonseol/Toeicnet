@@ -1,0 +1,9 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+turn off,phrasal_or_multiword_verb,C,"To power down, to switch off, to put out of operation, to deactivate (an appliance, light, mechanism, functionality etc.).",kaikki,kaikki:turn off:verb:0:1567:s1
+trial period,compound_noun,C,a period of time during which someone or something is tested,oewn,oewn-trial_period__1.28.00..
+user's guide,compound_noun,C,A manual intended to assist in the use of a particular system.,kaikki,kaikki:user guide:noun:0:9105:s0
+consist of,phrasal_or_multiword_verb,C,To be composed or made up of something.,kaikki,kaikki:consist of:verb:0:7590:s0
+except for,prepositional_expression,C,with the exception of,kaikki,kaikki:except for:prep:0:7545:s0
+by the time,conjunction,C,When (some future event has come to pass).,kaikki,kaikki:by the time:conj:0:7360:s0
+energy source,compound_noun,C,"A source from which useful energy can be extracted or recovered either directly or by means of a conversion or transformation process (e.g. solid fuels, liquid fuels, solar energy, biomass, etc.)",kaikki,kaikki:energy source:noun:0:7248:s0
+smoke detector,compound_noun,C,A device that sounds an alarm when it detects smoke or other evidence of a fire.,kaikki,kaikki:smoke detector:noun:0:6616:s0

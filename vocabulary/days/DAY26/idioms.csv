@@ -1,0 +1,17 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+at the earliest,phrase,C,no sooner than,kaikki,kaikki:at the earliest:prep_phrase:0:7843:s0
+at this point,phrase,C,At the current time or the time that was just described.,kaikki,kaikki:at this point:prep_phrase:0:7999:s0
+next to,prepositional_expression,C,"Beside, alongside, by, adjacent to, or near.",kaikki,kaikki:next to:prep:0:5966:s0
+in addition to,prepositional_expression,C,as well as; besides,kaikki,kaikki:in addition to:prep:0:7613:s0
+bank loan,compound_noun,C,a loan made by a bank; to be repaid with interest on or before a fixed date,oewn,oewn-bank_loan__1.21.00..
+foreign currency,compound_noun,C,"Any currency that is in use in a foreign nation, and an authorized medium of circulation and the basis for record-keeping in that nation.",kaikki,kaikki:foreign currency:noun:0:6458:s0
+if possible,adverb,C,Contingent upon the possibility or convenience of the request.,kaikki,kaikki:if possible:adv:0:7892:s0
+across from,prepositional_expression,C,"facing, opposite.",kaikki,kaikki:across from:prep:0:7379:s0
+owing to,prepositional_expression,C,"Because of, on account of.",kaikki,kaikki:owing to:prep:0:4853:s0
+expiration date,compound_noun,C,"A date by which an object either should not be used or loses its value, depending upon the item.",kaikki,kaikki:expiration date:noun:0:7604:s0
+for the sake of,phrase,C,Because of; out of consideration for; in the interest of.,kaikki,kaikki:for the sake of:prep_phrase:0:6932:s0
+public holiday,compound_noun,B,authorized by law and limiting work or official business,oewn,kaikki:public holiday:noun:0:7014:s0
+deposit slip,compound_noun,C,"A form for a depositor to complete, designed to categorically document the items included in a deposit transaction.",kaikki,kaikki:deposit slip:noun:0:8059:s0
+direct deposit,compound_noun,C,"A deposit of money straight from the source (and initiated by the source) into a bank account, by wire, or other means.",kaikki,kaikki:direct deposit:noun:0:7463:s0
+trust company,compound_noun,C,an organization (usually with a commercial bank) that is engaged as a trustee or fiduciary or agent in handling trust funds or estates of custodial arrangements or stock transfers or related services,oewn,oewn-trust_company__1.14.00..
+wire transfer,compound_noun,C,A transfer of funds between banks by electronic means.,kaikki,kaikki:wire transfer:noun:0:7361:s0

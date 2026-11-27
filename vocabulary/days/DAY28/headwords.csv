@@ -1,0 +1,169 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+furnished,가구가 비치된,adjective,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459951
+residence,"거주지, 주택",noun,core,C,The place where one lives (resides); one's home.,verified,single_source_korean_anchor,kaikki,,kaikki:residence:noun:0:5009:s0,주택,28,anki_core:1766527459952
+spacious,(공간이) 넓은,noun,core,E,,unverified,no_sense_record,,,,,28,anki_core:1766527459953
+drape,(방 등을 커튼 등으로) 장식하다,verb,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459954
+unoccupied,"(집 등이) 비어있는, 사람이 살지 않는",adjective,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459955
+renovation,"수리, 개조",noun,core,C,"An act, or the process, of renovating.",verified,single_source_korean_anchor,kaikki,,kaikki:renovation:noun:0:7087:s0,개조;수리,28,anki_core:1766527459956
+appropriate,"적당한, 적합한",adjective,core,B,meant or adapted for an occasion or use,verified,double_korean_anchor,oewn,oewn-appropriate__5.00.01.fit.02,kaikki:appropriate:adj:2:2338:s0,적당하다,28,anki_core:1766527459957
+delay,"연기하다, ~을 뒤로 미루다",verb,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459958
+community,"지역 사회, 공동체",noun,core,B,"a group of people having a religion, ethnic, profession, or other particular characteristic in common",verified,model_reviewed_pair,oewn,oewn-community__1.14.03..,kaikki:community:noun:0:1141:s0,공동체,28,anki_core:1766527459959
+construction,"건설, 건축",noun,core,C,The process of constructing.,verified,single_source_korean_anchor,kaikki,,kaikki:construction:noun:0:4125:s0,건설,28,anki_core:1766527459960
+repair,수리하다,verb,core,B,restore by replacing a part or putting together what is torn or broken,verified,double_korean_anchor,oewn,oewn-repair__2.30.00..,kaikki:repair:verb:1:4184:s0,수리하다,28,anki_core:1766527459961
+currently,현재,noun,core,E,,unverified,no_sense_record,,,,,28,anki_core:1766527459962
+regularly,정기적으로,adverb,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459963
+arrange,"배열하다, 정돈하다",verb,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459964
+location,"장소, 위치",noun,core,B,a point or extent in space; a point or extent in space,verified,double_korean_anchor,oewn,oewn-location__1.03.00..,kaikki:location:noun:0:1953:s0,위치;장소,28,anki_core:1766527459965
+restore,"복구하다, 회복시키다",verb,core,B,"bring back into original existence, use, function, or position",verified,model_reviewed_pair,oewn,oewn-restore__2.41.00..,kaikki:restore:verb:0:4882:s0,복구하다;회복시키다,28,anki_core:1766527459966
+presently,현재,noun,core,E,,unverified,no_sense_record,,,,,28,anki_core:1766527459967
+numerous,많은,adjective,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459968
+abandon,"그만두다, 버리다",verb,core,C,"To leave behind; to desert, as in a ship, a position, or a person, typically in response to overwhelming odds or impending dangers; to forsake, in spite of a duty or responsibility.",verified,single_source_korean_anchor,kaikki,,kaikki:abandon:verb:1:38:s2,버리다,28,anki_core:1766527459969
+contractor,"계약자, 도급업자",noun,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459970
+develop,개발하다,verb,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459971
+maintain,"유지하다, 관리하다",verb,core,B,"cause to continue in a certain state, position, or activity",verified,double_korean_anchor,oewn,oewn-maintain__2.42.00..,kaikki:maintain:verb:0:3463:s0,유지하다,28,anki_core:1766527459972
+densely,"빽빽이, 밀집하여",noun,core,E,,unverified,no_sense_record,,,,,28,anki_core:1766527459973
+prepare,"준비하다, 채비를 갖추다",verb,core,B,"make ready or suitable or equip in advance for a particular purpose or for some use, event, etc",verified,model_reviewed_pair,oewn,oewn-prepare__2.30.00..,kaikki:prepare:verb:0:4076:s0,준비하다,28,anki_core:1766527459974
+finally,"결국, 마침내",adverb,core,B,as the end result of a succession or process,verified,double_korean_anchor,oewn,oewn-finally__4.02.00..,kaikki:finally:adv:0:3396:s0,결국;마침내,28,anki_core:1766527459975
+district,"지역, 지구",noun,core,B,a region marked off for administrative or other purposes,verified,double_korean_anchor,oewn,oewn-district__1.15.00..,kaikki:district:noun:0:4118:s0,지구,28,anki_core:1766527459976
+renewal,재개발,noun,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459977
+compulsory,의무적인,adjective,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459978
+interfere,"방해하다, 해치다",verb,core,B,"get involved, so as to alter or hinder an action, or through force or threat of force",verified,double_korean_anchor,oewn,oewn-interfere__2.41.00..,kaikki:interfere:verb:0:5102:s0,방해하다,28,anki_core:1766527459979
+relocation,"이전, 재배치",noun,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459980
+totally,"완전히, 전적으로",adverb,core,B,to a complete degree or to the full or entire extent; Completely or entirely,unverified,model_reviewed_pair,oewn,oewn-totally__4.02.00..,kaikki:totally:adv:0:4930:s0,,28,anki_core:1766527459981
+actually,"실제로, 사실은",adverb,core,B,in actual fact,unverified,model_reviewed_pair,oewn,oewn-actually__4.02.01..,kaikki:actually:adv:1:1995:s0,,28,anki_core:1766527459982
+architect,건축가,noun,core,C,"A professional who designs buildings or other structures, or who prepares plans and superintends construction.",verified,single_source_korean_anchor,kaikki,,kaikki:architect:noun:0:2615:s0,건축가,28,anki_core:1766527459983
+enlarge,"확장하다, 확대하다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,28,anki_core:1766527459984
+install,"설치하다, 장치하다",verb,core,B,set up for use,verified,double_korean_anchor,oewn,oewn-install__2.35.00..,kaikki:install:verb:0:4885:s0,설치하다,28,anki_core:1766527459985
+suppose,"생각하다, 추측하다",verb,core,C,"To take for granted; to conclude, with less than absolute supporting data; to believe.",verified,single_source_korean_anchor,kaikki,,kaikki:suppose:verb:0:4252:s0,추측하다,28,anki_core:1766527459986
+permanent,영구적인,adjective,core,C,"Without end, eternal.",verified,single_source_korean_anchor,kaikki,,kaikki:permanent:adj:0:3860:s0,영구적인,28,anki_core:1766527459987
+adjacent,인접한,adjective,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459988
+consist,"구성되다, 이루어지다",verb,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459989
+utility,"공공시설, 공공요금",noun,core,D,,unverified,candidates_unaligned,,,,,28,anki_core:1766527459990
+armchair,안락의자,noun,basic,C,A chair with supports for the arms or elbows.,verified,single_source_korean_anchor,kaikki,,kaikki:armchair:noun:0:4440:s0,안락의자,28,anki_basic:1766527459991
+ceiling,천장,noun,basic,C,The upper limit of an object or action.,verified,single_source_korean_anchor,kaikki,,kaikki:ceiling:noun:1:2183:s1,천장,28,anki_basic:1766527459992
+cleanup,대청소,noun,basic,D,,unverified,candidates_unaligned,,,,,28,anki_basic:1766527459993
+decoration,"장식, 장식물",noun,basic,B,something used to beautify,verified,double_korean_anchor,oewn,oewn-decoration__1.06.00..;oewn-decoration__1.06.00..,kaikki:decoration:noun:0:3332:s0;kaikki:decoration:noun:0:3332:s1,장식,28,anki_basic:1766527459994
+fence,울타리,noun,basic,C,"A thin artificial barrier that separates two pieces of land or forms a perimeter enclosing the lands of a house, building, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:fence:noun:0:4095:s0,울타리,28,anki_basic:1766527459995
+floor,바닥,noun,basic,B,the bottom surface of any lake or other body of water,verified,double_korean_anchor,oewn,oewn-floor__1.17.00..,kaikki:floor:noun:0:1129:s0,바닥,28,anki_basic:1766527459996
+frame,"틀, 액자",noun,basic,B,a structure supporting or containing something,verified,double_korean_anchor,oewn,oewn-frame__1.06.04..,kaikki:frame:noun:2:2775:s0,틀,28,anki_basic:1766527459997
+furniture,가구,noun,basic,C,"Large movable item(s), usually in a room, which enhance(s) the room's characteristics, functionally or decoratively.",verified,single_source_korean_anchor,kaikki,,kaikki:furniture:noun:0:2578:s0,가구,28,anki_basic:1766527459998
+garage,차고,noun,basic,C,"A building (or section of a building) used to store a car or cars, tools and other miscellaneous items.",verified,single_source_korean_anchor,kaikki,,kaikki:garage:noun:0:5187:s0,차고,28,anki_basic:1766527459999
+heating system,난방 시스템,phrase,basic,C,utility to warm a building,unverified,single_source_only_sense,oewn,oewn-heating_system__1.06.00..,,,28,anki_basic:1766527460000
+lobby,로비,noun,basic,B,a large entrance or reception room or area,verified,double_korean_anchor,oewn,oewn-lobby__1.06.00..;oewn-lobby__1.14.00..,kaikki:lobby:noun:1:6131:s0;kaikki:lobby:noun:1:6131:s2,로비,28,anki_basic:1766527460001
+remodeling,주택 개조,noun,basic,D,,unverified,candidates_unaligned,,,,,28,anki_basic:1766527460002
+rooftop,"지붕, 옥상",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,28,anki_basic:1766527460003
+rope,"밧줄, 로프",noun,basic,C,"Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",verified,single_source_korean_anchor,kaikki,,kaikki:rope:noun:1:1753:s0,로프;밧줄,28,anki_basic:1766527460004
+stick,"막대기, 지팡이",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,28,anki_basic:1766527460005
+tank,(물·가스 등의) 탱크,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,28,anki_basic:1766527460006
+veranda,베란다,noun,basic,C,"A gallery, platform, or balcony, usually roofed and often partly enclosed, extending along the outside of a building.",verified,single_source_korean_anchor,kaikki,,kaikki:veranda:noun:0:4471:s0,베란다,28,anki_basic:1766527460007
+desktop,"탁상용의, 데스크톱 컴퓨터",noun,basic,B,(computer science) the area of the screen in graphical user interfaces against which icons and windows appear,verified,double_korean_anchor,oewn,oewn-desktop__1.06.00..,kaikki:desktop:noun:0:6061:s1,데스크톱 컴퓨터,28,anki_basic:1766527460008
+dwell,거주하다,verb,basic,B,be an inhabitant of or reside in,verified,double_korean_anchor,oewn,oewn-dwell__2.42.00..,kaikki:dwell:verb:0:581:s0,거주하다,28,anki_basic:1766527460009
+fireplace,(벽)난로,noun,basic,C,An open hearth for holding a fire at the base of a chimney.,verified,single_source_korean_anchor,kaikki,,kaikki:fireplace:noun:0:2949:s0,난로,28,anki_basic:1766527460010
+heat,"열기, 뜨겁게 만들다",verb,basic,D,,unverified,candidates_unaligned,,,,,28,anki_basic:1766527460011
+homemade,집에서 만든,noun,basic,E,,unverified,no_sense_record,,,,,28,anki_basic:1766527460012
+homeowner,주택 소유자,noun,basic,D,,unverified,candidates_unaligned,,,,,28,anki_basic:1766527460013
+inhabit,거주하다,verb,basic,B,be an inhabitant of or reside in,verified,double_korean_anchor,oewn,oewn-inhabit__2.42.00..,kaikki:inhabit:verb:0:4080:s0,거주하다,28,anki_basic:1766527460014
+lighten,밝게 하다,verb,basic,D,,unverified,candidates_unaligned,,,,,28,anki_basic:1766527460015
+neighbor,이웃,noun,basic,B,a nearby object of the same kind,verified,double_korean_anchor,oewn,oewn-neighbor__1.17.00..,kaikki:neighbour:noun:0:8448:s0,이웃,28,anki_basic:1766527460016
+urban,도시의,adjective,basic,B,located in or characteristic of a city or city life,verified,double_korean_anchor,oewn,oewn-urban__3.00.00..,kaikki:urban:adj:0:136:s0,도시의,28,anki_basic:1766527460017
+washing machine,세탁기,phrase,basic,C,"A machine, usually automatic, that washes clothes, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:washing machine:noun:0:4879:s0,세탁기,28,anki_basic:1766527460018
+architecture,"건축물, 건축학",noun,800,C,"The art and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.",verified,single_source_korean_anchor,kaikki,,kaikki:architecture:noun:0:3155:s0,건축학,28,anki_800:1766527461988
+canopy,"덮개, 차양",noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527461989
+cast a shadow,그림자를 드리우다,phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527461990
+column,"기둥, 원주",noun,800,B,(architecture) a tall vertical cylindrical structure standing upright and used to support a structure,verified,double_korean_anchor,oewn,oewn-column__1.06.00..,kaikki:column:noun:0:2676:s0,기둥,28,anki_800:1766527461991
+courtyard,안뜰,noun,800,B,an area wholly or partly surrounded by walls or buildings,unverified,monosemous_pair,oewn,oewn-courtyard__1.06.00..,kaikki:courtyard:noun:0:5927:s0,,28,anki_800:1766527461992
+cupboard,찬장,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527461993
+cut the grass,잔디를 깎다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527461994
+dedication ceremony,"준공식, 헌당식",phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527461995
+doorway,문간,noun,800,B,the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close,verified,double_korean_anchor,oewn,oewn-doorway__1.06.00..,kaikki:doorway:noun:0:5998:s0,문간,28,anki_800:1766527461996
+dresser,"화장대, 서랍장",noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527461997
+emergency exit,비상구,phrase,800,C,An exit that is designed to allow rapid evacuation in the case of emergencies such as a fire.,verified,single_source_korean_anchor,kaikki,,kaikki:emergency exit:noun:0:7278:s0,비상구,28,anki_800:1766527461998
+erect,"똑바로 선, 세우다",verb,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527461999
+every hour on the hour,매정시에,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462000
+faucet,수도꼭지,noun,800,B,a regulator for controlling the flow of a liquid from a reservoir,verified,double_korean_anchor,oewn,oewn-faucet__1.06.01..,kaikki:faucet:noun:0:3766:s0,수도꼭지,28,anki_800:1766527462001
+floor plan,(건물등의) 평면도,phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462002
+flooring,바닥재,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462003
+front door,정문,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,28,anki_800:1766527462004
+hallway,복도,noun,800,D,,unverified,proposed_pair_needs_review,,,,,28,anki_800:1766527462005
+hammering,쿵쾅거리는,adjective,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462006
+handrail,(계단 등의)난간,noun,800,B,a railing at the side of a staircase or balcony to prevent people from falling,verified,double_korean_anchor,oewn,oewn-handrail__1.06.00..,kaikki:handrail:noun:0:6791:s0,난간,28,anki_800:1766527462007
+home improvement,주거 개선용의,phrase,800,C,"The act of making changes to one's home in order to make it prettier, larger, more efficient, or generally better",unverified,single_source_only_sense,kaikki,,kaikki:home improvement:noun:0:7926:s0,,28,anki_800:1766527462008
+lamppost,가로등 기둥,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462009
+lean against the fence,울타리에 기대다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462010
+light bulb,백열전구,phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462011
+make repairs,수리하다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462012
+make the bed,잠자리를 준비하다,phrase,800,C,"To arrange the sheets, blankets, or other coverings of a bed smoothly and neatly, with the corners tucked under the mattress.",unverified,single_source_only_sense,kaikki,,kaikki:make the bed:verb:0:7281:s0,,28,anki_800:1766527462013
+multistory,"다층의, 고층의",adjective,800,C,"Of a building, having more than one storey.",verified,single_source_korean_anchor,kaikki,,kaikki:multi-storey:adj:0:8999:s0,다층,28,anki_800:1766527462014
+outdoor wall,"외벽, 바깥벽",phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462015
+plug in,~에 플러그를 꽂다,phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462016
+pole,"기둥, 원주",noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462017
+private residence,개인 주택,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462018
+put away,"집어넣다, 치우다",phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462019
+rebuild,재건하다,verb,800,C,To build again or anew.,verified,single_source_korean_anchor,kaikki,,kaikki:rebuild:verb:0:740:s0,재건하다,28,anki_800:1766527462020
+repairperson,수리공,noun,800,C,"Synonym of repairer, a person who repairs things.",unverified,single_source_only_sense,kaikki,,kaikki:repairperson:noun:0:7442:s0,,28,anki_800:1766527462021
+spread on,~위에 펴 바르다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462022
+staircase,(난간이 있는) 계단,noun,800,C,A flight of stairs; a stairway.,verified,single_source_korean_anchor,kaikki,,kaikki:staircase:noun:0:2508:s0,계단,28,anki_800:1766527462023
+stairway,계단,noun,800,B,a way of access (upward and downward) consisting of a set of steps,unverified,monosemous_pair,oewn,oewn-stairway__1.06.00..,kaikki:stairway:noun:0:2683:s0,,28,anki_800:1766527462024
+storage cabinet,보관용 수납장,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462025
+switch on,~의 스위치를 켜다,phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462026
+turn on its side,"뒤집다, 옆으로 돌리다",phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462027
+undergo renovation,개조(보수) 중이다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462028
+windowsill,창턱,noun,800,C,The horizontal member protruding from the base of a window frame.,verified,single_source_korean_anchor,kaikki,,kaikki:windowsill:noun:0:4991:s0,창턱,28,anki_800:1766527462029
+construct,건설하다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,28,anki_800:1766527462030
+describe,"말로 설명하다, 묘사하다",verb,800,C,To represent in words.,verified,single_source_korean_anchor,kaikki,,kaikki:describe:verb:0:2213:s0,묘사하다,28,anki_800:1766527462031
+desirable,"바람직한, 이상적인",adjective,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462032
+structure,구조물,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462033
+access road,진입로,phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462034
+arrange the furniture,가구를 배치하다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462035
+be arranged on the patio,테라스에 정돈되어 있다,phrase,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462036
+built-in,붙박이의,adjective,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462037
+carpentry,목수일,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462038
+fire alarm,화재경보기,phrase,800,C,"An electromechanical or electronic bell, klaxon, chime, horn, speaker, strobe light or other device which warns people in a building etc. of a possible fire or other condition requiring evacuation.",verified,single_source_korean_anchor,kaikki,,kaikki:fire alarm:noun:0:4630:s0,화재경보기,28,anki_800:1766527462039
+fire extinguisher,소화기,phrase,800,B,a manually operated device for extinguishing small fires,verified,double_korean_anchor,oewn,oewn-fire_extinguisher__1.06.00..,kaikki:fire extinguisher:noun:0:7015:s0,소화기,28,anki_800:1766527462040
+fitting room,탈의실,phrase,800,C,A room in a store for trying on clothes before purchase.,unverified,single_source_only_sense,kaikki,,kaikki:fitting room:noun:0:6610:s0,,28,anki_800:1766527462041
+fixture,붙박이 가구,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462042
+homebuilder,주택건설업자,noun,800,B,someone who builds houses as a business,unverified,monosemous_pair,oewn,oewn-homebuilder__1.18.00..,kaikki:homebuilder:noun:0:7145:s0,,28,anki_800:1766527462043
+housekeeping,가사,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462044
+housewares,가정용품,noun,800,C,Synonym of household goods.,unverified,single_source_only_sense,kaikki,,kaikki:houseware:noun:0:9014:s0,,28,anki_800:1766527462045
+housing development,주택 개발,phrase,800,C,a residential area of similar dwellings built by property developers and usually under a single management,unverified,single_source_only_sense,oewn,oewn-housing_development__1.15.00..,,,28,anki_800:1766527462046
+in error,"실수로, 잘못한",phrase,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462047
+overprice,과하게 값을 매기다,verb,800,B,price excessively high,unverified,monosemous_pair,oewn,oewn-overprice__2.40.00..,kaikki:overprice:verb:0:7195:s0,,28,anki_800:1766527462048
+reinforce,~을 보강하다,verb,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462049
+resident,"거주자, 주민",noun,800,C,"A person, animal or plant living at a certain location or in a certain area.",verified,single_source_korean_anchor,kaikki,,kaikki:resident:noun:0:2829:s0,거주자;주민,28,anki_800:1766527462050
+restoration,"복원, 복구",noun,800,C,The process of bringing an object back to its original state; the process of restoring something.,verified,single_source_korean_anchor,kaikki,,kaikki:restoration:noun:0:5895:s0,복구,28,anki_800:1766527462051
+scrubbing,문지르기,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462052
+skyscraper,고층빌딩,noun,800,D,,unverified,candidates_unaligned,,,,,28,anki_800:1766527462053
+space-saving,공간 절약의,adjective,800,C,Taking up only a limited amount of space or room; compact.,unverified,single_source_only_sense,kaikki,,kaikki:space-saving:adj:0:7607:s0,,28,anki_800:1766527462054
+tenant,(가옥 등의) 임차인,adjective,800,E,,unverified,no_sense_record,,,,,28,anki_800:1766527462055
+archway,아치 길,noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463086
+be mounted on,"~에 설치되어 있다, 고정되어 있다",phrase,900,E,,unverified,no_sense_record,,,,,28,anki_900:1766527463087
+dig with a shovel,삽으로 땅을 파다,phrase,900,E,,unverified,no_sense_record,,,,,28,anki_900:1766527463088
+drain,배수하다,verb,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463089
+hedge,"울타리, 담",noun,900,B,a fence formed by a row of closely planted shrubs or bushes,verified,double_korean_anchor,oewn,oewn-hedge__1.06.00..,kaikki:hedge:noun:1:3422:s0,울타리,28,anki_900:1766527463090
+landlord,집주인,noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463091
+ledge,"선반, 절벽에서 튀어나온 바위",noun,900,D,,unverified,proposed_pair_needs_review,,,,,28,anki_900:1766527463092
+lock oneself out of one's house,열쇠를 집 안에 두고 문을 잠그다,phrase,900,E,,unverified,no_sense_record,,,,,28,anki_900:1766527463093
+plumber,배관공,noun,900,C,"One who furnishes, fits, and repairs pipes and other apparatus for the conveyance of water, gas, or drainage.",verified,single_source_korean_anchor,kaikki,,kaikki:plumber:noun:0:2956:s1,배관공,28,anki_900:1766527463094
+porch,현관,noun,900,C,"A covered entrance to a building, whether taken from the interior, and forming a sort of vestibule within the main wall, or projecting without and with a separate roof. A porch often has chair(s), table(s) and swings.",verified,single_source_korean_anchor,kaikki,,kaikki:porch:noun:0:3529:s0,현관,28,anki_900:1766527463095
+run the tap,수도꼭지를 틀다,phrase,900,E,,unverified,no_sense_record,,,,,28,anki_900:1766527463096
+saw,톱; 톱질하다,noun/verb,900,C,Such a tool with a toothed blade.,verified,single_source_korean_anchor,kaikki,,kaikki:saw:noun:1:757:s0,톱,28,anki_900:1766527463097
+scaffolding,"(건축 공사장의) 비계, 발판",noun,900,C,"A temporary modular system of tubes, bamboo or wood forming a framework used to support people and material in the construction or repair of buildings and other large structures.",verified,single_source_korean_anchor,kaikki,,kaikki:scaffolding:noun:1:3991:s0,비계,28,anki_900:1766527463098
+screw,"나사; (나사로) 죄다, 고정시키다",noun/verb,900,C,"A (usually) metal fastener consisting of a partially or completely threaded shank, sometimes with a threaded point, and a head used to both hold the top material and to drive the screw either directly into a soft material or into a prepared hole.",verified,single_source_korean_anchor,kaikki,,kaikki:screw:noun:0:1307:s1,나사,28,anki_900:1766527463099
+symmetrically,대칭적으로,adverb,900,B,in a symmetrical manner,unverified,monosemous_pair,oewn,oewn-symmetrically__4.02.00..,kaikki:symmetrically:adv:0:6974:s0,,28,anki_900:1766527463100
+tear down,(건물을) 헐다,phrase,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463101
+uninhabited,사람이 살지 않는,adjective,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463102
+woodwork,(가옥 등의) 목조 부분,noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463103
+complex,"(건물 등의) 집합체, 단지; 복잡한",adjective/noun,900,B,difficult to analyze or understand,verified,double_korean_anchor,oewn,oewn-complex__5.00.01.complex.00,kaikki:complex:adj:0:724:s1,복잡하다,28,anki_900:1766527463104
+constructively,건설적으로,adverb,900,B,in a constructive manner,unverified,monosemous_pair,oewn,oewn-constructively__4.02.00..,kaikki:constructively:adv:0:7117:s0,,28,anki_900:1766527463105
+locale,"현장, (소설·영화 등의) 무대",noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463106
+maintenance,유지,noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463107
+reconfiguration,구조 변경,noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463108
+startle,깜짝 놀라게 하다,verb,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463109
+annex,"별관, 증축 건물",noun,900,D,,unverified,proposed_pair_needs_review,,,,,28,anki_900:1766527463110
+demolish,파괴하다,verb,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463111
+demolition,"파괴, 폭파",noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463112
+for lease,(집을) 내놓은,phrase,900,E,,unverified,no_sense_record,,,,,28,anki_900:1766527463113
+insulation,단열재,noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463114
+premises,"구내, 토지가 딸린 건물",noun,900,D,,unverified,candidates_unaligned,,,,,28,anki_900:1766527463115
+rack,선반,noun,900,C,"A series of one or more shelves, stacked one above the other.",verified,single_source_korean_anchor,kaikki,,kaikki:rack:noun:1:2891:s0,선반,28,anki_900:1766527463116
+shockproof,충격에 견디게 만든,noun,900,E,,unverified,no_sense_record,,,,,28,anki_900:1766527463117

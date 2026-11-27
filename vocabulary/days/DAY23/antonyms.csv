@@ -1,0 +1,6 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+attend,miss,wordnet_antonym,oewn-attend__2.42.00..,double_korean_anchor
+grateful,ungrateful,wordnet_antonym,oewn-grateful__3.00.00..,model_reviewed_pair
+welcome,say farewell,wordnet_antonym,oewn-welcome__2.32.00..,double_korean_anchor
+intentionally,unintentionally,wordnet_antonym,oewn-intentionally__4.02.00..,monosemous_pair
+respectfully,disrespectfully,wordnet_antonym,oewn-respectfully__4.02.00..,monosemous_pair

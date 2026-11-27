@@ -1,0 +1,169 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+investment,"투자, 투자금",noun,core,C,A placement of capital in expectation of deriving income or profit from its use or appreciation.,verified,single_source_korean_anchor,kaikki,,kaikki:investment:noun:0:156:s1,투자,27,anki_core:1766527459883
+lucrative,"수익성 있는, 돈벌이가 되는",adjective,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459884
+inherently,본질적으로,adverb,core,B,in an inherent manner,unverified,monosemous_pair,oewn,oewn-inherently__4.02.00..,kaikki:inherently:adv:0:6570:s0,,27,anki_core:1766527459885
+secure,"확보하다, 얻어내다, 안전하게 지키다, 고정시키다",verb,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459886
+foreseeable,예견할 수 있는,adjective,core,B,capable of being anticipated,unverified,monosemous_pair,oewn,oewn-foreseeable__5.00.00.predictable.00,kaikki:foreseeable:adj:0:6931:s0,,27,anki_core:1766527459887
+innate,타고난,noun,core,E,,unverified,no_sense_record,,,,,27,anki_core:1766527459888
+property,재산,noun,core,B,something owned; any tangible or intangible possession that is owned by someone,verified,model_reviewed_pair,oewn,oewn-property__1.21.00..,kaikki:property:noun:0:2981:s0,재산,27,anki_core:1766527459889
+on behalf of,~을 대신해서,phrase,core,C,Speaking or acting for.,unverified,single_source_only_sense,kaikki,,kaikki:on behalf of:prep:0:4800:s0,,27,anki_core:1766527459890
+lease,임대차(계약),noun,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459891
+sponsor,"후원하다, 후원자",noun,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459892
+propose,제안하다,verb,core,B,"make a proposal, declare a plan for something",unverified,model_reviewed_pair,oewn,oewn-propose__2.32.00..,kaikki:propose:verb:0:4566:s0,,27,anki_core:1766527459893
+support,"후원, 원조, 지지, 지원하다, 후원하다, 살게 하다, (생명·기력 등을) 유지하다",verb,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459894
+distribution,"분배, 배급",noun,core,C,An act of distributing or state of being distributed.,verified,single_source_korean_anchor,kaikki,,kaikki:distribution:noun:0:895:s0,분배,27,anki_core:1766527459895
+consider,고려하다,verb,core,C,To think about seriously.,verified,single_source_korean_anchor,kaikki,,kaikki:consider:verb:0:3025:s0,고려하다,27,anki_core:1766527459896
+nearly,"거의, 대략",adverb,core,B,(of actions or states) slightly short of or not quite accomplished; all but,unverified,model_reviewed_pair,oewn,oewn-nearly__4.02.00..,kaikki:nearly:adv:0:4261:s0,,27,anki_core:1766527459897
+consent,"동의, 허락",noun,core,B,permission for something to happen,verified,double_korean_anchor,oewn,oewn-consent__1.10.00..,kaikki:consent:noun:0:175:s0,동의,27,anki_core:1766527459898
+gratitude,"고마움, 감사",noun,core,C,The state of being grateful.,verified,single_source_korean_anchor,kaikki,,kaikki:gratitude:noun:0:2889:s0,감사,27,anki_core:1766527459899
+consult,"상의하다, 상담하다",verb,core,B,get or ask advice from,unverified,model_reviewed_pair,oewn,oewn-consult__2.32.02..,kaikki:consult:verb:0:5718:s3,,27,anki_core:1766527459900
+advice,"조언, 충고",noun,core,C,An opinion offered to guide behavior in an effort to be helpful.,verified,single_source_korean_anchor,kaikki,,kaikki:advice:noun:0:336:s0,조언;충고,27,anki_core:1766527459901
+partially,"부분적으로, 일부분은",adjective,core,E,,unverified,no_sense_record,,,,,27,anki_core:1766527459902
+evident,"분명한, 명백한",adjective,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459903
+reliability,"신뢰도, 믿음직함",noun,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459904
+cautious,"조심하는, 신중한",adjective,core,B,showing careful forethought,verified,double_korean_anchor,oewn,oewn-cautious__3.00.00..,kaikki:cautious:adj:0:5217:s0,신중하다,27,anki_core:1766527459905
+insight,"식견, 통찰력",noun,core,B,clear or deep perception of a situation,unverified,model_reviewed_pair,oewn,oewn-insight__1.09.02..,kaikki:insight:noun:0:3448:s1,,27,anki_core:1766527459906
+portfolio,"포트폴리오, 투자 자산 구성",noun,core,B,"a large, flat, thin case for carrying loose papers or drawings or maps; usually leather",verified,double_korean_anchor,oewn,oewn-portfolio__1.06.00..,kaikki:portfolio:noun:0:6455:s0,포트폴리오,27,anki_core:1766527459907
+possible,"가능한, 있음 직한",adjective,core,C,Able but not certain to happen; neither inevitable nor impossible.,verified,single_source_korean_anchor,kaikki,,kaikki:possible:adj:0:2244:s0,가능하다,27,anki_core:1766527459908
+speculation,추측,noun,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459909
+solely,전적으로,adverb,core,B,without any others being included or involved,unverified,monosemous_pair,oewn,oewn-solely__4.02.00..,kaikki:solely:adv:0:5465:s0,,27,anki_core:1766527459910
+entrepreneur,사업가,noun,core,B,someone who organizes a business venture and assumes the risk for it,unverified,monosemous_pair,oewn,oewn-entrepreneur__1.18.00..,kaikki:entrepreneur:noun:0:2379:s0,,27,anki_core:1766527459911
+eventually,"결국, 마침내",adverb,core,B,after an unspecified period of time or an especially long delay,verified,double_korean_anchor,oewn,oewn-eventually__4.02.00..,kaikki:eventually:adv:0:518:s0,결국,27,anki_core:1766527459912
+shareholder,주주,noun,core,B,someone who holds shares of stock in a corporation,verified,double_korean_anchor,oewn,oewn-shareholder__1.18.00..,kaikki:shareholder:noun:0:6645:s0,주주,27,anki_core:1766527459913
+outlook,전망,noun,core,B,belief about (or mental picture of) the future,unverified,model_reviewed_pair,oewn,oewn-outlook__1.09.00..,kaikki:outlook:noun:1:4830:s3,,27,anki_core:1766527459914
+stability,"안정, 안정성",noun,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459915
+bond,채권,noun,core,C,A documentary obligation to pay a sum or to perform a contract; a debenture.,verified,single_source_korean_anchor,kaikki,,kaikki:bond:noun:1:4037:s1,채권,27,anki_core:1766527459916
+depreciation,"가치 하락, 화폐의 구매력 저하",noun,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459917
+increasing,증가하는,adjective,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459918
+prevalent,"유행하고 있는, 널리 퍼진",noun,core,C,A species that is prevalent in a certain area.,unverified,single_source_only_sense,kaikki,,kaikki:prevalent:noun:0:6033:s0,,27,anki_core:1766527459919
+rapid,"빠른, 신속한",adjective,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459920
+unprecedented,전례 없는,adjective,core,B,having no precedent; novel; never seen before,unverified,monosemous_pair,oewn,oewn-unprecedented__3.00.00..,kaikki:unprecedented:adj:0:1188:s0,,27,anki_core:1766527459921
+yield,"(이윤을) 가져오다, 산출하다",verb,core,D,,unverified,candidates_unaligned,,,,,27,anki_core:1766527459922
+challenge,"도전, 도전하다",verb,basic,C,To dare (someone).,verified,single_source_korean_anchor,kaikki,,kaikki:challenge:verb:0:3888:s1,도전;도전하다,27,anki_basic:1766527459923
+comfort,"위로하다, 위로",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,27,anki_basic:1766527459924
+compact,소형의,adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459925
+data,자료,noun,basic,C,"A representation of information in a computer (as symbols, quantities, sound, images or videos) which is stored, processed or transmitted in the form of electrical signals, records on magnetic tape or punched cards, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:data:noun:0:2445:s0,자료,27,anki_basic:1766527459926
+distance,거리,noun,basic,B,the interval between two times,verified,double_korean_anchor,oewn,oewn-distance__1.28.00..,kaikki:distance:noun:0:507:s0,거리,27,anki_basic:1766527459927
+elementary,"기본이 되는, 초보의",adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459928
+extra,추가의,adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459929
+fake,"위조의, 모조품",noun,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459930
+joint,공동의,adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459931
+listen to,~을 듣다,phrase,basic,E,,unverified,no_sense_record,,,,,27,anki_basic:1766527459932
+mentor,조언자,noun,basic,B,a wise and trusted guide and advisor,unverified,monosemous_pair,oewn,oewn-mentor__1.18.00..,kaikki:mentor:noun:0:4465:s0,,27,anki_basic:1766527459933
+network,망,noun,basic,B,an open fabric of string or rope or wire woven together at regular intervals,verified,double_korean_anchor,oewn,oewn-network__1.06.00..,kaikki:network:noun:0:171:s3,망,27,anki_basic:1766527459934
+relaxing,긴장을 풀어 주는,adjective,basic,B,affording physical or mental rest,unverified,monosemous_pair,oewn,oewn-relaxing__3.00.00..,kaikki:relaxing:adj:0:6563:s0,,27,anki_basic:1766527459935
+rental car,임대 자동차,phrase,basic,C,"A car that is or can be rented, usually for a short period, from a car rental company.",unverified,single_source_only_sense,kaikki,,kaikki:rental car:noun:0:7585:s0,,27,anki_basic:1766527459936
+single,단 하나의,adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459937
+soon,곧,adverb,basic,C,Within a short time; quickly.,verified,single_source_korean_anchor,kaikki,,kaikki:soon:adv:0:2459:s1,곧,27,anki_basic:1766527459938
+accuracy,정확도,noun,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459939
+biased,편향된,adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459940
+goal,목표,noun,basic,C,A result that one is attempting to achieve.,verified,single_source_korean_anchor,kaikki,,kaikki:goal:noun:0:1531:s0,목표,27,anki_basic:1766527459941
+lose,분실하다,verb,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459942
+owner,"주인, 소유주",noun,basic,B,(law) someone who owns (is legal possessor of) a business,verified,double_korean_anchor,oewn,oewn-owner__1.18.00..,kaikki:owner:noun:0:3018:s0,주인,27,anki_basic:1766527459943
+risky,위험한,adjective,basic,C,Dangerous; involving risks.,verified,single_source_korean_anchor,kaikki,,kaikki:risky:adj:0:5687:s0,위험한,27,anki_basic:1766527459944
+somewhat,"다소, 얼마간",noun,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459945
+tight,"단단한, 꽉 조여있는",adjective,basic,D,,unverified,candidates_unaligned,,,,,27,anki_basic:1766527459946
+truly,"정말로, 진심으로",adverb,basic,D,,unverified,proposed_pair_needs_review,,,,,27,anki_basic:1766527459947
+usual,"흔히 있는, 보통의",adjective,basic,B,commonly encountered,verified,double_korean_anchor,oewn,oewn-usual__5.00.00.familiar.02,kaikki:usual:adj:0:3150:s0,보통의,27,anki_basic:1766527459948
+wait,"기다리다, 기다림",noun,basic,C,A delay.,verified,single_source_korean_anchor,kaikki,,kaikki:wait:noun:1:2397:s0,기다리다;기다림,27,anki_basic:1766527459949
+worry,걱정하다,verb,basic,B,"be worried, concerned, anxious, troubled, or uneasy",verified,double_korean_anchor,oewn,oewn-worry__2.37.00..,kaikki:worry:verb:0:3848:s0,걱정하다,27,anki_basic:1766527459950
+at one's disposal,"~마음대로, ~뜻대로",phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461920
+be reluctant to do,~하기를 꺼리다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461921
+believe it or not,믿거나 말거나,phrase,800,C,"This may be surprising, but it's true.",unverified,single_source_only_sense,kaikki,,kaikki:believe it or not:adv:0:7399:s0,,27,anki_800:1766527461922
+blame A on B,A를 B의 탓으로 돌리다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461923
+call on urgent meeting,비상 회의를 소집하다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461924
+call for some assistance,도움을 청하다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461925
+circumstances,"상황, 환경",noun,800,C,"Something which is related to, or in some way affects, a fact or event.",verified,single_source_korean_anchor,kaikki,,kaikki:circumstance:noun:0:8556:s0,상황,27,anki_800:1766527461926
+cutback,삭감,noun,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461927
+emergency evacuation,비상대피,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461928
+festive,축제의,adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461929
+frustrate,좌절시키다,verb,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461930
+get rid of,~을 제거하다,phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461931
+give it a try,시도하다,phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461932
+have reason to do,~할 이유가 있다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461933
+hazardous,위험한,adjective,800,B,involving risk or danger,unverified,monosemous_pair,oewn,oewn-hazardous__5.00.00.dangerous.00,kaikki:hazardous:adj:0:4996:s0,,27,anki_800:1766527461934
+in private,비밀리에,phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461935
+in the distance past,훨씬 이전에,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461936
+intake,(음식의) 섭취,noun,800,D,,unverified,proposed_pair_needs_review,,,,,27,anki_800:1766527461937
+leaky,(액체 등이) 세는,noun,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461938
+look for,~을 찾다,phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461939
+organize a picnic,소풍을 준비하다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461940
+pair up with,~와 짝이 되다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461941
+reflection,"(거울 등에 비친) 상, 반영",noun,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461942
+self-esteem,자부심,noun,800,B,a feeling of pride in yourself,unverified,monosemous_pair,oewn,oewn-self--esteem__1.12.00..,kaikki:self-esteem:noun:0:7196:s0,,27,anki_800:1766527461943
+show off,과시하다,phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461944
+sponsored by,~의 후원을 받은,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461945
+stock market,주식시장,phrase,800,C,A market for the trading of company stock.,verified,single_source_korean_anchor,kaikki,,kaikki:stock market:noun:0:6686:s0,주식시장,27,anki_800:1766527461946
+supporting,"지지하는, 후원하는",adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461947
+tear,찢다,verb,800,C,"To rend (a solid material) by holding or restraining in two places and pulling apart, whether intentionally or not; to destroy or separate.",verified,single_source_korean_anchor,kaikki,,kaikki:tear:verb:1:444:s0,찢다,27,anki_800:1766527461948
+unconditionally,무조건적으로,adverb,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461949
+abundantly,"풍부하게, 아주 분명한",adjective,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461950
+additionally,게다가,adverb,800,B,"in addition, by way of addition; furthermore",unverified,monosemous_pair,oewn,oewn-additionally__4.02.00..,kaikki:additionally:adv:0:3776:s0,,27,anki_800:1766527461951
+ambitious,야심 있는,adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461952
+cautiously,조심스럽게,adverb,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461953
+considerate,"사려 깊은, 배려하는",adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461954
+consultation,"상담, 협의",noun,800,C,The act of consulting.,verified,single_source_korean_anchor,kaikki,,kaikki:consultation:noun:0:2792:s0,상담;협의,27,anki_800:1766527461955
+effectively,효과적으로,adverb,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461956
+favored,호의를 사고 있는,adjective,800,C,preferred above all others and treated with partiality,unverified,single_source_only_sense,oewn,oewn-favored__5.00.00.loved.00,,,27,anki_800:1766527461957
+impractical,"비현실적인, 비실용적인",adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461958
+improper,"부당한, 부도덕한",adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461959
+insecure,"불안한, 확신이 안 가는",adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461960
+insecurely,불안하여,noun,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461961
+justify,정당화하다,verb,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461962
+reduced,"축소한, 감소한",adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461963
+reluctance,마지못해함,noun,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461964
+reviewer,"논평가, 비평가",noun,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461965
+take pride in,~을 자랑하다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461966
+threaten,"위협하다, ~할 우려가 있다",verb,800,C,To make a threat against someone; to use threats.,verified,single_source_korean_anchor,kaikki,,kaikki:threaten:verb:0:836:s0,위협하다,27,anki_800:1766527461967
+venture,"모험, (위험을 무릎 쓰고) 가다",verb,800,D,,unverified,proposed_pair_needs_review,,,,,27,anki_800:1766527461968
+branch office,"지점, 지사",phrase,800,C,A business office that is geographically separate from the headquarters of the business.,unverified,single_source_only_sense,kaikki,,kaikki:branch office:noun:0:7465:s0,,27,anki_800:1766527461969
+confusion,혼란,noun,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461970
+controversy,논란,noun,800,B,a contentious speech act; a dispute where there is strong disagreement,unverified,monosemous_pair,oewn,oewn-controversy__1.10.00..,kaikki:controversy:noun:0:3257:s0,,27,anki_800:1766527461971
+cost analysis,비용분석,phrase,800,C,breaking down the costs of some operation and reporting on each factor separately,unverified,single_source_only_sense,oewn,oewn-cost_analysis__1.04.00..,,,27,anki_800:1766527461972
+faintly,희미하게,adverb,800,B,to a faint degree or weakly perceived,unverified,monosemous_pair,oewn,oewn-faintly__4.02.00..,kaikki:faintly:adv:0:6137:s0,,27,anki_800:1766527461973
+input,투입,noun,800,C,Data fed into a process with the intention of it shaping or affecting the output of that process.,verified,single_source_korean_anchor,kaikki,,kaikki:input:noun:0:614:s3,투입,27,anki_800:1766527461974
+investor,투자가,noun,800,B,someone who commits capital in order to gain financial returns,unverified,monosemous_pair,oewn,oewn-investor__1.18.00..,kaikki:investor:noun:0:1489:s0,,27,anki_800:1766527461975
+legacy,"유산, 유물",noun,800,B,(law) a gift of personal property by will,verified,double_korean_anchor,oewn,oewn-legacy__1.21.00..,kaikki:legacy:noun:0:5424:s0,유산,27,anki_800:1766527461976
+meet the expenses,경비를 대다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461977
+on a regular basis,정기적으로,phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461978
+on one's own account,"혼자서, 자신의 이익을 위해서",phrase,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461979
+pioneer,"개척자, 선구자",noun,800,C,"One who goes before, as into the wilderness, preparing the way for others to follow.",verified,single_source_korean_anchor,kaikki,,kaikki:pioneer:noun:0:5421:s0,개척자;선구자,27,anki_800:1766527461980
+projected,예상된,adjective,800,B,extending out above or beyond a surface or boundary,unverified,monosemous_pair,oewn,oewn-projected__5.00.00.protrusive.00,kaikki:projected:adj:0:4822:s0,,27,anki_800:1766527461981
+reexamine,재검사하다,verb,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461982
+repetitive,반복적인,adjective,800,D,,unverified,candidates_unaligned,,,,,27,anki_800:1766527461983
+set up a business,사업을 시작하다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461984
+strength,"힘, 장점",noun,800,C,The quality or degree of being strong.,verified,single_source_korean_anchor,kaikki,,kaikki:strength:noun:0:3262:s0,힘,27,anki_800:1766527461985
+take precautions,조심하다,phrase,800,E,,unverified,no_sense_record,,,,,27,anki_800:1766527461986
+throw out,버리다,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,27,anki_800:1766527461987
+cost estimate,원가 견적,phrase,900,C,An itemized list of estimated labour and material costs which will be required for a project.,unverified,single_source_only_sense,kaikki,,kaikki:cost estimate:noun:0:8037:s0,,27,anki_900:1766527463054
+dispatch,(소포 등을) 발송하다,verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463055
+faithfully,"충실하게, 정확히",adverb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463056
+impair,손상시키다,verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463057
+in the vicinity of,~의 부근에,phrase,900,E,,unverified,no_sense_record,,,,,27,anki_900:1766527463058
+outlying,"외진, 변경의",adjective,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463059
+play a role in,~에 한몫하다,phrase,900,E,,unverified,no_sense_record,,,,,27,anki_900:1766527463060
+approximation,근사치,noun,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463061
+attainable,이룰 수 있는,adjective,900,B,capable of being attained or accomplished,unverified,monosemous_pair,oewn,oewn-attainable__5.00.00.possible.00,kaikki:attainable:adj:0:6902:s0,,27,anki_900:1766527463062
+courteousness,"예의 바름, 공손함",noun,900,C,The characteristic of being courteous.,unverified,single_source_only_sense,kaikki,,kaikki:courteousness:noun:0:7111:s0,,27,anki_900:1766527463063
+devalued,평가 절하된,adjective,900,C,lowered in value,unverified,single_source_only_sense,oewn,oewn-devalued__5.00.00.low.02,,,27,anki_900:1766527463064
+dividend,배당금,noun,900,C,"A cash payment of money by a company to its shareholders, usually made periodically (e.g., quarterly or annually).",verified,single_source_korean_anchor,kaikki,,kaikki:dividend:noun:0:5693:s0,배당금,27,anki_900:1766527463065
+fictitious,"허구의, 지어낸",noun,900,E,,unverified,no_sense_record,,,,,27,anki_900:1766527463066
+overhaul,"점검, 정비; 철저히 조사하다",noun/verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463067
+speculate,추측하다,verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463068
+unbeatable,(가격·가치 등이) 더 이상 좋을 수 없는,adjective,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463069
+unbiased,"선입견 없는, 편견 없는",adjective,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463070
+untimely,"때 이른, 시기상조의",adjective,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463071
+accredit,승인하다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,27,anki_900:1766527463072
+deflate,"(물가를) 끌어내리다, (통화를) 수축시키다",verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463073
+deliberately,고의로,adverb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463074
+devastate,황폐시키다,verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463075
+disparately,본질적으로 다르게,adverb,900,C,In a disparate manner.,unverified,single_source_only_sense,kaikki,,kaikki:disparately:adv:0:6806:s0,,27,anki_900:1766527463076
+evoke,(기억 등을) 일깨우다,verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463077
+manipulation,"조작, 시장 조작",noun,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463078
+outweigh,(가치·중요성이) ~보다 크다,verb,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463079
+property line,토지 경계선,phrase,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463080
+set aside,챙겨 두다,phrase,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463081
+start-up cost,착수 비용,phrase,900,E,,unverified,no_sense_record,,,,,27,anki_900:1766527463082
+take steps,조치를 취하다,phrase,900,C,"To initiate a course of action, often against something that one disapproves of.",unverified,single_source_only_sense,kaikki,,kaikki:take steps:verb:0:5781:s0,,27,anki_900:1766527463083
+well-balanced,균형 잡힌,noun,900,E,,unverified,no_sense_record,,,,,27,anki_900:1766527463084
+wipe off,~을 없애다,phrase,900,D,,unverified,candidates_unaligned,,,,,27,anki_900:1766527463085
