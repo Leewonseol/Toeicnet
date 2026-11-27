@@ -11,7 +11,8 @@ SCRIPT_DIR = Path(__file__).resolve().parents[1] / "scripts"
 sys.path.insert(0, str(SCRIPT_DIR))
 
 from build_database import build
-from validate_database import coverage, validate
+from export_semantic_coverage import coverage_rows
+from validate_database import coverage, source_coverage_complete, validate
 
 
 def jsonl(path, rows):
@@ -101,3 +102,28 @@ class BuildDatabaseTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "two independent"):
             build(self.db, self.config, [self.intake], review=[self.review])
         self.assertEqual(self.db.read_bytes(), prior)
+
+    def test_candidates_do_not_count_as_learner_or_korean_verification(self):
+        candidates = jsonl(self.candidates, [{
+            "kind": "sense_candidate", "headword": "sample", "source_id": "oewn",
+            "source_record_id": "open-meaning", "part_of_speech": "noun",
+        }])
+        jsonl(self.review, [self.sense])
+        build(self.db, self.config, [self.intake], [candidates], [self.review])
+        with closing(sqlite3.connect(self.db)) as db:
+            db.row_factory = sqlite3.Row
+            rows = {row["source_record_id"]: row for row in coverage_rows(db, "quizlet")}
+        self.assertEqual(rows["1"]["learner_cross_verified_senses"], 1)
+        self.assertEqual(rows["1"]["korean_verified_senses"], 0)
+        self.assertEqual(rows["2"]["meaning_evidence_state"], "open_candidates_pending_alignment")
+        self.assertEqual(rows["2"]["open_sense_candidates"], {"oewn": 1})
+
+    def test_anki_coverage_uses_own_manifest_and_full_pdf_review(self):
+        measured = {
+            "anki_manifest_complete": True, "anki_days": 30, "anki_occurrences": 1241,
+            "expected_anki_occurrences": 1241, "back_days": 30, "back_pages_image_reviewed": 120,
+            "ocr_manifest_complete": True, "intake_manifest_complete": False,
+        }
+        self.assertTrue(source_coverage_complete(measured, "anki"))
+        self.assertFalse(source_coverage_complete(measured, "quizlet"))
+        self.assertFalse(source_coverage_complete({**measured, "back_pages_image_reviewed": 119}, "anki"))

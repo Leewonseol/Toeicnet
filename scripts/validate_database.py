@@ -76,16 +76,42 @@ def coverage(db):
             SELECT DISTINCT filename,pdf_page FROM occurrences
             WHERE source_id='hackers_back' AND filename IS NOT NULL AND pdf_page IS NOT NULL)""",
     ).fetchone()[0]
-    row = db.execute("SELECT payload_json FROM pipeline_state WHERE stage='normalized_intake'").fetchone()
-    intake_manifest = json.loads(row[0]) if row else {}
-    configured = db.execute("""
-        SELECT json_extract(metadata_json,'$.expected_items') FROM sources
-        WHERE source_id='quizlet_324678752'
-    """).fetchone()
-    values["expected_quizlet_occurrences"] = configured[0] if configured else None
+    manifests = {
+        stage: json.loads(payload)
+        for stage, payload in db.execute("SELECT stage,payload_json FROM pipeline_state")
+    }
+    intake_manifest = manifests.get("normalized_intake", {})
+    anki_manifest = manifests.get("anki_intake", {})
+    expected_items = dict(db.execute("""
+        SELECT source_id,json_extract(metadata_json,'$.expected_items') FROM sources
+        WHERE source_id IN ('quizlet_324678752','hackers_anki_user')
+    """))
+    values["expected_quizlet_occurrences"] = expected_items.get("quizlet_324678752")
+    values["expected_anki_occurrences"] = expected_items.get("hackers_anki_user")
     values["back_pages_image_reviewed"] = intake_manifest.get("reviewed_image_pages")
     values["intake_manifest_complete"] = intake_manifest.get("complete_intake", False)
+    values["ocr_manifest_complete"] = intake_manifest.get("complete_ocr", False)
+    values["anki_manifest_complete"] = (
+        anki_manifest.get("source_id") == "hackers_anki_user"
+        and anki_manifest.get("day_coverage_complete") is True
+        and anki_manifest.get("extracted_count") == values["anki_occurrences"]
+        and anki_manifest.get("expected_count") == values["expected_anki_occurrences"]
+    )
     return values
+
+
+def source_coverage_complete(measured, core_source):
+    core = (
+        measured["anki_manifest_complete"] and measured["anki_days"] == 30
+        and measured["anki_occurrences"] == measured["expected_anki_occurrences"]
+    ) if core_source == "anki" else (
+        measured["intake_manifest_complete"] and measured["core_days"] == 30
+        and measured["core_occurrences"] == measured["expected_quizlet_occurrences"]
+    )
+    return (
+        core and measured["back_days"] == 30 and measured["back_pages_image_reviewed"] == 120
+        and (measured["ocr_manifest_complete"] or measured["intake_manifest_complete"])
+    )
 
 
 def validate_tsv(directory):
@@ -103,7 +129,8 @@ def main():
     parser.add_argument("--db", type=Path, default=Path("data/processed/toeic.db"))
     parser.add_argument("--quizlet-output", type=Path)
     parser.add_argument("--require-coverage", action="store_true",
-                        help="Require the matching normalized manifest, exact Quizlet count and full PDF/image coverage")
+                        help="Require the matching intake manifests and full PDF image review")
+    parser.add_argument("--core-source", choices=("anki", "quizlet"), default="quizlet")
     args = parser.parse_args()
     with closing(sqlite3.connect(args.db.resolve().as_uri() + "?mode=ro", uri=True)) as db:
         errors = validate(db)
@@ -111,16 +138,13 @@ def main():
     if args.quizlet_output:
         errors.extend(validate_tsv(args.quizlet_output))
     integrity_passed = not errors
-    if args.require_coverage and (
-        not measured["intake_manifest_complete"]
-        or measured["core_occurrences"] != measured["expected_quizlet_occurrences"]
-        or measured["core_days"] != 30 or measured["back_days"] != 30
-        or measured["back_pages_image_reviewed"] != 120
-    ):
-        errors.append("Count-matched Quizlet and/or full image-reviewed Hackers DAY 01–30 coverage is missing")
+    complete = source_coverage_complete(measured, args.core_source)
+    if args.require_coverage and not complete:
+        errors.append(f"Count-matched {args.core_source} and/or full image-reviewed Hackers DAY 01–30 coverage is missing")
     print(json.dumps({
         "passed": not errors, "integrity_passed": integrity_passed,
         "errors": errors, "coverage": measured,
+        "core_source": args.core_source, "source_coverage_passed": complete,
     }, ensure_ascii=False))
     return bool(errors)
 

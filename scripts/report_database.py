@@ -51,8 +51,10 @@ def report(db, expected_pages):
     yield ""
     yield "| 원천 | 등록 출현 | 확인 DAY |"
     yield "| --- | ---: | ---: |"
-    yield f"| Quizlet 본 단어 | {measured['core_occurrences']} | {measured['core_days']} |"
-    yield f"| Anki 본 단어 대체 입력 | {measured['anki_occurrences']} | {measured['anki_days']} |"
+    if measured["core_occurrences"]:
+        yield f"| Quizlet 본 단어 | {measured['core_occurrences']} | {measured['core_days']} |"
+    if measured["anki_occurrences"]:
+        yield f"| Anki 본 단어 | {measured['anki_occurrences']} | {measured['anki_days']} |"
     yield f"| 해커스 뒷단어 | {measured['back_occurrences']} | {measured['back_days']} |"
     yield ""
     yield f"뒷단어 출현이 등록된 PDF 페이지는 {measured['back_pages_with_entries']}/{expected_pages}입니다."
@@ -60,7 +62,7 @@ def report(db, expected_pages):
     if reviewed is not None:
         yield f"원본 이미지 대조가 완료된 페이지는 {reviewed}/{expected_pages}입니다."
     expected_items = measured["expected_quizlet_occurrences"]
-    if expected_items is not None:
+    if measured["core_occurrences"] and expected_items is not None:
         yield f"Quizlet 화면과 대조한 예상 항목 수는 {expected_items:,}개입니다."
     yield "이 표의 수치는 SQLite 등록 건수입니다."
     yield ""

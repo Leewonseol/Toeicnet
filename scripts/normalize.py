@@ -242,7 +242,6 @@ def main():
         write_jsonl(args.output, normalized)
         by_source = Counter(row["source_id"] for row in normalized)
         expected_pages = sum(value[2] for value in HACKERS_PDFS.values())
-        expected_pages = sum(value[2] for value in HACKERS_PDFS.values())
         write_json(args.manifest, {
             "normalized_at": datetime.now(timezone.utc).isoformat(),
             "output_records_sha256": sha256_file(args.output),
@@ -250,6 +249,7 @@ def main():
             "expected_image_pages": expected_pages,
             "reviewed_image_pages": image_pages,
             "unknown_day_occurrences": sum(row["day"] is None for row in normalized),
+            "complete_ocr": image_pages == expected_pages,
             "complete_intake": set(by_source) == {HACKERS_ID, QUIZLET_ID} and image_pages == expected_pages,
         })
     except (OSError, ValueError, csv.Error) as error:

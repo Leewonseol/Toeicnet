@@ -79,6 +79,24 @@ class ExternalAdaptersTest(unittest.TestCase):
         self.assertEqual([(token.lemma, token.pos) for token in segments[0][2]], [("x", "noun"), ("get", "verb")])
         self.assertEqual(association(5, 10, 10, 100)["logdice"], 13.0)
 
+    def test_wiktextract_korean_translation_preserves_source_gloss_without_alignment(self):
+        entry = {
+            "word": "sample", "pos": "noun", "lang_code": "en",
+            "translations": [
+                {"code": "de", "word": "Probe"},
+                {"code": "ko", "word": "견본", "sense": "an item selected for testing"},
+            ],
+        }
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "entry.jsonl"
+            path.write_text(json.dumps(entry), encoding="utf-8")
+            rows = list(wiktextract_candidates(path, {"sample"}, "test", {}, korean_translations_only=True))
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["source_record_id"], "line:1:translation:2")
+        self.assertEqual(rows[0]["target_headword"], "견본")
+        self.assertEqual(rows[0]["details"]["source_sense_label"], "an item selected for testing")
+        self.assertEqual(rows[0]["details"]["korean_translation_status"], "unverified")
+
     def test_adoption_requires_pinned_or_recorded_checksum(self):
         with tempfile.TemporaryDirectory() as folder:
             directory = Path(folder)

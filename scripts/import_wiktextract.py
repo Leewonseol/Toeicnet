@@ -137,9 +137,35 @@ def records_from_entry(entry: dict, version: str, line_number: int) -> Iterator[
                                         route_alignment="unreviewed"))
 
 
+def korean_translation_candidates(entry, version, line_number):
+    """Preserve the translation group's own gloss and Korean form for later alignment."""
+    word = entry["word"]
+    page = quote(word.replace(" ", "_"), safe="")
+    for index, translation in enumerate(entry.get("translations", []), 1):
+        korean = translation.get("word")
+        if (translation.get("code") or translation.get("lang_code")) != "ko" or not korean:
+            continue
+        yield {
+            "kind": "relation_candidate", "headword": word,
+            "part_of_speech": normalize_pos(entry["pos"]), "source_id": "kaikki",
+            "source_record_id": f"line:{line_number}:translation:{index}",
+            "url": f"https://en.wiktionary.org/wiki/{page}#English",
+            "version": version, "extraction_method": "wiktextract_translation_group",
+            "verification_status": "source_attested", "relation_type": "KOREAN_TRANSLATION_CANDIDATE",
+            "target_headword": korean, "target_language": "ko",
+            "details": {
+                "source_sense_label": translation.get("sense"),
+                "tags": translation.get("tags", []), "alternate": translation.get("alt"),
+                "romanization": translation.get("roman"),
+                "sense_alignment": "unreviewed", "korean_translation_status": "unverified",
+            },
+        }
+
+
 def candidate_records(
     path: Path, wanted: set[str], version: str, stats: dict, *,
     max_lines: int | None = None, fast_language_filter: bool = False,
+    korean_translations_only: bool = False,
 ) -> Iterator[dict]:
     entry_keys = Counter()
     sense_keys = Counter()
@@ -172,7 +198,10 @@ def candidate_records(
             entry_keys.update(item.keys())
             for sense in item.get("senses", []):
                 sense_keys.update(sense.keys())
-            yield from records_from_entry(item, version, line_number)
+            if korean_translations_only:
+                yield from korean_translation_candidates(item, version, line_number)
+            else:
+                yield from records_from_entry(item, version, line_number)
     stats.update(targets=len(wanted), matched_targets=len(matched), entries=entry_keys["word"],
                  inspected_lines=line_number, parsed_lines=parsed_lines, test_line_limit=max_lines,
                  fast_language_filter=fast_language_filter,
@@ -190,6 +219,8 @@ def main() -> None:
     parser.add_argument("--max-lines", type=int, help="Limit for adapter QA only")
     parser.add_argument("--fast-language-filter", action="store_true",
                         help="Prefilter valid UTF-8 JSONL by language before full selected-record validation")
+    parser.add_argument("--korean-translations-only", action="store_true",
+                        help="Emit Korean translation groups as unaligned review candidates")
     args = parser.parse_args()
     if args.max_lines is not None and args.max_lines < 1:
         parser.error("--max-lines must be >=1 if provided")
@@ -197,7 +228,8 @@ def main() -> None:
     stats: dict = {}
     count = write_jsonl(args.output, candidate_records(args.input, wanted, args.version, stats,
                                                        max_lines=args.max_lines,
-                                                       fast_language_filter=args.fast_language_filter))
+                                                       fast_language_filter=args.fast_language_filter,
+                                                       korean_translations_only=args.korean_translations_only))
     if args.schema_report:
         with atomic_output(args.schema_report) as handle:
             handle.write(json.dumps(stats, ensure_ascii=False, indent=2) + "\n")

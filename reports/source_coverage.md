@@ -2,15 +2,12 @@
 
 | 원천 | 확인한 규모 | 가져오기 및 검토 |
 | --- | ---: | --- |
-| Quizlet 세트 324678752 | 화면 1,224개 | 내보내기 불가. 본 단어 DB에 등록된 Quizlet 출현 0건 |
-| Anki `노랭이` | 전체 5,101개 | `01.빈출단어`의 DAY 01–30, 1,241건을 별도 원천으로 등록 |
-| 뒷단어 PDF | 3개, 총 120쪽 | 120쪽 한영 OCR, 40쪽 이미지 대조, 대조 출현 1,279건 등록 |
-| Open English WordNet | 2025, LMF XML | 고정 버전 파일 확보 및 실자료 후보 추출 |
-| Wiktextract / Kaikki | enwiktionary 2026-10-01 | 원본 JSONL에 대한 대상 표제어 스트리밍 추출 |
-| OANC | 2026-09-25 GrAF | 원본 아카이브 확보 및 주석·실제 문맥 후보 추출 |
-| 영영사전·Etymonline | 공개 열람 | 개별 검토에 사용. 대량 제공 계약 미확보 |
+| Anki | 노트 5,101개 | 빈출단어 덱의 DAY 01–30, 1,241건 등록 |
+| 뒷단어 PDF | 3개, 총 120쪽 | 한영 OCR 및 이미지 대조 120쪽, 출현 3,837건 등록 |
+| Open English WordNet | 2025, LMF XML | 전체 원천 표기 대상 사전 후보 추출 |
+| Wiktextract / Kaikki | enwiktionary 2026-10-01 | 전체 원천 표기 대상 영어 JSONL 스트리밍 추출 |
+| OANC | 2026-09-25 GrAF | 전체 원천 표기 대상 주석·문맥 후보 추출 |
+| 영영사전·Etymonline | 허용되는 개별 열람 | 의미별 검토에 사용. 전수 이용·저장 계약 미확보 |
 | ETS 공개 Listening & Reading 샘플 | 34쪽 | 공식 샘플 위치를 확인한 용례의 근거로 사용 |
 
-Anki 빈출단어와 Quizlet의 표시 항목 수 차이는 17개다. Quizlet 전체 목록이 없어 두 집합 간 정확한 차집합은 산출할 수 없다. Anki의 나머지 3,860건은 OCR 대조 보조 자료이며 PDF 출현으로 등록하지 않았다. [원천 목록](../SOURCES.md)
-
-PDF 이미지 대조를 수행한 DAY는 01–06, 11–12, 16, 30이다. PDF 파일별 체크포인트와 OCR 일치 결과는 별도 보고서에 있다. [OCR 검증](ocr_validation.md)
+현재 범위는 Anki와 PDF다. Anki 뒷단어 3,860건은 비교 보조 자료다. 원본 대조로 확정한 PDF 출현은 파일명·PDF 쪽수·DAY 및 원뜻을 보존한다. [출처 목록](../SOURCES.md) · [OCR 검증](ocr_validation.md)
