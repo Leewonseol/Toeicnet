@@ -1,0 +1,1046 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- 불러온 CSV와 학습 기록이 다른 출처로 전송되지 않도록 같은 출처 외 연결을 막는다. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex, nofollow">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="TOEIC 어휘">
+<meta name="color-scheme" content="light dark">
+<title>TOEIC 어휘 학습</title>
+<style>
+:root {
+  --bg: #f6f7f9; --panel: #fff; --text: #1d232b; --muted: #5d6773; --line: #dde1e6;
+  --accent: #2459c9; --accent-ink: #fff; --mark: #ffe58a; --ok: #1f7a3d; --bad: #b3261e; --warn-bg: #fff4d6;
+  --chip: #eef1f5;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12151a; --panel: #1b2027; --text: #e6e9ed; --muted: #9aa4af; --line: #2d343d;
+    --accent: #6f9bff; --accent-ink: #0b1020; --mark: #6b5a12; --ok: #67c587; --bad: #ff8a80; --warn-bg: #3a3214;
+    --chip: #262c35;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  padding: 0 env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+button, input, select { font: inherit; font-size: 16px; color: inherit; }
+button {
+  min-height: 44px; padding: 0 14px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--panel); cursor: pointer; touch-action: manipulation;
+}
+button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
+button:disabled { opacity: .45; cursor: default; }
+input[type=search], input[type=text], input[type=number], select {
+  min-height: 44px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--panel); width: 100%; -webkit-appearance: none; appearance: none;
+}
+select { background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 16px) 50%, calc(100% - 11px) 50%; background-size: 5px 5px; background-repeat: no-repeat; padding-right: 28px; }
+label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+header {
+  position: sticky; top: 0; z-index: 5; background: var(--bg);
+  padding: calc(env(safe-area-inset-top) + 8px) 12px 0; border-bottom: 1px solid var(--line);
+}
+.top { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+h1 { font-size: 18px; margin: 0; }
+#dataStatus { font-size: 12px; color: var(--muted); }
+nav { display: flex; gap: 4px; margin-top: 6px; }
+nav button { flex: 1; border: 0; border-bottom: 3px solid transparent; border-radius: 0; background: transparent; color: var(--muted); }
+nav button[aria-selected=true] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+main { max-width: 860px; margin: 0 auto; padding: 12px; }
+main > section { scroll-margin-top: calc(env(safe-area-inset-top) + 100px); }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 12px; }
+.banner { background: var(--warn-bg); border-radius: 10px; padding: 8px 12px; margin: 8px 0 0; font-size: 14px; }
+.grid { display: grid; gap: 8px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (min-width: 640px) { .grid.four { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.row > .grow { flex: 1 1 200px; }
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+.hidden { display: none !important; }
+.chip { display: inline-block; background: var(--chip); border-radius: 999px; padding: 0 8px; font-size: 12px; line-height: 20px; margin-right: 4px; white-space: nowrap; }
+.chip.main { background: var(--accent); color: var(--accent-ink); }
+mark { background: var(--mark); color: inherit; border-radius: 2px; }
+ol.list { list-style: none; margin: 0; padding: 0; }
+ol.list > li { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 8px; }
+details > summary { list-style: none; padding: 10px 12px; cursor: pointer; }
+details > summary::-webkit-details-marker { display: none; }
+details > summary::after { content: "펼치기 ▾"; float: right; font-size: 12px; color: var(--muted); margin-left: 8px; }
+details[open] > summary::after { content: "접기 ▴"; }
+.hw { font-size: 18px; font-weight: 650; overflow-wrap: anywhere; }
+.gloss { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; white-space: pre-line; color: var(--muted); font-size: 14px; }
+.body { padding: 0 12px 12px; border-top: 1px solid var(--line); }
+.body h3 { font-size: 13px; color: var(--muted); margin: 12px 0 4px; font-weight: 600; }
+.body ul { margin: 0; padding-left: 18px; }
+.body li { margin: 2px 0; overflow-wrap: anywhere; }
+.pre { white-space: pre-line; overflow-wrap: anywhere; }
+.linkish { border: 0; background: none; padding: 0; min-height: 0; color: var(--accent); font-weight: 600; text-align: left; }
+.pager { display: flex; gap: 8px; align-items: center; justify-content: center; margin: 12px 0 4px; }
+.pager select { width: auto; }
+.card-prompt { font-size: 28px; font-weight: 700; text-align: center; margin: 14px 0 6px; overflow-wrap: anywhere; }
+.card-prompt.ko { font-size: 19px; font-weight: 500; white-space: pre-line; text-align: left; }
+.answer { border-top: 1px dashed var(--line); margin-top: 12px; padding-top: 12px; }
+.grades { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; margin-top: 12px; }
+.grades button { min-height: 58px; padding: 4px; line-height: 1.2; }
+.grades small { display: block; font-size: 12px; color: var(--muted); }
+.g1 { border-color: var(--bad); } .g4 { border-color: var(--ok); }
+.ok { color: var(--ok); font-weight: 600; } .bad { color: var(--bad); font-weight: 600; }
+.stat { background: var(--chip); border-radius: 10px; padding: 8px 10px; }
+.stat b { display: block; font-size: 22px; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { border-bottom: 1px solid var(--line); padding: 4px 6px; text-align: right; }
+th:first-child, td:first-child { text-align: left; }
+.bar { height: 8px; background: var(--chip); border-radius: 4px; overflow: hidden; min-width: 60px; }
+.bar > i { display: block; height: 100%; background: var(--accent); }
+.filebtn { position: relative; overflow: hidden; display: inline-flex; align-items: center; }
+.filebtn input { position: absolute; inset: 0; opacity: 0; font-size: 100px; cursor: pointer; }
+</style>
+</head>
+<body>
+<header>
+  <div class="top"><h1>TOEIC 어휘</h1><span id="dataStatus">데이터 준비 중…</span></div>
+  <nav role="tablist">
+    <button role="tab" data-tab="browse" aria-selected="true">찾아보기</button>
+    <button role="tab" data-tab="study" aria-selected="false">학습</button>
+    <button role="tab" data-tab="history" aria-selected="false">기록</button>
+  </nav>
+</header>
+<main>
+  <noscript><div class="panel">JavaScript를 켜야 사용할 수 있습니다.</div></noscript>
+  <div id="backupBanner" class="banner hidden" style="margin:0 0 12px"></div>
+
+  <section id="loader" class="panel hidden">
+    <h2 style="margin-top:0;font-size:18px">vocabulary.csv 불러오기</h2>
+    <p>이 페이지에는 어휘 데이터가 들어 있지 않습니다. 비공개 저장소에서 내려받은 <code>vocabulary/vocabulary.csv</code>를 선택하면 이 기기의 브라우저 저장소에만 보관됩니다. 다음 방문부터는 다시 선택할 필요가 없습니다.</p>
+    <ol class="small">
+      <li>GitHub에 로그인한 Safari에서 <a id="repoLink" href="https://github.com/Leewonseol/Toeicnet/blob/main/vocabulary/vocabulary.csv" rel="noreferrer" target="_blank">vocabulary.csv</a>를 엽니다.</li>
+      <li>다운로드(Download raw file) 버튼을 누르거나 <b>Raw</b>를 길게 눌러 <b>링크된 파일 다운로드</b>를 고릅니다. 파일은 <b>파일 앱 › 다운로드</b>에 저장됩니다.</li>
+      <li>아래 버튼으로 그 파일을 선택합니다.</li>
+    </ol>
+    <div class="row">
+      <span class="filebtn"><button class="primary" type="button" tabindex="-1">CSV 파일 선택</button><input id="csvFile" type="file" accept=".csv,.txt,text/csv,text/plain,text/comma-separated-values"></span>
+      <button id="retryFetch" type="button">같은 폴더에서 다시 찾기</button>
+    </div>
+    <p id="loadError" class="bad small"></p>
+  </section>
+
+  <section id="tab-browse" class="hidden">
+    <div class="panel">
+      <div class="row">
+        <div class="grow"><label for="q">검색어 (영어·한국어, 여러 단어는 모두 포함)</label>
+          <input id="q" type="search" enterkeyhint="search" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="예: apply, 지원, -ment"></div>
+        <div style="flex:0 1 180px"><label for="scope">검색 범위</label><select id="scope"></select></div>
+      </div>
+      <div class="grid four" style="margin-top:8px">
+        <div><label for="fDay">DAY</label><select id="fDay"></select></div>
+        <div><label for="fDeck">본 단어 · 뒷단어</label><select id="fDeck"></select></div>
+        <div><label for="fPos">품사</label><select id="fPos"></select></div>
+        <div><label for="fState">학습 상태</label><select id="fState"></select></div>
+      </div>
+      <div class="row" style="margin-top:8px">
+        <span id="resultInfo" class="muted small grow"></span>
+        <button id="expandAll" type="button">이 쪽 모두 펼치기</button>
+        <button id="collapseAll" type="button">모두 접기</button>
+        <button id="resetFilters" type="button">초기화</button>
+      </div>
+    </div>
+    <ol id="list" class="list"></ol>
+    <div class="pager">
+      <button id="prevPage" type="button">◀ 이전</button>
+      <select id="pageSel" aria-label="쪽 선택"></select>
+      <button id="nextPage" type="button">다음 ▶</button>
+    </div>
+  </section>
+
+  <section id="tab-study" class="hidden">
+    <div id="studySetup" class="panel">
+      <p class="small muted" style="margin-top:0">보기 전에 답을 먼저 떠올리고(능동적 인출), 정답을 확인한 뒤 스스로 평가합니다. 평가에 따라 다음 복습일이 정해집니다(간격 반복).</p>
+      <div class="grid">
+        <div><label for="sScope">범위</label><select id="sScope"></select></div>
+        <div><label for="sDir">방향</label><select id="sDir">
+          <option value="en-ko">영어 → 뜻</option><option value="ko-en">뜻 → 영어(입력)</option><option value="mix">섞기</option></select></div>
+        <div><label for="sNew">하루 새 단어 수</label><input id="sNew" type="number" min="0" max="500" inputmode="numeric"></div>
+        <div><label>&nbsp;</label><button id="startStudy" class="primary" type="button" style="width:100%">학습 시작</button></div>
+      </div>
+      <p id="studyCounts" class="small" style="margin-bottom:0"></p>
+    </div>
+    <div id="studyCard" class="panel hidden">
+      <div class="row small muted"><span id="sProgress" class="grow"></span><button id="endStudy" type="button">끝내기</button></div>
+      <div id="sMeta" class="small" style="text-align:center"></div>
+      <div id="sPrompt" class="card-prompt"></div>
+      <div id="sHint" class="small muted" style="text-align:center"></div>
+      <div style="margin-top:10px"><label id="sInputLabel" for="sInput"></label>
+        <input id="sInput" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done"></div>
+      <div class="row" style="margin-top:8px">
+        <button id="hintBtn" type="button">힌트(첫 글자)</button>
+        <button id="revealBtn" class="primary grow" type="button">정답 보기</button>
+      </div>
+      <div id="sAnswer" class="answer hidden"></div>
+      <div id="sGrades" class="grades hidden"></div>
+    </div>
+    <div id="studyDone" class="panel hidden"></div>
+  </section>
+
+  <section id="tab-history" class="hidden">
+    <div class="panel"><div id="stats" class="grid four"></div></div>
+    <div class="panel"><h2 style="margin-top:0;font-size:16px">최근 14일</h2><div id="daily"></div></div>
+    <div class="panel"><h2 style="margin-top:0;font-size:16px">DAY별 진행</h2><div id="dayProgress"></div></div>
+    <div class="panel">
+      <h2 style="margin-top:0;font-size:16px">학습 기록 보관</h2>
+      <p class="small muted">기록은 이 브라우저의 IndexedDB에만 저장됩니다. Safari는 7일 동안 방문하지 않은 사이트의 저장소를 지울 수 있고, 홈 화면 앱과 Safari 탭은 저장소가 따로입니다. 정기적으로 내보내기 파일을 보관하세요.</p>
+      <div class="row">
+        <button id="exportBtn" class="primary" type="button">기록 내보내기(JSON)</button>
+        <span class="filebtn"><button type="button" tabindex="-1">기록 가져오기·합치기</button><input id="importFile" type="file" accept=".json,application/json,text/plain"></span>
+        <button id="resetBtn" type="button">기록 초기화</button>
+      </div>
+      <p id="storageInfo" class="small muted"></p>
+    </div>
+    <div class="panel">
+      <h2 style="margin-top:0;font-size:16px">데이터</h2>
+      <p id="csvInfo" class="small"></p>
+      <span class="filebtn"><button type="button" tabindex="-1">다른 CSV 불러오기</button><input id="csvFile2" type="file" accept=".csv,.txt,text/csv,text/plain,text/comma-separated-values"></span>
+    </div>
+  </section>
+</main>
+<script>
+'use strict';
+(function () {
+  // build_vocabulary_csv.py의 HEADER와 같아야 한다(tests/test_study_html.py에서 확인).
+  const HEADER = ["DAY", "구분", "표제어", "품사", "뜻", "파생어", "합성어", "접두사", "접미사", "어근", "공통 어원", "동의어", "유의어", "사용 용법"];
+  const RELATED = ["파생어", "합성어", "접두사", "접미사", "어근", "공통 어원", "동의어", "유의어", "사용 용법"];
+  const MAIN_DECK = "본 단어";
+  const BACK_DECKS = ["기초", "800점", "900점"];
+  const PAGE_SIZE = 30;
+  const MIN = 60000;
+  const BACKUP_DAYS = 7;
+  const DEFAULTS = { newPerDay: 20, dir: "en-ko", q: "", scope: "all", day: "", deck: "", pos: "", state: "" };
+
+  const $ = (id) => document.getElementById(id);
+  function el(tag, attrs) {
+    const e = document.createElement(tag);
+    if (attrs) for (const k in attrs) {
+      const v = attrs[k];
+      if (v == null || v === false) continue;
+      if (k === "class") e.className = v;
+      else if (k === "text") e.textContent = v;
+      else if (k.slice(0, 2) === "on") e.addEventListener(k.slice(2), v);
+      else e.setAttribute(k, v === true ? "" : v);
+    }
+    for (let i = 2; i < arguments.length; i++) {
+      const c = arguments[i];
+      if (c == null || c === false) continue;
+      if (Array.isArray(c)) c.forEach((x) => x != null && e.append(x)); else e.append(c);
+    }
+    return e;
+  }
+  const clear = (e) => { while (e.firstChild) e.removeChild(e.firstChild); };
+  const fmtN = (n) => n.toLocaleString("ko-KR");
+
+  // ---------- 정규화와 CSV ----------
+  function norm(s) {
+    return String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").normalize("NFC")
+      .replace(/[‘’]/g, "'").toLowerCase();
+  }
+  function canon(s) { return norm(s).replace(/[^0-9a-z가-힣]+/g, " ").trim(); }
+  const keyOf = (hw) => String(hw).normalize("NFC").trim().toLowerCase();
+  const splitList = (s) => String(s || "").split(",").map((x) => x.trim()).filter(Boolean);
+
+  function parseCSV(text) {
+    if (text.charCodeAt(0) === 0xfeff) text = text.slice(1);
+    const rows = []; let row = [], field = "", q = false;
+    for (let i = 0, n = text.length; i < n; i++) {
+      const c = text[i];
+      if (q) {
+        if (c === '"') { if (text[i + 1] === '"') { field += '"'; i++; } else q = false; }
+        else field += c;
+      } else if (c === '"') q = true;
+      else if (c === ",") { row.push(field); field = ""; }
+      else if (c === "\n") { row.push(field); rows.push(row); row = []; field = ""; }
+      else if (c !== "\r") field += c;
+    }
+    if (field !== "" || row.length) { row.push(field); rows.push(row); }
+    return rows;
+  }
+
+  function buildItems(text) {
+    const rows = parseCSV(text);
+    if (!rows.length) throw new Error("빈 파일입니다.");
+    const head = rows[0].map((h) => h.trim());
+    const col = {};
+    head.forEach((h, i) => { col[h] = i; });
+    const missing = HEADER.filter((h) => !(h in col));
+    if (missing.length) throw new Error("vocabulary.csv 형식이 아닙니다. 없는 열: " + missing.join(", "));
+    const items = [], seen = new Map();
+    for (let r = 1; r < rows.length; r++) {
+      const raw = rows[r];
+      if (raw.length === 1 && raw[0].trim() === "") continue;
+      const o = {};
+      HEADER.forEach((h) => { o[h] = (raw[col[h]] || "").replace(/\r\n?/g, "\n").trim(); });
+      if (!o["표제어"]) continue;
+      let id = keyOf(o["표제어"]);
+      if (seen.has(id)) { seen.set(id, seen.get(id) + 1); id += "#" + seen.get(id); } else seen.set(id, 1);
+      const f = {};
+      RELATED.forEach((h) => { f[h] = norm(o[h]); });
+      const rel = RELATED.map((h) => f[h]).join("\n");
+      items.push({
+        id, idx: items.length, row: o,
+        days: splitList(o.DAY), decks: splitList(o["구분"]), pos: splitList(o["품사"]),
+        n: { hw: norm(o["표제어"]), ko: norm(o["뜻"]), f, rel, all: norm(o["표제어"]) + "\n" + norm(o["뜻"]) + "\n" + rel },
+      });
+    }
+    if (!items.length) throw new Error("어휘 행이 없습니다.");
+    return items;
+  }
+
+  async function sha256(text) {
+    try {
+      if (!window.crypto || !crypto.subtle) return "";
+      const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+      return Array.from(new Uint8Array(buf), (b) => b.toString(16).padStart(2, "0")).join("");
+    } catch (e) { return ""; }
+  }
+
+  // ---------- 저장소(IndexedDB, 실패하면 메모리) ----------
+  const store = {
+    db: null, mem: { kv: new Map(), cards: new Map(), log: [] },
+    open() {
+      return new Promise((resolve) => {
+        let rq;
+        try { rq = indexedDB.open("toeicnet-vocabulary", 1); } catch (e) { resolve(null); return; }
+        rq.onupgradeneeded = () => {
+          const d = rq.result;
+          d.createObjectStore("kv");
+          d.createObjectStore("cards", { keyPath: "id" });
+          d.createObjectStore("log", { autoIncrement: true });
+        };
+        rq.onsuccess = () => { this.db = rq.result; resolve(this.db); };
+        rq.onerror = () => resolve(null);
+        rq.onblocked = () => resolve(null);
+      });
+    },
+    tx(names, mode, fn) {
+      return new Promise((resolve, reject) => {
+        if (!this.db) { resolve(fn(null)); return; }
+        let out;
+        try {
+          const t = this.db.transaction(names, mode);
+          out = fn(t);
+          t.oncomplete = () => resolve(out);
+          t.onerror = t.onabort = () => reject(t.error || new Error("저장 실패"));
+        } catch (e) { reject(e); }
+      });
+    },
+    req(r) { return new Promise((res, rej) => { r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error); }); },
+    async get(key) {
+      if (!this.db) return this.mem.kv.get(key);
+      const t = this.db.transaction("kv"); return this.req(t.objectStore("kv").get(key));
+    },
+    set(key, value) {
+      if (!this.db) { this.mem.kv.set(key, value); return Promise.resolve(); }
+      return this.tx(["kv"], "readwrite", (t) => { t.objectStore("kv").put(value, key); });
+    },
+    async allCards() {
+      if (!this.db) return Array.from(this.mem.cards.values());
+      return this.req(this.db.transaction("cards").objectStore("cards").getAll());
+    },
+    async allLog() {
+      if (!this.db) return this.mem.log.slice();
+      return this.req(this.db.transaction("log").objectStore("log").getAll());
+    },
+    saveReview(card, entry) {
+      if (!this.db) { this.mem.cards.set(card.id, card); this.mem.log.push(entry); return Promise.resolve(); }
+      return this.tx(["cards", "log"], "readwrite", (t) => { t.objectStore("cards").put(card); t.objectStore("log").add(entry); });
+    },
+    replaceAll(cards, log) {
+      if (!this.db) { this.mem.cards = new Map(cards.map((c) => [c.id, c])); this.mem.log = log.slice(); return Promise.resolve(); }
+      return this.tx(["cards", "log"], "readwrite", (t) => {
+        const cs = t.objectStore("cards"), ls = t.objectStore("log");
+        cs.clear(); ls.clear();
+        cards.forEach((c) => cs.put(c)); log.forEach((e) => ls.add(e));
+      });
+    },
+  };
+
+  // ---------- 상태 ----------
+  const S = {
+    items: [], byId: new Map(), cards: new Map(), log: [], settings: Object.assign({}, DEFAULTS),
+    csvMeta: null, filtered: [], page: 0, terms: [], tab: "browse", lastExport: 0,
+  };
+  let saveSettingsTimer = 0;
+  function saveSettings() {
+    clearTimeout(saveSettingsTimer);
+    saveSettingsTimer = setTimeout(() => { store.set("settings", S.settings).catch(() => {}); }, 300);
+  }
+
+  // ---------- 간격 반복(SM-2 변형) ----------
+  function startOfDay(t) { const d = new Date(t); d.setHours(0, 0, 0, 0); return d.getTime(); }
+  function addDays(t, n) { const d = new Date(startOfDay(t)); d.setDate(d.getDate() + n); return d.getTime(); }
+  function newCard(id) { return { id, reps: 0, lapses: 0, ease: 2.5, ivl: 0, due: 0, first: 0, last: 0, again: 0 }; }
+
+  // grade: 1 다시, 2 어려움, 3 알맞음, 4 쉬움. ivl 0은 새 단어 또는 다시 익히는 중(같은 학습 안에서 다시 나온다).
+  function schedule(card, grade, now) {
+    const c = Object.assign({}, card || newCard(""));
+    const I = c.ivl;
+    let ivl, due;
+    if (I === 0) {
+      if (grade === 1) { ivl = 0; due = now + MIN; }
+      else if (grade === 2) { ivl = 0; due = now + 10 * MIN; }
+      else ivl = grade === 3 ? 1 : 4;
+    } else if (grade === 1) {
+      ivl = 0; due = now + 10 * MIN; c.lapses += 1; c.ease -= 0.2;
+    } else {
+      const hard = Math.max(I + 1, Math.round(I * 1.2));
+      const good = Math.max(hard + 1, Math.round(I * c.ease));
+      const easy = Math.max(good + 1, Math.round(I * c.ease * 1.3));
+      ivl = grade === 2 ? hard : grade === 3 ? good : easy;
+      if (grade === 2) c.ease -= 0.15;
+      if (grade === 4) c.ease += 0.15;
+    }
+    c.ease = Math.max(1.3, Math.round(c.ease * 100) / 100);
+    c.ivl = Math.min(ivl, 3650);
+    c.due = c.ivl > 0 ? addDays(now, c.ivl) : due;
+    c.reps += 1;
+    if (grade === 1) c.again += 1;
+    c.last = now;
+    if (!c.first) c.first = now;
+    return c;
+  }
+  function fmtIvl(c, now) {
+    if (c.ivl === 0) return Math.max(1, Math.round((c.due - now) / MIN)) + "분";
+    if (c.ivl < 30) return c.ivl + "일";
+    if (c.ivl < 365) return Math.round(c.ivl / 30 * 10) / 10 + "개월";
+    return Math.round(c.ivl / 365 * 10) / 10 + "년";
+  }
+  const isLearned = (c) => !!(c && c.first);
+  const isDue = (c, now) => isLearned(c) && c.due <= now;
+  const fmtDate = (t) => { const d = new Date(t); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); };
+  function newToday(now) {
+    const s = startOfDay(now); let n = 0;
+    S.cards.forEach((c) => { if (c.first >= s) n++; });
+    return n;
+  }
+
+  // ---------- 찾아보기 ----------
+  function initFilters() {
+    const scope = $("scope");
+    [["all", "전체 항목"], ["hw", "영어 표제어"], ["ko", "한국어 뜻"], ["related", "관련어 전체"]]
+      .concat(RELATED.map((h) => ["f:" + h, h])).forEach(([v, t]) => scope.append(el("option", { value: v, text: t })));
+    const days = new Set(), pos = new Set();
+    S.items.forEach((it) => { it.days.forEach((d) => days.add(d)); it.pos.forEach((p) => pos.add(p)); });
+    const fill = (sel, first, values) => {
+      clear(sel); sel.append(el("option", { value: "", text: first }));
+      values.forEach(([v, t]) => sel.append(el("option", { value: v, text: t })));
+    };
+    fill($("fDay"), "전체 DAY", Array.from(days).sort().map((d) => [d, "DAY " + d]));
+    fill($("fDeck"), "전체", [["main", "본 단어"], ["back", "뒷단어 전체"]].concat(BACK_DECKS.map((d) => [d, "뒷단어 · " + d])));
+    const posCount = {};
+    S.items.forEach((it) => it.pos.forEach((p) => { posCount[p] = (posCount[p] || 0) + 1; }));
+    fill($("fPos"), "전체 품사", Array.from(pos).sort((a, b) => posCount[b] - posCount[a]).map((p) => [p, p + " (" + fmtN(posCount[p]) + ")"]));
+    fill($("fState"), "전체", [["new", "아직 학습 안 함"], ["learned", "학습함"], ["due", "지금 복습할 단어"], ["hard", "'다시' 2회 이상"]]);
+    const st = S.settings;
+    $("q").value = st.q; scope.value = st.scope; $("fDay").value = st.day; $("fDeck").value = st.deck;
+    $("fPos").value = st.pos; $("fState").value = st.state;
+    if (scope.value !== st.scope) scope.value = "all";
+  }
+
+  function readFilters() {
+    const st = S.settings;
+    st.q = $("q").value; st.scope = $("scope").value; st.day = $("fDay").value;
+    st.deck = $("fDeck").value; st.pos = $("fPos").value; st.state = $("fState").value;
+    saveSettings();
+  }
+
+  function scopeText(it, scope) {
+    if (scope === "all") return it.n.all;
+    if (scope === "hw") return it.n.hw;
+    if (scope === "ko") return it.n.ko;
+    if (scope === "related") return it.n.rel;
+    return it.n.f[scope.slice(2)] || "";
+  }
+
+  function deckOk(it, deck) {
+    if (!deck) return true;
+    if (deck === "main") return it.decks.indexOf(MAIN_DECK) >= 0;
+    if (deck === "back") return it.decks.some((d) => BACK_DECKS.indexOf(d) >= 0);
+    return it.decks.indexOf(deck) >= 0;
+  }
+
+  function stateOk(it, state, now) {
+    if (!state) return true;
+    const c = S.cards.get(it.id);
+    if (state === "new") return !isLearned(c);
+    if (state === "learned") return isLearned(c);
+    if (state === "due") return isDue(c, now);
+    if (state === "hard") return !!(c && c.again >= 2);
+    return true;
+  }
+
+  function applyFilters() {
+    const st = S.settings, now = Date.now();
+    const q = norm(st.q).trim();
+    const terms = q ? q.split(/\s+/) : [];
+    S.terms = terms;
+    const out = [];
+    for (const it of S.items) {
+      if (st.day && it.days.indexOf(st.day) < 0) continue;
+      if (!deckOk(it, st.deck)) continue;
+      if (st.pos && it.pos.indexOf(st.pos) < 0) continue;
+      if (!stateOk(it, st.state, now)) continue;
+      let score = 9;
+      if (terms.length) {
+        const text = scopeText(it, st.scope);
+        if (!terms.every((t) => text.indexOf(t) >= 0)) continue;
+        const hw = it.n.hw;
+        const hwScope = st.scope === "all" || st.scope === "hw";
+        if (hwScope && hw === q) score = 0;
+        else if (hwScope && hw.indexOf(q) === 0) score = 1;
+        else if (hwScope && hw.indexOf(q) >= 0) score = 2;
+        else if ((st.scope === "all" || st.scope === "ko") && it.n.ko.indexOf(q) >= 0) score = 3;
+        else score = 4;
+      }
+      out.push([score, it]);
+    }
+    out.sort((a, b) => a[0] - b[0] || a[1].idx - b[1].idx);
+    S.filtered = out.map((x) => x[1]);
+  }
+
+  function highlight(text, terms) {
+    const frag = document.createDocumentFragment();
+    const low = text.toLowerCase();
+    const marks = [];
+    if (terms.length && low.length === text.length) {
+      for (const t of terms) {
+        if (!t) continue;
+        let i = 0;
+        while ((i = low.indexOf(t, i)) !== -1) { marks.push([i, i + t.length]); i += t.length; }
+      }
+    }
+    if (!marks.length) { frag.append(text); return frag; }
+    marks.sort((a, b) => a[0] - b[0]);
+    let pos = 0;
+    const merged = [];
+    for (const m of marks) {
+      const last = merged[merged.length - 1];
+      if (last && m[0] <= last[1]) last[1] = Math.max(last[1], m[1]); else merged.push(m.slice());
+    }
+    for (const [a, b] of merged) {
+      if (a > pos) frag.append(text.slice(pos, a));
+      frag.append(el("mark", { text: text.slice(a, b) }));
+      pos = b;
+    }
+    if (pos < text.length) frag.append(text.slice(pos));
+    return frag;
+  }
+
+  function badges(it) {
+    const out = [];
+    it.decks.forEach((d) => out.push(el("span", { class: "chip" + (d === MAIN_DECK ? " main" : ""), text: d === MAIN_DECK ? d : "뒷단어 " + d })));
+    it.days.forEach((d) => out.push(el("span", { class: "chip", text: "DAY " + d })));
+    it.pos.forEach((p) => out.push(el("span", { class: "chip", text: p })));
+    return out;
+  }
+
+  function cardStatus(it) {
+    const c = S.cards.get(it.id), now = Date.now();
+    if (!isLearned(c)) return "아직 학습하지 않음";
+    return "복습 " + c.reps + "회 · '다시' " + c.again + "회 · 다음 복습 " +
+      (c.due <= now ? "지금" : c.ivl > 0 ? fmtDate(c.due) : "곧") + " · 간격 " + (c.ivl > 0 ? c.ivl + "일" : "익히는 중");
+  }
+
+  function searchFor(word) {
+    $("q").value = word; $("scope").value = "all"; S.page = 0; readFilters(); refresh(true);
+    window.scrollTo(0, 0);
+  }
+
+  function relatedLine(text, terms, linkWord) {
+    const li = el("li");
+    const k = text.indexOf(" — ");
+    if (k > 0 && linkWord) {
+      const word = text.slice(0, k);
+      li.append(el("button", { class: "linkish", type: "button", lang: "en", onclick: () => searchFor(word) }, highlight(word, terms)));
+      li.append(highlight(text.slice(k), terms));
+    } else li.append(highlight(text, terms));
+    return li;
+  }
+
+  function detailBody(it, terms) {
+    const o = it.row;
+    const body = el("div", { class: "body" });
+    body.append(el("h3", { text: "뜻" }), el("div", { class: "pre" }, highlight(o["뜻"], terms)));
+    RELATED.forEach((h) => {
+      if (!o[h]) return;
+      const link = h !== "접두사" && h !== "접미사";
+      body.append(el("h3", { text: h }), el("ul", null, o[h].split("\n").filter(Boolean).map((line) => relatedLine(line, terms, link))));
+    });
+    body.append(el("h3", { text: "학습" }), el("div", { class: "row" },
+      el("span", { class: "small grow", text: cardStatus(it) }),
+      el("button", { type: "button", onclick: () => startSession([it], true) }, "이 단어 학습")));
+    return body;
+  }
+
+  function renderItem(it, terms) {
+    const o = it.row;
+    const d = el("details");
+    const sum = el("summary", null,
+      el("div", null, el("span", { class: "hw", lang: "en" }, highlight(o["표제어"], terms)), " ", badges(it)),
+      el("div", { class: "gloss" }, highlight(o["뜻"], terms)));
+    d.append(sum);
+    d.addEventListener("toggle", () => { if (d.open && d.children.length === 1) d.append(detailBody(it, terms)); });
+    return el("li", null, d);
+  }
+
+  function renderList() {
+    const total = S.filtered.length;
+    const pages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+    if (S.page >= pages) S.page = pages - 1;
+    const start = S.page * PAGE_SIZE;
+    const slice = S.filtered.slice(start, start + PAGE_SIZE);
+    const list = $("list");
+    clear(list);
+    const frag = document.createDocumentFragment();
+    slice.forEach((it) => frag.append(renderItem(it, S.terms)));
+    list.append(frag);
+    $("resultInfo").textContent = total
+      ? fmtN(total) + "개 중 " + fmtN(start + 1) + "–" + fmtN(start + slice.length) + " (전체 " + fmtN(S.items.length) + "개)"
+      : "조건에 맞는 단어가 없습니다.";
+    const sel = $("pageSel");
+    clear(sel);
+    for (let p = 0; p < pages; p++) sel.append(el("option", { value: String(p), text: (p + 1) + " / " + pages + "쪽" }));
+    sel.value = String(S.page);
+    $("prevPage").disabled = S.page === 0;
+    $("nextPage").disabled = S.page >= pages - 1;
+    updateStudyCounts();
+  }
+
+  function refresh(resetPage) {
+    if (resetPage) S.page = 0;
+    applyFilters();
+    renderList();
+  }
+
+  function goPage(p) {
+    S.page = p; renderList();
+    $("tab-browse").scrollIntoView({ block: "start" });
+  }
+
+  // ---------- 학습 ----------
+  const Q = { queue: [], cur: null, dir: "en-ko", revealed: false, shownAt: 0, done: 0, again: 0, total: 0, typedOk: null, hinted: 0 };
+
+  function studyScope() { return $("sScope").value === "all" ? S.items : S.filtered; }
+
+  function buildQueue(scope, now) {
+    const due = [], fresh = [];
+    scope.forEach((it) => {
+      const c = S.cards.get(it.id);
+      if (isLearned(c)) { if (c.due <= now) due.push(it); } else fresh.push(it);
+    });
+    due.sort((a, b) => S.cards.get(a.id).due - S.cards.get(b.id).due);
+    const left = Math.max(0, (S.settings.newPerDay | 0) - newToday(now));
+    return { due, fresh: fresh.slice(0, left), freshTotal: fresh.length, left };
+  }
+
+  function updateStudyCounts() {
+    if (!S.items.length) return;
+    const sel = $("sScope"), keep = sel.value || "filtered";
+    clear(sel);
+    sel.append(el("option", { value: "filtered", text: "찾아보기 결과 (" + fmtN(S.filtered.length) + "개)" }));
+    sel.append(el("option", { value: "all", text: "전체 (" + fmtN(S.items.length) + "개)" }));
+    sel.value = keep;
+    const b = buildQueue(studyScope(), Date.now());
+    $("studyCounts").textContent = "복습할 단어 " + fmtN(b.due.length) + "개 · 새 단어 " + fmtN(b.fresh.length) +
+      "개 (오늘 남은 새 단어 한도 " + fmtN(b.left) + "개, 범위 안 미학습 " + fmtN(b.freshTotal) + "개)";
+    $("startStudy").disabled = !(b.due.length + b.fresh.length);
+  }
+
+  function startSession(items, forced) {
+    const now = Date.now();
+    let queue;
+    if (forced) queue = items.slice();
+    else { const b = buildQueue(items, now); queue = b.due.concat(b.fresh); }
+    if (!queue.length) return;
+    Object.assign(Q, { queue, cur: null, done: 0, again: 0, total: queue.length });
+    showTab("study");
+    $("studySetup").classList.add("hidden");
+    $("studyDone").classList.add("hidden");
+    $("studyCard").classList.remove("hidden");
+    nextCard();
+  }
+
+  function maskAnswer(text, hw) {
+    let out = text;
+    const forms = Array.from(new Set([hw, hw.normalize("NFD").replace(/[̀-ͯ]/g, "")])).sort((a, b) => b.length - a.length);
+    forms.forEach((f) => {
+      if (!f) return;
+      out = out.replace(new RegExp(f.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi"), "____");
+    });
+    return out;
+  }
+
+  function nextCard() {
+    Q.cur = Q.queue.shift() || null;
+    if (!Q.cur) { endSession(); return; }
+    const it = Q.cur, o = it.row;
+    const setting = S.settings.dir;
+    Q.dir = setting === "mix" ? (Math.random() < 0.5 ? "en-ko" : "ko-en") : setting;
+    Q.revealed = false; Q.typedOk = null; Q.hinted = 0; Q.shownAt = Date.now();
+    $("sProgress").textContent = "남은 카드 " + (Q.queue.length + 1) + " · 완료 " + Q.done;
+    const meta = $("sMeta"); clear(meta); badges(it).forEach((b) => meta.append(b));
+    const c = S.cards.get(it.id);
+    meta.append(el("span", { class: "chip", text: isLearned(c) ? "복습" : "새 단어" }));
+    const prompt = $("sPrompt");
+    clear(prompt);
+    const input = $("sInput");
+    input.value = "";
+    if (Q.dir === "en-ko") {
+      prompt.className = "card-prompt"; prompt.setAttribute("lang", "en");
+      prompt.textContent = o["표제어"];
+      $("sInputLabel").textContent = "떠올린 뜻을 적어 보세요(선택, 채점하지 않음)";
+      $("hintBtn").classList.add("hidden");
+    } else {
+      prompt.className = "card-prompt ko"; prompt.removeAttribute("lang");
+      prompt.textContent = maskAnswer(o["뜻"], o["표제어"]);
+      $("sInputLabel").textContent = "영어 표제어를 입력하세요(표기 비교, 평가는 직접)";
+      $("hintBtn").classList.remove("hidden");
+    }
+    $("sHint").textContent = "";
+    $("sAnswer").classList.add("hidden");
+    $("sGrades").classList.add("hidden");
+    $("revealBtn").classList.remove("hidden");
+    if (Q.dir === "ko-en") input.focus();
+  }
+
+  function giveHint() {
+    if (!Q.cur || Q.revealed) return;
+    const hw = Q.cur.row["표제어"];
+    Q.hinted = Math.min(hw.length, Q.hinted + 1);
+    $("sHint").textContent = "힌트: " + hw.slice(0, Q.hinted) + "… (" + hw.length + "자)";
+  }
+
+  function reveal() {
+    if (!Q.cur || Q.revealed) return;
+    Q.revealed = true;
+    const it = Q.cur, o = it.row, typed = $("sInput").value.trim();
+    const ans = $("sAnswer");
+    clear(ans);
+    if (Q.dir === "ko-en") {
+      ans.append(el("div", { class: "card-prompt", lang: "en", text: o["표제어"] }));
+      if (typed) {
+        Q.typedOk = canon(typed) === canon(o["표제어"]);
+        ans.append(el("p", { class: Q.typedOk ? "ok" : "bad", text: (Q.typedOk ? "표기 일치: " : "표기 다름: ") + typed }));
+      }
+      ans.append(el("div", { class: "pre", text: o["뜻"] }));
+    } else {
+      if (typed) ans.append(el("p", { class: "small muted", text: "내 답: " + typed }));
+      ans.append(el("div", { class: "pre", style: "font-size:18px", text: o["뜻"] }));
+    }
+    const more = el("details", { style: "margin-top:8px" }, el("summary", { style: "padding:6px 0" }, "관련어·용법 보기"));
+    more.addEventListener("toggle", () => {
+      if (more.open && more.children.length === 1) {
+        const b = detailBody(it, []);
+        b.removeChild(b.lastChild); b.removeChild(b.lastChild);
+        more.append(b);
+      }
+    });
+    if (RELATED.some((h) => o[h])) ans.append(more);
+    ans.classList.remove("hidden");
+    $("revealBtn").classList.add("hidden");
+    const g = $("sGrades");
+    clear(g);
+    const now = Date.now(), card = S.cards.get(it.id) || newCard(it.id);
+    [[1, "다시"], [2, "어려움"], [3, "알맞음"], [4, "쉬움"]].forEach(([grade, label]) => {
+      const nx = schedule(card, grade, now);
+      g.append(el("button", { type: "button", class: "g" + grade, onclick: () => rate(grade) }, label, el("small", { text: fmtIvl(nx, now) + " (" + grade + ")" })));
+    });
+    g.classList.remove("hidden");
+  }
+
+  async function rate(grade) {
+    if (!Q.cur || !Q.revealed) return;
+    const it = Q.cur, now = Date.now();
+    const before = S.cards.get(it.id) || newCard(it.id);
+    const after = schedule(before, grade, now);
+    after.id = it.id;
+    const entry = { t: now, id: it.id, g: grade, d: Q.dir, i0: before.ivl, i1: after.ivl, ms: now - Q.shownAt, c: Q.typedOk, h: Q.hinted };
+    S.cards.set(it.id, after);
+    S.log.push(entry);
+    store.saveReview(after, entry).catch((e) => { $("dataStatus").textContent = "기록 저장 실패: " + e.message; });
+    Q.done += 1;
+    if (grade === 1) Q.again += 1;
+    if (after.ivl === 0) Q.queue.splice(Math.min(Q.queue.length, grade === 1 ? 3 : 6), 0, it);
+    updateBackupBanner();
+    nextCard();
+  }
+
+  function endSession() {
+    $("studyCard").classList.add("hidden");
+    $("studySetup").classList.remove("hidden");
+    const done = $("studyDone");
+    clear(done);
+    done.append(el("p", { style: "margin:0", text: "평가 " + Q.done + "회 · '다시' " + Q.again + "회. 다시 익히는 단어는 몇 분 뒤 복습 대상이 됩니다." }));
+    done.classList.toggle("hidden", Q.done === 0);
+    Q.cur = null; Q.queue = [];
+    refresh(false);
+  }
+
+  // ---------- 기록 ----------
+  function renderHistory() {
+    const now = Date.now(), today = startOfDay(now);
+    let learned = 0, due = 0;
+    const ids = new Set(S.items.map((it) => it.id));
+    S.cards.forEach((c) => { if (ids.has(c.id) && isLearned(c)) { learned++; if (c.due <= now) due++; } });
+    const todayLog = S.log.filter((e) => e.t >= today);
+    const monthLog = S.log.filter((e) => e.t >= addDays(now, -29));
+    const notAgain = monthLog.filter((e) => e.g > 1).length;
+    const stats = $("stats"); clear(stats);
+    [["학습한 단어", fmtN(learned) + " / " + fmtN(S.items.length)], ["지금 복습할 단어", fmtN(due)],
+     ["오늘 평가 · 새 단어", fmtN(todayLog.length) + " · " + fmtN(newToday(now))],
+     ["30일 '다시' 외 비율", monthLog.length ? Math.round(notAgain / monthLog.length * 100) + "% (" + fmtN(monthLog.length) + "회)" : "–"]]
+      .forEach(([k, v]) => stats.append(el("div", { class: "stat" }, el("span", { class: "small muted", text: k }), el("b", { text: v }))));
+
+    const rows = [];
+    for (let i = 13; i >= 0; i--) {
+      const s = addDays(now, -i), e = addDays(now, -i + 1);
+      const L = S.log.filter((x) => x.t >= s && x.t < e);
+      let fresh = 0;
+      S.cards.forEach((c) => { if (c.first >= s && c.first < e) fresh++; });
+      rows.push([fmtDate(s).slice(5), L.length, fresh, L.filter((x) => x.g === 1).length]);
+    }
+    const daily = $("daily"); clear(daily);
+    daily.append(el("table", null, el("thead", null, el("tr", null, ["날짜", "평가", "새 단어", "다시"].map((h) => el("th", { text: h })))),
+      el("tbody", null, rows.map((r) => el("tr", null, r.map((v) => el("td", { text: String(v) })))))));
+
+    const byDay = new Map();
+    S.items.forEach((it) => it.days.forEach((d) => {
+      if (!byDay.has(d)) byDay.set(d, { total: 0, learned: 0, due: 0, main: 0, mainLearned: 0 });
+      const b = byDay.get(d), c = S.cards.get(it.id), isMain = it.decks.indexOf(MAIN_DECK) >= 0;
+      b.total++; if (isMain) b.main++;
+      if (isLearned(c)) { b.learned++; if (isMain) b.mainLearned++; if (c.due <= now) b.due++; }
+    }));
+    const dp = $("dayProgress"); clear(dp);
+    dp.append(el("table", null, el("thead", null, el("tr", null, ["DAY", "학습/전체", "본 단어", "복습", ""].map((h) => el("th", { text: h })))),
+      el("tbody", null, Array.from(byDay.keys()).sort().map((d) => {
+        const b = byDay.get(d);
+        return el("tr", null, el("td", null, el("button", { class: "linkish", type: "button", onclick: () => { $("fDay").value = d; readFilters(); refresh(true); showTab("browse"); } }, "DAY " + d)),
+          el("td", { text: b.learned + "/" + b.total }), el("td", { text: b.mainLearned + "/" + b.main }), el("td", { text: String(b.due) }),
+          el("td", null, el("div", { class: "bar" }, el("i", { style: "width:" + Math.round(b.learned / b.total * 100) + "%" }))));
+      }))));
+
+    const m = S.csvMeta || {};
+    $("csvInfo").textContent = (m.name || "vocabulary.csv") + " · " + fmtN(S.items.length) + "개 · " +
+      (m.size ? fmtN(m.size) + "바이트 · " : "") + (m.source === "server" ? "같은 폴더에서 읽음" : "이 기기에 보관한 사본") +
+      (m.loadedAt ? " · " + fmtDate(m.loadedAt) : "") + (m.sha ? " · SHA-256 " + m.sha.slice(0, 12) + "…" : "");
+    const orphan = Array.from(S.cards.keys()).filter((id) => !ids.has(id)).length;
+    $("storageInfo").textContent = (store.db ? "IndexedDB 저장 사용" : "저장소를 쓸 수 없어 이 탭을 닫으면 기록이 사라집니다(개인 정보 보호 모드일 수 있음)") +
+      (S.persisted === true ? " · 영구 저장 허용됨" : S.persisted === false ? " · 영구 저장 미허용" : "") +
+      " · 평가 기록 " + fmtN(S.log.length) + "건" + (orphan ? " · 현재 CSV에 없는 단어 기록 " + orphan + "개 보존" : "") +
+      " · 마지막 내보내기 " + (S.lastExport ? fmtDate(S.lastExport) : "없음");
+  }
+
+  function updateBackupBanner() {
+    const b = $("backupBanner");
+    const days = S.lastExport ? Math.floor((Date.now() - S.lastExport) / 86400000) : null;
+    const need = S.log.length > 0 && (days === null || days >= BACKUP_DAYS);
+    b.classList.toggle("hidden", !need);
+    if (need) b.textContent = (days === null ? "학습 기록을 아직 내보낸 적이 없습니다." : "마지막 내보내기 " + days + "일 전.") + " 기록 탭에서 내보내기 파일을 보관하세요.";
+  }
+
+  async function exportHistory() {
+    const now = Date.now();
+    const data = {
+      format: "toeicnet-study-history", version: 1, exportedAt: new Date(now).toISOString(),
+      csv: S.csvMeta ? { name: S.csvMeta.name, size: S.csvMeta.size, sha256: S.csvMeta.sha, rows: S.items.length } : null,
+      settings: { newPerDay: S.settings.newPerDay, dir: S.settings.dir },
+      cards: Array.from(S.cards.values()), log: S.log,
+    };
+    const name = "toeicnet-study-history-" + fmtDate(now).replace(/-/g, "") + ".json";
+    const blob = new Blob([JSON.stringify(data)], { type: "application/json" });
+    let shared = false;
+    try {
+      const file = new File([blob], name, { type: "application/json" });
+      if (navigator.canShare && navigator.canShare({ files: [file] }) && window.matchMedia("(display-mode: standalone)").matches) {
+        await navigator.share({ files: [file], title: name }); shared = true;
+      }
+    } catch (e) { if (e && e.name === "AbortError") return; }
+    if (!shared) {
+      const url = URL.createObjectURL(blob);
+      const a = el("a", { href: url, download: name });
+      document.body.append(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 10000);
+    }
+    S.lastExport = now;
+    await store.set("lastExport", now).catch(() => {});
+    updateBackupBanner(); renderHistory();
+  }
+
+  function readFileText(file) {
+    return new Promise((resolve, reject) => {
+      const r = new FileReader();
+      r.onload = () => resolve(String(r.result));
+      r.onerror = () => reject(r.error || new Error("파일을 읽지 못했습니다."));
+      r.readAsText(file, "utf-8");
+    });
+  }
+
+  async function importHistory(file) {
+    try {
+      const data = JSON.parse(await readFileText(file));
+      if (!data || data.format !== "toeicnet-study-history" || !Array.isArray(data.cards) || !Array.isArray(data.log)) throw new Error("학습 기록 파일이 아닙니다.");
+      const cards = new Map(S.cards);
+      data.cards.forEach((c) => {
+        if (!c || typeof c.id !== "string") return;
+        const cur = cards.get(c.id);
+        if (!cur || (c.last || 0) > (cur.last || 0)) cards.set(c.id, Object.assign(newCard(c.id), c));
+      });
+      const seen = new Set(S.log.map((e) => e.t + "|" + e.id));
+      const log = S.log.slice();
+      data.log.forEach((e) => { if (e && typeof e.id === "string" && !seen.has(e.t + "|" + e.id)) { seen.add(e.t + "|" + e.id); log.push(e); } });
+      log.sort((a, b) => a.t - b.t);
+      await store.replaceAll(Array.from(cards.values()), log);
+      S.cards = cards; S.log = log;
+      alert("가져왔습니다. 단어 " + fmtN(cards.size) + "개, 평가 기록 " + fmtN(log.length) + "건.");
+      refresh(false); renderHistory(); updateBackupBanner();
+    } catch (e) { alert("가져오기 실패: " + e.message); }
+  }
+
+  async function resetHistory() {
+    if (!confirm("이 기기의 학습 기록(단어 " + S.cards.size + "개, 평가 " + S.log.length + "건)을 지웁니다. 먼저 내보내기를 권합니다. 계속할까요?")) return;
+    await store.replaceAll([], []);
+    S.cards = new Map(); S.log = [];
+    refresh(false); renderHistory(); updateBackupBanner();
+  }
+
+  // ---------- 탭과 데이터 불러오기 ----------
+  function showTab(tab) {
+    S.tab = tab;
+    document.querySelectorAll("nav button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.tab === tab)));
+    ["browse", "study", "history"].forEach((t) => $("tab-" + t).classList.toggle("hidden", t !== tab || !S.items.length));
+    if (tab === "history" && S.items.length) renderHistory();
+    if (tab === "study" && S.items.length) updateStudyCounts();
+  }
+
+  async function useCSV(text, meta, persist) {
+    const items = buildItems(text);
+    S.items = items;
+    S.byId = new Map(items.map((it) => [it.id, it]));
+    meta.sha = meta.sha || await sha256(text);
+    S.csvMeta = meta;
+    if (persist) await store.set("csv", Object.assign({ text }, meta)).catch(() => {});
+    $("dataStatus").textContent = fmtN(items.length) + "개 · " + (meta.source === "server" ? "같은 폴더의 vocabulary.csv" : "이 기기에 보관한 CSV");
+    $("loader").classList.add("hidden");
+    initFilters();
+    refresh(false);
+    showTab(S.tab);
+  }
+
+  async function tryServer() {
+    try {
+      const res = await fetch("vocabulary.csv", { cache: "no-cache" });
+      if (!res.ok) return false;
+      const text = await res.text();
+      await useCSV(text, { name: "vocabulary.csv", size: new TextEncoder().encode(text).length, loadedAt: Date.now(), source: "server" }, false);
+      return true;
+    } catch (e) { return false; }
+  }
+
+  async function onPickCSV(input) {
+    const file = input.files && input.files[0];
+    input.value = "";
+    if (!file) return;
+    $("loadError").textContent = "";
+    try {
+      const text = await readFileText(file);
+      await useCSV(text, { name: file.name, size: file.size, loadedAt: Date.now(), source: "file" }, true);
+    } catch (e) {
+      $("loadError").textContent = e.message;
+      if (S.items.length) alert(e.message);
+    }
+  }
+
+  function showLoader(msg) {
+    $("dataStatus").textContent = "데이터 없음";
+    $("loader").classList.remove("hidden");
+    ["browse", "study", "history"].forEach((t) => $("tab-" + t).classList.add("hidden"));
+    if (msg) $("loadError").textContent = msg;
+  }
+
+  function bind() {
+    document.querySelectorAll("nav button").forEach((b) => b.addEventListener("click", () => { if (S.items.length) showTab(b.dataset.tab); }));
+    let t = 0;
+    $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => { readFilters(); refresh(true); }, 150); });
+    $("q").addEventListener("keydown", (e) => { if (e.key === "Enter") { e.target.blur(); } });
+    ["scope", "fDay", "fDeck", "fPos", "fState"].forEach((id) => $(id).addEventListener("change", () => { readFilters(); refresh(true); }));
+    $("resetFilters").addEventListener("click", () => {
+      $("q").value = ""; $("scope").value = "all"; ["fDay", "fDeck", "fPos", "fState"].forEach((id) => { $(id).value = ""; });
+      readFilters(); refresh(true);
+    });
+    $("expandAll").addEventListener("click", () => document.querySelectorAll("#list details").forEach((d) => { d.open = true; }));
+    $("collapseAll").addEventListener("click", () => document.querySelectorAll("#list details").forEach((d) => { d.open = false; }));
+    $("prevPage").addEventListener("click", () => goPage(S.page - 1));
+    $("nextPage").addEventListener("click", () => goPage(S.page + 1));
+    $("pageSel").addEventListener("change", (e) => goPage(Number(e.target.value)));
+
+    $("sDir").value = S.settings.dir;
+    $("sNew").value = S.settings.newPerDay;
+    $("sDir").addEventListener("change", (e) => { S.settings.dir = e.target.value; saveSettings(); });
+    $("sNew").addEventListener("change", (e) => {
+      const v = Math.max(0, Math.min(500, parseInt(e.target.value, 10) || 0));
+      e.target.value = v; S.settings.newPerDay = v; saveSettings(); updateStudyCounts();
+    });
+    $("sScope").addEventListener("change", updateStudyCounts);
+    $("startStudy").addEventListener("click", () => startSession(studyScope(), false));
+    $("endStudy").addEventListener("click", endSession);
+    $("revealBtn").addEventListener("click", reveal);
+    $("hintBtn").addEventListener("click", giveHint);
+    $("sInput").addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); if (!Q.revealed) { reveal(); e.target.blur(); } } });
+    document.addEventListener("keydown", (e) => {
+      if (S.tab !== "study" || !Q.cur || e.target === $("sInput") || e.metaKey || e.ctrlKey || e.altKey) return;
+      if (!Q.revealed && (e.key === " " || e.key === "Enter")) { e.preventDefault(); reveal(); }
+      else if (Q.revealed && "1234".indexOf(e.key) >= 0) { e.preventDefault(); rate(Number(e.key)); }
+    });
+
+    $("csvFile").addEventListener("change", (e) => onPickCSV(e.target));
+    $("csvFile2").addEventListener("change", (e) => onPickCSV(e.target));
+    $("retryFetch").addEventListener("click", async () => { if (!(await tryServer())) $("loadError").textContent = "같은 폴더에서 vocabulary.csv를 찾지 못했습니다. 파일을 직접 선택하세요."; });
+    $("exportBtn").addEventListener("click", exportHistory);
+    $("importFile").addEventListener("change", (e) => { const f = e.target.files && e.target.files[0]; e.target.value = ""; if (f) importHistory(f); });
+    $("resetBtn").addEventListener("click", resetHistory);
+  }
+
+  async function init() {
+    await store.open();
+    try {
+      const st = await store.get("settings");
+      if (st) Object.assign(S.settings, st);
+      S.lastExport = (await store.get("lastExport")) || 0;
+      (await store.allCards()).forEach((c) => S.cards.set(c.id, c));
+      S.log = (await store.allLog()).sort((a, b) => a.t - b.t);
+    } catch (e) { /* 저장소를 읽지 못하면 빈 기록으로 시작한다. */ }
+    try { if (navigator.storage && navigator.storage.persist) S.persisted = await navigator.storage.persist(); } catch (e) { /* 선택 기능 */ }
+    bind();
+    updateBackupBanner();
+    if (await tryServer()) return;
+    let cached = null;
+    try { cached = await store.get("csv"); } catch (e) { cached = null; }
+    if (cached && cached.text) {
+      try { await useCSV(cached.text, { name: cached.name, size: cached.size, loadedAt: cached.loadedAt, sha: cached.sha, source: "file" }, false); return; }
+      catch (e) { showLoader("보관한 CSV를 읽지 못했습니다: " + e.message); return; }
+    }
+    showLoader("");
+  }
+
+  // 테스트에서 순수 함수를 확인할 수 있게 노출한다(데이터는 포함하지 않음).
+  window.__vocab = { parseCSV, buildItems, schedule, norm, canon, maskAnswer, state: S };
+  init();
+})();
+</script>
+</body>
+</html>
