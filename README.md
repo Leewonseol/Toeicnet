@@ -4,6 +4,7 @@
 
 | 함께 쓰는 자료 | 위치 |
 | --- | --- |
+| 검색·필터·간격 반복 학습 페이지 | [vocabulary/study.html](vocabulary/study.html) — 같은 CSV를 읽는다. 여는 방법은 [vocabulary/README.md](vocabulary/README.md#학습-페이지-studyhtml) |
 | Anki 카드 1,776장 | Drive [APKG](https://drive.google.com/file/d/1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa/view) · [덱별 TSV](https://drive.google.com/drive/folders/1Musi9p4IWJYA6yJqMf538BeHDey46zza) |
 | 보카바이블 PART 1–3 노트 | Drive [PART 1](https://drive.google.com/file/d/1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-/view) · [PART 2](https://drive.google.com/file/d/1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv/view) · [PART 3](https://drive.google.com/file/d/1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR/view) |
 | 전체 데이터베이스(SQLite·JSONL) | Drive [data/](https://drive.google.com/drive/folders/1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub) · [합치는 방법](https://drive.google.com/file/d/1nrQIeCG5OXU0ue1MKbFfu2bm-keYHtt_/view) |
