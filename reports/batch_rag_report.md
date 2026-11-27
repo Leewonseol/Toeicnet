@@ -74,3 +74,31 @@
 1. `python scripts/source_access_probe.py --db data/processed/toeic.db`: 점검 결과를 `source_access_checks` 표와 `source_access_current` 보기에 기록합니다. 사용하는 네트워크에서 결과가 다를 수 있으므로 로컬에서 다시 점검합니다.
 2. `batch_rag_verify.py`가 바뀌어 규칙 지문이 달라졌습니다. 기존 `pilot` 요약으로는 `full`이 거부됩니다. 같은 기준 표본과 판정 JSONL로 `pilot`을 다시 실행해 관문을 확인한 뒤 `full`을 실행합니다. 기존 판정 파일을 그대로 쓰므로 모델을 다시 호출하지 않습니다.
 3. 남은 D 3,882건의 의미 대조에는 판정 JSONL이 필요합니다. 상용 사전의 근거를 쓰려면 이용 권한이 먼저 확보되어야 합니다. 예: Merriam-Webster API 키와 약관 확인, Collins API 계약.
+
+## 공개 데이터 중심 전략 전환 (2026-11-27 UTC)
+
+상용 사전 웹사이트(Collins, Cambridge, Oxford, Longman, Britannica, 네이버)의 직접 수집을 필수 과정에서 제외했습니다. 이 출처들은 이번 전환 이후 요청하지 않았습니다. `source_access_probe.py`는 기본 실행에서 상용 웹페이지와 차단이 기록된 출처를 건너뜁니다. 이 저장소용 클라우드 환경의 허용 호스트에서도 상용 사전 7곳을 제거했습니다.
+
+- **A등급은 선택 사항입니다.** 검토 대기열, 네 분석 모듈, 학습 카드 생성은 원래 A를 전제로 하지 않았습니다. B·C는 그대로 정식 등급입니다. 바뀐 것은 B의 근거로 GCIDE를 추가한 점입니다.
+- **GCIDE 0.54 추가**: GNU 공식 tarball을 받아 서명을 확인했습니다. `import_gcide.py`는 정의마다 품사, 의미 번호, `[Obs.]`·`[R.]` 등 표시, 어원 문자열, `<source>` 계보를 보존합니다. 전체 릴리스에서 정의 179,656건을 6초 안에 추출했습니다.
+- **중복 계산 차단**: GCIDE의 WordNet 유래 정의(9,335건)는 `derived_from`에 `globalwordnet`을 기록하여, Open English WordNet과 함께 인용하면 B가 되지 않습니다. 정의 문구가 같거나 거의 같으면(문자열 유사도 0.8 이상 또는 단어 집합 Jaccard 0.75 이상) 독립 근거로 세지 않습니다. 이 기준은 Webster 1913 문구를 옮긴 Wiktionary 뜻풀이를 겨냥한 것이며, 임계값은 이번에 정한 값입니다. 로컬 100개 표본 재평가에서 정밀도를 확인해야 합니다.
+- **공식 API 약관 확인**: Merriam-Webster Dictionary API 약관 5조 (a)는 서면 승인 없는 자동·기록 질의를, (i)는 제3자 제품과의 비교를 금지합니다. 따라서 승인 없이 배치 검증에 사용하지 않습니다. 한국어기초사전 저작권 페이지는 두 번 모두 연결이 재설정되어 다시 확인하지 못했습니다. 기존 기록(텍스트 CC BY-SA 2.0, API 인증키 필요)을 유지합니다. Etymonline은 robots.txt가 `ClaudeBot`을 차단하므로 자동 요청하지 않으며, 어원 근거는 Wiktextract의 어원 템플릿과 GCIDE 어원 문자열을 사용합니다.
+- **연결하지 않은 것**: GCIDE의 어원 문자열은 후보 레코드에 저장했습니다. 하지만 어원 분석 모듈(`batch_rag_modules.py`)은 아직 Wiktextract 어원 관계만 읽습니다.
+- **처리 수치는 바뀌지 않았습니다.** 이 컨테이너에 DB가 없어 4,064건 처리, 등급 갱신, 학습 자료 재생성은 수행하지 않았습니다.
+
+로컬 실행 순서:
+
+```sh
+python scripts/download_datasets.py gcide
+python scripts/import_gcide.py --input data/external/gcide-0.54.tar.xz --version 0.54 \
+  --targets data/intermediate/normalized.jsonl --targets data/intermediate/anki-core.jsonl \
+  --output data/intermediate/gcide.jsonl
+# build_database.py에 --candidates data/intermediate/gcide.jsonl을 추가해 재구축
+python scripts/batch_rag.py prepare --top-k 12   # GCIDE 후보가 포함된 새 판정 입력
+python scripts/batch_rag.py pilot --top-k 12 --gold data/intermediate/batch_rag/pilot_gold.jsonl \
+  --model-decisions data/intermediate/batch_rag/decisions_pilot.jsonl
+python scripts/batch_rag.py full --top-k 12 --model-decisions data/intermediate/batch_rag/all_decisions.jsonl ...
+python scripts/batch_rag_study.py --assessments data/intermediate/batch_rag/full/assessments.jsonl
+```
+
+GCIDE 후보가 추가되면 판정 입력의 근거 집합과 캐시 키가 바뀝니다. 그래서 기존 판정 JSONL은 GCIDE를 보지 않은 판정으로 그대로 재사용되고, GCIDE를 인용한 B 판정은 새 판정이 있어야 생깁니다.

@@ -154,7 +154,9 @@ sources:
     access_status: reference_only
     access_check: reports/source_access.md
     api_status: authentication_required
-    license: 상용, 사이트 대량 수집 권한 미확보. 공식 API는 키와 API 약관 적용
+    api_terms_checked: '2026-11-27'
+    api_terms_summary: 비상업 이용, 참조 사전별 1일 1,000건, 최대 2종. 5조 (a) 서면 승인 없는 자동·기록 질의 금지, (i) 제3자 제품과의 비교 금지
+    license: 상용, 사이트 대량 수집 권한 미확보. 공식 API의 배치 검증 이용은 서면 승인 필요
     download_allowed: false
   naver_dict:
     name: 네이버 영어사전
@@ -233,6 +235,25 @@ sources:
     sha256: 5ff2c072f8099f2d2ce484bd6957bf179f046d2ad37bc36555edf8bb84cb5291
     access_status: downloaded
     license: CC-BY-SA-4.0 / GFDL subject to entry-level third-party terms
+    download_allowed: true
+  gcide:
+    name: GNU Collaborative International Dictionary of English
+    source_type: lexical_database
+    independence_group: gcide
+    url: https://gcide.gnu.org.ua/about
+    license_url: https://www.gnu.org/licenses/gpl-3.0.html
+    download_url: https://ftp.gnu.org/gnu/gcide/gcide-0.54.tar.xz
+    signature_url: https://ftp.gnu.org/gnu/gcide/gcide-0.54.tar.xz.sig
+    filename: gcide-0.54.tar.xz
+    allowed_hosts: [ftp.gnu.org, gcide.gnu.org.ua]
+    version: '0.54'
+    release_date: '2024-12-31'
+    downloaded_at: '2026-11-27'
+    sha256: 22416f6f36175b160dc388b7547512514d464473cf7d7c898d738efb26c51d42
+    signature_check: gpgv Good signature, key 4BE4E62655488EB92ABB468F79FFD94BFCE230B1 (GNU keyring)
+    access_status: downloaded
+    license: GPL-3.0-or-later
+    lineage_rule: 정의별 <source>를 보존한다. WordNet 1.5/1.6 정의는 globalwordnet 계보로, 1913 Webster 정의는 webster1913 계보로 기록하고 Open English WordNet과 중복 계산하지 않는다.
     download_allowed: true
   oanc:
     name: Open American National Corpus (GrAF)

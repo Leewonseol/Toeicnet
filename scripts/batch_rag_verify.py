@@ -3,6 +3,7 @@
 import json
 import re
 import unicodedata
+from difflib import SequenceMatcher
 from pathlib import Path
 
 from align_senses import pos_options
@@ -12,7 +13,8 @@ from review_common import normalized_pos
 # Collins and Merriam-Webster are the priority learner/professional dictionaries. Britannica shares the
 # merriam_webster independence group, so the two never count as separate sources.
 LEARNER_SOURCES = frozenset({"britannica", "cambridge", "collins", "longman", "merriam_webster", "oxford"})
-OPEN_SOURCES = frozenset({"kaikki", "oewn"})
+# GCIDE senses carry their own lineage: WordNet-derived ones name globalwordnet in derived_from.
+OPEN_SOURCES = frozenset({"gcide", "kaikki", "oewn"})
 SENSE_SOURCES = LEARNER_SOURCES | OPEN_SOURCES
 ASSESSMENT_FIELDS = (
     "part_of_speech", "sense", "scope", "grammar", "usage_context", "toeic_relevance",
@@ -198,9 +200,22 @@ def _reused_origins(candidate):
     return origins
 
 
+def near_duplicate(first, second, *, ratio=0.8, overlap=0.75):
+    """Treat copied or lightly edited wording (e.g. Wiktionary text taken from Webster 1913) as one source."""
+    a, b = _gloss(first), _gloss(second)
+    if not a or not b:
+        return False
+    words_a, words_b = set(re.findall(r"[a-z']+", a)), set(re.findall(r"[a-z']+", b))
+    jaccard = len(words_a & words_b) / len(words_a | words_b) if words_a | words_b else 0
+    return a == b or SequenceMatcher(None, a, b).ratio() >= ratio or jaccard >= overlap
+
+
 def _groups_are_independent(candidates):
     groups = {row["independence_group"] for row in candidates}
     if len(groups) != len(candidates):
+        return False
+    definitions = [_definition(row) for row in candidates]
+    if any(near_duplicate(a, b) for i, a in enumerate(definitions) for b in definitions[i + 1:]):
         return False
     seen_origins = set()
     for row in candidates:

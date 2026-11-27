@@ -60,6 +60,16 @@
       "downloaded_at": "2026-11-27",
       "size_bytes": 1677415,
       "sha256": "6b85e11d9bbf07863b97b3523b1b112844c43e713df8b66418a081fd1060b3b2"
+    },
+    {
+      "source_id": "gcide",
+      "download_url": "https://ftp.gnu.org/gnu/gcide/gcide-0.54.tar.xz",
+      "local_path": "data/external/gcide-0.54.tar.xz",
+      "version": "0.54",
+      "license": "GPL-3.0-or-later",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 14803080,
+      "sha256": "22416f6f36175b160dc388b7547512514d464473cf7d7c898d738efb26c51d42"
     }
   ]
 }

@@ -39,7 +39,9 @@ ORIGIN_LABEL = {
 OPEN_LICENSE = {
     "oewn": ("https://creativecommons.org/licenses/by/4.0/", "Open English WordNet Community · Princeton WordNet"),
     "kaikki": ("https://creativecommons.org/licenses/by-sa/4.0/", "영어 Wiktionary 기여자 · Kaikki/Wiktextract"),
+    "gcide": ("https://www.gnu.org/licenses/gpl-3.0.html", "GCIDE 기여자 · Webster's Revised Unabridged (1913)"),
 }
+LICENSE_NAME = {"oewn": "CC BY 4.0", "kaikki": "CC BY-SA 4.0", "gcide": "GPL-3.0-or-later"}
 SUPPLEMENT = "batch_rag"
 INDEX_LINK = f"- [Batch RAG 검증 등급별 학습 노트]({SUPPLEMENT}/README.md)"
 
@@ -222,7 +224,7 @@ def source_line(reference, *, links):
     additions = [reference.get(key) for key in ("version", "source_record_id")]
     if own := OPEN_LICENSE.get(reference["source_id"]):
         license_url, contributors = own
-        license_name = "CC BY-SA 4.0" if reference["source_id"] == "kaikki" else "CC BY 4.0"
+        license_name = LICENSE_NAME[reference["source_id"]]
         additions += [contributors, f"[{license_name}]({license_url})" if links else f"{license_name} {license_url}"]
     details = " · ".join(str(item) for item in additions if item)
     url = reference.get("url") or ""

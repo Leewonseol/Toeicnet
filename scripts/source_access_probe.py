@@ -35,11 +35,13 @@ RETRYABLE = frozenset({429, 500, 502, 503, 504})
 
 TARGETS = {
     "collins": {
+        "commercial_web": True,
         "base": "https://www.collinsdictionary.com", "entry": "/dictionary/english/{word}",
         "markers": ('class="def"',), "license_status": "license_required",
         "license_note": "Site terms; Collins API requires registration and separate terms.",
     },
     "merriam_webster": {
+        "commercial_web": True,
         "base": "https://www.merriam-webster.com", "entry": "/dictionary/{word}",
         "markers": ("dtText",), "license_status": "license_required",
         "license_note": "Site terms; Dictionary API (dictionaryapi.com) requires a key and its own terms.",
@@ -48,7 +50,7 @@ TARGETS = {
         "base": "https://dictionaryapi.com", "entry": "/api/v3/references/collegiate/json/{word}",
         "markers": ('"shortdef"',), "auth_markers": ("Key is required", "Invalid API key"),
         "license_status": "license_required", "provider_group": "merriam_webster",
-        "license_note": "API key required; usage terms at dictionaryapi.com/info/terms-of-service.",
+        "license_note": "Terms read 2026-11-27: non-commercial only, 1000 queries/day per reference, at most two references; section 5(a) bars automated or recorded queries without written approval and 5(i) bars comparison with third-party products, so batch verification needs written approval.",
     },
     "etymonline": {
         "base": "https://www.etymonline.com", "entry": "/word/{word}",
@@ -56,27 +58,32 @@ TARGETS = {
         "license_note": "No public dump or API confirmed; bulk storage rights unconfirmed.",
     },
     "cambridge": {
+        "commercial_web": True,
         "base": "https://dictionary.cambridge.org", "entry": "/dictionary/english/{word}",
         "markers": ("ddef_d",), "license_status": "license_required",
         "license_note": "Commercial; data licensing via dictionary.cambridge.org/license.html.",
     },
     "oxford": {
+        "commercial_web": True,
         "base": "https://www.oxfordlearnersdictionaries.com", "entry": "/definition/english/{word}",
         "markers": ('class="def"',), "license_status": "license_required",
         "license_note": "Commercial; Oxford Languages API is a separate licence.",
     },
     "longman": {
+        "commercial_web": True,
         "base": "https://www.ldoceonline.com", "entry": "/dictionary/{word}",
         "markers": ('class="DEF"',), "license_status": "license_required",
         "license_note": "Commercial; no public API or dump confirmed.",
     },
     "britannica": {
+        "commercial_web": True,
         "base": "https://www.britannica.com", "entry": "/dictionary/{word}",
         "markers": ("dtText", 'class="def'), "license_status": "license_required",
         "provider_group": "merriam_webster",
         "license_note": "Shares the Merriam-Webster learner data lineage; not an independent source.",
     },
     "naver_dict": {
+        "commercial_web": True,
         "base": "https://en.dict.naver.com", "entry": "/#/search?query={word}",
         "markers": (), "license_status": "license_required", "platform": True,
         "license_note": "Platform that redistributes other publishers' dictionaries; count the named provider, not Naver.",
@@ -278,24 +285,58 @@ def markdown(rows):
     return "\n".join(lines) + "\n"
 
 
+def plan(requested, previous, *, allow_commercial_web=False, recheck_blocked=False):
+    """Choose sources to request. Commercial web pages and recorded blocks are never re-requested by default."""
+    selected, carried = [], []
+    for source in requested:
+        target, last = TARGETS[source], previous.get(source)
+        if target.get("commercial_web") and not allow_commercial_web:
+            if last:
+                carried.append(last)
+            continue
+        if last and last["access_status"] in STOPPING and not recheck_blocked:
+            carried.append(last)
+            continue
+        selected.append(source)
+    return selected, carried
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--source", action="append", choices=sorted(TARGETS))
+    parser.add_argument("--allow-commercial-web", action="store_true",
+                        help="Also request commercial dictionary web pages (excluded from the required pipeline)")
+    parser.add_argument("--recheck-blocked", action="store_true",
+                        help="Request a source again although its last status was forbidden, robots_denied or auth")
+    parser.add_argument("--from-json", action="store_true",
+                        help="Send no request; load the recorded results (e.g. into --db)")
     parser.add_argument("--headword", action="append")
     parser.add_argument("--delay", type=float, default=3.0)
     parser.add_argument("--json", type=Path, default=ROOT / "reports/source_access.json")
     parser.add_argument("--markdown", type=Path, default=ROOT / "reports/source_access.md")
     parser.add_argument("--db", type=Path, help="Optional SQLite DB receiving source_access_checks rows")
     args = parser.parse_args(argv)
-    rows = [probe_source(source, TARGETS[source], tuple(args.headword or PROBE_HEADWORDS), delay=args.delay)
-            for source in (args.source or TARGETS)]
+    previous = {}
+    if args.json.exists():
+        previous = {row["source_id"]: row for row in json.loads(args.json.read_text(encoding="utf-8"))["sources"]}
+    requested = args.source or list(TARGETS)
+    if args.from_json:
+        selected, carried = [], [previous[source] for source in requested if source in previous]
+    else:
+        selected, carried = plan(requested, previous, allow_commercial_web=args.allow_commercial_web,
+                                 recheck_blocked=args.recheck_blocked)
+    fresh = {source: probe_source(source, TARGETS[source], tuple(args.headword or PROBE_HEADWORDS), delay=args.delay)
+             for source in selected}
+    merged = {**previous, **{row["source_id"]: row for row in carried}, **fresh}
+    rows = [merged[source] for source in TARGETS if source in merged]
     args.json.write_text(json.dumps({"user_agent": USER_AGENT, "agent_tokens": AGENT_TOKENS, "sources": rows},
                                     ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     args.markdown.write_text(markdown(rows), encoding="utf-8")
     if args.db:
         write_registry(args.db, rows)
     for row in rows:
-        print(f"{row['source_id']}: {row['access_status']} ({row['access_reason']})")
+        state = "checked" if row["source_id"] in fresh else "recorded"
+        print(f"{row['source_id']}: {row['access_status']} ({row['access_reason']}; {state})")
 
 
 if __name__ == "__main__":

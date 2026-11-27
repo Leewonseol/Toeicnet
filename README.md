@@ -10,7 +10,7 @@ Python 3.11+, SQLite 3.37+, Poppler(`pdfinfo`, `pdftoppm`), Tesseract 5와 `eng`
 
 ```sh
 python -m pip install -r requirements.txt
-python scripts/download_datasets.py oewn kaikki oanc
+python scripts/download_datasets.py oewn kaikki gcide oanc
 python -m unittest discover -s tests
 ```
 
@@ -55,6 +55,9 @@ python scripts/import_wiktextract.py --input data/external/raw-wiktextract-data.
   --version enwiktionary-2026-10-01 --targets data/intermediate/normalized.jsonl \
   --targets data/intermediate/anki-core.jsonl \
   --output data/intermediate/wiktextract.jsonl --schema-report data/intermediate/wiktextract-schema.json
+python scripts/import_gcide.py --input data/external/gcide-0.54.tar.xz --version 0.54 \
+  --targets data/intermediate/normalized.jsonl --targets data/intermediate/anki-core.jsonl \
+  --output data/intermediate/gcide.jsonl
 python scripts/import_corpus.py --input data/external/OANC_GrAF.tgz \
   --targets data/intermediate/normalized.jsonl --targets data/intermediate/anki-core.jsonl \
   --output data/intermediate/oanc.jsonl
@@ -73,7 +76,8 @@ python scripts/build_database.py --manifest sources/manifest.json \
   --anki-manifest data/intermediate/anki-core-manifest.json \
   --intake data/intermediate/normalized.jsonl --intake data/intermediate/anki-core.jsonl \
   --candidates data/intermediate/wordnet.jsonl \
-  --candidates data/intermediate/wiktextract.jsonl --candidates data/intermediate/oanc.jsonl \
+  --candidates data/intermediate/wiktextract.jsonl --candidates data/intermediate/gcide.jsonl \
+  --candidates data/intermediate/oanc.jsonl \
   --review data/intermediate/verified-senses.jsonl --review data/intermediate/reviewed-relations.jsonl
 python scripts/build_network.py
 python scripts/export_wordnet_relations.py --db data/processed/toeic.db --output-dir data/processed/wordnet
@@ -99,11 +103,13 @@ SQLite DB에는 원천 출현, 의미, 독립적인 영·한 검증 결과, 후�
 
 | 등급 | 영어 정의 근거 |
 | --- | --- |
-| A | 지정된 독립 영영사전 두 곳 이상에서 확인 |
-| B | 독립 공개 어휘 자료 두 곳 이상에서 같은 개별 의미를 확인 |
+| A | 지정된 독립 영영사전 두 곳 이상에서 확인 (선택 사항. 분석과 학습 자료 생성의 전제 조건이 아님) |
+| B | 독립 공개 어휘 자료 두 곳 이상(WordNet, Wiktionary, GCIDE의 Webster 1913 계보)에서 같은 품사·개별 의미를 확인 |
 | C | 단일 사전 출처에서 확인 |
 | D | 후보가 있으며 의미 또는 출처 독립성 검토 필요 |
 | E | 적용 가능한 사전 의미 근거 미확보 |
+
+상용 사전 웹사이트의 직접 수집은 필수 과정에서 제외했습니다. 공개 데이터의 출처 계보는 의미 단위로 판정합니다. GCIDE의 `WordNet 1.5/1.6` 정의는 `globalwordnet` 계보이므로 WordNet과 함께 B등급 근거가 되지 않습니다. 문구가 같거나 거의 같은 정의(예: Webster 1913을 옮긴 Wiktionary 뜻풀이)도 한 출처로 셉니다.
 
 영어 정의와 한국어 뜻은 각각 검증합니다. 말뭉치와 공식 TOEIC 샘플은 용법의 근거입니다. 공개 사전 B등급은 기존 지정 사전 교차 검증 통계와 분리합니다. SQLite의 `batch_rag_current`에서 마지막 전체 실행의 등급·근거·별도 한국어 상태를 확인할 수 있습니다.
 
@@ -123,7 +129,7 @@ python scripts/batch_rag_study.py \
   --assessments data/intermediate/batch_rag/full/assessments.jsonl
 ```
 
-사전 접근성은 `python scripts/source_access_probe.py [--db data/processed/toeic.db]`로 점검합니다. HTTP 상태, robots.txt(프로젝트 UA와 Anthropic 에이전트 토큰), 확인 페이지, 정의 표지 유무를 출처별로 기록하고 이용 권한은 따로 둡니다. 403, robots 차단, 인증 요구에서는 해당 출처의 요청을 중단하고, 429·5xx만 지수 백오프로 두 번까지 재시도합니다. 응답 본문은 저장하지 않습니다. [최근 점검 결과](reports/source_access.md)
+사전 접근성 기록은 `python scripts/source_access_probe.py --from-json --db data/processed/toeic.db`로 요청 없이 DB에 옮깁니다. 기본 실행은 상용 사전 웹페이지와 이미 차단이 기록된 출처에 요청하지 않으며, 각각 `--allow-commercial-web`, `--recheck-blocked`를 명시해야 다시 요청합니다. HTTP 상태, robots.txt(프로젝트 UA와 Anthropic 에이전트 토큰), 확인 페이지, 정의 표지 유무를 출처별로 기록하고 이용 권한은 따로 둡니다. 403, robots 차단, 인증 요구에서는 해당 출처의 요청을 중단하고, 429·5xx만 지수 백오프로 두 번까지 재시도합니다. 응답 본문은 저장하지 않습니다. [최근 점검 결과](reports/source_access.md)
 
 `prepare`는 고정 100개 표본의 검색 결과와 모델 입력을 생성합니다. 독립 검토로 만든 기준 JSONL과 실제 판정 JSONL의 형식은 각각 `batch_rag_benchmark.py`와 `batch_rag_verify.py`에서 확인할 수 있습니다. `pilot`에서 기준 표본과 대조한 결과가 통과하면 같은 DB와 설정으로 `full`을 실행합니다. 같은 입력과 설정으로 명령을 반복하면 SQLite 체크포인트에서 재개합니다. 다음 배치용 입력은 `prepare --review-queue data/intermediate/batch_rag/full/review_queue.jsonl --review-limit 100 --top-k 12`로 생성할 수 있습니다.
 

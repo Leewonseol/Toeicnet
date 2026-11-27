@@ -76,6 +76,17 @@ class SourceAccessProbeTest(unittest.TestCase):
         self.assertEqual(stored[0], "available")
         self.assertNotIn("class=", json.loads(stored[1])[0]["reason"])
 
+    def test_plan_skips_commercial_web_and_recorded_blocks(self):
+        previous = {"etymonline": {"source_id": "etymonline", "access_status": "robots_denied"},
+                    "collins": {"source_id": "collins", "access_status": "forbidden"}}
+        selected, carried = probe.plan(["collins", "etymonline", "merriam_webster_api"], previous)
+        self.assertEqual(selected, ["merriam_webster_api"])
+        self.assertEqual({row["source_id"] for row in carried}, {"collins", "etymonline"})
+        selected, _ = probe.plan(["cambridge"], {})
+        self.assertEqual(selected, [])
+        selected, _ = probe.plan(["etymonline"], previous, recheck_blocked=True)
+        self.assertEqual(selected, ["etymonline"])
+
 
 if __name__ == "__main__":
     unittest.main()

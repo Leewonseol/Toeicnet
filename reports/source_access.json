@@ -103,7 +103,7 @@
       "access_status": "authentication_required",
       "access_reason": "service requires an API key",
       "license_status": "license_required",
-      "license_note": "API key required; usage terms at dictionaryapi.com/info/terms-of-service.",
+      "license_note": "Terms read 2026-11-27: non-commercial only, 1000 queries/day per reference, at most two references; section 5(a) bars automated or recorded queries without written approval and 5(i) bars comparison with third-party products, so batch verification needs written approval.",
       "automated_collection_allowed": false,
       "content_stored": false,
       "independent_source": false,
