@@ -1,0 +1,1090 @@
+{
+ "files": [
+  {
+   "folder": "data",
+   "file": "full_analysis_v31r.jsonl",
+   "bytes": 5339485,
+   "sha256": "3921e8aa98a631ad9631eaf8a7f01b6b1fb996691612c1f05740620b05fa8a96",
+   "parts": [
+    "full_analysis_v31r.jsonl.part00",
+    "full_analysis_v31r.jsonl.part01"
+   ],
+   "join": "cat full_analysis_v31r.jsonl.part00 full_analysis_v31r.jsonl.part01 > full_analysis_v31r.jsonl",
+   "drive_parts": [
+    {
+     "name": "full_analysis_v31r.jsonl.part00",
+     "id": "1pIcorIUjO-w5RPAqSWAEM4hcfzMIqlgv",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1pIcorIUjO-w5RPAqSWAEM4hcfzMIqlgv/view"
+    },
+    {
+     "name": "full_analysis_v31r.jsonl.part01",
+     "id": "1IwWFxbl8hvk8M6PQAMpgAWe3z6GMOcXl",
+     "bytes": 2439485,
+     "url": "https://drive.google.com/file/d/1IwWFxbl8hvk8M6PQAMpgAWe3z6GMOcXl/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "toeicnet_rebuild_v2.sqlite",
+   "bytes": 8036352,
+   "sha256": "88e75521522a166f1316210e1b502c3c20057fbf0d81fcf018b182ca8f5dd1d8",
+   "parts": [
+    "toeicnet_rebuild_v2.sqlite.part00",
+    "toeicnet_rebuild_v2.sqlite.part01",
+    "toeicnet_rebuild_v2.sqlite.part02"
+   ],
+   "join": "cat toeicnet_rebuild_v2.sqlite.part00 toeicnet_rebuild_v2.sqlite.part01 toeicnet_rebuild_v2.sqlite.part02 > toeicnet_rebuild_v2.sqlite",
+   "drive_parts": [
+    {
+     "name": "toeicnet_rebuild_v2.sqlite.part00",
+     "id": "1L96sGausqvhALF0yWJRjcNCM5PdolrZz",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1L96sGausqvhALF0yWJRjcNCM5PdolrZz/view"
+    },
+    {
+     "name": "toeicnet_rebuild_v2.sqlite.part01",
+     "id": "1kzq6a2ZuTYdbUwjkJ7tQ4NBV8ORRLWWe",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1kzq6a2ZuTYdbUwjkJ7tQ4NBV8ORRLWWe/view"
+    },
+    {
+     "name": "toeicnet_rebuild_v2.sqlite.part02",
+     "id": "1LekrwzMaFGp3lUlaGOKja4nuBUIIFY3Y",
+     "bytes": 2236352,
+     "url": "https://drive.google.com/file/d/1LekrwzMaFGp3lUlaGOKja4nuBUIIFY3Y/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "source_items.jsonl",
+   "bytes": 2144776,
+   "sha256": "e53c95a96c756e14c256a1f382b3053c644232b5c2490f549427c47576915d5a",
+   "parts": [
+    "source_items.jsonl"
+   ],
+   "drive_parts": [
+    {
+     "name": "source_items.jsonl",
+     "id": "1ZjdwjnczJOHVee45S8lzVGSftfNjiybq",
+     "bytes": 2144776,
+     "url": "https://drive.google.com/file/d/1ZjdwjnczJOHVee45S8lzVGSftfNjiybq/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "review_queue.jsonl",
+   "bytes": 477837,
+   "sha256": "b3bbeb93edb4fde9d42361a6af4bcc4e6e08456d34326cf3e7cfafe50ed2c116",
+   "parts": [
+    "review_queue.jsonl"
+   ],
+   "drive_parts": [
+    {
+     "name": "review_queue.jsonl",
+     "id": "1x6-QwEI5I6lNZ_fSymW8p5UGFmPm__jd",
+     "bytes": 477837,
+     "url": "https://drive.google.com/file/d/1x6-QwEI5I6lNZ_fSymW8p5UGFmPm__jd/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "source_audit.json",
+   "bytes": 2539,
+   "sha256": "a5a9b9d8d1aa79ee2bc3456a6ca1ce5e41f4889d745f46485a1f7d730c41167f",
+   "parts": [
+    "source_audit.json"
+   ],
+   "drive_parts": [
+    {
+     "name": "source_audit.json",
+     "id": "1jbl9gWsaJqvFniHlxeKo2ahj8Z6cvBXK",
+     "bytes": 2539,
+     "url": "https://drive.google.com/file/d/1jbl9gWsaJqvFniHlxeKo2ahj8Z6cvBXK/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "sample100.jsonl",
+   "bytes": 41984,
+   "sha256": "d856d84c3a35e9e32ee908619f41b82cf7d9741a09fc39a48a838f7f52384f83",
+   "parts": [
+    "sample100.jsonl"
+   ],
+   "drive_parts": [
+    {
+     "name": "sample100.jsonl",
+     "id": "19MxoneTdp8NreptjQ9GgPd6QA49uEATW",
+     "bytes": 41984,
+     "url": "https://drive.google.com/file/d/19MxoneTdp8NreptjQ9GgPd6QA49uEATW/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "holdout40.jsonl",
+   "bytes": 16935,
+   "sha256": "24ba239dfc2d2093416e9c861c25b0969a7e1edae5dc38542b2e96ba6937611f",
+   "parts": [
+    "holdout40.jsonl"
+   ],
+   "drive_parts": [
+    {
+     "name": "holdout40.jsonl",
+     "id": "1FxPkZsoz0a-WThbZpfrVfDV9qkM2QQbd",
+     "bytes": 16935,
+     "url": "https://drive.google.com/file/d/1FxPkZsoz0a-WThbZpfrVfDV9qkM2QQbd/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "sample_v31_eval.json",
+   "bytes": 2386,
+   "sha256": "7de81aeef5e247d5b4b9ea8e215d3af946024d867a9b2c4ec66e5d22dd04f0e5",
+   "parts": [
+    "sample_v31_eval.json"
+   ],
+   "drive_parts": [
+    {
+     "name": "sample_v31_eval.json",
+     "id": "15GmT82ot9q6-jXV4z_qsfK6rW4cp-2--",
+     "bytes": 2386,
+     "url": "https://drive.google.com/file/d/15GmT82ot9q6-jXV4z_qsfK6rW4cp-2--/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "holdout_v31_eval.json",
+   "bytes": 1606,
+   "sha256": "6c34194fa6ca474eedb944236e77482d40c0ff46dcb38e61edc89d0cbc48ecf4",
+   "parts": [
+    "holdout_v31_eval.json"
+   ],
+   "drive_parts": [
+    {
+     "name": "holdout_v31_eval.json",
+     "id": "1CJjnMDxEgWpA49Ncx-TRmHKg9ynzn7rC",
+     "bytes": 1606,
+     "url": "https://drive.google.com/file/d/1CJjnMDxEgWpA49Ncx-TRmHKg9ynzn7rC/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "gold_and_review.tar.gz",
+   "bytes": 12704,
+   "sha256": "e351c1ba5aae22f81156608ce712e5269a21ebc231220f243c0c45137f7717e3",
+   "parts": [
+    "gold_and_review.tar.gz"
+   ],
+   "drive_parts": [
+    {
+     "name": "gold_and_review.tar.gz",
+     "id": "1wNXLdD3NzKPsTQKRXwmWpUSz6CPvLH4V",
+     "bytes": 12704,
+     "url": "https://drive.google.com/file/d/1wNXLdD3NzKPsTQKRXwmWpUSz6CPvLH4V/view"
+    }
+   ]
+  },
+  {
+   "folder": "data",
+   "file": "MANIFEST.json",
+   "bytes": 7668,
+   "sha256": "89be47158c444532bb97e651e7ba5a44d6748b3e43ae886ff14465555f3dd34f",
+   "parts": [
+    "MANIFEST.json"
+   ],
+   "drive_parts": [
+    {
+     "name": "MANIFEST.json",
+     "id": "14idgfivBW5-XEsRev5x3yUJOfn5MCE29",
+     "bytes": 7668,
+     "url": "https://drive.google.com/file/d/14idgfivBW5-XEsRev5x3yUJOfn5MCE29/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "toeicnet_rebuild_v2.apkg",
+   "bytes": 1245402,
+   "sha256": "e15654d6c4b79e6d71501cc3c143c1ccdf63a45e3658c7b4c3323372d1c69e31",
+   "parts": [
+    "toeicnet_rebuild_v2.apkg"
+   ],
+   "drive_parts": [
+    {
+     "name": "toeicnet_rebuild_v2.apkg",
+     "id": "1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa",
+     "bytes": 1245402,
+     "url": "https://drive.google.com/file/d/1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "anki_tsv.tar.gz",
+   "bytes": 133808,
+   "sha256": "0e0751e183fd855aff6d77f93ee04f39fe66ac692df09153b042e4805724cc45",
+   "parts": [
+    "anki_tsv.tar.gz"
+   ],
+   "drive_parts": [
+    {
+     "name": "anki_tsv.tar.gz",
+     "id": "1c9pU36F38dk9PlT-5fkx53yDJXpQbrDw",
+     "bytes": 133808,
+     "url": "https://drive.google.com/file/d/1c9pU36F38dk9PlT-5fkx53yDJXpQbrDw/view"
+    }
+   ]
+  },
+  {
+   "folder": "reports",
+   "file": "rebuild_v2_summary.json",
+   "bytes": 2716,
+   "sha256": "0980fa26f13977efe11e632fd1cad9754a45db3e3b25496ec2510177c792812c",
+   "parts": [
+    "rebuild_v2_summary.json"
+   ],
+   "drive_parts": [
+    {
+     "name": "rebuild_v2_summary.json",
+     "id": "1ePxRbpCzDCbFIdh2jW35YD7K1-lF_I6a",
+     "bytes": 2716,
+     "url": "https://drive.google.com/file/d/1ePxRbpCzDCbFIdh2jW35YD7K1-lF_I6a/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "back_grade_B.tsv",
+   "bytes": 209826,
+   "sha256": "a946f64e8a89b0a7871e7a0e22d864c40e1b1f473c3cdec14dd6b54bc401857f",
+   "parts": [
+    "back_grade_B.tsv"
+   ],
+   "drive_parts": [
+    {
+     "name": "back_grade_B.tsv",
+     "id": "1Vl3h3q1GDTa3fU68fbr7XEyoyi6x9Nte",
+     "bytes": 209826,
+     "url": "https://drive.google.com/file/d/1Vl3h3q1GDTa3fU68fbr7XEyoyi6x9Nte/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "back_grade_C.tsv",
+   "bytes": 266988,
+   "sha256": "5c00736f37b45b902a0b73ca9be12c5e7d8f075ded078076b9de000568a9424a",
+   "parts": [
+    "back_grade_C.tsv"
+   ],
+   "drive_parts": [
+    {
+     "name": "back_grade_C.tsv",
+     "id": "1BDl0uvNdXI4bsX2XyyFJI7FesCFjC7jd",
+     "bytes": 266988,
+     "url": "https://drive.google.com/file/d/1BDl0uvNdXI4bsX2XyyFJI7FesCFjC7jd/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "core_grade_B.tsv",
+   "bytes": 101480,
+   "sha256": "154dfc50fb4dc2d352b6cad8d34fae7d1d11d527aa385522969f61120b38f1f8",
+   "parts": [
+    "core_grade_B.tsv"
+   ],
+   "drive_parts": [
+    {
+     "name": "core_grade_B.tsv",
+     "id": "1QW8b9ghs5GfYjKkbzIcls5dcgvhd5ldP",
+     "bytes": 101480,
+     "url": "https://drive.google.com/file/d/1QW8b9ghs5GfYjKkbzIcls5dcgvhd5ldP/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "core_grade_B_reviewed.tsv",
+   "bytes": 71314,
+   "sha256": "0640819447f2613748c2bce0590b948408a1d323d70b06b25b7da257cd36fb71",
+   "parts": [
+    "core_grade_B_reviewed.tsv"
+   ],
+   "drive_parts": [
+    {
+     "name": "core_grade_B_reviewed.tsv",
+     "id": "10mxXni-3sB7mn5jf3Yn8qiwJ6uhaEDNS",
+     "bytes": 71314,
+     "url": "https://drive.google.com/file/d/10mxXni-3sB7mn5jf3Yn8qiwJ6uhaEDNS/view"
+    }
+   ]
+  },
+  {
+   "folder": "cards",
+   "file": "core_grade_C.tsv",
+   "bytes": 109883,
+   "sha256": "aac768ea25a8c5fc62b16d26e128e175be73c601bc5662f81df2b9dab327214e",
+   "parts": [
+    "core_grade_C.tsv"
+   ],
+   "drive_parts": [
+    {
+     "name": "core_grade_C.tsv",
+     "id": "153zBRQj0nTMJVgn_DlIhWZqm_DUusqbv",
+     "bytes": 109883,
+     "url": "https://drive.google.com/file/d/153zBRQj0nTMJVgn_DlIhWZqm_DUusqbv/view"
+    }
+   ]
+  },
+  {
+   "folder": "notes",
+   "file": "PART1_core_words.md",
+   "bytes": 93436,
+   "sha256": "f2ca811670420e23496136a825b22d5f138e0ea055fc18763049c99c922e2c92",
+   "parts": [
+    "PART1_core_words.md"
+   ],
+   "drive_parts": [
+    {
+     "name": "PART1_core_words.md",
+     "id": "1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-",
+     "bytes": 93436,
+     "url": "https://drive.google.com/file/d/1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-/view"
+    }
+   ]
+  },
+  {
+   "folder": "notes",
+   "file": "PART2_etymology.md",
+   "bytes": 27825,
+   "sha256": "610bf32793c18b89c6bf1d8ff61f2f8bf91d14660b37b5225e4e6fc1e6b620c1",
+   "parts": [
+    "PART2_etymology.md"
+   ],
+   "drive_parts": [
+    {
+     "name": "PART2_etymology.md",
+     "id": "1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv",
+     "bytes": 27825,
+     "url": "https://drive.google.com/file/d/1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv/view"
+    }
+   ]
+  },
+  {
+   "folder": "notes",
+   "file": "PART3_semantic_fields.md",
+   "bytes": 35111,
+   "sha256": "062a5576d6a8fd203310d0514d61213d3ec8beefb9c165138ae700e65c056f96",
+   "parts": [
+    "PART3_semantic_fields.md"
+   ],
+   "drive_parts": [
+    {
+     "name": "PART3_semantic_fields.md",
+     "id": "1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR",
+     "bytes": 35111,
+     "url": "https://drive.google.com/file/d/1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "etymology__historical_roots.csv",
+   "bytes": 232019,
+   "sha256": "39529d593b2068e63188f9b6f9db4ee927bab088005845cc176797bd695bf0e9",
+   "parts": [
+    "etymology__historical_roots.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "etymology__historical_roots.csv",
+     "id": "1UrHAMERCzumrJh8ssouEpParV3HyFVlI",
+     "bytes": 232019,
+     "url": "https://drive.google.com/file/d/1UrHAMERCzumrJh8ssouEpParV3HyFVlI/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "etymology__shared_origins.csv",
+   "bytes": 8112,
+   "sha256": "9d27eea6377f13bc78dfe26483a2b3603cfca7963f343283da02b2464192114a",
+   "parts": [
+    "etymology__shared_origins.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "etymology__shared_origins.csv",
+     "id": "12Ka7wrFvTjsw3ACW8873CTqMYWJwLsPK",
+     "bytes": 8112,
+     "url": "https://drive.google.com/file/d/12Ka7wrFvTjsw3ACW8873CTqMYWJwLsPK/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "headwords.csv",
+   "bytes": 788398,
+   "sha256": "92392ba1b72044d2debc480f30234d15d46338f033f0ea585f6f991156489ac8",
+   "parts": [
+    "headwords.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "headwords.csv",
+     "id": "1v9uW0fkMxckI2e6cEzhikxUuKdtTks-0",
+     "bytes": 788398,
+     "url": "https://drive.google.com/file/d/1v9uW0fkMxckI2e6cEzhikxUuKdtTks-0/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "morphology__derivations.csv",
+   "bytes": 106980,
+   "sha256": "e1319d6e1d21443eafb0fc90cfc736e1f6a6c82375bc1fa859c00f94cee2ad27",
+   "parts": [
+    "morphology__derivations.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "morphology__derivations.csv",
+     "id": "1g8fipavWYrZsrgt-XLN0-xPo_enE8rg4",
+     "bytes": 106980,
+     "url": "https://drive.google.com/file/d/1g8fipavWYrZsrgt-XLN0-xPo_enE8rg4/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "morphology__prefixes.csv",
+   "bytes": 13039,
+   "sha256": "93a2087c87443413b3422b6359bce40f1fe10c11547837a804040c0aef59f085",
+   "parts": [
+    "morphology__prefixes.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "morphology__prefixes.csv",
+     "id": "16tdBcFGhE5nduKr0ngjy4UBxupaN6ftR",
+     "bytes": 13039,
+     "url": "https://drive.google.com/file/d/16tdBcFGhE5nduKr0ngjy4UBxupaN6ftR/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "morphology__roots.csv",
+   "bytes": 28871,
+   "sha256": "aa3c9c7dad385df5a440ff6bc926aa6d67b5fad577a16f872975db26906b24af",
+   "parts": [
+    "morphology__roots.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "morphology__roots.csv",
+     "id": "1iV4ZUUdkU9XyLOIjpj7ecCwToaGMb0dS",
+     "bytes": 28871,
+     "url": "https://drive.google.com/file/d/1iV4ZUUdkU9XyLOIjpj7ecCwToaGMb0dS/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "morphology__suffixes.csv",
+   "bytes": 57709,
+   "sha256": "8d219927470f420a5f44cd3e849a58944dd71ed7aba87e0de3885f1420821fdb",
+   "parts": [
+    "morphology__suffixes.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "morphology__suffixes.csv",
+     "id": "1aPZ6yVe59P5oG4l0b4JhJTOqIScT39bX",
+     "bytes": 57709,
+     "url": "https://drive.google.com/file/d/1aPZ6yVe59P5oG4l0b4JhJTOqIScT39bX/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "semantics__antonyms.csv",
+   "bytes": 8412,
+   "sha256": "97d3301bb547db012eb9e4a57314c62f115ba452ed46b69aa95e3fa3467c73ec",
+   "parts": [
+    "semantics__antonyms.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "semantics__antonyms.csv",
+     "id": "1HGTD_CqZv8iyInImTjE0I9eA_kKCNymd",
+     "bytes": 8412,
+     "url": "https://drive.google.com/file/d/1HGTD_CqZv8iyInImTjE0I9eA_kKCNymd/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "semantics__synonyms.csv",
+   "bytes": 123072,
+   "sha256": "30b186baa120d49057e308fbf342e24fe1120b83da6f44fcf2ac5dd58b81752f",
+   "parts": [
+    "semantics__synonyms.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "semantics__synonyms.csv",
+     "id": "1SgGmUvlA_VsGQ8fSMhrmcPWFfwZrtcj6",
+     "bytes": 123072,
+     "url": "https://drive.google.com/file/d/1SgGmUvlA_VsGQ8fSMhrmcPWFfwZrtcj6/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "semantics__themes.csv",
+   "bytes": 54067,
+   "sha256": "6d003788ffce7bf2b282d986e6368b1fc0c55914eebf4bf30081224e97d17561",
+   "parts": [
+    "semantics__themes.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "semantics__themes.csv",
+     "id": "1Sw1Sf8Qsm3PGjvuYM5QnkluzDrChVZ-B",
+     "bytes": 54067,
+     "url": "https://drive.google.com/file/d/1Sw1Sf8Qsm3PGjvuYM5QnkluzDrChVZ-B/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "usage__colligations.csv",
+   "bytes": 1473190,
+   "sha256": "bec11656e8487c471c6acb1f261884c3e2f8c58120b52b77bac9702cc483040c",
+   "parts": [
+    "usage__colligations.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "usage__colligations.csv",
+     "id": "1W4v7NxvJiNaeAdYUT-xlLMEYI8iKFx9T",
+     "bytes": 1473190,
+     "url": "https://drive.google.com/file/d/1W4v7NxvJiNaeAdYUT-xlLMEYI8iKFx9T/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "usage__collocations.csv",
+   "bytes": 741582,
+   "sha256": "b3321c72c8dd10f77cabaf78d4eca2718f9632f89086bb659e15f424fce426f1",
+   "parts": [
+    "usage__collocations.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "usage__collocations.csv",
+     "id": "1Kc1eBsDS03N1oBAQlrWhYwgGLgSnx-9j",
+     "bytes": 741582,
+     "url": "https://drive.google.com/file/d/1Kc1eBsDS03N1oBAQlrWhYwgGLgSnx-9j/view"
+    }
+   ]
+  },
+  {
+   "folder": "csv",
+   "file": "usage__idioms.csv",
+   "bytes": 42977,
+   "sha256": "1f1c2eb3387f088f03f6b3c65242366bcf253474973b52e0c4e252a6e46ad067",
+   "parts": [
+    "usage__idioms.csv"
+   ],
+   "drive_parts": [
+    {
+     "name": "usage__idioms.csv",
+     "id": "1Rb6qZji-Fix7RC3IsUjAwMU6gXJcceAe",
+     "bytes": 42977,
+     "url": "https://drive.google.com/file/d/1Rb6qZji-Fix7RC3IsUjAwMU6gXJcceAe/view"
+    }
+   ]
+  },
+  {
+   "folder": "lexicon",
+   "file": "kaikki_targets.jsonl.gz",
+   "bytes": 11557029,
+   "sha256": "c6358e7b8a838e8073956b661e3deb94c2247b934d213a7009ad365840c301b8",
+   "parts": [
+    "kaikki_targets.jsonl.gz.part00",
+    "kaikki_targets.jsonl.gz.part01",
+    "kaikki_targets.jsonl.gz.part02",
+    "kaikki_targets.jsonl.gz.part03"
+   ],
+   "join": "cat kaikki_targets.jsonl.gz.part00 kaikki_targets.jsonl.gz.part01 kaikki_targets.jsonl.gz.part02 kaikki_targets.jsonl.gz.part03 > kaikki_targets.jsonl.gz",
+   "drive_parts": [
+    {
+     "name": "kaikki_targets.jsonl.gz.part00",
+     "id": "1QcnREFOImJ5NYzitAic4zhRe5g1uRdiZ",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1QcnREFOImJ5NYzitAic4zhRe5g1uRdiZ/view"
+    },
+    {
+     "name": "kaikki_targets.jsonl.gz.part01",
+     "id": "1s57i1qhFBkuEk2AbnkQvW-Y0yA1cc3pN",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1s57i1qhFBkuEk2AbnkQvW-Y0yA1cc3pN/view"
+    },
+    {
+     "name": "kaikki_targets.jsonl.gz.part02",
+     "id": "1ReQZvqpQuhHKomp-niTEIdKn97n0rlEx",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1ReQZvqpQuhHKomp-niTEIdKn97n0rlEx/view"
+    },
+    {
+     "name": "kaikki_targets.jsonl.gz.part03",
+     "id": "129Xta3fjR_a0-6ljJNk4zIKGTDonfbr8",
+     "bytes": 2857029,
+     "url": "https://drive.google.com/file/d/129Xta3fjR_a0-6ljJNk4zIKGTDonfbr8/view"
+    }
+   ]
+  },
+  {
+   "folder": "lexicon",
+   "file": "kaikki_korean.jsonl.gz",
+   "bytes": 118597,
+   "sha256": "289bbb674844c923b94acd47c5e2f84bf855c3ca2e8fffb202bf7d2d07883aa1",
+   "parts": [
+    "kaikki_korean.jsonl.gz"
+   ],
+   "drive_parts": [
+    {
+     "name": "kaikki_korean.jsonl.gz",
+     "id": "1JXcFxflgEuViFLOT5zpYhJkWKtQBa3YK",
+     "bytes": 118597,
+     "url": "https://drive.google.com/file/d/1JXcFxflgEuViFLOT5zpYhJkWKtQBa3YK/view"
+    }
+   ]
+  },
+  {
+   "folder": "lexicon",
+   "file": "wordnet_targets.json.gz",
+   "bytes": 1911849,
+   "sha256": "4fc75baa5689f0f772c06a8e9d97acee930ef4a63bb9df54a4366c93e29d69ad",
+   "parts": [
+    "wordnet_targets.json.gz"
+   ],
+   "drive_parts": [
+    {
+     "name": "wordnet_targets.json.gz",
+     "id": "1ODemZ8sgL-K3YfZ9_fkhttMjfxDvrVGn",
+     "bytes": 1911849,
+     "url": "https://drive.google.com/file/d/1ODemZ8sgL-K3YfZ9_fkhttMjfxDvrVGn/view"
+    }
+   ]
+  },
+  {
+   "folder": "lexicon",
+   "file": "gcide_targets.jsonl.gz",
+   "bytes": 1041952,
+   "sha256": "fd80536ff579071574ab83c2a5051e26a0ed3fff5842d03ae82e53d23ec880b5",
+   "parts": [
+    "gcide_targets.jsonl.gz"
+   ],
+   "drive_parts": [
+    {
+     "name": "gcide_targets.jsonl.gz",
+     "id": "1olf-5doBq4elUCSpUNRvTR2aAFtYa-eO",
+     "bytes": 1041952,
+     "url": "https://drive.google.com/file/d/1olf-5doBq4elUCSpUNRvTR2aAFtYa-eO/view"
+    }
+   ]
+  },
+  {
+   "folder": "lexicon",
+   "file": "oanc_usage.jsonl.gz",
+   "bytes": 15184420,
+   "sha256": "f54e1e1e7363243e9873ed49e17adb020914592e8a127a91fe6436125d6c138f",
+   "parts": [
+    "oanc_usage.jsonl.gz.part00",
+    "oanc_usage.jsonl.gz.part01",
+    "oanc_usage.jsonl.gz.part02",
+    "oanc_usage.jsonl.gz.part03",
+    "oanc_usage.jsonl.gz.part04",
+    "oanc_usage.jsonl.gz.part05"
+   ],
+   "join": "cat oanc_usage.jsonl.gz.part00 oanc_usage.jsonl.gz.part01 oanc_usage.jsonl.gz.part02 oanc_usage.jsonl.gz.part03 oanc_usage.jsonl.gz.part04 oanc_usage.jsonl.gz.part05 > oanc_usage.jsonl.gz",
+   "drive_parts": [
+    {
+     "name": "oanc_usage.jsonl.gz.part00",
+     "id": "1ld9HfghZAx2BIwHM9DSCqmLYcx7M8IVR",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1ld9HfghZAx2BIwHM9DSCqmLYcx7M8IVR/view"
+    },
+    {
+     "name": "oanc_usage.jsonl.gz.part01",
+     "id": "19JaMRf4LrG-1pH_B0wiijxAZZemsXPk1",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/19JaMRf4LrG-1pH_B0wiijxAZZemsXPk1/view"
+    },
+    {
+     "name": "oanc_usage.jsonl.gz.part02",
+     "id": "1R29Qroy3_0Ag1-hw5YJ-MjcZz2ORUO6j",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1R29Qroy3_0Ag1-hw5YJ-MjcZz2ORUO6j/view"
+    },
+    {
+     "name": "oanc_usage.jsonl.gz.part03",
+     "id": "1Ci_abXf0SBUoO6OTAHvWcaD8SOYCopDr",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1Ci_abXf0SBUoO6OTAHvWcaD8SOYCopDr/view"
+    },
+    {
+     "name": "oanc_usage.jsonl.gz.part04",
+     "id": "1W5FdePSSN02CFdBwGntEY1uZAFSCfiaP",
+     "bytes": 2900000,
+     "url": "https://drive.google.com/file/d/1W5FdePSSN02CFdBwGntEY1uZAFSCfiaP/view"
+    },
+    {
+     "name": "oanc_usage.jsonl.gz.part05",
+     "id": "1m33orVoF6_PLujrr7qsIaSQhYTvS109K",
+     "bytes": 684420,
+     "url": "https://drive.google.com/file/d/1m33orVoF6_PLujrr7qsIaSQhYTvS109K/view"
+    }
+   ]
+  }
+ ],
+ "uploads": [
+  {
+   "folder": "data",
+   "name": "full_analysis_v31r.jsonl.part00",
+   "bytes": 2900000,
+   "sha256": "d1873a4e2f1bf60be373d284ab580914684b9e44153950231ad81acb6c28db6c"
+  },
+  {
+   "folder": "data",
+   "name": "full_analysis_v31r.jsonl.part01",
+   "bytes": 2439485,
+   "sha256": "9a969aaf8a2857808b34ace76ae0fdd74f00f42d98ba040721dcc1854fd12cbe"
+  },
+  {
+   "folder": "data",
+   "name": "toeicnet_rebuild_v2.sqlite.part00",
+   "bytes": 2900000,
+   "sha256": "6215b1fde9511f4ff7aea9c0261532dcc40be1a5792a2746c48cf814ecda7821"
+  },
+  {
+   "folder": "data",
+   "name": "toeicnet_rebuild_v2.sqlite.part01",
+   "bytes": 2900000,
+   "sha256": "3025e4678773ffed41d120c43fe8c327ac90798cb0cb98ce5fe7e546a590f2a7"
+  },
+  {
+   "folder": "data",
+   "name": "toeicnet_rebuild_v2.sqlite.part02",
+   "bytes": 2236352,
+   "sha256": "d75b159e092a094789aa6bcce9815b727b308f4e6a113fb8519522e15ce19495"
+  },
+  {
+   "folder": "data",
+   "name": "source_items.jsonl",
+   "bytes": 2144776,
+   "sha256": "e53c95a96c756e14c256a1f382b3053c644232b5c2490f549427c47576915d5a"
+  },
+  {
+   "folder": "data",
+   "name": "review_queue.jsonl",
+   "bytes": 477837,
+   "sha256": "b3bbeb93edb4fde9d42361a6af4bcc4e6e08456d34326cf3e7cfafe50ed2c116"
+  },
+  {
+   "folder": "data",
+   "name": "source_audit.json",
+   "bytes": 2539,
+   "sha256": "a5a9b9d8d1aa79ee2bc3456a6ca1ce5e41f4889d745f46485a1f7d730c41167f"
+  },
+  {
+   "folder": "data",
+   "name": "sample100.jsonl",
+   "bytes": 41984,
+   "sha256": "d856d84c3a35e9e32ee908619f41b82cf7d9741a09fc39a48a838f7f52384f83"
+  },
+  {
+   "folder": "data",
+   "name": "holdout40.jsonl",
+   "bytes": 16935,
+   "sha256": "24ba239dfc2d2093416e9c861c25b0969a7e1edae5dc38542b2e96ba6937611f"
+  },
+  {
+   "folder": "data",
+   "name": "sample_v31_eval.json",
+   "bytes": 2386,
+   "sha256": "7de81aeef5e247d5b4b9ea8e215d3af946024d867a9b2c4ec66e5d22dd04f0e5"
+  },
+  {
+   "folder": "data",
+   "name": "holdout_v31_eval.json",
+   "bytes": 1606,
+   "sha256": "6c34194fa6ca474eedb944236e77482d40c0ff46dcb38e61edc89d0cbc48ecf4"
+  },
+  {
+   "folder": "data",
+   "name": "gold_and_review.tar.gz",
+   "bytes": 12704,
+   "sha256": "e351c1ba5aae22f81156608ce712e5269a21ebc231220f243c0c45137f7717e3"
+  },
+  {
+   "folder": "data",
+   "name": "MANIFEST.json",
+   "bytes": 7668,
+   "sha256": "89be47158c444532bb97e651e7ba5a44d6748b3e43ae886ff14465555f3dd34f"
+  },
+  {
+   "folder": "cards",
+   "name": "toeicnet_rebuild_v2.apkg",
+   "bytes": 1245402,
+   "sha256": "e15654d6c4b79e6d71501cc3c143c1ccdf63a45e3658c7b4c3323372d1c69e31"
+  },
+  {
+   "folder": "cards",
+   "name": "anki_tsv.tar.gz",
+   "bytes": 133808,
+   "sha256": "0e0751e183fd855aff6d77f93ee04f39fe66ac692df09153b042e4805724cc45"
+  },
+  {
+   "folder": "reports",
+   "name": "rebuild_v2_summary.json",
+   "bytes": 2716,
+   "sha256": "0980fa26f13977efe11e632fd1cad9754a45db3e3b25496ec2510177c792812c"
+  },
+  {
+   "folder": "cards",
+   "name": "back_grade_B.tsv",
+   "bytes": 209826,
+   "sha256": "a946f64e8a89b0a7871e7a0e22d864c40e1b1f473c3cdec14dd6b54bc401857f"
+  },
+  {
+   "folder": "cards",
+   "name": "back_grade_C.tsv",
+   "bytes": 266988,
+   "sha256": "5c00736f37b45b902a0b73ca9be12c5e7d8f075ded078076b9de000568a9424a"
+  },
+  {
+   "folder": "cards",
+   "name": "core_grade_B.tsv",
+   "bytes": 101480,
+   "sha256": "154dfc50fb4dc2d352b6cad8d34fae7d1d11d527aa385522969f61120b38f1f8"
+  },
+  {
+   "folder": "cards",
+   "name": "core_grade_B_reviewed.tsv",
+   "bytes": 71314,
+   "sha256": "0640819447f2613748c2bce0590b948408a1d323d70b06b25b7da257cd36fb71"
+  },
+  {
+   "folder": "cards",
+   "name": "core_grade_C.tsv",
+   "bytes": 109883,
+   "sha256": "aac768ea25a8c5fc62b16d26e128e175be73c601bc5662f81df2b9dab327214e"
+  },
+  {
+   "folder": "notes",
+   "name": "PART1_core_words.md",
+   "bytes": 93436,
+   "sha256": "f2ca811670420e23496136a825b22d5f138e0ea055fc18763049c99c922e2c92"
+  },
+  {
+   "folder": "notes",
+   "name": "PART2_etymology.md",
+   "bytes": 27825,
+   "sha256": "610bf32793c18b89c6bf1d8ff61f2f8bf91d14660b37b5225e4e6fc1e6b620c1"
+  },
+  {
+   "folder": "notes",
+   "name": "PART3_semantic_fields.md",
+   "bytes": 35111,
+   "sha256": "062a5576d6a8fd203310d0514d61213d3ec8beefb9c165138ae700e65c056f96"
+  },
+  {
+   "folder": "csv",
+   "name": "etymology__historical_roots.csv",
+   "bytes": 232019,
+   "sha256": "39529d593b2068e63188f9b6f9db4ee927bab088005845cc176797bd695bf0e9"
+  },
+  {
+   "folder": "csv",
+   "name": "etymology__shared_origins.csv",
+   "bytes": 8112,
+   "sha256": "9d27eea6377f13bc78dfe26483a2b3603cfca7963f343283da02b2464192114a"
+  },
+  {
+   "folder": "csv",
+   "name": "headwords.csv",
+   "bytes": 788398,
+   "sha256": "92392ba1b72044d2debc480f30234d15d46338f033f0ea585f6f991156489ac8"
+  },
+  {
+   "folder": "csv",
+   "name": "morphology__derivations.csv",
+   "bytes": 106980,
+   "sha256": "e1319d6e1d21443eafb0fc90cfc736e1f6a6c82375bc1fa859c00f94cee2ad27"
+  },
+  {
+   "folder": "csv",
+   "name": "morphology__prefixes.csv",
+   "bytes": 13039,
+   "sha256": "93a2087c87443413b3422b6359bce40f1fe10c11547837a804040c0aef59f085"
+  },
+  {
+   "folder": "csv",
+   "name": "morphology__roots.csv",
+   "bytes": 28871,
+   "sha256": "aa3c9c7dad385df5a440ff6bc926aa6d67b5fad577a16f872975db26906b24af"
+  },
+  {
+   "folder": "csv",
+   "name": "morphology__suffixes.csv",
+   "bytes": 57709,
+   "sha256": "8d219927470f420a5f44cd3e849a58944dd71ed7aba87e0de3885f1420821fdb"
+  },
+  {
+   "folder": "csv",
+   "name": "semantics__antonyms.csv",
+   "bytes": 8412,
+   "sha256": "97d3301bb547db012eb9e4a57314c62f115ba452ed46b69aa95e3fa3467c73ec"
+  },
+  {
+   "folder": "csv",
+   "name": "semantics__synonyms.csv",
+   "bytes": 123072,
+   "sha256": "30b186baa120d49057e308fbf342e24fe1120b83da6f44fcf2ac5dd58b81752f"
+  },
+  {
+   "folder": "csv",
+   "name": "semantics__themes.csv",
+   "bytes": 54067,
+   "sha256": "6d003788ffce7bf2b282d986e6368b1fc0c55914eebf4bf30081224e97d17561"
+  },
+  {
+   "folder": "csv",
+   "name": "usage__colligations.csv",
+   "bytes": 1473190,
+   "sha256": "bec11656e8487c471c6acb1f261884c3e2f8c58120b52b77bac9702cc483040c"
+  },
+  {
+   "folder": "csv",
+   "name": "usage__collocations.csv",
+   "bytes": 741582,
+   "sha256": "b3321c72c8dd10f77cabaf78d4eca2718f9632f89086bb659e15f424fce426f1"
+  },
+  {
+   "folder": "csv",
+   "name": "usage__idioms.csv",
+   "bytes": 42977,
+   "sha256": "1f1c2eb3387f088f03f6b3c65242366bcf253474973b52e0c4e252a6e46ad067"
+  },
+  {
+   "folder": "lexicon",
+   "name": "kaikki_targets.jsonl.gz.part00",
+   "bytes": 2900000,
+   "sha256": "22c94292f4ef93070b369e14d7fd17640ce437b6def56e7d3564eca3e4fed503"
+  },
+  {
+   "folder": "lexicon",
+   "name": "kaikki_targets.jsonl.gz.part01",
+   "bytes": 2900000,
+   "sha256": "d717c7bafb857f8f52232a25d57b3872cb48f4673d9085951c39d854b9138dcd"
+  },
+  {
+   "folder": "lexicon",
+   "name": "kaikki_targets.jsonl.gz.part02",
+   "bytes": 2900000,
+   "sha256": "4b1372d1367552b9921b35a38949651dd4748b22e34e1625eefde4c15d528617"
+  },
+  {
+   "folder": "lexicon",
+   "name": "kaikki_targets.jsonl.gz.part03",
+   "bytes": 2857029,
+   "sha256": "41744aa7999eea85e59ba282dc06067af6dacbef49c4aeafba2bcfa2ba4a5a36"
+  },
+  {
+   "folder": "lexicon",
+   "name": "kaikki_korean.jsonl.gz",
+   "bytes": 118597,
+   "sha256": "289bbb674844c923b94acd47c5e2f84bf855c3ca2e8fffb202bf7d2d07883aa1"
+  },
+  {
+   "folder": "lexicon",
+   "name": "wordnet_targets.json.gz",
+   "bytes": 1911849,
+   "sha256": "4fc75baa5689f0f772c06a8e9d97acee930ef4a63bb9df54a4366c93e29d69ad"
+  },
+  {
+   "folder": "lexicon",
+   "name": "gcide_targets.jsonl.gz",
+   "bytes": 1041952,
+   "sha256": "fd80536ff579071574ab83c2a5051e26a0ed3fff5842d03ae82e53d23ec880b5"
+  },
+  {
+   "folder": "lexicon",
+   "name": "oanc_usage.jsonl.gz.part00",
+   "bytes": 2900000,
+   "sha256": "4321e1ea33e0b95f216222fdeaff572bef9be3c6eae85226f3a8e9f75d2fee6b"
+  },
+  {
+   "folder": "lexicon",
+   "name": "oanc_usage.jsonl.gz.part01",
+   "bytes": 2900000,
+   "sha256": "a14df1edb0654082b1a7b5f305bc3fd384a84c6457cfce2d3e13e0ad1cddd809"
+  },
+  {
+   "folder": "lexicon",
+   "name": "oanc_usage.jsonl.gz.part02",
+   "bytes": 2900000,
+   "sha256": "b5e2a96923b41db6776228674d19a357079a95dc2bd6ab649cf994f569fbf73b"
+  },
+  {
+   "folder": "lexicon",
+   "name": "oanc_usage.jsonl.gz.part03",
+   "bytes": 2900000,
+   "sha256": "9ab6e06460060db2ff4729a0e143001380b94d32d2e7104e129437207a055739"
+  },
+  {
+   "folder": "lexicon",
+   "name": "oanc_usage.jsonl.gz.part04",
+   "bytes": 2900000,
+   "sha256": "a89f95a0ee546ae4d43bbbd4ea2fae864fe74e0ead42c7858c2746eb74da59aa"
+  },
+  {
+   "folder": "lexicon",
+   "name": "oanc_usage.jsonl.gz.part05",
+   "bytes": 684420,
+   "sha256": "1a45a17b43d38ae7d1c019375179f5238e4c4b386ab69d66b951e00cfe0c8eb0"
+  }
+ ],
+ "folders": {
+  "rebuild-v2": "1k5v3evwXc2tXU13sj3cQCsnR4V0Df_H6",
+  "data": "1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub",
+  "cards": "1Musi9p4IWJYA6yJqMf538BeHDey46zza",
+  "notes": "16VNF_nXbvgoBob7n7EeRCqI_LmwkaGag",
+  "csv": "1waNtzsM3fbjO_XeueViPOsmSraWq1acC",
+  "lexicon": "1YjyQbYo8NgsEUUYSqtQWAnorgt389ZA_",
+  "reports": "1l6rdI_7toDr8d-323reBsjjChuU5N8mA"
+ },
+ "root_files": [
+  {
+   "name": "rebuild_v2_report.md",
+   "id": "1WBog5nOBz2lw4pdUi6U5FI2KLBogtHPj",
+   "bytes": 11828
+  }
+ ],
+ "verification": "Drive fileSize equals local bytes for every upload; SHA-256 values are of the local bytes sent (the connector does not return remote checksums)."
+}

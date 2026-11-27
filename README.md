@@ -1,3 +1,21 @@
+# Toeicnet 학습 자료 바로가기
+
+rebuild-v2 결과(규칙 v3.1, 항목 5,071개). GitHub에는 영어 어휘와 공개 사전 유래 관계만 있고, 교재 한국어 뜻이 들어간 자료는 소유자 전용 Google Drive [Toeicnet/Results/rebuild-v2](https://drive.google.com/drive/folders/1k5v3evwXc2tXU13sj3cQCsnR4V0Df_H6)에 있다. 정확도와 한계는 [재구축 보고서](reports/rebuild_v2_report.md), 출처·라이선스는 [vocabulary/README.md](vocabulary/README.md)(CC BY-SA 4.0).
+
+| 자료 | GitHub (영어·공개 데이터) | Drive (한국어 뜻 포함, 비공개) |
+| --- | --- | --- |
+| 핵심 표제어 | [headwords.csv](vocabulary/headwords.csv) 5,071행 (본 단어 1,241) | [csv/headwords.csv](https://drive.google.com/file/d/1v9uW0fkMxckI2e6cEzhikxUuKdtTks-0/view) |
+| 형태론 | [파생](vocabulary/morphology/derivations.csv) 1,383 · [접두사](vocabulary/morphology/prefixes.csv) 224 · [접미사](vocabulary/morphology/suffixes.csv) 973 · [어기](vocabulary/morphology/roots.csv) 1,220 | [csv/](https://drive.google.com/drive/folders/1waNtzsM3fbjO_XeueViPOsmSraWq1acC) |
+| 어원론 | [어원·PIE 어근](vocabulary/etymology/historical_roots.csv) 3,237 · [공통 어근 집단](vocabulary/etymology/shared_origins.csv) 155 | [csv/](https://drive.google.com/drive/folders/1waNtzsM3fbjO_XeueViPOsmSraWq1acC) |
+| 어휘 의미론 | [동의어](vocabulary/semantics/synonyms.csv) 1,563 · [반의어](vocabulary/semantics/antonyms.csv) 105 · [의미장](vocabulary/semantics/themes.csv) 803 | [csv/](https://drive.google.com/drive/folders/1waNtzsM3fbjO_XeueViPOsmSraWq1acC) |
+| 어휘 결합 및 용법 | [콜로케이션](vocabulary/usage/collocations.csv) 5,671 · [문법적 연어 후보(미검토)](vocabulary/usage/colligations.csv) 12,402 · [숙어·구동사](vocabulary/usage/idioms.csv) 289 | [csv/](https://drive.google.com/drive/folders/1waNtzsM3fbjO_XeueViPOsmSraWq1acC) |
+| 보카바이블 PART 1–3 | 교재 뜻 포함으로 GitHub 미저장 | [PART 1](https://drive.google.com/file/d/1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-/view) · [PART 2](https://drive.google.com/file/d/1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv/view) · [PART 3](https://drive.google.com/file/d/1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR/view) |
+| Anki 다운로드 | 교재 뜻 포함으로 GitHub 미저장 | [APKG 1,776장](https://drive.google.com/file/d/1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa/view) · [덱별 TSV](https://drive.google.com/drive/folders/1Musi9p4IWJYA6yJqMf538BeHDey46zza) |
+| 전체 데이터베이스 | 영어 표는 위 CSV | [SQLite·전체 JSONL(분할)](https://drive.google.com/drive/folders/1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub) · [합치는 방법](https://drive.google.com/file/d/1nrQIeCG5OXU0ue1MKbFfu2bm-keYHtt_/view) |
+| 검토 대기열 | [pending.csv](vocabulary/review/pending.csv) 3,295 · [모델 검토 판정](vocabulary/review/model_review.jsonl) · [기준 판정](vocabulary/review/gold_sample_and_holdout.jsonl) | [data/review_queue.jsonl](https://drive.google.com/file/d/1x6-QwEI5I6lNZ_fSymW8p5UGFmPm__jd/view) |
+
+다음 배치 작업은 `vocabulary/review/pending.csv`의 D·E 항목부터 시작한다. 배치가 끝날 때마다 `python scripts/rebuild_export.py`로 `vocabulary/`와 `exports/rebuild-v2/`를 다시 만들고, `vocabulary/`는 커밋하며, `exports/rebuild-v2/`는 Drive에 올린다. 체크섬은 `vocabulary/MANIFEST.json`과 Drive의 `DRIVE_INDEX.json`에 있다.
+
 # 해커스 TOEIC VOCA × 보카바이블 B
 
 해커스 DAY 01–30의 원천 항목, 의미별 사전 근거, 형태·어원·의미·용법 관계를 SQLite에서 연결합니다. 같은 어휘의 출현 위치는 모두 보존하고, 동형이의어는 검토된 식별자로 분리합니다. WordNet, Wiktextract, OANC에서 추출한 후보는 사람이나 검토 담당 에이전트가 의미를 대조한 뒤 학습 자료에 반영합니다.

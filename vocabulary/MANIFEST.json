@@ -1,0 +1,128 @@
+{
+ "source_analysis": "full_v31r.jsonl",
+ "rules": "v3.1",
+ "counts": {
+  "vocabulary/headwords.csv": 5071,
+  "vocabulary/morphology/derivations.csv": 1383,
+  "vocabulary/morphology/prefixes.csv": 224,
+  "vocabulary/morphology/suffixes.csv": 973,
+  "vocabulary/morphology/roots.csv": 1220,
+  "vocabulary/etymology/historical_roots.csv": 3237,
+  "vocabulary/etymology/shared_origins.csv": 155,
+  "vocabulary/semantics/synonyms.csv": 1563,
+  "vocabulary/semantics/antonyms.csv": 105,
+  "vocabulary/semantics/themes.csv": 803,
+  "vocabulary/usage/collocations.csv": 5671,
+  "vocabulary/usage/colligations.csv": 12402,
+  "vocabulary/usage/idioms.csv": 289,
+  "vocabulary/review/model_review.jsonl": 174,
+  "vocabulary/review/gold_sample_and_holdout.jsonl": 140,
+  "vocabulary/review/pending.csv": 3295,
+  "csv/headwords.csv": 5071,
+  "csv/morphology/derivations.csv": 1383,
+  "csv/morphology/prefixes.csv": 224,
+  "csv/morphology/suffixes.csv": 973,
+  "csv/morphology/roots.csv": 1220,
+  "csv/etymology/historical_roots.csv": 3237,
+  "csv/etymology/shared_origins.csv": 155,
+  "csv/semantics/synonyms.csv": 1563,
+  "csv/semantics/antonyms.csv": 105,
+  "csv/semantics/themes.csv": 803,
+  "csv/usage/collocations.csv": 5671,
+  "csv/usage/colligations.csv": 12402,
+  "csv/usage/idioms.csv": 289,
+  "full_analysis_v31r.jsonl": 5071,
+  "toeicnet_rebuild_v2.sqlite:items": 5071,
+  "toeicnet_rebuild_v2.apkg:notes": 1776,
+  "lexicon/kaikki_targets.jsonl.gz": {
+   "parts": 2,
+   "sha256_joined": "c6358e7b8a838e8073956b661e3deb94c2247b934d213a7009ad365840c301b8"
+  },
+  "lexicon/kaikki_korean.jsonl.gz": {
+   "parts": 1,
+   "sha256_joined": "289bbb674844c923b94acd47c5e2f84bf855c3ca2e8fffb202bf7d2d07883aa1"
+  },
+  "lexicon/wordnet_targets.json.gz": {
+   "parts": 1,
+   "sha256_joined": "4fc75baa5689f0f772c06a8e9d97acee930ef4a63bb9df54a4366c93e29d69ad"
+  },
+  "lexicon/gcide_targets.jsonl.gz": {
+   "parts": 1,
+   "sha256_joined": "fd80536ff579071574ab83c2a5051e26a0ed3fff5842d03ae82e53d23ec880b5"
+  },
+  "lexicon/oanc_usage.jsonl.gz": {
+   "parts": 2,
+   "sha256_joined": "f54e1e1e7363243e9873ed49e17adb020914592e8a127a91fe6436125d6c138f"
+  }
+ },
+ "files": {
+  "vocabulary/README.md": {
+   "bytes": 1196,
+   "sha256": "6ca6913e44fed5b7eff7a4190cd8233ca4307534d5752d3bf21e3f4ea23cd65b"
+  },
+  "vocabulary/etymology/historical_roots.csv": {
+   "bytes": 232019,
+   "sha256": "ec55029a8a5e5b32eb3365fac46b4fd9599fe1af543ea23cb812044d0a429e80"
+  },
+  "vocabulary/etymology/shared_origins.csv": {
+   "bytes": 8112,
+   "sha256": "9d27eea6377f13bc78dfe26483a2b3603cfca7963f343283da02b2464192114a"
+  },
+  "vocabulary/headwords.csv": {
+   "bytes": 625181,
+   "sha256": "56d8bf1d17d0470b80506214d2af76de4ef899c0fce9d09c31b55e66bd14cb58"
+  },
+  "vocabulary/morphology/derivations.csv": {
+   "bytes": 106980,
+   "sha256": "5af36a6c1e450d2427171d62a320aeae3d1762f89a25c8b0472e70edc9265ecc"
+  },
+  "vocabulary/morphology/prefixes.csv": {
+   "bytes": 13039,
+   "sha256": "93a2087c87443413b3422b6359bce40f1fe10c11547837a804040c0aef59f085"
+  },
+  "vocabulary/morphology/roots.csv": {
+   "bytes": 28871,
+   "sha256": "aa3c9c7dad385df5a440ff6bc926aa6d67b5fad577a16f872975db26906b24af"
+  },
+  "vocabulary/morphology/suffixes.csv": {
+   "bytes": 57709,
+   "sha256": "8d219927470f420a5f44cd3e849a58944dd71ed7aba87e0de3885f1420821fdb"
+  },
+  "vocabulary/review/gold_sample_and_holdout.jsonl": {
+   "bytes": 33325,
+   "sha256": "61ea6e4caf146863508b45c9b186954b0089cdc4b77af9fa16e4deaad6bca85d"
+  },
+  "vocabulary/review/model_review.jsonl": {
+   "bytes": 48453,
+   "sha256": "9f756dc5a03d3eba9c0d6a566068bced338e4785b133ea7bffdbeb83b1433392"
+  },
+  "vocabulary/review/pending.csv": {
+   "bytes": 241726,
+   "sha256": "bb5904a5fbd16eea2fc6cc2fc5f9c8c848332fb72ef420b0a6234c9378845524"
+  },
+  "vocabulary/semantics/antonyms.csv": {
+   "bytes": 8412,
+   "sha256": "e7ba7c7dca5d575397da648e3d7c5c051ee34fc04a23d9945ec8c403e3f3d33b"
+  },
+  "vocabulary/semantics/synonyms.csv": {
+   "bytes": 123072,
+   "sha256": "f1600a588558ed9475b739a68ec1fe37496c0905554eea755e43bfc819337fe0"
+  },
+  "vocabulary/semantics/themes.csv": {
+   "bytes": 54067,
+   "sha256": "6d003788ffce7bf2b282d986e6368b1fc0c55914eebf4bf30081224e97d17561"
+  },
+  "vocabulary/usage/colligations.csv": {
+   "bytes": 1473190,
+   "sha256": "bec11656e8487c471c6acb1f261884c3e2f8c58120b52b77bac9702cc483040c"
+  },
+  "vocabulary/usage/collocations.csv": {
+   "bytes": 741582,
+   "sha256": "54f442356242c504764851af31f7dd3b3b226bb25d23ffed3a6e66e0bbcf8bee"
+  },
+  "vocabulary/usage/idioms.csv": {
+   "bytes": 42977,
+   "sha256": "10a0c35268e9a96a82011163b69c3fdb2585d58fd16825da10f9f379ef2a74cc"
+  }
+ }
+}
