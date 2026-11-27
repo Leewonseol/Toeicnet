@@ -1,0 +1,41 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+substantially,considerably,wordnet_synset,oewn-substantially__4.02.01..,model_reviewed_pair
+substantially,well,wordnet_synset,oewn-substantially__4.02.01..,model_reviewed_pair
+considerably,substantially,wordnet_synset,oewn-considerably__4.02.01..,monosemous_pair
+considerably,well,wordnet_synset,oewn-considerably__4.02.01..,monosemous_pair
+adequate,enough,wordnet_synset,oewn-adequate__5.00.00.sufficient.00,double_korean_anchor
+allocate,apportion,wordnet_synset,oewn-allocate__2.40.00..,model_reviewed_pair
+preferred,best-loved,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+preferred,favored,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+preferred,favorite,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+preferred,favoured,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+preferred,favourite,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+preferred,pet,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+preferred,preferent,wordnet_synset,oewn-preferred__5.00.00.loved.00,model_reviewed_pair
+browse,surf,wordnet_synset,oewn-browse__2.35.00..,model_reviewed_pair
+measurement,measure,wordnet_synset,oewn-measurement__1.04.00..,double_korean_anchor
+measurement,measuring,wordnet_synset,oewn-measurement__1.04.00..,double_korean_anchor
+measurement,mensuration,wordnet_synset,oewn-measurement__1.04.00..,double_korean_anchor
+tie,bind,wordnet_synset,oewn-tie__2.35.00..,double_korean_anchor
+advisor,adviser,wordnet_synset,oewn-advisor__1.18.00..,double_korean_anchor
+advisor,consultant,wordnet_synset,oewn-advisor__1.18.00..,double_korean_anchor
+shortcoming,defect,wordnet_synset,oewn-shortcoming__1.07.00..,double_korean_anchor
+theme,subject,wordnet_synset,oewn-theme__1.10.00..,double_korean_anchor
+theme,topic,wordnet_synset,oewn-theme__1.10.00..,double_korean_anchor
+certainly,for certain,wordnet_synset,oewn-certainly__4.02.00..,double_korean_anchor
+certainly,for sure,wordnet_synset,oewn-certainly__4.02.00..,double_korean_anchor
+certainly,sure,wordnet_synset,oewn-certainly__4.02.00..,double_korean_anchor
+certainly,sure as shooting,wordnet_synset,oewn-certainly__4.02.00..,double_korean_anchor
+certainly,sure enough,wordnet_synset,oewn-certainly__4.02.00..,double_korean_anchor
+certainly,surely,wordnet_synset,oewn-certainly__4.02.00..,double_korean_anchor
+flawless,unflawed,wordnet_synset,oewn-flawless__5.00.00.perfect.00,monosemous_pair
+impressively,imposingly,wordnet_synset,oewn-impressively__4.02.00..,monosemous_pair
+monetary,pecuniary,wordnet_synset,oewn-monetary__3.01.00..,monosemous_pair
+rigorously,strictly,wordnet_synset,oewn-rigorously__4.02.00..,monosemous_pair
+relevance,relevancy,wordnet_synset,oewn-relevance__1.24.00..,monosemous_pair
+reliably,dependably,wordnet_synset,oewn-reliably__4.02.00..,monosemous_pair
+reliably,faithfully,wordnet_synset,oewn-reliably__4.02.00..,monosemous_pair
+classification,categorisation,wordnet_synset,oewn-classification__1.09.00..,double_korean_anchor
+classification,categorization,wordnet_synset,oewn-classification__1.09.00..,double_korean_anchor
+classification,sorting,wordnet_synset,oewn-classification__1.09.00..,double_korean_anchor
+stringently,strictly,wordnet_synset,oewn-stringently__4.02.00..,monosemous_pair

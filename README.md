@@ -1,3 +1,16 @@
+# Toeicnet 학습 자료
+
+**▶ [vocabulary/vocabulary.csv](vocabulary/vocabulary.csv)** — 해커스 토익 보카 DAY 01–30 표제어 5,078개(본 단어 1,241 포함)를 한 파일에 정리한 학습용 표. 각 표제어의 **뜻 · 파생어 · 합성어 · 접두사 · 접미사 · 어근 · 공통 어원 · 동의어 · 유의어 · 사용 용법**을 한 행에서 볼 수 있고, 관련어와 표현마다 뜻을 함께 적었다. Excel에서 열면 된다. 열 설명은 [vocabulary/README.md](vocabulary/README.md).
+
+| 함께 쓰는 자료 | 위치 |
+| --- | --- |
+| Anki 카드 1,776장 | Drive [APKG](https://drive.google.com/file/d/1Zt33cPMJ3XDEyUwkNlfomW9VeViwQ_aa/view) · [덱별 TSV](https://drive.google.com/drive/folders/1Musi9p4IWJYA6yJqMf538BeHDey46zza) |
+| 보카바이블 PART 1–3 노트 | Drive [PART 1](https://drive.google.com/file/d/1IJY-y1h0BRzh3sIjRk4XAylEzhj7Gk2-/view) · [PART 2](https://drive.google.com/file/d/1VJm2o5uSFRlNuQHBRdayYTmfC6Mxnazv/view) · [PART 3](https://drive.google.com/file/d/1uekB3q0khuUJgq4XEPNkEUPLuPZOULpR/view) |
+| 전체 데이터베이스(SQLite·JSONL) | Drive [data/](https://drive.google.com/drive/folders/1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub) · [합치는 방법](https://drive.google.com/file/d/1nrQIeCG5OXU0ue1MKbFfu2bm-keYHtt_/view) |
+| 정확도·한계 | [재구축 보고서](reports/rebuild_v2_report.md) · [학습용 표 보고서](reports/vocabulary_csv_report.md) |
+
+분석용 표와 검토 대기열은 `vocabulary/internal/`에 있다. 다음 작업은 그 안의 검토 대기열에서 시작한다. 배치가 끝나면 `python scripts/rebuild_export.py && python scripts/build_vocabulary_csv.py`로 다시 만든다.
+
 # 해커스 TOEIC VOCA × 보카바이블 B
 
 해커스 DAY 01–30의 원천 항목, 의미별 사전 근거, 형태·어원·의미·용법 관계를 SQLite에서 연결합니다. 같은 어휘의 출현 위치는 모두 보존하고, 동형이의어는 검토된 식별자로 분리합니다. WordNet, Wiktextract, OANC에서 추출한 후보는 사람이나 검토 담당 에이전트가 의미를 대조한 뒤 학습 자료에 반영합니다.
@@ -10,7 +23,7 @@ Python 3.11+, SQLite 3.37+, Poppler(`pdfinfo`, `pdftoppm`), Tesseract 5와 `eng`
 
 ```sh
 python -m pip install -r requirements.txt
-python scripts/download_datasets.py oewn kaikki oanc
+python scripts/download_datasets.py oewn kaikki gcide oanc
 python -m unittest discover -s tests
 ```
 
@@ -55,6 +68,9 @@ python scripts/import_wiktextract.py --input data/external/raw-wiktextract-data.
   --version enwiktionary-2026-10-01 --targets data/intermediate/normalized.jsonl \
   --targets data/intermediate/anki-core.jsonl \
   --output data/intermediate/wiktextract.jsonl --schema-report data/intermediate/wiktextract-schema.json
+python scripts/import_gcide.py --input data/external/gcide-0.54.tar.xz --version 0.54 \
+  --targets data/intermediate/normalized.jsonl --targets data/intermediate/anki-core.jsonl \
+  --output data/intermediate/gcide.jsonl
 python scripts/import_corpus.py --input data/external/OANC_GrAF.tgz \
   --targets data/intermediate/normalized.jsonl --targets data/intermediate/anki-core.jsonl \
   --output data/intermediate/oanc.jsonl
@@ -73,7 +89,8 @@ python scripts/build_database.py --manifest sources/manifest.json \
   --anki-manifest data/intermediate/anki-core-manifest.json \
   --intake data/intermediate/normalized.jsonl --intake data/intermediate/anki-core.jsonl \
   --candidates data/intermediate/wordnet.jsonl \
-  --candidates data/intermediate/wiktextract.jsonl --candidates data/intermediate/oanc.jsonl \
+  --candidates data/intermediate/wiktextract.jsonl --candidates data/intermediate/gcide.jsonl \
+  --candidates data/intermediate/oanc.jsonl \
   --review data/intermediate/verified-senses.jsonl --review data/intermediate/reviewed-relations.jsonl
 python scripts/build_network.py
 python scripts/export_wordnet_relations.py --db data/processed/toeic.db --output-dir data/processed/wordnet
@@ -99,11 +116,13 @@ SQLite DB에는 원천 출현, 의미, 독립적인 영·한 검증 결과, 후�
 
 | 등급 | 영어 정의 근거 |
 | --- | --- |
-| A | 지정된 독립 영영사전 두 곳 이상에서 확인 |
-| B | 독립 공개 어휘 자료 두 곳 이상에서 같은 개별 의미를 확인 |
+| A | 지정된 독립 영영사전 두 곳 이상에서 확인 (선택 사항. 분석과 학습 자료 생성의 전제 조건이 아님) |
+| B | 독립 공개 어휘 자료 두 곳 이상(WordNet, Wiktionary, GCIDE의 Webster 1913 계보)에서 같은 품사·개별 의미를 확인 |
 | C | 단일 사전 출처에서 확인 |
 | D | 후보가 있으며 의미 또는 출처 독립성 검토 필요 |
 | E | 적용 가능한 사전 의미 근거 미확보 |
+
+상용 사전 웹사이트의 직접 수집은 필수 과정에서 제외했습니다. 공개 데이터의 출처 계보는 의미 단위로 판정합니다. GCIDE의 `WordNet 1.5/1.6` 정의는 `globalwordnet` 계보이므로 WordNet과 함께 B등급 근거가 되지 않습니다. 문구가 같거나 거의 같은 정의(예: Webster 1913을 옮긴 Wiktionary 뜻풀이)도 한 출처로 셉니다.
 
 영어 정의와 한국어 뜻은 각각 검증합니다. 말뭉치와 공식 TOEIC 샘플은 용법의 근거입니다. 공개 사전 B등급은 기존 지정 사전 교차 검증 통계와 분리합니다. SQLite의 `batch_rag_current`에서 마지막 전체 실행의 등급·근거·별도 한국어 상태를 확인할 수 있습니다.
 
@@ -123,6 +142,30 @@ python scripts/batch_rag_study.py \
   --assessments data/intermediate/batch_rag/full/assessments.jsonl
 ```
 
+사전 접근성 기록은 `python scripts/source_access_probe.py --from-json --db data/processed/toeic.db`로 요청 없이 DB에 옮깁니다. 기본 실행은 상용 사전 웹페이지와 이미 차단이 기록된 출처에 요청하지 않으며, 각각 `--allow-commercial-web`, `--recheck-blocked`를 명시해야 다시 요청합니다. HTTP 상태, robots.txt(프로젝트 UA와 Anthropic 에이전트 토큰), 확인 페이지, 정의 표지 유무를 출처별로 기록하고 이용 권한은 따로 둡니다. 403, robots 차단, 인증 요구에서는 해당 출처의 요청을 중단하고, 429·5xx만 지수 백오프로 두 번까지 재시도합니다. 응답 본문은 저장하지 않습니다. [최근 점검 결과](reports/source_access.md)
+
 `prepare`는 고정 100개 표본의 검색 결과와 모델 입력을 생성합니다. 독립 검토로 만든 기준 JSONL과 실제 판정 JSONL의 형식은 각각 `batch_rag_benchmark.py`와 `batch_rag_verify.py`에서 확인할 수 있습니다. `pilot`에서 기준 표본과 대조한 결과가 통과하면 같은 DB와 설정으로 `full`을 실행합니다. 같은 입력과 설정으로 명령을 반복하면 SQLite 체크포인트에서 재개합니다. 다음 배치용 입력은 `prepare --review-queue data/intermediate/batch_rag/full/review_queue.jsonl --review-limit 100 --top-k 12`로 생성할 수 있습니다.
 
 선택 사항인 `batch_rag_model.py`는 이용 권한과 호출 한도를 확인한 로컬 모델 명령에 검색 자료를 배치로 전달합니다. 학습 노트와 Anki TSV, 항목별 검토 대기열은 원천이나 사전의 개별 기록이 포함되므로 로컬에 보관합니다. [실행 및 평가 결과](reports/batch_rag_report.md)
+
+## rebuild-v2 재구축
+
+기존 OCR·DB·분석 결과를 전제로 하지 않고 Anki 원천과 공개 데이터에서 다시 만든 경로입니다. 결과와 정확도는 [재구축 보고서](reports/rebuild_v2_report.md)에 있습니다.
+
+```sh
+python scripts/download_datasets.py gcide oewn oanc kaikki
+# 덱별 추출: import_anki.py --deck-prefix '노랭이::01.빈출단어' 등 4개 덱 → data/intermediate/anki-{core,basic,800,900}.jsonl
+python scripts/rebuild_sources.py                 # 원천 항목표, 중복·관계 주석 감사
+python scripts/extract_lexicon.py                 # WordNet·Wiktextract·GCIDE 대상 레코드
+python scripts/extract_korean_entries.py          # Wiktionary 한국어 항목(의미 선택·한국어 검토용)
+python scripts/import_corpus.py --input data/external/OANC_GrAF.tgz \
+  --targets data/rebuild/corpus_targets.jsonl --output data/rebuild/oanc_usage.jsonl
+python scripts/rebuild_sample.py                  # 고정 100개 표본
+python scripts/rebuild_analyze.py --items data/rebuild/sample100.jsonl --output data/rebuild/sample.jsonl
+python scripts/rebuild_evaluate.py --predictions data/rebuild/sample.jsonl --output data/rebuild/sample_eval.json
+python scripts/rebuild_analyze.py --output data/rebuild/full.jsonl \
+  --model-review data/rebuild/gold/core_model_review.jsonl
+python scripts/rebuild_outputs.py --analysis data/rebuild/full.jsonl
+```
+
+B등급은 WordNet 의미와 Wiktionary 의미가 같은 품사·의미로 정렬되고 교재 한국어 뜻에 해당할 때만 줍니다. 규칙 판정과 모델 검토 판정은 등급 표시와 카드 덱에서 구분합니다. GCIDE는 근거 계보 확인에만 쓰고 B의 근거로 쓰지 않습니다. 카드·노트·항목별 결과에는 교재 한국어 뜻이 들어 있으므로 로컬에만 둡니다.

@@ -1,0 +1,10 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+business class,compound_noun,C,"A high-quality class of travelling (especially in airlines), higher than economy class or budget, lower than first class.",kaikki,kaikki:business class:noun:0:7308:s0
+go on vacation,phrasal_or_multiword_verb,C,Synonym of go on holiday.,kaikki,kaikki:go on vacation:verb:0:8069:s0
+nonstop flight,compound_noun,C,a flight made without intermediate stops between source and destination,oewn,oewn-nonstop_flight__1.04.00..
+boarding gate,compound_noun,C,"A part of an airport, in a departure lounge, behind which passengers wait to board an aircraft",kaikki,kaikki:boarding gate:noun:0:7942:s0
+boarding pass,compound_noun,C,"A document or card, similar to a ticket, needed in order to board an airplane or other mode of transport.",kaikki,kaikki:boarding pass:noun:0:6952:s0
+connecting flight,compound_noun,C,a flight with an intermediate stop and a change of aircraft (possibly a change of airlines),oewn,oewn-connecting_flight__1.04.00..
+guided tour,compound_noun,C,"A trip where a knowledgeable guide leads a group to a destination, providing commentary and historical context while often handling logistics like accommodation and transportation.",kaikki,kaikki:guided tour:noun:0:7875:s0
+travel agency,compound_noun,C,A company that arranges travel and accommodation for travellers.,kaikki,kaikki:travel agency:noun:0:6508:s0
+jet lag,compound_noun,C,A physical condition caused by crossing time zones during flight; often the result of disruption to the circadian rhythms of the body.,kaikki,kaikki:jet lag:noun:0:4183:s0

@@ -1,0 +1,7 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+abolish,establish,wordnet_antonym,oewn-abolish__2.41.00..,monosemous_pair
+legal,illegal,wordnet_antonym,oewn-legal__3.01.01..,double_korean_anchor
+stop,start,wordnet_antonym,oewn-stop__2.38.00..,double_korean_anchor
+on-site,off-site,wordnet_antonym,oewn-on--site__3.00.00..,monosemous_pair
+distrust,trust,wordnet_antonym,oewn-distrust__2.31.00..,monosemous_pair
+inadvertently,advertently,wordnet_antonym,oewn-inadvertently__4.02.00..,monosemous_pair

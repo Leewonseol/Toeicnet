@@ -1,0 +1,5 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+successfully,unsuccessfully,wordnet_antonym,oewn-successfully__4.02.00..,monosemous_pair
+dissatisfaction,satisfaction,wordnet_antonym,oewn-dissatisfaction__1.12.00..,double_korean_anchor
+unexpected,expected,wordnet_antonym,oewn-unexpected__3.00.00..,monosemous_pair
+personal,impersonal,wordnet_antonym,oewn-personal__3.00.00..,double_korean_anchor

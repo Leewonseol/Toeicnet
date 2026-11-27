@@ -1,0 +1,12 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+model number,compound_noun,C,A manufacturer's identifier for a particular type or version of a product.,kaikki,kaikki:model number:noun:0:7459:s0
+decide on,phrasal_or_multiword_verb,C,To choose (something) after carefully considering one's options.,kaikki,kaikki:decide on:verb:0:8025:s0
+by contrast,phrase,C,Contrarily.,kaikki,kaikki:in contrast:prep_phrase:0:7569:s0
+add up to,phrasal_or_multiword_verb,C,To have a particular effect in combination.,kaikki,kaikki:add up to:verb:0:7354:s0
+annual report,compound_noun,C,"In business law, a comprehensive report on a the activities of a company throughout the preceding year, generally produced in compliance with requirements established by government agencies.",kaikki,kaikki:annual report:noun:0:7464:s0
+bound for,adverb,C,"Moving towards, going in the direction of.",kaikki,kaikki:bound for:adv:0:6854:s0
+consulting firm,compound_noun,C,a firm of experts providing professional advice to an organization for a fee,oewn,oewn-consulting_firm__1.14.00..
+place of origin,compound_noun,C,where something originated or was nurtured in its early existence,oewn,oewn-place_of_origin__1.15.00..
+cut one's losses,phrasal_or_multiword_verb,C,To discontinue something to put a stop to continued losses after facing that it is unlikely it will ever bear fruit.,kaikki,kaikki:cut one's losses:verb:0:7260:s0
+break-even point,compound_noun,C,The point where total costs equal total revenue and the organization neither makes a profit nor suffers a loss.,kaikki,kaikki:break-even point:noun:0:7070:s0
+pros and cons,compound_noun,C,The advantages and disadvantages or positives and negatives regarding a specific choice or situation.,kaikki,kaikki:pros and cons:noun:0:6204:s0

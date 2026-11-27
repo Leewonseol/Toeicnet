@@ -1,0 +1,6 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+check in,phrasal_or_multiword_verb,C,"To announce or record one's own arrival at a hotel, airport etc.",kaikki,kaikki:check in:verb:0:7093:s0
+dining room,compound_noun,C,"A room, in a home or hotel, where meals are eaten.",kaikki,kaikki:dining room:noun:0:5357:s0
+dining area,compound_noun,C,an area arranged for dining,oewn,oewn-dining_area__1.06.00..
+kitchen appliance,compound_noun,C,a home appliance used in preparing food,oewn,oewn-kitchen_appliance__1.06.00..
+lost and found,compound_noun,C,"A department, service or location where items that are found can be claimed by their owners.",kaikki,kaikki:lost and found:noun:0:6717:s0

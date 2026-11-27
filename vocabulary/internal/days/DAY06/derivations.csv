@@ -1,0 +1,31 @@
+headword,formation_type,segmentation,bases,affixes,source_record
+exhibition,derivation,exhibit + -ion,exhibit,-ion,kaikki:exhibition:noun:0:4423
+donation,derivation,donate + -ion,donate,-ion,kaikki:donation:noun:0:2467
+collection,derivation,collect + -ion,collect,-ion,kaikki:collection:noun:0:3855
+subscription,derivation,sub- + script + -ion,script,sub-;-ion,kaikki:subscription:noun:0:6479
+upcoming,compound,up + coming,up;coming,,kaikki:upcoming:adj:1:3840
+contributor,derivation,contribute + -or,contribute,-or,kaikki:contributor:noun:0:5167
+showing,derivation,show + -ing,show,-ing,kaikki:showing:verb:1:6317
+backpack,compound,back + pack,back;pack,,kaikki:backpack:noun:0:4064
+fishing,derivation,fish + -ing,fish,-ing,kaikki:fishing:noun:1:3907
+invitation,derivation,invite + -ation,invite,-ation,kaikki:invitation:noun:0:3462
+painting,derivation,paint + -ing,paint,-ing,kaikki:painting:noun:0:4294
+resort,derivation,re- + sort,sort,re-,kaikki:resort:verb:2:3044
+adventure,derivation,advent + -ure,advent,-ure,kaikki:adventure:noun:1:2029
+sightseeing,compound,sight + seeing,sight;seeing,,kaikki:sightseeing:noun:0:6817
+cheerful,derivation,cheer + -ful,cheer,-ful,kaikki:cheerful:adj:0:4443
+outdoor,derivation,out- + door,door,out-,kaikki:outdoor:adj:0:4281
+artistic,derivation,artist + -ic,artist,-ic,kaikki:artistic:adj:0:4747
+several,derivation,sever + -al,sever,-al,kaikki:several:adj:0:7367
+spectator,derivation,spectate + -or,spectate,-or,kaikki:spectator:noun:0:5335
+enjoyable,derivation,enjoy + -able,enjoy,-able,kaikki:enjoyable:adj:0:6643
+appreciative,derivation,appreciate + -ive,appreciate,-ive,kaikki:appreciative:adj:0:6516
+casually,derivation,casual + -ly,casual,-ly,kaikki:casually:adv:0:6509
+excursion,derivation,excurse + -ion,excurse,-ion,kaikki:excursion:noun:0:6110
+festivity,derivation,festive + -ity,festive,-ity,kaikki:festivity:noun:0:6549
+intriguingly,derivation,intriguing + -ly,intriguing,-ly,kaikki:intriguingly:adv:0:6827
+publication,derivation,public + -ation,public,-ation,kaikki:publication:noun:0:4121
+transferable,derivation,transfer + -able,transfer,-able,kaikki:transferable:adj:0:5317
+unsanitary,derivation,un- + sanitary,sanitary,un-,kaikki:unsanitary:adj:0:6852
+censorship,derivation,censor + -ship,censor,-ship,kaikki:censorship:noun:0:2387
+ridiculous,derivation,ridicule + -ous,ridicule,-ous,kaikki:ridiculous:adj:0:3754

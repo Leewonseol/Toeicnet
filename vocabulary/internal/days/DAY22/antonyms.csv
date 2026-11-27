@@ -1,0 +1,4 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+crowded,uncrowded,wordnet_antonym,oewn-crowded__3.00.00..,monosemous_pair
+persuasive,dissuasive,wordnet_antonym,oewn-persuasive__3.00.00..,monosemous_pair
+illegible,legible,wordnet_antonym,oewn-illegible__3.00.00..,monosemous_pair

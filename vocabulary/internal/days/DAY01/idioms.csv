@@ -1,0 +1,13 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+application form,compound_noun,C,"A form one fills in when applying for a job, placement, course, service etc.",kaikki,kaikki:application form:noun:0:7066:s0
+job fair,compound_noun,C,"An event organised for employers, recruiters and schools to meet with prospective jobseekers.",kaikki,kaikki:job fair:noun:0:7551:s0
+job offer,compound_noun,C,"A formal proposal from an employer to a candidate, outlining the terms of employment after the hiring process.",kaikki,kaikki:job offer:noun:0:7981:s0
+letter of recommendation,compound_noun,C,"A letter written by one person who is familiar with another, usually a teacher, employer, or person of similar authority, evaluating and often extolling the fitness of the other person for a position.",kaikki,kaikki:letter of recommendation:noun:0:7237:s0
+pay raise,compound_noun,C,An increase in salary or wages.,kaikki,kaikki:pay rise:noun:0:9093:s0
+reference letter,compound_noun,C,Synonym of letter of recommendation.,kaikki,kaikki:reference letter:noun:0:8058:s0
+waiting room,compound_noun,C,A room in a public place for people to wait.,kaikki,kaikki:waiting room:noun:0:4884:s0
+cover letter,compound_noun,C,"A letter or written communication that serves to introduce an accompanying document; especially, a letter that introduces a résumé or curriculum vitae.",kaikki,kaikki:cover letter:noun:0:4916:s0
+curriculum vitae,compound_noun,C,"A written account of one's life comprising one's education, accomplishments, work experience, publications, etc.; especially, one used to apply for a job.",kaikki,kaikki:curriculum vitae:noun:0:4948:s0
+work history,compound_noun,C,Synonym of employment history.,kaikki,kaikki:work history:noun:0:7778:s0
+against all odds,phrase,C,Despite seemingly insurmountable opposition or probability.,kaikki,kaikki:against all odds:prep_phrase:0:5250:s0
+computer literate,adjective,C,"Able to operate a personal computer and its associated software and hardware, and to understand most of the underlying concepts (but not necessarily the electronics, or a programming language).",kaikki,kaikki:computer literate:adj:0:6803:s0

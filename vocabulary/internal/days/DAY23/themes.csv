@@ -1,0 +1,21 @@
+wordnet_lexicographer_file,headword,wordnet_sense,verification_method
+adj.all,annual,oewn-annual__5.00.00.periodic.00,double_korean_anchor
+adj.all,grateful,oewn-grateful__3.00.00..,model_reviewed_pair
+adj.all,precise,oewn-precise__5.00.00.correct.00,double_korean_anchor
+adj.all,strong-willed,oewn-strong--willed__5.00.00.stubborn.00,monosemous_pair
+adv.all,intentionally,oewn-intentionally__4.02.00..,monosemous_pair
+adv.all,respectfully,oewn-respectfully__4.02.00..,monosemous_pair
+noun.act,responsibility,oewn-responsibility__1.04.00..,double_korean_anchor
+noun.act,sabotage,oewn-sabotage__1.04.00..,monosemous_pair
+noun.artifact,pharmacy,oewn-pharmacy__1.06.00..,double_korean_anchor
+noun.attribute,welfare,oewn-welfare__1.07.00..,double_korean_anchor
+noun.cognition,objective,oewn-objective__1.09.00..,double_korean_anchor
+noun.communication,assent,oewn-assent__1.10.00..,model_reviewed_pair
+noun.possession,reimbursement,oewn-reimbursement__1.21.00..,double_korean_anchor
+noun.possession,salary,oewn-salary__1.21.00..,monosemous_pair
+noun.time,vacation,oewn-vacation__1.28.00..,double_korean_anchor
+verb.change,leave,oewn-leave__2.30.02..,double_korean_anchor
+verb.change,take place,oewn-take_place__2.30.00..,double_korean_anchor
+verb.communication,welcome,oewn-welcome__2.32.00..,double_korean_anchor
+verb.stative,attend,oewn-attend__2.42.00..,double_korean_anchor
+verb.stative,require,oewn-require__2.42.00..,double_korean_anchor

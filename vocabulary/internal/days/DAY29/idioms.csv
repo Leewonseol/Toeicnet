@@ -1,0 +1,6 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+rain or shine,adverb,C,Regardless of the circumstances; (more literally) regardless of the state of the weather.,kaikki,kaikki:rain or shine:adv:0:7277:s0
+weather forecast,compound_noun,C,"A prediction of future weather, often for a specific locality, in a newspaper or on the radio or television.",kaikki,kaikki:weather forecast:noun:0:4927:s0
+weather report,compound_noun,C,"A description, especially one prepared by a governmental or other authority, of past, present or forecasted meteorological conditions for a particular geographical area.",kaikki,kaikki:weather report:noun:0:7353:s0
+in particular,phrase,C,"Especially, individually or specifically.",kaikki,kaikki:in particular:prep_phrase:0:6853:s0
+under construction,phrase,C,Being currently constructed.,kaikki,kaikki:under construction:prep_phrase:0:8032:s0

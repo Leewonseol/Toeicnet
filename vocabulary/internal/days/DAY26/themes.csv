@@ -1,0 +1,25 @@
+wordnet_lexicographer_file,headword,wordnet_sense,verification_method
+adj.all,flawed,oewn-flawed__5.00.00.imperfect.00,monosemous_pair
+adj.all,overdue,oewn-overdue__5.00.00.due.00,monosemous_pair
+adj.all,personal,oewn-personal__3.00.00..,double_korean_anchor
+adj.all,thankful,oewn-thankful__3.00.00..,monosemous_pair
+adj.all,unexpected,oewn-unexpected__3.00.00..,monosemous_pair
+adv.all,belatedly,oewn-belatedly__4.02.00..,monosemous_pair
+adv.all,generously,oewn-generously__4.02.00..,monosemous_pair
+adv.all,heavily,oewn-heavily__4.02.00..,model_reviewed_pair
+adv.all,successfully,oewn-successfully__4.02.00..,monosemous_pair
+adv.all,tentatively,oewn-tentatively__4.02.00..,monosemous_pair
+noun.act,withdrawal,oewn-withdrawal__1.04.03..,double_korean_anchor
+noun.cognition,deterrent,oewn-deterrent__1.09.00..,monosemous_pair
+noun.cognition,interest,oewn-interest__1.21.00..,model_reviewed_pair
+noun.cognition,pleasure,oewn-pleasure__1.09.00..,double_korean_anchor
+noun.communication,bill,oewn-bill__1.10.01..,double_korean_anchor
+noun.communication,identification,oewn-identification__1.10.01..,double_korean_anchor
+noun.communication,summary,oewn-summary__1.10.00..,monosemous_pair
+noun.feeling,dissatisfaction,oewn-dissatisfaction__1.12.00..,double_korean_anchor
+noun.possession,interest,oewn-interest__1.21.00..,model_reviewed_pair
+noun.possession,mortgage,oewn-mortgage__1.21.00..,monosemous_pair
+noun.time,public holiday,oewn-public_holiday__1.28.00..,double_korean_anchor
+verb.change,convert,oewn-convert__2.30.00..,model_reviewed_pair
+verb.communication,document,oewn-document__2.32.00..,model_reviewed_pair
+verb.possession,confiscate,oewn-confiscate__2.40.01..,monosemous_pair

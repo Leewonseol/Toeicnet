@@ -1,0 +1,6 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+uncomfortably,comfortably,wordnet_antonym,oewn-uncomfortably__4.02.00..,monosemous_pair
+well-being,ill-being,wordnet_antonym,oewn-well--being__1.26.00..,monosemous_pair
+harmful,harmless,wordnet_antonym,oewn-harmful__3.00.00..,monosemous_pair
+patiently,impatiently,wordnet_antonym,oewn-patiently__4.02.00..,monosemous_pair
+forbid,permit,wordnet_antonym,oewn-forbid__2.32.00..,double_korean_anchor

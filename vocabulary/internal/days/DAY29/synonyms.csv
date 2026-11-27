@@ -1,0 +1,66 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+chance,opportunity,wordnet_synset,oewn-chance__1.26.00..,double_korean_anchor
+occur,come about,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,fall out,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,go on,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,hap,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,happen,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,pass,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,pass off,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+occur,take place,wordnet_synset,oewn-occur__2.30.00..,double_korean_anchor
+preserve,conserve,wordnet_synset,oewn-preserve__2.40.00..,model_reviewed_pair
+preserve,keep up,wordnet_synset,oewn-preserve__2.40.00..,model_reviewed_pair
+preserve,maintain,wordnet_synset,oewn-preserve__2.40.00..,model_reviewed_pair
+aid,assistance,wordnet_synset,oewn-aid__1.21.00..,model_reviewed_pair
+aid,economic aid,wordnet_synset,oewn-aid__1.21.00..,model_reviewed_pair
+aid,economic assistance,wordnet_synset,oewn-aid__1.21.00..,model_reviewed_pair
+aid,financial aid,wordnet_synset,oewn-aid__1.21.00..,model_reviewed_pair
+aid,financial assistance,wordnet_synset,oewn-aid__1.21.00..,model_reviewed_pair
+dense,thick,wordnet_synset,oewn-dense__5.00.01.concentrated.00,model_reviewed_pair
+organization,organisation,wordnet_synset,oewn-organization__1.14.00..,double_korean_anchor
+disaster,calamity,wordnet_synset,oewn-disaster__1.11.00..,double_korean_anchor
+disaster,cataclysm,wordnet_synset,oewn-disaster__1.11.00..,double_korean_anchor
+disaster,catastrophe,wordnet_synset,oewn-disaster__1.11.00..,double_korean_anchor
+disaster,tragedy,wordnet_synset,oewn-disaster__1.11.00..,double_korean_anchor
+inflict,bring down,wordnet_synset,oewn-inflict__2.32.00..,monosemous_pair
+inflict,impose,wordnet_synset,oewn-inflict__2.32.00..,monosemous_pair
+inflict,visit,wordnet_synset,oewn-inflict__2.32.00..,monosemous_pair
+chilly,parky,wordnet_synset,oewn-chilly__5.00.00.cold.01,double_korean_anchor
+point,designate,wordnet_synset,oewn-point__2.32.00..,double_korean_anchor
+point,indicate,wordnet_synset,oewn-point__2.32.00..,double_korean_anchor
+point,show,wordnet_synset,oewn-point__2.32.00..,double_korean_anchor
+flood,deluge,wordnet_synset,oewn-flood__1.23.00..,double_korean_anchor
+flood,inundation,wordnet_synset,oewn-flood__1.23.00..,double_korean_anchor
+flood,torrent,wordnet_synset,oewn-flood__1.23.00..,double_korean_anchor
+shower,rain shower,wordnet_synset,oewn-shower__1.19.00..,double_korean_anchor
+bay,embayment,wordnet_synset,oewn-bay__1.17.00..,double_korean_anchor
+bush,shrub,wordnet_synset,oewn-bush__1.20.00..,double_korean_anchor
+eco-friendly,environment friendly,textbook_note,,
+footpath,pathway,wordnet_synset,oewn-footpath__1.06.00..,double_korean_anchor
+lighthouse,beacon,wordnet_synset,oewn-lighthouse__1.06.00..,monosemous_pair
+lighthouse,beacon light,wordnet_synset,oewn-lighthouse__1.06.00..,monosemous_pair
+lighthouse,pharos,wordnet_synset,oewn-lighthouse__1.06.00..,monosemous_pair
+nightfall,crepuscle,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,crepuscule,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,dusk,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,evenfall,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,fall,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,gloam,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,gloaming,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+nightfall,twilight,wordnet_synset,oewn-nightfall__1.28.00..,double_korean_anchor
+riverbank,riverside,wordnet_synset,oewn-riverbank__1.17.00..,monosemous_pair
+riverside,riverbank,wordnet_synset,oewn-riverside__1.17.00..,monosemous_pair
+suburb,suburban area,wordnet_synset,oewn-suburb__1.15.00..,double_korean_anchor
+suburb,suburbia,wordnet_synset,oewn-suburb__1.15.00..,double_korean_anchor
+conservation,preservation,wordnet_synset,oewn-conservation__1.11.00..,double_korean_anchor
+recyclable,reclaimable,wordnet_synset,oewn-recyclable__5.00.00.useful.00,monosemous_pair
+recyclable,reusable,wordnet_synset,oewn-recyclable__5.00.00.useful.00,monosemous_pair
+overpass,flyover,wordnet_synset,oewn-overpass__1.06.00..,monosemous_pair
+shrub,bush,wordnet_synset,oewn-shrub__1.20.00..,double_korean_anchor
+downpour,cloudburst,wordnet_synset,oewn-downpour__1.19.00..,double_korean_anchor
+downpour,deluge,wordnet_synset,oewn-downpour__1.19.00..,double_korean_anchor
+downpour,pelter,wordnet_synset,oewn-downpour__1.19.00..,double_korean_anchor
+downpour,soaker,wordnet_synset,oewn-downpour__1.19.00..,double_korean_anchor
+downpour,torrent,wordnet_synset,oewn-downpour__1.19.00..,double_korean_anchor
+downpour,waterspout,wordnet_synset,oewn-downpour__1.19.00..,double_korean_anchor
+sewage,sewerage,wordnet_synset,oewn-sewage__1.27.00..,monosemous_pair

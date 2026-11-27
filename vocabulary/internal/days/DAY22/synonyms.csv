@@ -1,0 +1,38 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+defer,hold over,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,postpone,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,prorogue,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,put off,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,put over,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,remit,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,set back,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+defer,shelve,wordnet_synset,oewn-defer__2.42.00..,model_reviewed_pair
+usually,commonly,wordnet_synset,oewn-usually__4.02.00..,model_reviewed_pair
+usually,normally,wordnet_synset,oewn-usually__4.02.00..,model_reviewed_pair
+usually,ordinarily,wordnet_synset,oewn-usually__4.02.00..,model_reviewed_pair
+usually,unremarkably,wordnet_synset,oewn-usually__4.02.00..,model_reviewed_pair
+phase,stage,wordnet_synset,oewn-phase__1.28.00..,double_korean_anchor
+coincidentally,coincidently,wordnet_synset,oewn-coincidentally__4.02.00..,monosemous_pair
+outcome,final result,wordnet_synset,oewn-outcome__1.11.00..,double_korean_anchor
+outcome,result,wordnet_synset,oewn-outcome__1.11.00..,double_korean_anchor
+outcome,resultant,wordnet_synset,oewn-outcome__1.11.00..,double_korean_anchor
+outcome,termination,wordnet_synset,oewn-outcome__1.11.00..,double_korean_anchor
+organize,devise,wordnet_synset,oewn-organize__2.36.00..,double_korean_anchor
+organize,get up,wordnet_synset,oewn-organize__2.36.00..,double_korean_anchor
+organize,machinate,wordnet_synset,oewn-organize__2.36.00..,double_korean_anchor
+organize,organise,wordnet_synset,oewn-organize__2.36.00..,double_korean_anchor
+organize,prepare,wordnet_synset,oewn-organize__2.36.00..,double_korean_anchor
+punctually,on time,wordnet_synset,oewn-punctually__4.02.00..,monosemous_pair
+holiday,vacation,wordnet_synset,oewn-holiday__1.28.00..,double_korean_anchor
+speech,address,wordnet_synset,oewn-speech__1.10.01..,double_korean_anchor
+teammate,mate,wordnet_synset,oewn-teammate__1.18.00..,monosemous_pair
+misprint,erratum,wordnet_synset,oewn-misprint__1.10.00..,monosemous_pair
+misprint,literal,wordnet_synset,oewn-misprint__1.10.00..,monosemous_pair
+misprint,literal error,wordnet_synset,oewn-misprint__1.10.00..,monosemous_pair
+misprint,typo,wordnet_synset,oewn-misprint__1.10.00..,monosemous_pair
+misprint,typographical error,wordnet_synset,oewn-misprint__1.10.00..,monosemous_pair
+insult,affront,wordnet_synset,oewn-insult__2.32.00..,monosemous_pair
+insult,diss,wordnet_synset,oewn-insult__2.32.00..,monosemous_pair
+excerpt,excerption,wordnet_synset,oewn-excerpt__1.10.00..,monosemous_pair
+excerpt,extract,wordnet_synset,oewn-excerpt__1.10.00..,monosemous_pair
+excerpt,selection,wordnet_synset,oewn-excerpt__1.10.00..,monosemous_pair

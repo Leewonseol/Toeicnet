@@ -1,0 +1,6 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+employer,employee,wordnet_antonym,oewn-employer__1.18.00..,monosemous_pair
+inaccurate,accurate,wordnet_antonym,oewn-inaccurate__3.00.00..,monosemous_pair
+profitable,unprofitable,textbook_note,,
+minimally,maximally,wordnet_antonym,oewn-minimally__4.02.00..,monosemous_pair
+rewarding,unrewarding,wordnet_antonym,oewn-rewarding__3.00.00..,monosemous_pair

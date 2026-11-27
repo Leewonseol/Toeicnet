@@ -1,0 +1,9 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+on behalf of,prepositional_expression,C,Speaking or acting for.,kaikki,kaikki:on behalf of:prep:0:4800:s0
+rental car,compound_noun,C,"A car that is or can be rented, usually for a short period, from a car rental company.",kaikki,kaikki:rental car:noun:0:7585:s0
+believe it or not,adverb,C,"This may be surprising, but it's true.",kaikki,kaikki:believe it or not:adv:0:7399:s0
+stock market,compound_noun,C,A market for the trading of company stock.,kaikki,kaikki:stock market:noun:0:6686:s0
+branch office,compound_noun,C,A business office that is geographically separate from the headquarters of the business.,kaikki,kaikki:branch office:noun:0:7465:s0
+cost analysis,compound_noun,C,breaking down the costs of some operation and reporting on each factor separately,oewn,oewn-cost_analysis__1.04.00..
+cost estimate,compound_noun,C,An itemized list of estimated labour and material costs which will be required for a project.,kaikki,kaikki:cost estimate:noun:0:8037:s0
+take steps,phrasal_or_multiword_verb,C,"To initiate a course of action, often against something that one disapproves of.",kaikki,kaikki:take steps:verb:0:5781:s0

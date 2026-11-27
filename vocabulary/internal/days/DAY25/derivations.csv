@@ -1,0 +1,40 @@
+headword,formation_type,segmentation,bases,affixes,source_record
+transportation,derivation,transport + -ation,transport,-ation,kaikki:transportation:noun:0:4419
+opportunity,derivation,opportune + -ity,opportune,-ity,kaikki:opportunity:noun:0:502
+clearly,derivation,clear + -ly,clear,-ly,kaikki:clearly:adv:0:4221
+ongoing,compound,on + going,on;going,,kaikki:ongoing:adj:0:5099
+alternative,derivation,alternate + -ive,alternate,-ive,kaikki:alternative:adj:0:1839
+intersection,derivation,intersect + -ion,intersect,-ion,kaikki:intersection:noun:0:1459
+downtown,compound,down + town,down;town,,kaikki:downtown:adj:0:5416
+securely,derivation,secure + -ly,secure,-ly,kaikki:securely:adv:0:5758
+prominently,derivation,prominent + -ly,prominent,-ly,kaikki:prominently:adv:0:5809
+average,derivation,frm:avarie> + -age,frm:avarie>,-age,kaikki:average:noun:1:2239
+bus stop,compound,bus + stop,bus;stop,,kaikki:bus stop:noun:0:5984
+crosswalk,compound,cross + walk,cross;walk,,kaikki:crosswalk:noun:0:1311
+highway,compound,high + way,high;way,,kaikki:highway:noun:0:484
+on foot,compound,on + foot,on;foot,,kaikki:on foot:prep_phrase:0:4804
+inside,derivation,in- + side,side,in-,kaikki:inside:noun:0:2144
+carpool,compound,car + pool,car;pool,,kaikki:carpool:verb:0:6630
+commuter,derivation,commute + -er,commute,-er,kaikki:commuter:noun:0:4291
+driveway,compound,drive + way,drive;way,,kaikki:driveway:noun:0:492
+footrest,compound,foot + rest,foot;rest,,kaikki:footrest:noun:0:5284
+headlight,compound,head + light,head;light,,kaikki:headlight:noun:0:6197
+mileage,derivation,mile + -age,mile,-age,kaikki:mileage:noun:0:6119
+navigation,derivation,navigate + -ion,navigate,-ion,kaikki:navigation:noun:0:4413
+one-way ticket,compound,one-way + ticket,one-way;ticket,,kaikki:one-way ticket:noun:0:5347
+pathway,compound,path + way,path;way,,kaikki:pathway:noun:0:3517
+roadwork,compound,road + work,road;work,,kaikki:roadwork:noun:0:7006
+shortcut,compound,short + cut,short;cut,,kaikki:shortcut:noun:0:2595
+walkway,compound,walk + way,walk;way,,kaikki:walkway:noun:0:6615
+windshield,compound,wind + shield,wind;shield,,kaikki:windshield:noun:0:4992
+creation,derivation,create + -ion,create,-ion,kaikki:creation:noun:0:2793
+normal,derivation,norm + -al,norm,-al,kaikki:normal:adj:0:2796
+valuable,derivation,value + -able,value,-able,kaikki:valuable:adj:0:2094
+sidewalk,compound,side + walk,side;walk,,kaikki:sidewalk:noun:0:494
+specialist,derivation,special + -ist,special,-ist,kaikki:specialist:noun:0:5372
+streetcar,compound,street + car,street;car,,kaikki:streetcar:noun:0:6863
+hastily,derivation,hasty + -ly,hasty,-ly,kaikki:hastily:adv:0:5815
+inconveniently,derivation,inconvenient + -ly,inconvenient,-ly,kaikki:inconveniently:adv:0:7178
+ridership,derivation,rider + -ship,rider,-ship,kaikki:ridership:noun:0:7242
+drawbridge,compound,draw + bridge,draw;bridge,,kaikki:drawbridge:noun:0:1973
+refurbish,derivation,re- + furbish,furbish,re-,kaikki:refurbish:verb:0:6864

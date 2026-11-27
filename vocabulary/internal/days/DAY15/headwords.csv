@@ -1,0 +1,170 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+proposal,"제안, 계획",noun,core,C,The terms or conditions proposed.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:proposal:noun:0:5116:s1,제안,15,anki_core:1766527459048
+alliance,"동맹, 제휴",noun,core,C,The state of being allied.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:alliance:noun:0:2080:s0,동맹,15,anki_core:1766527459049
+stipulation,계약 조건,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459050
+term,"조건, 임기, 기한",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459051
+compromise,"타협, 화해",noun,core,C,The settlement of differences by arbitration or by consent reached by mutual concessions.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:compromise:noun:0:5059:s0,타협,15,anki_core:1766527459052
+negotiation,"협상, 교섭",noun,core,B,a discussion intended to produce an agreement,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-negotiation__1.10.00..,kaikki:negotiation:noun:0:5198:s0,교섭;협상,15,anki_core:1766527459053
+agreement,"계약, 협정, 합의",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459054
+deadlock,교착 상태,noun,core,C,A standstill resulting from the opposition of two evenly matched forces; a stalemate or impasse.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:deadlock:noun:0:6268:s0,교착 상태,15,anki_core:1766527459055
+review,"검토하다, 재조사하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459056
+contract,"계약(서), 계약하다, 수축하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459057
+signature,서명,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459058
+originally,"원래, 처음에는",adjective,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,15,anki_core:1766527459059
+direction,"방향, 지시, 감독",noun,core,B,a line leading to a place or point,verified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-direction__1.15.00..,kaikki:direction:noun:0:1964:s0,감독;방향,15,anki_core:1766527459060
+initially,"처음에, 초기에",noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,15,anki_core:1766527459061
+expire,(계약 등이) 만료되다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459062
+collaborate,"협력하다, 공동으로 일하다",verb,core,B,work together on a common enterprise or project,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-collaborate__2.41.00..,kaikki:collaborate:verb:0:3780:s0,공동으로 일하다;협력하다,15,anki_core:1766527459063
+dedicate,"전념하다, 헌신하다, 바치다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459064
+revised,"수정된, 변경한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459065
+imperative,"반드시 해야 하는, 필수적인",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459066
+cooperatively,"협력하여, 협조적으로",adverb,core,B,in close cooperation,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-cooperatively__4.02.00..,kaikki:cooperatively:adv:0:7065:s0,,15,anki_core:1766527459067
+commission,"수수료, 커미션, 위원회, (일 등을) 의뢰하다, 주문하다",verb,core,B,place an order for,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-commission__2.41.02..,kaikki:commission:verb:1:1057:s1,,15,anki_core:1766527459068
+omit,"빠트리다, 생략하다",verb,core,C,To leave out or exclude.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:omit:verb:0:3036:s0,생략하다,15,anki_core:1766527459069
+conflict,"대립, 충돌, 갈등",noun,core,B,an open clash between two opposing groups (or individuals),verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-conflict__1.04.00..,kaikki:conflict:noun:0:3106:s0,갈등;충돌,15,anki_core:1766527459070
+renew,(계약 등을) 갱신하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459071
+proficient,"능숙한, 능한",noun,core,C,An expert.,unverified,core_deck_not_in_back_word_pdf,,,single_source_only_sense,kaikki,,kaikki:proficient:noun:0:5910:s0,,15,anki_core:1766527459072
+confidentiality,"기밀, 비밀",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,15,anki_core:1766527459073
+dispute,"분쟁, 논쟁",noun,core,B,a disagreement or argument about something important,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-dispute__1.10.00..,kaikki:dispute:noun:0:3355:s0,논쟁,15,anki_core:1766527459074
+objection,"반대, 이의",noun,core,B,the act of expressing earnest opposition or protest,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-objection__1.10.01..,kaikki:objection:noun:0:4693:s1,반대;이의,15,anki_core:1766527459075
+define,"규정하다, 정의하다",verb,core,C,"To state the meaning of a word, phrase, sign, or symbol.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:define:verb:0:2913:s3,정의하다,15,anki_core:1766527459076
+impression,인상,noun,core,C,"The overall effect of something, e.g., on a person.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:impression:noun:0:3715:s1,인상,15,anki_core:1766527459077
+security,"보안, 안전, 보호",noun,core,B,defense against financial failure; financial independence,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-security__1.21.01..,kaikki:security:noun:0:256:s0,보안;보호;안전,15,anki_core:1766527459078
+option,선택권,noun,core,C,The freedom or right to choose.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:option:noun:0:2530:s1,선택권,15,anki_core:1766527459079
+proceed,"(일을) 진행하다, 진척되다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459080
+modify,"수정하다, 일부 변경하다",verb,core,C,To change part of.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:modify:verb:0:5707:s0,수정하다,15,anki_core:1766527459081
+narrow,(범위 등을) 좁히다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459082
+bid,입찰,noun,core,C,"An offer at an auction, or to carry out a piece of work.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:bid:noun:2:551:s0,입찰,15,anki_core:1766527459083
+settle,"해결하다, 처리하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459084
+terminate,"끝내다, 종결시키다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,15,anki_core:1766527459085
+challenging,"도전적인, 힘든",noun,core,C,The act of making a challenge.,unverified,core_deck_not_in_back_word_pdf,,,single_source_only_sense,kaikki,,kaikki:challenging:noun:0:6362:s0,,15,anki_core:1766527459086
+foundation,"토대, 기초",noun,core,C,"That upon which anything is founded; that on which anything stands, and by which it is supported; the lowest and supporting layer of a superstructure; underbuilding.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:foundation:noun:0:3399:s1,기초;토대,15,anki_core:1766527459087
+pending,"미결인, 미정인, 임박한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,15,anki_core:1766527459088
+backseat,뒷자리,noun,basic,D,,unverified,ocr_exact,11–15(1) p17,,candidates_unaligned,,,,,15,anki_basic:1766527459089
+borrow,빌리다,verb,basic,C,"To receive (something) from somebody temporarily, expecting to return it.",verified,ocr_exact,11–15(1) p17,v (badge),single_source_korean_anchor,kaikki,,kaikki:borrow:verb:1:1589:s0,빌리다,15,anki_basic:1766527459090
+bother,괴롭히다,verb,basic,D,,unverified,ocr_exact,11–15(1) p17,v (badge),candidates_unaligned,,,,,15,anki_basic:1766527459091
+empty,텅 빈,noun,basic,B,a container that has been emptied,unverified,ocr_variant_ocr,11–15(1) p17,,monosemous_pair,oewn,oewn-empty__1.06.00..,kaikki:empty:noun:0:1828:s0,,15,anki_basic:1766527459092
+exit,출구,noun,basic,C,"An act of going out or going away, or leaving; a departure.",verified,ocr_variant_ocr,11–15(1) p17,,single_source_korean_anchor,kaikki,,kaikki:exit:noun:1:486:s0,출구,15,anki_basic:1766527459093
+fashion photographer,패션 사진작가,phrase,basic,E,,unverified,ocr_variant_ocr,11–15(1) p17,,no_sense_record,,,,,15,anki_basic:1766527459094
+look after,~를 보살피다,phrase,basic,D,,unverified,ocr_variant_ocr,11–15(1) p17,,candidates_unaligned,,,,,15,anki_basic:1766527459095
+pair,"한 쌍이 되다, 한 쌍",noun,basic,D,,unverified,ocr_variant_ocr,11–15(1) p17,,candidates_unaligned,,,,,15,anki_basic:1766527459096
+per day,하루에,phrase,basic,E,,unverified,ocr_exact,11–15(1) p17,,no_sense_record,,,,,15,anki_basic:1766527459097
+professor,교수,noun,basic,C,A teacher or faculty member at a college or university regardless of formal rank.,verified,ocr_exact,11–15(1) p17,n (width),single_source_korean_anchor,kaikki,,kaikki:professor:noun:0:2617:s1,교수,15,anki_basic:1766527459098
+proof,증거,noun,basic,B,any factual evidence that helps to establish the truth of something,verified,ocr_exact,11–15(1) p17,,double_korean_anchor,oewn,oewn-proof__1.09.00..,kaikki:proof:noun:0:2728:s0,증거,15,anki_basic:1766527459099
+put on,~을 입다(입고 있는 동작),phrase,basic,D,,unverified,ocr_similar,11–15(1) p17,phr (badge),candidates_unaligned,,,,,15,anki_basic:1766527459100
+spray,"뿌리다, 분무, 물보라",noun,basic,D,,unverified,ocr_contains,11–15(1) p17,v (badge),candidates_unaligned,,,,,15,anki_basic:1766527459101
+think of,~을 생각하다,phrase,basic,D,,unverified,ocr_similar,11–15(1) p17,phr (badge),candidates_unaligned,,,,,15,anki_basic:1766527459102
+wear,~을 입다(입은 상태),verb,basic,D,,unverified,ocr_similar,11–15(1) p17,,candidates_unaligned,,,,,15,anki_basic:1766527459103
+climb,"오르다, 상승하다",verb,basic,D,,unverified,ocr_exact,11–15(1) p17,v (badge),proposed_pair_needs_review,,,,,15,anki_basic:1766527459104
+deny,부인하다,verb,basic,C,To assert that something is not true.,verified,ocr_prefix,11–15(1) p17,v (badge),single_source_korean_anchor,kaikki,,kaikki:deny:verb:0:1886:s1,부인하다,15,anki_basic:1766527459105
+escape,"달아나다, 벗어나다",verb,basic,D,,unverified,ocr_similar,11–15(1) p17,v (badge),candidates_unaligned,,,,,15,anki_basic:1766527459106
+final,"마지막의, 결정적인",adjective,basic,D,,unverified,ocr_similar,11–15(1) p17,,proposed_pair_needs_review,,,,,15,anki_basic:1766527459107
+generally,일반적으로,adverb,basic,D,,unverified,ocr_similar,11–15(1) p17,adv (badge),candidates_unaligned,,,,,15,anki_basic:1766527459108
+loose,헐거워진,noun,basic,D,,unverified,ocr_variant_ocr,11–15(1) p17,,candidates_unaligned,,,,,15,anki_basic:1766527459109
+meaning,"뜻, 의미",noun,basic,B,the message that is intended or expressed or signified,verified,ocr_similar,11–15(1) p17,n (width),double_korean_anchor,oewn,oewn-meaning__1.10.00..,kaikki:meaning:noun:1:2236:s1,뜻;의미,15,anki_basic:1766527459110
+off-season,비수기,noun,basic,D,,unverified,ocr_exact,11–15(1) p17,,candidates_unaligned,,,,,15,anki_basic:1766527459111
+once,"~하자마자, 이전에, 한 번",noun,basic,C,A fan of the Korean girl band Twice.,unverified,ocr_similar,11–15(1) p17,conj (badge),single_source_only_sense,kaikki,,kaikki:once:noun:0:8054:s0,,15,anki_basic:1766527459112
+product,생산품,noun,basic,D,,unverified,ocr_exact,11–15(1) p17,n (width),candidates_unaligned,,,,,15,anki_basic:1766527459113
+quit,"그만두다, 중지하다",verb,basic,B,put an end to a state or an activity,verified,ocr_exact,11–15(1) p17,v (badge),double_korean_anchor,oewn,oewn-quit__2.42.04..,kaikki:quit:verb:1:733:s5,그만두다,15,anki_basic:1766527459114
+sight,"시야, 풍경, 전망",noun,basic,D,,unverified,ocr_exact,11–15(1) p17,,proposed_pair_needs_review,,,,,15,anki_basic:1766527459115
+volume,"(소리) 크기, 양, 책",noun,basic,D,,unverified,ocr_exact,11–15(1) p17,,proposed_pair_needs_review,,,,,15,anki_basic:1766527459116
+close a deal,계약을 체결하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p18,,no_sense_record,,,,,15,anki_800:1766527461106
+complicate,복잡하게 하다,verb,800,D,,unverified,ocr_exact,11–15(1) p18,v (badge),candidates_unaligned,,,,,15,anki_800:1766527461107
+dial a number,"전화번호를 돌리다, 전화를 걸다",phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461108
+disadvantage,불이익,noun,800,D,,unverified,ocr_exact,11–15(1) p18,,candidates_unaligned,,,,,15,anki_800:1766527461109
+focus on,~에 집중하다,phrase,800,C,center upon,unverified,ocr_exact,11–15(1) p18,phr (badge),single_source_only_sense,oewn,oewn-focus_on__2.42.00..,,,15,anki_800:1766527461110
+for ages,오랫동안,phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461111
+household,"가족, 가구 세대",noun,800,D,,unverified,ocr_exact,11–15(1) p18,,proposed_pair_needs_review,,,,,15,anki_800:1766527461112
+I have no idea.,잘 모르겠어요.,phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461113
+lock up,(자물쇠를 채워) 보관하다,phrase,800,D,,unverified,ocr_exact,11–15(1) p18,phr (width),candidates_unaligned,,,,,15,anki_800:1766527461114
+make a deposit,"계약금을 치르다, 보증금을 치르다",phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461115
+make a mistake,실수하다,phrase,800,C,"To err, to be wrong. (This entry is a translation hub.)",unverified,ocr_exact,11–15(1) p18,phr (badge),single_source_only_sense,kaikki,,kaikki:make a mistake:verb:0:7280:s0,,15,anki_800:1766527461116
+peak,"절정, 최고점",noun,800,D,,unverified,ocr_prefix,11–15(1) p18,n (width),proposed_pair_needs_review,,,,,15,anki_800:1766527461117
+rain check,"우천 교환권, 후일 구매권",phrase,800,D,,unverified,ocr_prefix,11–15(1) p18,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461118
+rent out,~을 임대하다,phrase,800,D,,unverified,ocr_similar,11–15(1) p18,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461119
+rental agreement,임대 계약서,phrase,800,E,,unverified,ocr_prefix,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461120
+rough,"힘든, 거친",noun,800,D,,unverified,ocr_variant_ocr,11–15(1) p18,,candidates_unaligned,,,,,15,anki_800:1766527461121
+royalty,저작권 사용료,noun,800,C,"Payment made to a writer, composer, inventor etc for the sale or use of intellectual property, invention etc.",verified,ocr_similar,11–15(1) p18,,single_source_korean_anchor,kaikki,,kaikki:royalty:noun:0:5842:s4,저작권 사용료,15,anki_800:1766527461122
+run in several directions,여러 방향으로 뻗어 있다,phrase,800,E,,unverified,ocr_similar,11–15(1) p18,,no_sense_record,,,,,15,anki_800:1766527461123
+scare,겁주다,verb,800,D,,unverified,ocr_exact,11–15(1) p18,v (badge),candidates_unaligned,,,,,15,anki_800:1766527461124
+sign a contract,계약서에 서명하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461125
+under a contract,계약 하에,phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461126
+win a contract,계약을 따내다,phrase,800,E,,unverified,ocr_exact,11–15(1) p18,phr (badge),no_sense_record,,,,,15,anki_800:1766527461127
+agreeable,"기꺼이 동의하는, 기분 좋은",adjective,800,D,,unverified,ocr_exact,11–15(1) p18,n (width),candidates_unaligned,,,,,15,anki_800:1766527461128
+call out,~를 부르다,phrase,800,D,,unverified,ocr_exact,11–15(1) p18,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461129
+convincing,설득력 있는,adjective,800,B,causing one to believe the truth of something,unverified,ocr_exact,11–15(1) p18,adj (badge),monosemous_pair,oewn,oewn-convincing__3.00.00..,kaikki:convincing:adj:0:6225:s0,,15,anki_800:1766527461130
+diplomatic,외교상의,adjective,800,D,,unverified,ocr_exact,11–15(1) p18,adj (badge),candidates_unaligned,,,,,15,anki_800:1766527461131
+equality,"같음, 평등, 대등",noun,800,D,,unverified,ocr_exact,11–15(1) p18,,candidates_unaligned,,,,,15,anki_800:1766527461132
+ethical,"윤리적인, 도덕에 관계된",adjective,800,D,,unverified,ocr_variant_ocr,11–15(1) p18,,candidates_unaligned,,,,,15,anki_800:1766527461133
+hesitate,"망설이다, 머뭇거리다",verb,800,B,pause or hold back in uncertainty or unwillingness,verified,ocr_similar,11–15(1) p18,v (badge),double_korean_anchor,oewn,oewn-hesitate__2.42.00..,kaikki:hesitate:verb:0:2235:s0,망설이다,15,anki_800:1766527461134
+in contrast,반대로,phrase,800,C,Contrarily.,unverified,ocr_similar,11–15(1) p18,phr (badge),single_source_only_sense,kaikki,,kaikki:in contrast:prep_phrase:0:7569:s0,,15,anki_800:1766527461135
+instrumental,(어떤 일을 하는 데) 중요한,adjective,800,D,,unverified,ocr_similar_loose,11–15(1) p18,adj (badge),candidates_unaligned,,,,,15,anki_800:1766527461136
+lengthen,"길어지다, 늘이다",verb,800,D,,unverified,ocr_exact,11–15(1) p18,v (badge),candidates_unaligned,,,,,15,anki_800:1766527461137
+make a move,행동을 취하다,phrase,800,D,,unverified,ocr_similar,11–15(1) p18,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461138
+offend,(규칙을) 위반하다,verb,800,D,,unverified,ocr_variant_ocr,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461139
+opposing,"대립하는, 반대하는",adjective,800,B,characterized by active hostility,unverified,ocr_exact,11–15(1) p19,adj (badge),monosemous_pair,oewn,oewn-opposing__5.00.00.hostile.01,kaikki:opposing:adj:0:3258:s0,,15,anki_800:1766527461140
+origin,"시초, 기원",noun,800,B,"the place where something begins, where it springs into being",verified,ocr_exact,11–15(1) p19,,double_korean_anchor,oewn,oewn-origin__1.15.00..,kaikki:origin:noun:0:3730:s0,기원,15,anki_800:1766527461141
+rational,합리적인,adjective,800,D,,unverified,ocr_exact,11–15(1) p19,n (width),candidates_unaligned,,,,,15,anki_800:1766527461142
+recognition,인정,noun,800,D,,unverified,ocr_exact,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461143
+refusal,"거절, 거부",noun,800,C,The act of refusing.,verified,ocr_exact,11–15(1) p19,,single_source_korean_anchor,kaikki,,kaikki:refusal:noun:0:5765:s0,거부;거절,15,anki_800:1766527461144
+sarcastic,"풍자적인, 빈정거리는",adjective,800,D,,unverified,ocr_similar,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461145
+selected,"선택된, 선발된",adjective,800,B,chosen in preference to another,unverified,ocr_exact,11–15(1) p19,n (width),monosemous_pair,oewn,oewn-selected__3.00.00..,kaikki:selected:adj:0:6391:s0,,15,anki_800:1766527461146
+sort of,"다소, 얼마간, 말하자면",phrase,800,D,,unverified,ocr_exact,11–15(1) p19,,proposed_pair_needs_review,,,,,15,anki_800:1766527461147
+surely,"틀림없이, 꼭",adverb,800,D,,unverified,ocr_prefix,11–15(1) p19,adv (badge),candidates_unaligned,,,,,15,anki_800:1766527461148
+surprise,"놀라게 하다, 놀라운 일",noun,800,D,,unverified,ocr_variant_ocr,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461149
+uninterested,"흥미 없는, 무관심한",adjective,800,D,,unverified,ocr_similar,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461150
+verbal,"말의, 구두의",adjective,800,D,,unverified,ocr_similar,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461151
+virtual,사실상의,adjective,800,B,existing in essence or effect though not in actual fact,verified,ocr_variant_ocr,11–15(1) p19,,double_korean_anchor,oewn,oewn-virtual__5.00.00.essential.00,kaikki:virtual:adj:0:1649:s0,사실상의,15,anki_800:1766527461152
+within reason,온당한 범위 내에서,phrase,800,C,To an extent which is reasonable; not beyond what is reasonable.,unverified,ocr_variant_ocr,11–15(1) p19,,single_source_only_sense,kaikki,,kaikki:within reason:prep_phrase:0:7588:s0,,15,anki_800:1766527461153
+be in agreement,동의하다,phrase,800,E,,unverified,ocr_similar,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461154
+draw up a new agreement,새 계약서를 작성하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461155
+enclosure,"동봉(한 것), 동봉물, 둘러쌈",noun,800,D,,unverified,ocr_exact,11–15(1) p19,n (width),candidates_unaligned,,,,,15,anki_800:1766527461156
+generation gap,세대 차이,phrase,800,D,,unverified,ocr_exact,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461157
+have difficulty (in) -ing,~하는데 어려움을 겪다,phrase,800,E,,unverified,ocr_similar,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461158
+in an attempt to,~하려는 시도로,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461159
+in appreciation of,~에 감사하여,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461160
+in print,인쇄된,phrase,800,D,,unverified,ocr_similar,11–15(1) p19,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461161
+in summary,요약하면,phrase,800,C,To summarize; as a summary.,unverified,ocr_exact,11–15(1) p19,phr (badge),single_source_only_sense,kaikki,,kaikki:in summary:prep_phrase:0:7332:s0,,15,anki_800:1766527461162
+lifetime employment,종신 고용,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,,no_sense_record,,,,,15,anki_800:1766527461163
+low-income resident,저소득 주민,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461164
+make a bid,입찰하다,phrase,800,E,,unverified,ocr_similar,11–15(1) p19,,no_sense_record,,,,,15,anki_800:1766527461165
+make a contract with,~와 계약을 맺다,phrase,800,E,,unverified,ocr_similar,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461166
+on hand,가까이에,phrase,800,D,,unverified,ocr_similar,11–15(1) p19,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461167
+replica,복제품,noun,800,D,,unverified,ocr_exact,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461168
+rigid,"엄격한, 완고한",adjective,800,D,,unverified,ocr_variant_ocr,11–15(1) p19,,candidates_unaligned,,,,,15,anki_800:1766527461169
+security deposit,보증금,phrase,800,D,,unverified,ocr_exact,11–15(1) p19,phr (badge),candidates_unaligned,,,,,15,anki_800:1766527461170
+sequential,순차적인,adjective,800,D,,unverified,ocr_exact,11–15(1) p19,adj (badge),candidates_unaligned,,,,,15,anki_800:1766527461171
+successful candidate,합격자,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461172
+take A seriously,A를 진지하게 받아들이다,phrase,800,E,,unverified,ocr_exact,11–15(1) p19,phr (badge),no_sense_record,,,,,15,anki_800:1766527461173
+It is no wonder (that),~은 당연하다,phrase,900,E,,unverified,ocr_exact,11–15(1) p20,,no_sense_record,,,,,15,anki_900:1766527462670
+portray,(인물·풍경을) 그리다,verb,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462671
+reinstall,재설치하다,verb,900,C,To install again.,verified,ocr_exact,11–15(1) p20,,single_source_korean_anchor,kaikki,,kaikki:reinstall:verb:0:6964:s0,재설치하다,15,anki_900:1766527462672
+repave,(도로를) 재포장하다,verb,900,C,To pave over again.,unverified,ocr_similar,11–15(1) p20,,single_source_only_sense,kaikki,,kaikki:repave:verb:0:6962:s0,,15,anki_900:1766527462673
+run the risk of,~의 위험을 무릅쓰다,phrase,900,E,,unverified,ocr_exact,11–15(1) p20,,no_sense_record,,,,,15,anki_900:1766527462674
+think over,숙고하다,phrase,900,D,,unverified,ocr_exact,11–15(1) p20,phr (badge),proposed_pair_needs_review,,,,,15,anki_900:1766527462675
+affiliation,합병,noun,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462676
+arbitration,중재,noun,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462677
+beside the point,요점을 벗어난,phrase,900,D,,unverified,ocr_prefix,11–15(1) p20,phr (badge),candidates_unaligned,,,,,15,anki_900:1766527462678
+foil,"좌절시키다, 뒤엎다",verb,900,D,,unverified,ocr_variant_ocr,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462679
+impartially,"공명정대하게, 치우치지 않게",adverb,900,B,in an impartial manner,unverified,ocr_exact,11–15(1) p20,adv (badge),monosemous_pair,oewn,oewn-impartially__4.02.00..,kaikki:impartially:adv:0:6453:s0,,15,anki_900:1766527462680
+inconclusively,"결론 없이, 요점 없이",noun,900,E,,unverified,ocr_variant_ocr,11–15(1) p20,,no_sense_record,,,,,15,anki_900:1766527462681
+omission,"생략, 누락",noun,900,C,The act of omitting.,verified,ocr_prefix,11–15(1) p20,n (width),single_source_korean_anchor,kaikki,,kaikki:omission:noun:0:3035:s0,생략,15,anki_900:1766527462682
+originate in,~에서 시작되다,phrase,900,C,come from,unverified,ocr_similar,11–15(1) p20,,single_source_only_sense,oewn,oewn-originate_in__2.42.00..,,,15,anki_900:1766527462683
+preferential treatment,우대,phrase,900,C,Treatment giving preference to somebody.,unverified,ocr_variant_ocr,11–15(1) p20,,single_source_only_sense,kaikki,,kaikki:preferential treatment:noun:0:8062:s0,,15,anki_900:1766527462684
+recollection,"회상, 회고",noun,900,B,the process of remembering (especially the process of recovering information by mental effort),verified,ocr_similar,11–15(1) p20,,double_korean_anchor,oewn,oewn-recollection__1.09.01..,kaikki:recollection:noun:1:5996:s0,회상,15,anki_900:1766527462685
+reconcile,"화해시키다, 양립시키다",verb,900,D,,unverified,ocr_exact,11–15(1) p20,v (badge),candidates_unaligned,,,,,15,anki_900:1766527462686
+relinquish,포기하다,verb,900,C,"To give up, abandon or retire from something; to trade away.",verified,ocr_variant_ocr,11–15(1) p20,,single_source_korean_anchor,kaikki,,kaikki:relinquish:verb:0:3876:s0,포기하다,15,anki_900:1766527462687
+remembrance,추억,noun,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462688
+solicit,"요청하다, 간청하다",verb,900,D,,unverified,ocr_exact,11–15(1) p20,,proposed_pair_needs_review,,,,,15,anki_900:1766527462689
+subcontract,하청 계약; 하청 주다,noun/verb,900,B,a contract assigning to another party some obligations of a prior contract,unverified,ocr_similar,11–15(1) p20,v (badge),monosemous_pair,oewn,oewn-subcontract__1.10.00..,kaikki:subcontract:noun:0:6959:s0,,15,anki_900:1766527462690
+subcontractor,"하청인, 하청업자",noun,900,B,someone who enters into a subcontract with the primary contractor,unverified,ocr_exact,11–15(1) p20,n (width),monosemous_pair,oewn,oewn-subcontractor__1.18.00..,kaikki:subcontractor:noun:0:7043:s0,,15,anki_900:1766527462691
+trustworthy,믿을 수 있는,adjective,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462692
+annotated,(책 등이) 주석이 달린,noun,900,E,,unverified,ocr_contains,11–15(1) p20,n (width),no_sense_record,,,,,15,anki_900:1766527462693
+commercial relations,통상 관계,phrase,900,E,,unverified,ocr_prefix,11–15(1) p20,phr (badge),no_sense_record,,,,,15,anki_900:1766527462694
+credit limit,신용대출 한도액,phrase,900,C,The maximum amount of credit that a financial institution or other lender will extend to a debtor for a particular line of credit.,unverified,ocr_prefix,11–15(1) p20,phr (badge),single_source_only_sense,kaikki,,kaikki:credit limit:noun:0:7472:s0,,15,anki_900:1766527462695
+down payment,"계약금, 첫 할부금",phrase,900,C,"A payment representing a fraction of the price of something being purchased, made to secure the right to continue making payments towards that purchase.",verified,ocr_exact,11–15(1) p20,n (width),single_source_korean_anchor,kaikki,,kaikki:down payment:noun:0:6767:s0,계약금,15,anki_900:1766527462696
+embark,"착수하다, 나서다",verb,900,D,,unverified,ocr_exact,11–15(1) p20,v (badge),candidates_unaligned,,,,,15,anki_900:1766527462697
+mediation,"조정, 중재",noun,900,D,,unverified,ocr_similar,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462698
+moderator,"(토론 등의) 사회자, 중재자",noun,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462699
+provision,(조약의) 조항,noun,900,D,,unverified,ocr_exact,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462700
+rocky,장애가 많은,adjective,900,D,,unverified,ocr_variant_ocr,11–15(1) p20,,candidates_unaligned,,,,,15,anki_900:1766527462701

@@ -1,0 +1,171 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+fragile,깨지기 쉬운,adjective,core,C,"Easily broken, not sturdy; of delicate material.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:fragile:adj:0:3812:s0,깨지기 쉬운,17,anki_core:1766527459186
+perishable,부패하기 쉬운,adjective,core,B,liable to perish; subject to destruction or death or decay,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-perishable__3.00.00..,kaikki:perishable:adj:0:6460:s0,,17,anki_core:1766527459187
+deliver,"배달하다, (연설을)하다",verb,core,C,To bring or transport something to its destination.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:deliver:verb:0:2497:s5,배달하다,17,anki_core:1766527459188
+ensure,"확실하게 하다, 보장하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459189
+courier,급송 택배,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459190
+carton,(큰) 판지 상자,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459191
+address,"주소, (어려운 문제 등을) 처리하다, 다루다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459192
+shipment,"선적, (화물의) 발송, 수송품, 적하물",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459193
+particularly,특히,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459194
+adequately,적절히,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459195
+article,"물품, 물건, 기사, 논설",noun,core,C,"A piece of nonfiction writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, encyclopedia, etc.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:article:noun:0:311:s0,기사,17,anki_core:1766527459196
+efficient,"(기계·방법 등이) 효과적인, 능률적인",adjective,core,B,able to accomplish a purpose; functioning effectively,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-efficient__5.00.00.competent.00,kaikki:efficient:adj:0:5265:s3,,17,anki_core:1766527459197
+agency,"대행 회사, 대리점",noun,core,C,"An establishment engaged in doing business for another; also, the place of business or the district of such an agency.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:agency:noun:0:2057:s4,대리점,17,anki_core:1766527459198
+enclose,"~을 동봉하다,~을 둘러싸다, 에워싸다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459199
+careful,"조심스러운, 주의 깊은",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459200
+pick up,"~을 찾다, (사람·물건 등을) 도중에서 태우다",phrase,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459201
+carry,"지니다, (물품을) 팔다, 가게에 놓다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459202
+attach,"붙이다, 접착하다, 첨부하다",verb,core,C,"To fasten, to join to (literally and figuratively).",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:attach:verb:0:3237:s0,붙이다;첨부하다,17,anki_core:1766527459203
+formerly,이전에,noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,17,anki_core:1766527459204
+package,"소포, 꾸러미",noun,core,B,a collection of things wrapped or boxed together,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-package__1.14.00..,kaikki:package:noun:0:2294:s0,꾸러미,17,anki_core:1766527459205
+react,"반응하다, 대응하다",verb,core,C,To act in response.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:react:verb:0:3554:s0,반응하다,17,anki_core:1766527459206
+content,내용물,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459207
+convenience,"편의, 편리",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459208
+acknowledge,"인정하다, (편지 등의) 수령을 알리다",verb,core,C,To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:acknowledge:verb:0:1983:s0,인정하다,17,anki_core:1766527459209
+caution,"주의, 조심",noun,core,C,"A careful attention to the probable effects of an act, in order that failure or harm may be avoided.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:caution:noun:0:3289:s1,조심;주의,17,anki_core:1766527459210
+correspondence,"편지, 통신문",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459211
+separate,"분리하다, 분류하다, 분리된, 따로 떨어진, 독립된",adjective,core,B,independent; not united or joint,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-separate__3.00.00..,kaikki:separate:adj:1:702:s1,,17,anki_core:1766527459212
+remarkable,"현저한, 두드러진",noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,17,anki_core:1766527459213
+handle,"취급하다, 다루다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,17,anki_core:1766527459214
+warehouse,"창고, 저장소",noun,core,B,a storehouse for goods and merchandise,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-warehouse__1.06.00..,kaikki:warehouse:noun:0:1443:s0,창고,17,anki_core:1766527459215
+impose,(세금 등을) 부과하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459216
+storage,"보관소, 저장소",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,17,anki_core:1766527459217
+detach,"분리하다, 떼다",verb,core,B,cause to become detached or separated; take off,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-detach__2.35.01..,kaikki:detach:verb:0:5024:s0,,17,anki_core:1766527459218
+envelope,봉투,noun,core,B,any wrapper or covering,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-envelope__1.06.00..,kaikki:envelope:noun:1:1775:s0,봉투,17,anki_core:1766527459219
+exclusion,"제외, 배제",noun,core,C,The act of excluding or shutting out; removal from consideration or taking part.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:exclusion:noun:0:4952:s0,배제;제외,17,anki_core:1766527459220
+recipient,수신자,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459221
+affix,(우표 등을) 붙이다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,17,anki_core:1766527459222
+incorrect,부정확한,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459223
+oblige,"어쩔 수 없이 ~하게 하다, ~에게 강요하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459224
+step,"단계, 조치, 수단",noun,core,B,any maneuver made as part of progress toward a goal,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-step__1.04.02..,kaikki:step:noun:1:2173:s10,단계,17,anki_core:1766527459225
+distinctive,독특한,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459226
+discreet,"신중한, 조심스러운, 분별력 있는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,17,anki_core:1766527459227
+butcher's shop,정육점,phrase,basic,C,Synonym of butchershop.,unverified,ocr_exact,16-30(1) p5,phr (badge),single_source_only_sense,kaikki,,kaikki:butcher's shop:noun:0:8041:s0,,17,anki_basic:1766527459228
+cargo,"화물, 짐",noun,basic,B,goods carried by a large vehicle,verified,ocr_exact,16-30(1) p5,n (width),double_korean_anchor,oewn,oewn-cargo__1.06.00..,kaikki:cargo:noun:0:4050:s0,짐;화물,17,anki_basic:1766527459229
+clinic,"진료소, 상담소",noun,basic,D,,unverified,ocr_exact,16-30(1) p5,n (width),candidates_unaligned,,,,,17,anki_basic:1766527459230
+crate,나무 상자,noun,basic,D,,unverified,ocr_exact,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459231
+flow,"(공급·생산품의) 흐름, 이동, 흐르다",verb,basic,C,To move as a fluid from one position to another.,verified,ocr_exact,16-30(1) p5,,single_source_korean_anchor,kaikki,,kaikki:flow:verb:2:980:s0,흐르다;흐름,17,anki_basic:1766527459232
+following week,다음 주,phrase,basic,E,,unverified,ocr_exact,16-30(1) p5,,no_sense_record,,,,,17,anki_basic:1766527459233
+get a ticket,표를 구하다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p5,,no_sense_record,,,,,17,anki_basic:1766527459234
+in storage,보관 중인,phrase,basic,E,,unverified,ocr_exact,16-30(1) p5,,no_sense_record,,,,,17,anki_basic:1766527459235
+load,"짐, 작업량",noun,basic,D,,unverified,ocr_variant_ocr,16-30(1) p5,,proposed_pair_needs_review,,,,,17,anki_basic:1766527459236
+mail,"우편물, 우편으로 보내다",verb,basic,D,,unverified,ocr_exact,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459237
+museum,박물관,noun,basic,C,"A building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value.",verified,ocr_exact,16-30(1) p5,,single_source_korean_anchor,kaikki,,kaikki:museum:noun:0:4421:s0,박물관,17,anki_basic:1766527459238
+parcel,소포,noun,basic,B,a collection of things wrapped or boxed together,verified,ocr_exact,16-30(1) p5,n (badge),double_korean_anchor,oewn,oewn-parcel__1.14.00..,kaikki:parcel:noun:0:2908:s0,소포,17,anki_basic:1766527459239
+pick up packages,소포를 찾아가다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p5,,no_sense_record,,,,,17,anki_basic:1766527459240
+pottery,도자기,noun,basic,C,Fired ceramic wares that contain clay when formed.,verified,ocr_exact,16-30(1) p5,,single_source_korean_anchor,kaikki,,kaikki:pottery:noun:0:3161:s0,도자기,17,anki_basic:1766527459241
+public park,공원,phrase,basic,E,,unverified,ocr_exact,16-30(1) p5,,no_sense_record,,,,,17,anki_basic:1766527459242
+stamp,"~에 도장을 찍다, 우표",noun,basic,D,,unverified,ocr_prefix,16-30(1) p5,n (width),candidates_unaligned,,,,,17,anki_basic:1766527459243
+van,대형 밴,noun,basic,D,,unverified,ocr_variant_ocr,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459244
+venue,장소,noun,basic,D,,unverified,ocr_variant_ocr,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459245
+weight,"무게, 중량",noun,basic,C,The downwards force an object experiences due to gravity.,verified,ocr_exact,16-30(1) p5,n (width),single_source_korean_anchor,kaikki,,kaikki:weight:noun:0:710:s0,무게;중량,17,anki_basic:1766527459246
+barrier,"장애, 장벽",noun,basic,D,,unverified,ocr_exact,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459247
+base,기반,noun,basic,D,,unverified,ocr_exact,16-30(1) p5,n (width),proposed_pair_needs_review,,,,,17,anki_basic:1766527459248
+due date,만기일,phrase,basic,D,,unverified,ocr_exact,16-30(1) p5,phr (badge),candidates_unaligned,,,,,17,anki_basic:1766527459249
+fashion,"방법, 방식",noun,basic,D,,unverified,ocr_exact,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459250
+instructor,강사,noun,basic,C,One who instructs; a teacher.,verified,ocr_exact,16-30(1) p5,,single_source_korean_anchor,kaikki,,kaikki:instructor:noun:0:6723:s0,강사,17,anki_basic:1766527459251
+offload,짐을 내리다,verb,basic,D,,unverified,ocr_variant_ocr,16-30(1) p5,,candidates_unaligned,,,,,17,anki_basic:1766527459252
+parking pass,주차권,phrase,basic,E,,unverified,ocr_similar,16-30(1) p5,phr (badge),no_sense_record,,,,,17,anki_basic:1766527459253
+shipping,"배송, 운송, 선적",noun,basic,D,,unverified,ocr_exact,16-30(1) p5,,proposed_pair_needs_review,,,,,17,anki_basic:1766527459254
+trade,무역,noun,basic,C,The buying and selling of goods and services on a market.,verified,ocr_variant_ocr,16-30(1) p5,,single_source_korean_anchor,kaikki,,kaikki:trade:noun:0:20:s0,무역,17,anki_basic:1766527459255
+as of now,현재로서는,phrase,800,D,,unverified,ocr_similar,16-30(1) p6,,candidates_unaligned,,,,,17,anki_800:1766527461242
+broker,중개인,noun,800,C,A mediator between a buyer and seller.,verified,ocr_prefix,16-30(1) p6,,single_source_korean_anchor,kaikki,,kaikki:broker:noun:2:5974:s0,중개인,17,anki_800:1766527461243
+canal,"운하, 수로",noun,800,C,"An artificial waterway or artificially improved river used for travel, shipping, or irrigation.",verified,ocr_exact,16-30(1) p6,,single_source_korean_anchor,kaikki,,kaikki:canal:noun:0:653:s0,운하,17,anki_800:1766527461244
+carry a large parcel,큰 짐을 운반하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461245
+closing,"폐쇄, 폐회의, 마감하는",adjective,800,B,final or ending,unverified,ocr_exact,16-30(1) p6,n (badge),monosemous_pair,oewn,oewn-closing__3.00.00..,kaikki:closing:adj:0:3957:s0,,17,anki_800:1766527461246
+courier service,택배회사,phrase,800,E,,unverified,ocr_exact,16-30(1) p6,n (width),no_sense_record,,,,,17,anki_800:1766527461247
+door-to-door delivery,택배,phrase,800,E,,unverified,ocr_exact,16-30(1) p6,n (width),no_sense_record,,,,,17,anki_800:1766527461248
+drive off,"(차를)출발시키다, 몰아내다",phrase,800,D,,unverified,ocr_exact,16-30(1) p6,n (width),proposed_pair_needs_review,,,,,17,anki_800:1766527461249
+drop off,"갖다주다, 내려놓다",phrase,800,D,,unverified,ocr_exact,16-30(1) p6,,candidates_unaligned,,,,,17,anki_800:1766527461250
+dry cleaner,세탁소,phrase,800,C,A business establishment that engages in the dry cleaning of clothes and other fabrics.,verified,ocr_exact,16-30(1) p6,,single_source_korean_anchor,kaikki,,kaikki:dry cleaner:noun:0:7167:s1,세탁소,17,anki_800:1766527461251
+floor manager,매장감독,phrase,800,D,,unverified,ocr_exact,16-30(1) p6,,candidates_unaligned,,,,,17,anki_800:1766527461252
+hold onto the handrail,난간을 붙잡다,phrase,800,E,,unverified,ocr_exact,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461253
+in transit,운송 중에,phrase,800,C,In the process of being transported.,unverified,ocr_prefix,16-30(1) p6,,single_source_only_sense,kaikki,,kaikki:in transit:prep_phrase:0:7023:s0,,17,anki_800:1766527461254
+inn,여관,noun,800,B,a hotel providing overnight lodging for travelers,verified,ocr_exact,16-30(1) p6,,double_korean_anchor,oewn,oewn-inn__1.06.00..,kaikki:inn:noun:0:2559:s0,여관,17,anki_800:1766527461255
+lab report,실험 보고서,phrase,800,E,,unverified,ocr_prefix,16-30(1) p6,n (width),no_sense_record,,,,,17,anki_800:1766527461256
+lab technician,연구실 기술자,phrase,800,E,,unverified,ocr_exact,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461257
+lace,"끈, 끈을 묶다",verb,800,D,,unverified,ocr_prefix,16-30(1) p6,v (badge),candidates_unaligned,,,,,17,anki_800:1766527461258
+legal department,법률부서,phrase,800,E,,unverified,ocr_similar,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461259
+load A onto B,A를 B에 싣다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461260
+load a truck,트럭에 짐을 싣다,phrase,800,E,,unverified,ocr_similar,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461261
+loaded with,(짐을) 실은,phrase,800,E,,unverified,ocr_contains,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461262
+loading,"적재, 선적",noun,800,D,,unverified,ocr_similar,16-30(1) p6,,candidates_unaligned,,,,,17,anki_800:1766527461263
+lost in delivery,배송 중에 분실된,phrase,800,E,,unverified,ocr_exact,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461264
+mailing list,우편물 수취인 명부,phrase,800,D,,unverified,ocr_similar,16-30(1) p6,,candidates_unaligned,,,,,17,anki_800:1766527461265
+make a delivery,배달하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p6,phr (badge),no_sense_record,,,,,17,anki_800:1766527461266
+packing tape,포장테이프,phrase,800,C,A pressure-sensitive tape used for closing or sealing corrugated fiberboard boxes.,unverified,ocr_prefix,16-30(1) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:packing tape:noun:0:7971:s0,,17,anki_800:1766527461267
+pass over,~의 위를 지나가다,phrase,800,D,,unverified,ocr_similar,16-30(1) p6,phr (badge),candidates_unaligned,,,,,17,anki_800:1766527461268
+pavement,"포장도로, 인도",noun,800,D,,unverified,ocr_contains,16-30(1) p6,n (width),candidates_unaligned,,,,,17,anki_800:1766527461269
+people on foot,보행자들,phrase,800,E,,unverified,ocr_prefix,16-30(1) p6,,no_sense_record,,,,,17,anki_800:1766527461270
+pick up passengers,승객을 태우다,phrase,800,E,,unverified,ocr_similar,16-30(1) p6,phr (badge),no_sense_record,,,,,17,anki_800:1766527461271
+pier,"부두, 방파제, 선창",noun,800,B,a platform built out from the shore into the water and supported by piles; provides access to ships and boats,verified,ocr_variant_ocr,16-30(1) p6,,double_korean_anchor,oewn,oewn-pier__1.06.00..,kaikki:pier:noun:0:5429:s0,부두,17,anki_800:1766527461272
+pile up,~을 쌓다,phrase,800,D,,unverified,ocr_similar,16-30(1) p6,phr (badge),candidates_unaligned,,,,,17,anki_800:1766527461273
+postal,우편의,adjective,800,D,,unverified,ocr_similar,16-30(1) p6,adj (badge),proposed_pair_needs_review,,,,,17,anki_800:1766527461274
+strap,끈(줄)으로 묶다,verb,800,D,,unverified,ocr_variant_ocr,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461275
+time limit,기한,phrase,800,D,,unverified,ocr_prefix,16-30(1) p7,phr (badge),candidates_unaligned,,,,,17,anki_800:1766527461276
+waterway,"(배가 다닐 수 있는) 수로, 항로",noun,800,C,"A body of water, such as a river, channel or canal, that is navigable.",verified,ocr_exact,16-30(1) p7,,single_source_korean_anchor,kaikki,,kaikki:waterway:noun:0:6694:s0,수로,17,anki_800:1766527461277
+weigh,무게가~이다,verb,800,D,,unverified,ocr_exact,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461278
+weight limit,중량 제한,phrase,800,E,,unverified,ocr_exact,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461279
+wrap up,"~을 싸다, ~을 포장하다",phrase,800,D,,unverified,ocr_exact,16-30(1) p7,n (width),candidates_unaligned,,,,,17,anki_800:1766527461280
+correction,"정정, 수정",noun,800,D,,unverified,ocr_similar,16-30(1) p7,,proposed_pair_needs_review,,,,,17,anki_800:1766527461281
+delivery option,배송 선택 사항,phrase,800,E,,unverified,ocr_prefix,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461282
+discard,버리다,verb,800,B,throw or cast away,verified,ocr_exact,16-30(1) p7,v (badge),double_korean_anchor,oewn,oewn-discard__2.40.00..,kaikki:discard:verb:0:2122:s0,버리다,17,anki_800:1766527461283
+express mail,급행 우편,phrase,800,C,mail that is distributed by a rapid and efficient system,unverified,ocr_exact,16-30(1) p7,,single_source_only_sense,oewn,oewn-express_mail__1.10.00..,,,17,anki_800:1766527461284
+fortunately,"다행스럽게도, 운 좋게도",noun,800,E,,unverified,ocr_exact,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461285
+ideally,"이상적으로, 완벽하게",adverb,800,D,,unverified,ocr_exact,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461286
+load size,적재 수하물 크기,phrase,800,E,,unverified,ocr_exact,16-30(1) p7,phr (badge),no_sense_record,,,,,17,anki_800:1766527461287
+marginally,"아주 조금, 미미하게",adverb,800,D,,unverified,ocr_exact,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461288
+ordered,"정돈된, (질서) 정연한",adjective,800,D,,unverified,ocr_exact,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461289
+ordering,"정리, 배치",noun,800,D,,unverified,ocr_exact,16-30(1) p7,,proposed_pair_needs_review,,,,,17,anki_800:1766527461290
+ordinarily,"보통은, 정상적으로는",adjective,800,E,,unverified,ocr_exact,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461291
+packaging,"포장, 포장재",noun,800,D,,unverified,ocr_exact,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461292
+provided(that),(만약)~라면,noun,800,E,,unverified,ocr_similar,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461293
+respond to,~에 응답하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461294
+separation,"분리, 구분",noun,800,B,the space where a division or parting occurs,verified,ocr_exact,16-30(1) p7,,double_korean_anchor,oewn,oewn-separation__1.15.00..,kaikki:separation:noun:0:4536:s0,분리,17,anki_800:1766527461295
+sizable,"상당한 크기의, 꽤 큰",noun,800,E,,unverified,ocr_exact,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461296
+society,"사회, 협회",noun,800,B,an extended social group having a distinctive cultural and economic organization,verified,ocr_exact,16-30(1) p7,,double_korean_anchor,oewn,oewn-society__1.14.00..;oewn-society__1.14.00..,kaikki:society:noun:0:2907:s0;kaikki:society:noun:0:2907:s1,사회;협회,17,anki_800:1766527461297
+accelerate,"촉진하다, 가속화하다",verb,800,D,,unverified,ocr_exact,16-30(1) p7,v (badge),candidates_unaligned,,,,,17,anki_800:1766527461298
+additional charge,추가 요금,phrase,800,E,,unverified,ocr_similar,16-30(1) p7,phr (width),no_sense_record,,,,,17,anki_800:1766527461299
+ahead of schedule,예정보다 일찍,phrase,800,C,Prior to a deadline.,unverified,ocr_exact,16-30(1) p7,,single_source_only_sense,kaikki,,kaikki:ahead of schedule:prep_phrase:0:7988:s0,,17,anki_800:1766527461300
+at the last minute,막판에,phrase,800,C,Very close to a deadline or potential crucial event.,unverified,ocr_prefix,16-30(1) p7,,single_source_only_sense,kaikki,,kaikki:at the last minute:prep_phrase:0:7483:s0,,17,anki_800:1766527461301
+by hand,"인편으로, 손으로",phrase,800,D,,unverified,ocr_exact,16-30(1) p7,phr (badge),candidates_unaligned,,,,,17,anki_800:1766527461302
+car maintenance,자동차 정비,phrase,800,E,,unverified,ocr_exact,16-30(1) p7,phr (badge),no_sense_record,,,,,17,anki_800:1766527461303
+city official,시 공무원,phrase,800,E,,unverified,ocr_exact,16-30(1) p7,,no_sense_record,,,,,17,anki_800:1766527461304
+free of charge,무료,phrase,800,D,,unverified,ocr_exact,16-30(1) p7,phr (width),candidates_unaligned,,,,,17,anki_800:1766527461305
+postage,우편 요금,noun,800,D,,unverified,ocr_exact,16-30(1) p7,,candidates_unaligned,,,,,17,anki_800:1766527461306
+trade negotiation,무역 협상,phrase,800,E,,unverified,ocr_exact,16-30(1) p7,phr (badge),no_sense_record,,,,,17,anki_800:1766527461307
+trade show,무역 박람회,phrase,800,C,A trade fair.,unverified,ocr_exact,16-30(1) p7,phr (badge),single_source_only_sense,kaikki,,kaikki:trade show:noun:0:7159:s0,,17,anki_800:1766527461308
+without delay,지연되지 않고,phrase,800,E,,unverified,ocr_similar,16-30(1) p7,phr (badge),no_sense_record,,,,,17,anki_800:1766527461309
+freight,"운송 화물, 화물 운송",noun,900,D,,unverified,ocr_variant_ocr,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462734
+heritage,"전통, 유산",noun,900,B,hereditary succession to a title or an office or property,verified,ocr_prefix,16-30(1) p8,,double_korean_anchor,oewn,oewn-heritage__1.04.00..,kaikki:heritage:noun:0:4971:s0,유산,17,anki_900:1766527462735
+janitor,(건물) 관리인,noun,900,C,"A caretaker or custodian; someone who maintains a school building specifically and may serve other administrative roles (the term caretaker is also used in Hong Kong, particularly in ESF and independent British schools).",verified,ocr_prefix,16-30(1) p8,,single_source_korean_anchor,kaikki,,kaikki:janitor:noun:0:6428:s1,관리인,17,anki_900:1766527462736
+loading dock,하역장,phrase,900,D,,unverified,ocr_exact,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462737
+logistics,"물류, 실행 계획",noun,900,C,"The process of planning, implementing, and controlling the efficient, effective flow and storage of goods, services and related information from their point of origin to point of consumption for the purpose of satisfying customer requirements.",verified,ocr_prefix,16-30(1) p8,,single_source_korean_anchor,kaikki,,kaikki:logistics:noun:1:6433:s0,물류,17,anki_900:1766527462738
+realtor,부동산 중개업자,noun,900,B,a real estate agent who is a member of the National Association of Realtors,unverified,ocr_prefix,16-30(1) p8,,monosemous_pair,oewn,oewn-realtor__1.18.00..,kaikki:realtor:noun:0:6601:s0,,17,anki_900:1766527462739
+registered mail,등기 우편,phrase,900,D,,unverified,ocr_exact,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462740
+wheelbarrow,손수레,noun,900,C,"A small, one-wheeled (or rarely, two-wheeled) cart with handles at one end for transporting small loads.",verified,ocr_prefix,16-30(1) p8,,single_source_korean_anchor,kaikki,,kaikki:wheelbarrow:noun:0:4953:s0,손수레,17,anki_900:1766527462741
+classified,기밀의,adjective,900,D,,unverified,ocr_similar,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462742
+consulate,영사관,noun,900,D,,unverified,ocr_exact,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462743
+decidedly,"확실히, 명백히, 단호히",adverb,900,D,,unverified,ocr_exact,16-30(1) p8,,proposed_pair_needs_review,,,,,17,anki_900:1766527462744
+inaugurate,정식으로 ~을 개시하다,verb,900,D,,unverified,ocr_prefix,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462745
+institute,"협회, 연구소",noun,900,D,,unverified,ocr_prefix,16-30(1) p8,,proposed_pair_needs_review,,,,,17,anki_900:1766527462746
+institution,"기관, (학교·병원 등의) 시설",noun,900,B,an organization founded and united for a specific purpose,verified,ocr_prefix,16-30(1) p8,,double_korean_anchor,oewn,oewn-institution__1.14.00..,kaikki:institution:noun:0:4143:s0,기관,17,anki_900:1766527462747
+openly,"터놓고, 솔직하게",adverb,900,B,in an open way,unverified,ocr_prefix,16-30(1) p8,,monosemous_pair,oewn,oewn-openly__4.02.00..,kaikki:openly:adv:0:5283:s0,,17,anki_900:1766527462748
+oversight,"부주의, 감독",noun,900,D,,unverified,ocr_prefix,16-30(1) p8,,proposed_pair_needs_review,,,,,17,anki_900:1766527462749
+province,지방,noun,900,D,,unverified,ocr_variant_ocr,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462750
+selective,"선택적인, 까다로운",adjective,900,D,,unverified,ocr_similar,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462751
+transportable,"수송 가능한, 운반 가능한",adjective,900,B,capable of being moved or conveyed from one place to another,unverified,ocr_prefix,16-30(1) p8,,monosemous_pair,oewn,oewn-transportable__5.00.00.mobile.00,kaikki:transportable:adj:0:5350:s0,,17,anki_900:1766527462752
+alumni association,동창회,phrase,900,C,an association of former students of a college or university,unverified,ocr_similar,16-30(1) p8,n (width),single_source_only_sense,kaikki,,kaikki:alumni association:noun:0:6542:s0,,17,anki_900:1766527462753
+bilateral,쌍방의,adjective,900,D,,unverified,ocr_prefix,16-30(1) p8,,proposed_pair_needs_review,,,,,17,anki_900:1766527462754
+diplomat,외교관,noun,900,C,"A person, such as an ambassador, who is accredited to represent a government officially in its relations with other governments or international organisations",verified,ocr_prefix,16-30(1) p8,n (badge),single_source_korean_anchor,kaikki,,kaikki:diplomat:noun:0:5343:s0,외교관,17,anki_900:1766527462755
+embargo,"(특정 상품의) 무역 금지, 통상 금지",noun,900,D,,unverified,ocr_prefix,16-30(1) p8,n (badge),candidates_unaligned,,,,,17,anki_900:1766527462756
+expatriate,국적을 상실한 사람; 고국을 떠나다,noun/verb,900,D,,unverified,ocr_prefix,16-30(1) p8,n (width),candidates_unaligned,,,,,17,anki_900:1766527462757
+expedite,"신속히 처리하다, 진척시키다",verb,900,D,,unverified,ocr_prefix,16-30(1) p8,,candidates_unaligned,,,,,17,anki_900:1766527462758
+handling,"처리, 조작; 취급의",adjective/noun,900,D,,unverified,ocr_prefix,16-30(1) p8,n (badge),candidates_unaligned,,,,,17,anki_900:1766527462759
+import license,수입 허가(서),phrase,900,E,,unverified,ocr_exact,16-30(1) p8,,no_sense_record,,,,,17,anki_900:1766527462760
+intended recipient,해당 수취인,phrase,900,E,,unverified,ocr_prefix,16-30(1) p8,phr (badge),no_sense_record,,,,,17,anki_900:1766527462761
+progression,"진행, 진전",noun,900,D,,unverified,ocr_exact,16-30(1) p8,,proposed_pair_needs_review,,,,,17,anki_900:1766527462762
+reciprocal,"상호의, 서로의",adjective,900,D,,unverified,ocr_prefix,16-30(1) p8,adj (badge),proposed_pair_needs_review,,,,,17,anki_900:1766527462763
+stow,"(짐을) 넣다, 싣다",verb,900,D,,unverified,ocr_prefix,16-30(1) p8,v (badge),candidates_unaligned,,,,,17,anki_900:1766527462764
+surplus,"잉여, 흑자",noun,900,C,"That which remains when use or need is satisfied, or when a limit is reached; excess; overplus; overage.",verified,ocr_similar_loose,16-30(1) p8,n (width),single_source_korean_anchor,kaikki,,kaikki:surplus:noun:0:3663:s0,잉여;흑자,17,anki_900:1766527462765

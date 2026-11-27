@@ -1,0 +1,3 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+convincing,unconvincing,wordnet_antonym,oewn-convincing__3.00.00..,monosemous_pair
+selected,unselected,wordnet_antonym,oewn-selected__3.00.00..,monosemous_pair

@@ -1,0 +1,50 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+annual,yearly,wordnet_synset,oewn-annual__5.00.00.periodic.00,double_korean_anchor
+attend,go to,wordnet_synset,oewn-attend__2.42.00..,double_korean_anchor
+leave,leave alone,wordnet_synset,oewn-leave__2.30.02..,double_korean_anchor
+leave,leave behind,wordnet_synset,oewn-leave__2.30.02..,double_korean_anchor
+leave,let alone,wordnet_synset,oewn-leave__2.30.02..,double_korean_anchor
+require,ask,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,call for,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,demand,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,involve,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,necessitate,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,need,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,postulate,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+require,take,wordnet_synset,oewn-require__2.42.00..,double_korean_anchor
+grateful,thankful,wordnet_synset,oewn-grateful__3.00.00..,model_reviewed_pair
+responsibility,duty,wordnet_synset,oewn-responsibility__1.04.00..,double_korean_anchor
+responsibility,obligation,wordnet_synset,oewn-responsibility__1.04.00..,double_korean_anchor
+assent,acquiescence,wordnet_synset,oewn-assent__1.10.00..,model_reviewed_pair
+welcome,receive,wordnet_synset,oewn-welcome__2.32.00..,double_korean_anchor
+objective,aim,wordnet_synset,oewn-objective__1.09.00..,double_korean_anchor
+objective,object,wordnet_synset,oewn-objective__1.09.00..,double_korean_anchor
+objective,target,wordnet_synset,oewn-objective__1.09.00..,double_korean_anchor
+salary,earnings,wordnet_synset,oewn-salary__1.21.00..,monosemous_pair
+salary,pay,wordnet_synset,oewn-salary__1.21.00..,monosemous_pair
+salary,remuneration,wordnet_synset,oewn-salary__1.21.00..,monosemous_pair
+salary,wage,wordnet_synset,oewn-salary__1.21.00..,monosemous_pair
+pharmacy,apothecary's shop,wordnet_synset,oewn-pharmacy__1.06.00..,double_korean_anchor
+pharmacy,chemist's,wordnet_synset,oewn-pharmacy__1.06.00..,double_korean_anchor
+pharmacy,chemist's shop,wordnet_synset,oewn-pharmacy__1.06.00..,double_korean_anchor
+pharmacy,drugstore,wordnet_synset,oewn-pharmacy__1.06.00..,double_korean_anchor
+precise,accurate,wordnet_synset,oewn-precise__5.00.00.correct.00,double_korean_anchor
+precise,exact,wordnet_synset,oewn-precise__5.00.00.correct.00,double_korean_anchor
+vacation,holiday,wordnet_synset,oewn-vacation__1.28.00..,double_korean_anchor
+take place,come about,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,fall out,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,go on,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,hap,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,happen,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,occur,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,pass,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+take place,pass off,wordnet_synset,oewn-take_place__2.30.00..,double_korean_anchor
+intentionally,advisedly,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+intentionally,by choice,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+intentionally,by design,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+intentionally,deliberately,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+intentionally,designedly,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+intentionally,on purpose,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+intentionally,purposely,wordnet_synset,oewn-intentionally__4.02.00..,monosemous_pair
+strong-willed,strong-minded,wordnet_synset,oewn-strong--willed__5.00.00.stubborn.00,monosemous_pair
+welfare,benefit,wordnet_synset,oewn-welfare__1.07.00..,double_korean_anchor

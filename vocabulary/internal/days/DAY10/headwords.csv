@@ -1,0 +1,169 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+purchase,"구매하다, 구매",noun,core,C,"The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:purchase:noun:0:3543:s0,구매,10,anki_core:1766527458698
+price,가격,noun,core,C,The cost required to gain possession of something.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:price:noun:0:1099:s0,가격,10,anki_core:1766527458699
+affordable,"(가격이) 알맞은, 감당할 수 있는",adjective,core,B,that you have the financial means for,verified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-affordable__5.00.00.cheap.00,kaikki:affordable:adj:0:6898:s0,알맞은,10,anki_core:1766527458700
+exactly,정확히,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,10,anki_core:1766527458701
+installment,할부,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458702
+notice,"통지, 공고",noun,core,C,A written or printed announcement.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:notice:noun:0:4126:s1,통지,10,anki_core:1766527458703
+charge,"요금, 청구 금액, 책임, 의무, ~을 청구하다 (외상으로) 달아놓다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,10,anki_core:1766527458704
+experienced,"경험이 있는, 노련한, 능숙한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458705
+instruction,"설명, 지시",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458706
+expert,"전문가, 전문가의, 전문적인",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458707
+warranty,"(품질 등의) 보증, 보증서",noun,core,B,a written assurance that some product or service will be provided or will meet certain specifications,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-warranty__1.10.00..,kaikki:warranty:noun:0:5843:s3,보증,10,anki_core:1766527458708
+refund,"환불하다, 환불, 환불금",noun,core,C,An amount of money returned.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:refund:noun:0:5796:s0,환불;환불금;환불하다,10,anki_core:1766527458709
+subscriber,"가입자, 구독자",noun,core,C,A person who subscribes to a publication or a service.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:subscriber:noun:0:6527:s0,가입자;구독자,10,anki_core:1766527458710
+delivery,배달,noun,core,C,The act of conveying something.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:delivery:noun:0:3087:s0,배달,10,anki_core:1766527458711
+receipt,영수증,noun,core,C,A written acknowledgment that a specified article or sum of money has been received.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:receipt:noun:0:1929:s3,영수증,10,anki_core:1766527458712
+carefully,"주의 깊게, 신중히",adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458713
+offer,"제공하다, 제공, 오퍼",noun,core,C,A proposal that has been made.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:offer:noun:1:1666:s0,제공,10,anki_core:1766527458714
+benefit,"혜택, 이익, 혜택을 보다, 이익을 얻다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458715
+exclusively,"오로지, 독점적으로",adverb,core,B,without any others being included or involved,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-exclusively__4.02.00..,kaikki:exclusively:adv:0:5225:s0,,10,anki_core:1766527458716
+description,"(제품 등의) 설명, 해설",noun,core,C,A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:description:noun:0:2215:s0,설명,10,anki_core:1766527458717
+relatively,상대적으로,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458718
+preparation,"준비, 대비",noun,core,B,the state of having been made ready or prepared for use or action (especially military action),verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-preparation__1.26.00..,kaikki:preparation:noun:0:5208:s0,준비,10,anki_core:1766527458719
+spare,"아끼다, 할애하다, 예배의, 여분의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458720
+area,"지역, 구역",noun,core,B,a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography),verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-area__1.15.01..,kaikki:area:noun:0:1294:s1,지역,10,anki_core:1766527458721
+clearance,"정리, 없애기, 허가",noun,core,B,permission to proceed,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-clearance__1.04.00..,kaikki:clearance:noun:0:6557:s3,,10,anki_core:1766527458722
+alter,"(성질·형상을) 고치다, 바꾸다",verb,core,B,cause to change; make different; cause a transformation,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-alter__2.30.01..,kaikki:alter:verb:1:1338:s0,고치다;바꾸다,10,anki_core:1766527458723
+apply,"적용하다, 지원하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,10,anki_core:1766527458724
+mutually,"서로, 상호 간에",noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,10,anki_core:1766527458725
+method,"방식, 방법",noun,core,C,"A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process).",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:method:noun:1:1745:s0,방법;방식,10,anki_core:1766527458726
+acceptable,"용인되는, 받아들일 수 있는, 훌륭한, 만족스러운",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458727
+desire,"욕구, 갈망, 원하다, 바라다",verb,core,B,expect and wish,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-desire__2.37.02..;oewn-desire__2.37.00..,kaikki:desire:verb:0:1925:s0;kaikki:desire:verb:0:1925:s2,바라다;원하다,10,anki_core:1766527458728
+redeemable,"(현금·상품과) 교환할 수 있는, 환급할 수 있는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458729
+officially,공식적으로,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458730
+consumption,"소비(량), 소모",noun,core,C,The amount consumed.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:consumption:noun:0:1413:s1,소비,10,anki_core:1766527458731
+qualify,~의 자격을 얻다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458732
+fabric,"섬유, 천",noun,core,B,artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-fabric__1.06.00..,kaikki:fabric:noun:0:2905:s5,,10,anki_core:1766527458733
+auction,경매,noun,core,C,A public event where goods or property are sold to the highest bidder.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:auction:noun:0:2551:s0,경매,10,anki_core:1766527458734
+authentic,"진정한, 진짜의, 진품의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458735
+valid,유효한,adjective,core,C,"Acceptable, proper or correct; in accordance with the rules.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:valid:adj:0:3268:s1,유효하다,10,anki_core:1766527458736
+vendor,"노점상, 가판대, 판매업체",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,10,anki_core:1766527458737
+bakery,"빵집, 제과점",noun,basic,B,a workplace where baked goods (breads and cakes and pastries) are produced or sold,verified,ocr_exact,1-10(2) p37,n (width),double_korean_anchor,oewn,oewn-bakery__1.06.00..,kaikki:bakery:noun:0:2883:s0,빵집;제과점,10,anki_basic:1766527458738
+best-selling,베스트셀러의,adjective,basic,B,selling in great numbers,unverified,ocr_exact,1-10(2) p37,,monosemous_pair,oewn,oewn-best--selling__5.00.00.popular.00,kaikki:best-selling:adj:0:7127:s0,,10,anki_basic:1766527458739
+cashier,(은행·상점·호텔 등의) 출납원,noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458740
+clothing,의류,noun,basic,D,,unverified,ocr_similar,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458741
+corner,"모퉁이, 구석",noun,basic,D,,unverified,ocr_exact,1-10(2) p37,n (width),proposed_pair_needs_review,,,,,10,anki_basic:1766527458742
+costume,"복장, 의상",noun,basic,B,the prevalent fashion of dress (including accessories and hair style as well as garments),verified,ocr_exact,1-10(2) p37,,double_korean_anchor,oewn,oewn-costume__1.06.03..,kaikki:costume:noun:0:4499:s0,복장;의상,10,anki_basic:1766527458743
+free,"자유로이~할 수 있는, 마음대로의",adjective,basic,D,,unverified,ocr_similar_loose,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458744
+label,"라벨, 꼬리표, ~에 라벨을 붙이다",verb,basic,D,,unverified,ocr_prefix,1-10(2) p37,n (badge),candidates_unaligned,,,,,10,anki_basic:1766527458745
+necklace,목걸이,noun,basic,B,jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women),verified,ocr_exact,1-10(2) p37,,double_korean_anchor,oewn,oewn-necklace__1.06.00..,kaikki:necklace:noun:0:4367:s0,목걸이,10,anki_basic:1766527458746
+photography equipment,사진 장비,phrase,basic,E,,unverified,ocr_similar,1-10(2) p37,,no_sense_record,,,,,10,anki_basic:1766527458747
+shelf,선반,noun,basic,C,"A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk, etc., and used to display, store, or support objects.",verified,ocr_exact,1-10(2) p37,,single_source_korean_anchor,kaikki,,kaikki:shelf:noun:1:1638:s0,선반,10,anki_basic:1766527458748
+shop,"상점, 물건을 사다",verb,basic,D,,unverified,ocr_variant_ocr,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458749
+shopper,쇼핑객,noun,basic,D,,unverified,ocr_exact,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458750
+size,"크기, 치수",noun,basic,C,The dimensions or magnitude of a thing; how big something is.,verified,ocr_exact,1-10(2) p37,,single_source_korean_anchor,kaikki,,kaikki:size:noun:1:1175:s0,크기,10,anki_basic:1766527458751
+sunglasses,선글라스,noun,basic,C,"Tinted glasses worn to protect the eyes from the sun or other bright light, and may also be worn as a fashion accessory.",verified,ocr_exact,1-10(2) p37,,single_source_korean_anchor,kaikki,,kaikki:sunglasses:noun:1:2820:s0,선글라스,10,anki_basic:1766527458752
+supermarket,슈퍼마켓,noun,basic,B,a large self-service grocery store selling groceries and dairy products and household goods,verified,ocr_exact,1-10(2) p37,,double_korean_anchor,oewn,oewn-supermarket__1.06.00..,kaikki:supermarket:noun:0:4935:s0,슈퍼마켓,10,anki_basic:1766527458753
+unwanted,"원치 않는, 반갑지 않은",adjective,basic,D,,unverified,ocr_exact,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458754
+basis,"기초, 근거, 원칙",noun,basic,C,An underlying condition or circumstance.,verified,ocr_exact,1-10(2) p37,n (width),single_source_korean_anchor,kaikki,,kaikki:basis:noun:0:884:s2,기초,10,anki_basic:1766527458755
+brand,"상표, 브랜드",noun,basic,B,a name given to a product or service,verified,ocr_exact,1-10(2) p37,,double_korean_anchor,oewn,oewn-brand__1.10.00..;oewn-brand__1.10.00..,kaikki:brand:noun:0:2505:s2;kaikki:brand:noun:0:2505:s3,브랜드,10,anki_basic:1766527458756
+department store,백화점,phrase,basic,C,"A large store containing many different departments, each of which deals in the sale of different goods or services.",verified,ocr_exact,1-10(2) p37,,single_source_korean_anchor,kaikki,,kaikki:department store:noun:0:7024:s0,백화점,10,anki_basic:1766527458757
+discount store,할인 점포,phrase,basic,D,,unverified,ocr_exact,1-10(2) p37,phr (badge),candidates_unaligned,,,,,10,anki_basic:1766527458758
+display,"전시하다, 진열하다, 전시, 진열",noun,basic,D,,unverified,ocr_exact,1-10(2) p37,v (badge),proposed_pair_needs_review,,,,,10,anki_basic:1766527458759
+fit,"(치수가)~에 꼭 맞다, ~에 적합하다",verb,basic,D,,unverified,ocr_exact,1-10(2) p37,v (badge),candidates_unaligned,,,,,10,anki_basic:1766527458760
+fully,"완전히, 충분히",adverb,basic,D,,unverified,ocr_prefix,1-10(2) p37,adv (badge),candidates_unaligned,,,,,10,anki_basic:1766527458761
+grocery,식료품점,noun,basic,D,,unverified,ocr_exact,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458762
+keep,"보유하다, 계속하다",verb,basic,B,"continue a certain state, condition, or activity",verified,ocr_exact,1-10(2) p37,v (badge),double_korean_anchor,oewn,oewn-keep__2.42.07..,kaikki:keep:verb:1:617:s0,계속하다,10,anki_basic:1766527458763
+store,"가게, 저장하다",verb,basic,D,,unverified,ocr_exact,1-10(2) p37,,candidates_unaligned,,,,,10,anki_basic:1766527458764
+tax,세금,noun,basic,C,"Money or goods collected by a government (or an entity to whom the government has delegated this power, e.g. in tax farming) to fund itself and its services, for example by levying a charge on income, purchases (sales), property or harvest, other than that money which is collected by the government in exchange for specific goods (e.g. the purchase of surplus vehicles).",verified,ocr_similar,1-10(2) p37,phr (width),single_source_korean_anchor,kaikki,,kaikki:tax:noun:1:134:s0,세금,10,anki_basic:1766527458765
+at the moment,지금,phrase,800,C,At this moment; right now.,unverified,ocr_exact,1-10(2) p38,phr (badge),single_source_only_sense,kaikki,,kaikki:at the moment:prep_phrase:0:6904:s0,,10,anki_800:1766527460771
+celebrate,축하하다,verb,800,D,,unverified,ocr_exact,1-10(2) p38,v (badge),proposed_pair_needs_review,,,,,10,anki_800:1766527460772
+decorative item,장식품,phrase,800,E,,unverified,ocr_exact,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460773
+discounted coupon,할인권,phrase,800,E,,unverified,ocr_exact,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460774
+for sale,팔려고 내놓은,phrase,800,C,Being offered for purchase.,verified,ocr_exact,1-10(2) p38,phr (badge),single_source_korean_anchor,kaikki,,kaikki:for sale:prep_phrase:0:6973:s0,팔려고 내놓은,10,anki_800:1766527460775
+half price,반값,phrase,800,E,,unverified,ocr_exact,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460776
+have A strapped to one's shoulder,~의 어깨에 A를 메고 있다,phrase,800,E,,unverified,ocr_similar,1-10(2) p38,,no_sense_record,,,,,10,anki_800:1766527460777
+instead,대신에,noun,800,E,,unverified,ocr_exact,1-10(2) p38,adv (badge),no_sense_record,,,,,10,anki_800:1766527460778
+make a purchase,구입하다,phrase,800,E,,unverified,ocr_prefix,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460779
+make no difference,"상관없다, 중요하지 않다",phrase,800,E,,unverified,ocr_exact,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460780
+make payment,지불하다,phrase,800,E,,unverified,ocr_prefix,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460781
+Not that I'm aware of,내가 아는 한 아니다.,phrase,800,E,,unverified,ocr_similar,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460782
+out of town,"시내에 없는, 다른 곳으로 떠난",phrase,800,D,,unverified,ocr_similar,1-10(2) p38,phr (badge),candidates_unaligned,,,,,10,anki_800:1766527460783
+overcoat,외투,noun,800,C,"A heavy garment worn over other clothes, for protection from cold or weather.",verified,ocr_similar_loose,1-10(2) p38,,single_source_korean_anchor,kaikki,,kaikki:overcoat:noun:0:6540:s0,외투,10,anki_800:1766527460784
+pay in cash,현찰로 지불하다,phrase,800,E,,unverified,ocr_variant_ocr,1-10(2) p38,,no_sense_record,,,,,10,anki_800:1766527460785
+put out for display,"~을 전시해 놓다, 진열해 놓다",phrase,800,E,,unverified,ocr_prefix,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460786
+shoelace,신발 끈,noun,800,B,a lace used for fastening shoes,unverified,ocr_variant_ocr,1-10(2) p38,,monosemous_pair,oewn,oewn-shoelace__1.06.00..,kaikki:shoelace:noun:0:2749:s0,,10,anki_800:1766527460787
+shopkeeper,가게 주인,adjective,800,E,,unverified,ocr_similar,1-10(2) p38,,no_sense_record,,,,,10,anki_800:1766527460788
+showroom,"진열실, 전시실",noun,800,B,an area where merchandise (such as cars) can be displayed,unverified,ocr_prefix,1-10(2) p38,n (badge),monosemous_pair,oewn,oewn-showroom__1.06.00..,kaikki:showroom:noun:0:6709:s0,,10,anki_800:1766527460789
+sleeve,(옷) 소매,noun,800,C,The part of a garment that covers the arm.,verified,ocr_variant_ocr,1-10(2) p38,,single_source_korean_anchor,kaikki,,kaikki:sleeve:noun:0:1943:s0,소매,10,anki_800:1766527460790
+souvenir,기념품,noun,800,C,"An item of sentimental value, that is given or kept to remember an event or location.",verified,ocr_prefix,1-10(2) p38,,single_source_korean_anchor,kaikki,,kaikki:souvenir:noun:0:1700:s0,기념품,10,anki_800:1766527460791
+stack,"더미, 쌓아 올리다",verb,800,D,,unverified,ocr_similar_loose,1-10(2) p38,,candidates_unaligned,,,,,10,anki_800:1766527460792
+stand in line,줄을 서다,phrase,800,E,,unverified,ocr_similar,1-10(2) p38,phr (badge),no_sense_record,,,,,10,anki_800:1766527460793
+storefront,가게 앞 공간,noun,800,D,,unverified,ocr_prefix,1-10(2) p38,,candidates_unaligned,,,,,10,anki_800:1766527460794
+stylish,"패션 감각이 있는, 멋진",noun,800,E,,unverified,ocr_similar_loose,1-10(2) p38,adj (badge),no_sense_record,,,,,10,anki_800:1766527460795
+tag,(물건에 붙어 있는) 꼬리표,noun,800,D,,unverified,ocr_variant_ocr,1-10(2) p38,,proposed_pair_needs_review,,,,,10,anki_800:1766527460796
+take the order,주문을 받다,phrase,800,E,,unverified,ocr_similar,1-10(2) p38,,no_sense_record,,,,,10,anki_800:1766527460797
+try on,(옷 따위를) 입어 보다,phrase,800,D,,unverified,ocr_similar_loose,1-10(2) p38,phr (badge),candidates_unaligned,,,,,10,anki_800:1766527460798
+underline,"밑줄을 긋다, 강조하다",verb,800,D,,unverified,ocr_similar,1-10(2) p38,n (width),proposed_pair_needs_review,,,,,10,anki_800:1766527460799
+watch band,(손목시계의) 시곗줄,phrase,800,E,,unverified,ocr_contains,1-10(2) p38,phr (width),no_sense_record,,,,,10,anki_800:1766527460800
+window-shopping,아이쇼핑,noun,800,C,The browsing of shop windows without any intention of buying.,verified,ocr_similar,1-10(2) p38,phr (width),single_source_korean_anchor,kaikki,,kaikki:window-shopping:noun:0:6999:s0,아이쇼핑,10,anki_800:1766527460801
+afford to do,"~할 수 있다, ~할 여유가 있다",phrase,800,E,,unverified,ocr_exact,1-10(2) p38,phr (width),no_sense_record,,,,,10,anki_800:1766527460802
+apparel,"의복, 의류",noun,800,B,clothing in general,verified,ocr_prefix,1-10(2) p38,,double_korean_anchor,oewn,oewn-apparel__1.06.00..,kaikki:apparel:noun:0:2203:s0,의류;의복,10,anki_800:1766527460803
+dairy products,유제품,phrase,800,C,"Any foodstuff made from milk, such as cheese or yogurt.",verified,ocr_variant_ocr,1-10(2) p39,,single_source_korean_anchor,kaikki,,kaikki:dairy product:noun:0:8990:s0,유제품,10,anki_800:1766527460804
+elsewhere,"다른 장소에서는, 다른 경우에는",adjective,800,E,,unverified,ocr_similar,1-10(2) p39,adv (badge),no_sense_record,,,,,10,anki_800:1766527460805
+gift certificate,상품권,phrase,800,C,"A gift voucher entitling the bearer to a free product or service, intended to be purchased as a gift.",unverified,ocr_exact,1-10(2) p39,phr (badge),single_source_only_sense,kaikki,,kaikki:gift certificate:noun:0:7346:s0,,10,anki_800:1766527460806
+glassware,유리 제품,noun,800,B,an article of tableware made of glass,unverified,ocr_exact,1-10(2) p39,,monosemous_pair,oewn,oewn-glassware__1.06.00..,kaikki:glassware:noun:0:4325:s0,,10,anki_800:1766527460807
+inexpensive,비싸지 않은,adjective,800,D,,unverified,ocr_prefix,1-10(2) p39,adj (badge),candidates_unaligned,,,,,10,anki_800:1766527460808
+lately,최근에,noun,800,E,,unverified,ocr_variant_ocr,1-10(2) p39,,no_sense_record,,,,,10,anki_800:1766527460809
+latest,최신의,adjective,800,D,,unverified,ocr_variant_ocr,1-10(2) p39,,candidates_unaligned,,,,,10,anki_800:1766527460810
+luxury,"사치, 사치품, 값비싼",noun,800,D,,unverified,ocr_variant_ocr,1-10(2) p39,,candidates_unaligned,,,,,10,anki_800:1766527460811
+outerwear,"겉옷, 외투",noun,800,D,,unverified,ocr_variant_ocr,1-10(2) p39,,proposed_pair_needs_review,,,,,10,anki_800:1766527460812
+outlet,"판매 대리점, 소매점, 콘센트",noun,800,D,,unverified,ocr_similar,1-10(2) p39,n (badge),candidates_unaligned,,,,,10,anki_800:1766527460813
+portable,휴대용의,adjective,800,D,,unverified,ocr_similar,1-10(2) p39,n (width),candidates_unaligned,,,,,10,anki_800:1766527460814
+readership,독자의 수,noun,800,D,,unverified,ocr_exact,1-10(2) p39,,candidates_unaligned,,,,,10,anki_800:1766527460815
+readily,"즉시, 손쉽게",adverb,800,C,"Without impediment, easily.",verified,ocr_prefix,1-10(2) p39,adv (badge),single_source_korean_anchor,kaikki,,kaikki:readily:adv:0:4510:s1,손쉽게,10,anki_800:1766527460816
+refundable,"환불 가능한, 변제 가능한",adjective,800,C,"Able to be refunded in case of customer dissatisfaction, loss, breakage etc.",unverified,ocr_exact,1-10(2) p39,n (width),single_source_only_sense,kaikki,,kaikki:refundable:adj:0:7171:s0,,10,anki_800:1766527460817
+value,"가치, 가격",noun,800,C,The quality that renders something desirable or valuable; worth.,verified,ocr_exact,1-10(2) p39,,single_source_korean_anchor,kaikki,,kaikki:value:noun:0:1796:s0,가치,10,anki_800:1766527460818
+a selection of,~의 모음,phrase,800,E,,unverified,ocr_similar,1-10(2) p39,phr (width),no_sense_record,,,,,10,anki_800:1766527460819
+a variety of,다양한,phrase,800,E,,unverified,ocr_similar,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460820
+at a discounted price,할인가로,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460821
+by check,수표로,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460822
+by credit card,신용카드로,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460823
+by no means,결코 ~이 아닌,phrase,800,D,,unverified,ocr_exact,1-10(2) p39,phr (badge),candidates_unaligned,,,,,10,anki_800:1766527460824
+extra charge,추가 비용,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460825
+get in line,줄에 들어가 서다,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460826
+give a discount,할인하다,phrase,800,E,,unverified,ocr_similar,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460827
+in cash,현금으로,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460828
+merchandise,"상품, 제품",noun,800,B,items for sale to the individual consumer,verified,ocr_exact,1-10(2) p39,n (width),double_korean_anchor,oewn,oewn-merchandise__1.06.00..,kaikki:merchandise:noun:1:30:s0,상품,10,anki_800:1766527460829
+no later than,늦어도 ~까지,phrase,800,D,,unverified,ocr_exact,1-10(2) p39,phr (badge),candidates_unaligned,,,,,10,anki_800:1766527460830
+showcase,"유리 진열장, 공개 행사",noun,800,D,,unverified,ocr_similar,1-10(2) p39,,candidates_unaligned,,,,,10,anki_800:1766527460831
+textile,"직물, 섬유",noun,800,D,,unverified,ocr_exact,1-10(2) p39,,candidates_unaligned,,,,,10,anki_800:1766527460832
+thrifty,"검소한, 검약하는",adjective,800,D,,unverified,ocr_exact,1-10(2) p39,adj (badge),candidates_unaligned,,,,,10,anki_800:1766527460833
+under warranty,보증 기간 중인,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460834
+valid for,"~에 유효한, ~동안 유효한",phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460835
+voucher,(현금 대용의) 상품권,noun,800,B,a negotiable certificate that can be detached and redeemed as needed,verified,ocr_exact,1-10(2) p39,,double_korean_anchor,oewn,oewn-voucher__1.10.00..,kaikki:voucher:noun:0:4414:s0,상품권,10,anki_800:1766527460836
+wholesale,"도매의, 다량의",adjective,800,D,,unverified,ocr_exact,1-10(2) p39,,candidates_unaligned,,,,,10,anki_800:1766527460837
+wrap a present,선물을 포장하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p39,phr (badge),no_sense_record,,,,,10,anki_800:1766527460838
+automotive repair shop,자동차 수리점,phrase,900,E,,unverified,ocr_similar,1-10(2) p40,,no_sense_record,,,,,10,anki_900:1766527462480
+awning,"(창・문 등의) 차양, 덮개",noun,900,D,,unverified,ocr_prefix,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462481
+cash register,"금전 등록기, 계산대",phrase,900,C,"A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept.",verified,ocr_exact,1-10(2) p40,phr (badge),single_source_korean_anchor,kaikki,,kaikki:cash register:noun:0:2344:s0,금전 등록기,10,anki_900:1766527462482
+cooking utensil,조리 기구,phrase,900,D,,unverified,ocr_exact,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462483
+display case,"진열 상자, 진열함",phrase,900,D,,unverified,ocr_prefix,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462484
+garment,의류,noun,900,D,,unverified,ocr_prefix,1-10(2) p40,n (badge),proposed_pair_needs_review,,,,,10,anki_900:1766527462485
+look different,다르게 보이다,phrase,900,E,,unverified,ocr_prefix,1-10(2) p40,phr (badge),no_sense_record,,,,,10,anki_900:1766527462486
+tailor,"재단사, 맞춤 제작하다",verb,900,D,,unverified,ocr_exact,1-10(2) p40,n (width),candidates_unaligned,,,,,10,anki_900:1766527462487
+wind a watch,시계태엽을 감다,phrase,900,E,,unverified,ocr_similar,1-10(2) p40,,no_sense_record,,,,,10,anki_900:1766527462488
+collectable,모을 수 있는,adjective,900,B,subject to or requiring payment especially as specified,unverified,ocr_exact,1-10(2) p40,,monosemous_pair,oewn,oewn-collectable__5.00.00.due.00,kaikki:collectable:adj:0:6183:s0,,10,anki_900:1766527462489
+conversely,"거꾸로, 반대로",adverb,900,D,,unverified,ocr_prefix,1-10(2) p40,adv (badge),candidates_unaligned,,,,,10,anki_900:1766527462490
+dilute,희석하다,verb,900,D,,unverified,ocr_prefix,1-10(2) p40,v (badge),candidates_unaligned,,,,,10,anki_900:1766527462491
+exposition,"박람회, 전시회",noun,900,D,,unverified,ocr_exact,1-10(2) p40,,proposed_pair_needs_review,,,,,10,anki_900:1766527462492
+generic,"회사 이름이 붙지 않은, 일반적인",adjective,900,D,,unverified,ocr_exact,1-10(2) p40,n (width),candidates_unaligned,,,,,10,anki_900:1766527462493
+high-end,최고급의,adjective,900,D,,unverified,ocr_exact,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462494
+merchant,"상인, 상업(용)의, 무역의",adjective,900,E,,unverified,ocr_exact,1-10(2) p40,,no_sense_record,,,,,10,anki_900:1766527462495
+observably,눈에 띄게,adverb,900,D,,unverified,ocr_exact,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462496
+predictably,예상대로,adverb,900,B,in a predictable manner or to a predictable degree,unverified,ocr_exact,1-10(2) p40,n (width),monosemous_pair,oewn,oewn-predictably__4.02.00..,kaikki:predictably:adv:0:7105:s0,,10,anki_900:1766527462497
+secondhand,"중고의, 간접의",adjective,900,B,previously used or owned by another,verified,ocr_exact,1-10(2) p40,,double_korean_anchor,oewn,oewn-secondhand__5.00.00.old.01,kaikki:secondhand:adj:0:5753:s0,중고,10,anki_900:1766527462498
+stylishly,"현대식으로, 유행에 따르게",adverb,900,B,in a stylish manner,unverified,ocr_exact,1-10(2) p40,adv (badge),monosemous_pair,oewn,oewn-stylishly__4.02.00..,kaikki:stylishly:adv:0:7064:s0,,10,anki_900:1766527462499
+at a substantial discount,엄청난 할인가에,phrase,900,E,,unverified,ocr_similar,1-10(2) p40,,no_sense_record,,,,,10,anki_900:1766527462500
+bargain over prices,가격을 흥정하다,phrase,900,E,,unverified,ocr_exact,1-10(2) p40,phr (badge),no_sense_record,,,,,10,anki_900:1766527462501
+embellish,"장식하다, 꾸미다",verb,900,D,,unverified,ocr_similar,1-10(2) p40,v (badge),proposed_pair_needs_review,,,,,10,anki_900:1766527462502
+embroider,수놓다,verb,900,D,,unverified,ocr_exact,1-10(2) p40,v (badge),candidates_unaligned,,,,,10,anki_900:1766527462503
+equivalent,"~에 상당하는, 맞먹는",adjective,900,D,,unverified,ocr_exact,1-10(2) p40,adj (badge),candidates_unaligned,,,,,10,anki_900:1766527462504
+exhilarating,아주 신나는,adjective,900,D,,unverified,ocr_contains,1-10(2) p40,adj (badge),candidates_unaligned,,,,,10,anki_900:1766527462505
+exorbitant price,터무니없이 비싼 가격,phrase,900,E,,unverified,ocr_similar,1-10(2) p40,phr (width),no_sense_record,,,,,10,anki_900:1766527462506
+exquisite,"정교한, 우아한",adjective,900,D,,unverified,ocr_exact,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462507
+extravagance,"사치품, 낭비",noun,900,D,,unverified,ocr_exact,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462508
+lavish,사치스러운,adjective,900,D,,unverified,ocr_exact,1-10(2) p40,adj (badge),candidates_unaligned,,,,,10,anki_900:1766527462509
+redeem,바꾸다,verb,900,D,,unverified,ocr_exact,1-10(2) p40,v (badge),candidates_unaligned,,,,,10,anki_900:1766527462510
+undercharge,너무 낮은 가격에 팔다,verb,900,D,,unverified,ocr_exact,1-10(2) p40,,candidates_unaligned,,,,,10,anki_900:1766527462511

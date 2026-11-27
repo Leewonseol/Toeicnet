@@ -1,0 +1,29 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+overdue,delinquent,wordnet_synset,oewn-overdue__5.00.00.due.00,monosemous_pair
+bill,account,wordnet_synset,oewn-bill__1.10.01..,double_korean_anchor
+bill,invoice,wordnet_synset,oewn-bill__1.10.01..,double_korean_anchor
+pleasure,delight,wordnet_synset,oewn-pleasure__1.09.00..,double_korean_anchor
+pleasure,joy,wordnet_synset,oewn-pleasure__1.09.00..,double_korean_anchor
+summary,sum-up,wordnet_synset,oewn-summary__1.10.00..,monosemous_pair
+interest,involvement,wordnet_synset,oewn-interest__1.21.00..,model_reviewed_pair
+convert,change over,wordnet_synset,oewn-convert__2.30.00..,model_reviewed_pair
+heavily,to a great extent,wordnet_synset,oewn-heavily__4.02.00..,model_reviewed_pair
+generously,liberally,wordnet_synset,oewn-generously__4.02.00..,monosemous_pair
+generously,munificently,wordnet_synset,oewn-generously__4.02.00..,monosemous_pair
+thankful,grateful,wordnet_synset,oewn-thankful__3.00.00..,monosemous_pair
+flawed,blemished,wordnet_synset,oewn-flawed__5.00.00.imperfect.00,monosemous_pair
+public holiday,legal holiday,wordnet_synset,oewn-public_holiday__1.28.00..,double_korean_anchor
+public holiday,national holiday,wordnet_synset,oewn-public_holiday__1.28.00..,double_korean_anchor
+belatedly,late,wordnet_synset,oewn-belatedly__4.02.00..,monosemous_pair
+belatedly,tardily,wordnet_synset,oewn-belatedly__4.02.00..,monosemous_pair
+confiscate,attach,wordnet_synset,oewn-confiscate__2.40.01..,monosemous_pair
+confiscate,impound,wordnet_synset,oewn-confiscate__2.40.01..,monosemous_pair
+confiscate,seize,wordnet_synset,oewn-confiscate__2.40.01..,monosemous_pair
+confiscate,sequester,wordnet_synset,oewn-confiscate__2.40.01..,monosemous_pair
+deterrent,balk,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair
+deterrent,baulk,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair
+deterrent,check,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair
+deterrent,handicap,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair
+deterrent,hinderance,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair
+deterrent,hindrance,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair
+deterrent,impediment,wordnet_synset,oewn-deterrent__1.09.00..,monosemous_pair

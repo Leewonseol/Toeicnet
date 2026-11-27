@@ -1,0 +1,11 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+foreign trade,compound_noun,C,Trade that is conducted between a nation and other nations.,kaikki,kaikki:foreign trade:noun:0:7848:s0
+role model,compound_noun,C,"A person who serves as an example, or whose behavior is emulated by others.",kaikki,kaikki:role model:noun:0:5983:s0
+business practice,compound_noun,C,"the usual procedure followed in business, or a particular business.",kaikki,kaikki:business practice:noun:0:7650:s0
+cope with,phrasal_or_multiword_verb,C,To come to terms with; to overcome any difficulties presented by.,kaikki,kaikki:cope with:verb:0:7450:s0
+exchange rate,compound_noun,B,the charge for exchanging currency of one country for currency of another,oewn,kaikki:exchange rate:noun:0:7162:s0
+so far,adverb,C,Until now; previously; yet.,kaikki,kaikki:so far:adv:0:2201:s0
+vicious cycle,compound_noun,C,"A situation in which the response to one problem creates a chain of problems, each making it more difficult to solve the original one.",kaikki,kaikki:vicious circle:noun:0:8666:s0
+without a doubt,phrase,C,certainly; doubtlessly; unquestionably; indisputably; doubtless; surely; no doubt; without any doubt.,kaikki,kaikki:without a doubt:prep_phrase:0:7258:s0
+financial statement,compound_noun,C,"A formal record of all relevant financial information of a business, person, or other entity, presented in a structured and standardized manner to allow easy understanding.",kaikki,kaikki:financial statement:noun:0:7469:s0
+parent company,compound_noun,C,A company that owns or controls one or more other companies.,kaikki,kaikki:parent company:noun:0:6944:s0

@@ -1,0 +1,169 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+complaint,불평,noun,core,C,"A grievance, problem, difficulty, or concern.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:complaint:noun:0:5333:s1,불평,13,anki_core:1766527458908
+deal,"처리하다, 거래하다, 분배하다, 거래",noun,core,B,a particular instance of buying or selling,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-deal__1.04.02..,kaikki:deal:noun:2:27:s2,거래,13,anki_core:1766527458909
+argumentative,"논쟁적인, 논쟁을 좋아하는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458910
+appropriately,적절하게,adverb,core,B,in accordance with what is appropriate or suitable for the circumstances,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-appropriately__4.02.00..,kaikki:appropriately:adv:0:6503:s0,,13,anki_core:1766527458911
+respond,응답하다,verb,core,B,react verbally,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-respond__2.32.00..,kaikki:respond:verb:0:5229:s0,응답하다,13,anki_core:1766527458912
+infuriate,"화나게 하다, 격분시키다",verb,core,B,make furious,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-infuriate__2.37.00..,kaikki:infuriate:verb:0:2861:s0,,13,anki_core:1766527458913
+courteous,예의 바른,noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,13,anki_core:1766527458914
+satisfaction,만족,noun,core,C,A fulfilment of a need or desire.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:satisfaction:noun:0:4157:s0,만족,13,anki_core:1766527458915
+inconvenience,"불편, ~에게 불편을 느끼게 하다",verb,core,B,to cause inconvenience or discomfort to,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-inconvenience__2.41.01..,kaikki:inconvenience:verb:0:2372:s0,,13,anki_core:1766527458916
+complete,"완료하다, 완성하다, 완료된, 완성된",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458917
+specific,"구체적인, 명확한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458918
+return,"반환하다, 반송하다, 돌아오다, 돌아가다",verb,core,C,To come or go back (to a place or person).,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:return:verb:0:3110:s0,돌아가다;돌아오다,13,anki_core:1766527458919
+replace,"~을 교체하다, 대체하다",verb,core,C,To supply or substitute an equivalent with.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:replace:verb:0:3898:s2,대체하다,13,anki_core:1766527458920
+presentation,발표,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458921
+evaluation,평가,noun,core,B,an appraisal of the value of something,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-evaluation__1.09.00..,kaikki:evaluation:noun:0:3376:s0,평가,13,anki_core:1766527458922
+confident,"확신하는, 자신 있는",adjective,core,B,persuaded of; very sure,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-confident__5.00.00.certain.02,kaikki:confident:adj:0:1979:s0,,13,anki_core:1766527458923
+cause,"~을 야기하다, ~의 원인이 되다, 원인",noun,core,C,"The source of, or reason for, an event or action; that which produces or effects a result.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:cause:noun:1:837:s0,원인,13,anki_core:1766527458924
+commentary,"해설, 설명",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458925
+notification,통지,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458926
+apologize,사과하다,verb,core,C,"To make an apology or excuse; to acknowledge some fault or offense, with expression of regret for it, by way of amends",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:apologize:verb:0:2202:s0,사과하다,13,anki_core:1766527458927
+interact,"소통하다, 교류하다, 상호 작용을 하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458928
+certain,"확신하는, 확실한, 특정한",adjective,core,B,having or feeling no doubt or uncertainty; confident and assured,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-certain__3.00.02..,kaikki:certain:adj:0:857:s0,확실하다,13,anki_core:1766527458929
+commitment,"헌신, 전념",noun,core,B,the act of binding yourself (intellectually or emotionally) to a course of action,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-commitment__1.04.00..,kaikki:commitment:noun:0:3851:s4,,13,anki_core:1766527458930
+applaud,"~에게 박수를 보내다, 칭찬하다",verb,core,B,express that something is worthy of praise,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-applaud__2.32.00..,kaikki:applaud:verb:0:883:s1,,13,anki_core:1766527458931
+biography,"약력, 전기",noun,core,C,"A person's life story, especially one published.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:biography:noun:0:2674:s0,전기,13,anki_core:1766527458932
+critical,"비판적인, 중요한, 위기의",adjective,core,B,forming or having the nature of a turning point or crisis,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-critical__5.00.00.crucial.00,kaikki:critical:adj:0:4677:s1,,13,anki_core:1766527458933
+depend on,"~에 달려 있다, ~에게 의존하다",phrase,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458934
+combine,결합시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458935
+priority,"우선권, 우선 사항",noun,core,C,An item's relative importance.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:priority:noun:0:3535:s0,우선권,13,anki_core:1766527458936
+observe,"관찰하다, 주시하다, (규칙 등을) 준수하다, 지키다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458937
+defective,결함이 있는,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458938
+reflect,"반영하다, 나타내다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,13,anki_core:1766527458939
+attitude,"태도, 마음가짐",noun,core,C,A disposition or state of mind.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:attitude:noun:0:4296:s1,태도,13,anki_core:1766527458940
+disappoint,실망시키다,verb,core,C,"To sadden or displease (someone) by underperforming, or by not delivering something promised or hoped for.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:disappoint:verb:0:5504:s0,실망시키다,13,anki_core:1766527458941
+inquire,"문의하다, 질문하다",verb,core,B,address a question to and expect an answer from,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-inquire__2.32.01..,kaikki:inquire:verb:0:5830:s0,,13,anki_core:1766527458942
+insert,삽입하다,verb,core,C,To put in between or into.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:insert:verb:0:4887:s0,삽입하다,13,anki_core:1766527458943
+disclose,"공개하다, 드러내다",verb,core,B,make known to the public information that was previously known only to a few people or that was meant to be kept a secret,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-disclose__2.32.00..,kaikki:disclose:verb:0:5304:s1,드러내다,13,anki_core:1766527458944
+guarantee,"보장하다, 보장",noun,core,B,a written assurance that some product or service will be provided or will meet certain specifications,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-guarantee__1.10.00..,kaikki:guarantee:noun:0:3091:s2,,13,anki_core:1766527458945
+politely,"공손하게, 예의 바르게",adverb,core,B,in a polite manner,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-politely__4.02.00..,kaikki:politely:adv:0:5831:s0,,13,anki_core:1766527458946
+seriously,진지하게,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,13,anki_core:1766527458947
+a couple of,"두 개의, 몇 개의",phrase,basic,C,more than one but indefinitely small in number,unverified,ocr_exact,11–15(1) p9,phr (width),single_source_only_sense,oewn,oewn-a_couple_of__5.00.00.few.00,,,13,anki_basic:1766527458948
+athlete,운동선수,noun,basic,C,"A person who actively participates in physical sports, especially with great skill; a sportsperson.",verified,ocr_exact,11–15(1) p9,n (width),single_source_korean_anchor,kaikki,,kaikki:athlete:noun:0:3236:s1,운동선수,13,anki_basic:1766527458949
+call for,"~을 요구하다, ~을 가지러 들르다",phrase,basic,D,,unverified,ocr_exact,11–15(1) p9,phr (badge),candidates_unaligned,,,,,13,anki_basic:1766527458950
+cart,쇼핑 카트,noun,basic,D,,unverified,ocr_similar,11–15(1) p9,,candidates_unaligned,,,,,13,anki_basic:1766527458951
+customer service representative,고객 서비스 담당 직원,phrase,basic,E,,unverified,ocr_similar,11–15(1) p9,,no_sense_record,,,,,13,anki_basic:1766527458952
+get a phone call,전화를 받다,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,,no_sense_record,,,,,13,anki_basic:1766527458953
+give a call,전화를 하다,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,,no_sense_record,,,,,13,anki_basic:1766527458954
+have one's hair cut,머리카락을 자르다,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,phr (width),no_sense_record,,,,,13,anki_basic:1766527458955
+just for a minute,잠시만 기다려 주세요,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,,no_sense_record,,,,,13,anki_basic:1766527458956
+laundry service,세탁 서비스,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,phr (badge),no_sense_record,,,,,13,anki_basic:1766527458957
+leave a message,메시지를 남기다,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,phr (badge),no_sense_record,,,,,13,anki_basic:1766527458958
+product logo,제품 상표,phrase,basic,E,,unverified,ocr_exact,11–15(1) p9,phr (badge),no_sense_record,,,,,13,anki_basic:1766527458959
+rinse,헹구다,verb,basic,D,,unverified,ocr_exact,11–15(1) p9,,candidates_unaligned,,,,,13,anki_basic:1766527458960
+voice mail,음성 메일,phrase,basic,D,,unverified,ocr_exact,11–15(1) p9,phr (badge),candidates_unaligned,,,,,13,anki_basic:1766527458961
+as soon as possible,가능한 한 빨리,phrase,basic,C,As soon as is possible; at one's earliest convenience; at the earliest possible time.,unverified,ocr_exact,11–15(1) p9,phr (width),single_source_only_sense,kaikki,,kaikki:as soon as possible:adv:0:7103:s0,,13,anki_basic:1766527458962
+complain,불평하다,verb,basic,D,,unverified,ocr_exact,11–15(1) p9,v (badge),candidates_unaligned,,,,,13,anki_basic:1766527458963
+counselor,상담원,noun,basic,D,,unverified,ocr_exact,11–15(1) p9,n (badge),candidates_unaligned,,,,,13,anki_basic:1766527458964
+for free,무료로,phrase,basic,D,,unverified,ocr_exact,11–15(1) p9,phr (width),candidates_unaligned,,,,,13,anki_basic:1766527458965
+grocery store,"식품점, 슈퍼마켓",phrase,basic,D,,unverified,ocr_similar,11–15(1) p9,,candidates_unaligned,,,,,13,anki_basic:1766527458966
+invite,초대하다,verb,basic,C,To ask for the presence or participation of someone or something.,verified,ocr_prefix,11–15(1) p9,v (badge),single_source_korean_anchor,kaikki,,kaikki:invite:verb:1:4515:s0,초대하다,13,anki_basic:1766527458967
+often,"자주, 흔히",adverb,basic,B,many times at short intervals,verified,ocr_exact,11–15(1) p9,adv (badge),double_korean_anchor,oewn,oewn-often__4.02.00..,kaikki:often:adv:0:3066:s0,자주;흔히,13,anki_basic:1766527458968
+positive,"긍정적인, 확신하는",adjective,basic,D,,unverified,ocr_exact,11–15(1) p9,,candidates_unaligned,,,,,13,anki_basic:1766527458969
+relationship,관계,noun,basic,B,a state of connectedness between people (especially an emotional connection),verified,ocr_exact,11–15(1) p9,,double_korean_anchor,oewn,oewn-relationship__1.26.00..,kaikki:relationship:noun:0:4364:s0,관계,13,anki_basic:1766527458970
+site,부지,noun,basic,D,,unverified,ocr_exact,11–15(1) p9,,candidates_unaligned,,,,,13,anki_basic:1766527458971
+successfully,성공적으로,adverb,basic,B,with success; in a successful manner,unverified,ocr_exact,11–15(1) p9,adv (badge),monosemous_pair,oewn,oewn-successfully__4.02.00..,kaikki:successfully:adv:0:4956:s0,,13,anki_basic:1766527458972
+unlike,~과 달리,noun,basic,D,,unverified,ocr_exact,11–15(1) p9,prep (badge),candidates_unaligned,,,,,13,anki_basic:1766527458973
+visit,"방문하다, 방문",noun,basic,C,A single act of visiting.,verified,ocr_exact,11–15(1) p9,,single_source_korean_anchor,kaikki,,kaikki:visit:noun:0:385:s0,방문;방문하다,13,anki_basic:1766527458974
+vivid,"생생한, 선명한",adjective,basic,D,,unverified,ocr_exact,11–15(1) p9,adj (badge),candidates_unaligned,,,,,13,anki_basic:1766527458975
+a loaf of,한 덩어리의,phrase,800,E,,unverified,image_confirmed,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460970
+affair,"일, 사건",noun,800,C,Any proceeding or action which it is wished to refer to or characterize vaguely.,verified,image_confirmed,11–15(1) p10,,single_source_korean_anchor,kaikki,,kaikki:affair:noun:0:2034:s1,사건,13,anki_800:1766527460971
+aisle,(좌석 열·진열대 사이의) 통로,noun,800,B,passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores,verified,image_confirmed,11–15(1) p10,,double_korean_anchor,oewn,oewn-aisle__1.06.00..,kaikki:aisle:noun:0:7030:s1,통로,13,anki_800:1766527460972
+annoy,짜증 나게 하다,verb,800,B,"cause annoyance in; disturb, especially by minor irritations",unverified,ocr_variant_ocr,11–15(1) p10,,monosemous_pair,oewn,oewn-annoy__2.37.00..,kaikki:annoy:verb:1:2101:s0,,13,anki_800:1766527460973
+at no charge,무료로,phrase,800,E,,unverified,ocr_prefix,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460974
+at no extra charge,추가 비용 없이,phrase,800,E,,unverified,ocr_similar,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460975
+be on another call,다른 전화를 받고 있다,phrase,800,E,,unverified,ocr_exact,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460976
+ceremonial,"의식의, 예식의",adjective,800,D,,unverified,ocr_similar,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460977
+for your own safety,여러분 자신의 안전을 위해,phrase,800,E,,unverified,ocr_similar,11–15(1) p10,n (width),no_sense_record,,,,,13,anki_800:1766527460978
+follow-up,"후속의, 추가의",adjective,800,E,,unverified,ocr_exact,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460979
+get a replacement,교환 받다,phrase,800,E,,unverified,ocr_similar,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460980
+handheld,휴대용의,adjective,800,D,,unverified,ocr_exact,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460981
+head toward,~쪽으로 향하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p10,v (badge),no_sense_record,,,,,13,anki_800:1766527460982
+hold the line,(전화를) 끊지 않고 기다리다,phrase,800,D,,unverified,ocr_similar,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460983
+just to make sure,확실히 해두기 위해,phrase,800,E,,unverified,ocr_exact,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460984
+leftover,"남은, 남은 음식",noun,800,D,,unverified,ocr_exact,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460985
+look through the manual,사용 설명서를 읽다,phrase,800,E,,unverified,ocr_exact,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460986
+on delivery,배달 시에,phrase,800,E,,unverified,ocr_similar,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460987
+pharmacist,약사,noun,800,D,,unverified,ocr_exact,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460988
+potential customer,잠재적 고객,phrase,800,E,,unverified,ocr_variant_ocr,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460989
+prepaid,"선불된, 선납된",adjective,800,B,used especially of mail; paid in advance,unverified,ocr_exact,11–15(1) p10,,monosemous_pair,oewn,oewn-prepaid__5.00.00.paid.00,kaikki:prepaid:adj:0:6326:s0,,13,anki_800:1766527460990
+questionnaire,설문지,noun,800,C,A form containing a list of questions; a means of gathering information for a survey.,verified,ocr_similar,11–15(1) p10,,single_source_korean_anchor,kaikki,,kaikki:questionnaire:noun:0:4666:s0,설문지,13,anki_800:1766527460991
+recall,"(결함 제품을) 회수하다, 회수",noun,800,D,,unverified,ocr_similar,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460992
+return a phone call,회답 전화를 하다,phrase,800,E,,unverified,ocr_similar,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460993
+ridiculously,터무니없이,noun,800,E,,unverified,ocr_similar,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527460994
+take back,반품하다,phrase,800,D,,unverified,ocr_exact,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527460995
+troubleshoot,"(문제를) 해결하다, (고장 난 것을) 검사하다",verb,800,B,solve problems,unverified,ocr_exact,11–15(1) p10,,monosemous_pair,oewn,oewn-troubleshoot__2.30.00..,kaikki:troubleshoot:verb:0:5373:s0,,13,anki_800:1766527460996
+tune,"조율하다, 음을 맞추다",verb,800,C,To adjust (a musical instrument) so that it produces the correct pitches.,verified,ocr_similar,11–15(1) p10,,single_source_korean_anchor,kaikki,,kaikki:tune:verb:0:4239:s0,조율하다,13,anki_800:1766527460997
+wardrobe,옷장,noun,800,B,a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes,verified,ocr_exact,11–15(1) p10,,double_korean_anchor,oewn,oewn-wardrobe__1.06.00..,kaikki:wardrobe:noun:0:2575:s6,옷장,13,anki_800:1766527460998
+water-resistant,"내수성의, 물이 잘 스며들지 않는",adjective,800,B,hindering the penetration of water,unverified,ocr_exact,11–15(1) p10,,monosemous_pair,oewn,oewn-water--resistant__5.00.00.impermeable.00,kaikki:water-resistant:adj:0:6969:s0,,13,anki_800:1766527460999
+adverse,불리한,adjective,800,D,,unverified,ocr_contains,11–15(1) p10,,candidates_unaligned,,,,,13,anki_800:1766527461000
+argument,"논의, 토론, 말다툼, 언쟁",noun,800,D,,unverified,ocr_similar,11–15(1) p10,,proposed_pair_needs_review,,,,,13,anki_800:1766527461001
+as requested,요청한 대로,phrase,800,E,,unverified,ocr_similar,11–15(1) p10,,no_sense_record,,,,,13,anki_800:1766527461002
+defect,결함,noun,800,B,an imperfection in an object or machine,verified,ocr_variant_ocr,11–15(1) p11,,double_korean_anchor,oewn,oewn-defect__1.26.00..,kaikki:defect:noun:0:2308:s0,결함,13,anki_800:1766527461003
+discouraging,낙담시키는,adjective,800,D,,unverified,ocr_similar,11–15(1) p11,,candidates_unaligned,,,,,13,anki_800:1766527461004
+escort,"호위하다, 호위대",noun,800,D,,unverified,ocr_prefix,11–15(1) p11,v (badge),candidates_unaligned,,,,,13,anki_800:1766527461005
+exterior,"외부의, 외관",noun,800,D,,unverified,ocr_exact,11–15(1) p11,,proposed_pair_needs_review,,,,,13,anki_800:1766527461006
+further,"더 먼, 그 이상의, 더 나아가서, 게다가",adverb,800,D,,unverified,ocr_exact,11–15(1) p11,adj (badge),candidates_unaligned,,,,,13,anki_800:1766527461007
+go on,(어떤 상황이) 계속되다,phrase,800,D,,unverified,ocr_exact,11–15(1) p11,,proposed_pair_needs_review,,,,,13,anki_800:1766527461008
+graciously,"상냥하게, 고맙게도",noun,800,E,,unverified,ocr_exact,11–15(1) p11,adv (badge),no_sense_record,,,,,13,anki_800:1766527461009
+inconvenient,불편한,adjective,800,D,,unverified,ocr_exact,11–15(1) p11,n (badge),candidates_unaligned,,,,,13,anki_800:1766527461010
+instant,즉각적인,adjective,800,D,,unverified,ocr_similar,11–15(1) p11,,candidates_unaligned,,,,,13,anki_800:1766527461011
+loyalty,"충실, 충성, 충성심",noun,800,D,,unverified,ocr_variant_ocr,11–15(1) p11,,candidates_unaligned,,,,,13,anki_800:1766527461012
+refer to,"~을 나타내다, ~에게 문의하다",phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461013
+smoothly,순조롭게,adverb,800,D,,unverified,ocr_exact,11–15(1) p11,adv (badge),candidates_unaligned,,,,,13,anki_800:1766527461014
+trait,(성격상의) 특성,noun,800,D,,unverified,ocr_exact,11–15(1) p11,,candidates_unaligned,,,,,13,anki_800:1766527461015
+user friendly,사용하기 쉬운,phrase,800,C,"Designed to be easy for an untrained user to use, with intuitive ordering of steps, consistent and logical placement of controls, etc.",unverified,ocr_exact,11–15(1) p11,adj (badge),single_source_only_sense,kaikki,,kaikki:user-friendly:adj:0:8909:s0,,13,anki_800:1766527461016
+willing,"기꺼이 하는, 자발적인",adjective,800,D,,unverified,ocr_exact,11–15(1) p11,adj (badge),candidates_unaligned,,,,,13,anki_800:1766527461017
+at one's request,~의 요청으로,phrase,800,E,,unverified,ocr_similar,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461018
+breakage,"파손, 파손물",noun,800,D,,unverified,ocr_exact,11–15(1) p11,,candidates_unaligned,,,,,13,anki_800:1766527461019
+compliment,"찬사, 칭찬",noun,800,B,a remark (or act) expressing praise and admiration,verified,ocr_exact,11–15(1) p11,,double_korean_anchor,oewn,oewn-compliment__1.10.00..,kaikki:compliment:noun:1:4323:s0,찬사;칭찬,13,anki_800:1766527461020
+cut back,"줄이다, 삭감하다",phrase,800,D,,unverified,ocr_exact,11–15(1) p11,phr (badge),proposed_pair_needs_review,,,,,13,anki_800:1766527461021
+even now,"아직까지도, 지금도",phrase,800,E,,unverified,ocr_exact,11–15(1) p11,,no_sense_record,,,,,13,anki_800:1766527461022
+faulty,결함이 있는,adjective,800,D,,unverified,ocr_exact,11–15(1) p11,adj (badge),candidates_unaligned,,,,,13,anki_800:1766527461023
+general population,일반 대중,phrase,800,D,,unverified,ocr_similar,11–15(1) p11,n (badge),candidates_unaligned,,,,,13,anki_800:1766527461024
+make a complaint,불평하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,,no_sense_record,,,,,13,anki_800:1766527461025
+make a request,요청하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (width),no_sense_record,,,,,13,anki_800:1766527461026
+make a response,응답하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461027
+make an appointment,예약을 하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,,no_sense_record,,,,,13,anki_800:1766527461028
+meet the standards,기준을 충족시키다,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461029
+mistakenly,실수로,adverb,800,D,,unverified,ocr_exact,11–15(1) p11,,candidates_unaligned,,,,,13,anki_800:1766527461030
+people of all ages,모든 연령대의 사람들,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461031
+post an notice on,~에 공지 사항을 게시하다,phrase,800,E,,unverified,ocr_similar,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461032
+service depot,서비스 센터,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (width),no_sense_record,,,,,13,anki_800:1766527461033
+stain,얼룩,noun,800,B,an act that brings discredit to the person who does it,verified,ocr_exact,11–15(1) p11,n (width),double_korean_anchor,oewn,oewn-stain__1.04.00..,kaikki:stain:noun:0:2431:s0,얼룩,13,anki_800:1766527461034
+trace,"(진행 과정을) 기술하다, 자취, 극소량",noun,800,D,,unverified,ocr_exact,11–15(1) p11,v (badge),proposed_pair_needs_review,,,,,13,anki_800:1766527461035
+wear out,"닳다, 닳게 하다",phrase,800,D,,unverified,ocr_exact,11–15(1) p11,phr (badge),proposed_pair_needs_review,,,,,13,anki_800:1766527461036
+work properly,제대로 작동하다,phrase,800,E,,unverified,ocr_exact,11–15(1) p11,phr (badge),no_sense_record,,,,,13,anki_800:1766527461037
+bare,"벌거벗은, 텅 빈",noun,900,D,,unverified,ocr_similar_loose,11–15(1) p12,phr (width),candidates_unaligned,,,,,13,anki_900:1766527462606
+button up,단추를 채워 잠그다,phrase,900,D,,unverified,ocr_exact,11–15(1) p12,phr (width),candidates_unaligned,,,,,13,anki_900:1766527462607
+casualty,"사상자, 부상자",noun,900,D,,unverified,ocr_exact,11–15(1) p12,,proposed_pair_needs_review,,,,,13,anki_900:1766527462608
+deputy,대리인,noun,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462609
+mend,수선하다,verb,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462610
+testimonial,"추천장, 감사장",noun,900,B,something that recommends (or expresses commendation of) a person or thing as worthy or desirable,verified,ocr_exact,11–15(1) p12,,double_korean_anchor,oewn,oewn-testimonial__1.10.00..,kaikki:testimonial:noun:0:5911:s1,추천장,13,anki_900:1766527462611
+adaptability,적응성,noun,900,D,,unverified,ocr_exact,11–15(1) p12,n (badge),candidates_unaligned,,,,,13,anki_900:1766527462612
+aggression,공격성,noun,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462613
+censure,비난; 비난하다,noun/verb,900,D,,unverified,ocr_exact,11–15(1) p12,,proposed_pair_needs_review,,,,,13,anki_900:1766527462614
+claims department,보험 보상 부서,phrase,900,E,,unverified,ocr_exact,11–15(1) p12,n (width),no_sense_record,,,,,13,anki_900:1766527462615
+compelling,"흡인력 있는, 설득력 있는",adjective,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462616
+decisive,"결정적인, 확고한",adjective,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462617
+distress,근심; 근심하게 하다,noun/verb,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462618
+facilitate,"가능하게 하다, 촉진하다",verb,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462619
+factually,사실상,noun,900,E,,unverified,ocr_exact,11–15(1) p12,,no_sense_record,,,,,13,anki_900:1766527462620
+fleetingly,아주 잠깐,noun,900,E,,unverified,ocr_exact,11–15(1) p12,n (width),no_sense_record,,,,,13,anki_900:1766527462621
+frankly,솔직히,adverb,900,B,(used as intensives reflecting the speaker's attitude) it is sincerely the case that,verified,ocr_exact,11–15(1) p12,v (badge),double_korean_anchor,oewn,oewn-frankly__4.02.00..,kaikki:frankly:adv:0:6011:s0,솔직히,13,anki_900:1766527462622
+nourish,"~에 영양분을 주다, 장려하다",verb,900,D,,unverified,ocr_exact,11–15(1) p12,v (badge),candidates_unaligned,,,,,13,anki_900:1766527462623
+reinforcement,"보강, 강화",noun,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462624
+sparsely,드문드문하게,adverb,900,B,in a sparse way,unverified,ocr_exact,11–15(1) p12,v (badge),monosemous_pair,oewn,oewn-sparsely__4.02.00..,kaikki:sparsely:adv:0:6828:s0,,13,anki_900:1766527462625
+unwavering,"확고한, 동요하지 않는",adjective,900,D,,unverified,ocr_exact,11–15(1) p12,n (width),candidates_unaligned,,,,,13,anki_900:1766527462626
+vibrant,활기에 넘치는,adjective,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462627
+wonder,~을 알고 싶다; 놀라운 것,noun/verb,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462628
+blemish,"흠, 결점",noun,900,D,,unverified,ocr_exact,11–15(1) p12,,proposed_pair_needs_review,,,,,13,anki_900:1766527462629
+genuine,"진짜의, 진실한",adjective,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462630
+hazard,위험,noun,900,D,,unverified,ocr_similar,11–15(1) p12,n (badge),proposed_pair_needs_review,,,,,13,anki_900:1766527462631
+intercept,도중에 가로막다,verb,900,D,,unverified,ocr_exact,11–15(1) p12,,candidates_unaligned,,,,,13,anki_900:1766527462632
+rebate,환불해주다; 환불,noun/verb,900,D,,unverified,ocr_exact,11–15(1) p12,,proposed_pair_needs_review,,,,,13,anki_900:1766527462633
+retrospective,"회고적인, 소급하는",adjective,900,D,,unverified,ocr_exact,11–15(1) p12,n (width),candidates_unaligned,,,,,13,anki_900:1766527462634
+slip one's mind,잊어버리다,phrase,900,C,pass out of one's memory,unverified,ocr_exact,11–15(1) p12,phr (badge),single_source_only_sense,oewn,oewn-slip_one-apos-s_mind__2.31.00..,,,13,anki_900:1766527462635
+soak up,(액체를) 빨아들이다,phrase,900,D,,unverified,ocr_exact,11–15(1) p12,,proposed_pair_needs_review,,,,,13,anki_900:1766527462636
+swiftly,"신속히, 빨리",adverb,900,B,in a swift manner,unverified,ocr_exact,11–15(1) p12,,monosemous_pair,oewn,oewn-swiftly__4.02.00..,kaikki:swiftly:adv:0:4361:s0,,13,anki_900:1766527462637

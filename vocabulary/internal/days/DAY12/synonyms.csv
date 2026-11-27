@@ -1,0 +1,52 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+automate,automatise,wordnet_synset,oewn-automate__2.30.00..,monosemous_pair
+automate,automatize,wordnet_synset,oewn-automate__2.30.00..,monosemous_pair
+properly,appropriately,wordnet_synset,oewn-properly__4.02.02..,model_reviewed_pair
+properly,befittingly,wordnet_synset,oewn-properly__4.02.02..,model_reviewed_pair
+properly,duly,wordnet_synset,oewn-properly__4.02.02..,model_reviewed_pair
+properly,fitly,wordnet_synset,oewn-properly__4.02.02..,model_reviewed_pair
+properly,fittingly,wordnet_synset,oewn-properly__4.02.02..,model_reviewed_pair
+properly,suitably,wordnet_synset,oewn-properly__4.02.02..,model_reviewed_pair
+place,lay,wordnet_synset,oewn-place__2.35.00..,model_reviewed_pair
+place,pose,wordnet_synset,oewn-place__2.35.00..,model_reviewed_pair
+place,position,wordnet_synset,oewn-place__2.35.00..,model_reviewed_pair
+place,put,wordnet_synset,oewn-place__2.35.00..,model_reviewed_pair
+place,set,wordnet_synset,oewn-place__2.35.00..,model_reviewed_pair
+fill,conform to,wordnet_synset,oewn-fill__2.34.02..,model_reviewed_pair
+fill,fit,wordnet_synset,oewn-fill__2.34.02..,model_reviewed_pair
+fill,fulfil,wordnet_synset,oewn-fill__2.34.02..,model_reviewed_pair
+fill,fulfill,wordnet_synset,oewn-fill__2.34.02..,model_reviewed_pair
+fill,meet,wordnet_synset,oewn-fill__2.34.02..,model_reviewed_pair
+fill,satisfy,wordnet_synset,oewn-fill__2.34.02..,model_reviewed_pair
+decision,conclusion,wordnet_synset,oewn-decision__1.09.00..,double_korean_anchor
+decision,determination,wordnet_synset,oewn-decision__1.09.00..,double_korean_anchor
+material,stuff,wordnet_synset,oewn-material__1.27.00..,double_korean_anchor
+limit,bound,wordnet_synset,oewn-limit__1.07.00..,double_korean_anchor
+limit,boundary,wordnet_synset,oewn-limit__1.07.00..,double_korean_anchor
+economize,conserve,wordnet_synset,oewn-economize__2.40.02..,model_reviewed_pair
+economize,economise,wordnet_synset,oewn-economize__2.40.02..,model_reviewed_pair
+economize,husband,wordnet_synset,oewn-economize__2.40.02..,model_reviewed_pair
+economize,save,wordnet_synset,oewn-economize__2.40.02..,model_reviewed_pair
+separately,individually,wordnet_synset,oewn-separately__4.02.02..,monosemous_pair
+separately,on an individual basis,wordnet_synset,oewn-separately__4.02.02..,monosemous_pair
+separately,one by one,wordnet_synset,oewn-separately__4.02.02..,monosemous_pair
+separately,severally,wordnet_synset,oewn-separately__4.02.02..,monosemous_pair
+separately,singly,wordnet_synset,oewn-separately__4.02.02..,monosemous_pair
+coming,approaching,wordnet_synset,oewn-coming__5.00.01.future.00,model_reviewed_pair
+coming,forthcoming,wordnet_synset,oewn-coming__5.00.01.future.00,model_reviewed_pair
+coming,upcoming,wordnet_synset,oewn-coming__5.00.01.future.00,model_reviewed_pair
+power,electrical energy,wordnet_synset,oewn-power__1.19.01..,double_korean_anchor
+power,electricity,wordnet_synset,oewn-power__1.19.01..,double_korean_anchor
+curved,curving,wordnet_synset,oewn-curved__3.00.00..,monosemous_pair
+scale model,miniature,textbook_note,,
+adapted,altered,wordnet_synset,oewn-adapted__5.00.00.modified.00,monosemous_pair
+utterly,absolutely,wordnet_synset,oewn-utterly__4.02.00..,monosemous_pair
+utterly,dead,wordnet_synset,oewn-utterly__4.02.00..,monosemous_pair
+utterly,perfectly,wordnet_synset,oewn-utterly__4.02.00..,monosemous_pair
+custom-made,custom,wordnet_synset,oewn-custom--made__3.00.00..,monosemous_pair
+outlast,outlive,wordnet_synset,oewn-outlast__2.42.00..,monosemous_pair
+outlast,survive,wordnet_synset,oewn-outlast__2.42.00..,monosemous_pair
+query,enquiry,wordnet_synset,oewn-query__1.10.00..,double_korean_anchor
+query,inquiry,wordnet_synset,oewn-query__1.10.00..,double_korean_anchor
+query,interrogation,wordnet_synset,oewn-query__1.10.00..,double_korean_anchor
+query,question,wordnet_synset,oewn-query__1.10.00..,double_korean_anchor

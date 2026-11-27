@@ -1,0 +1,9 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+business trip,compound_noun,C,"Travel for business purposes, often paid for at least partially by the employer.",kaikki,kaikki:business trip:noun:0:7309:s0
+thanks to,prepositional_expression,C,"Because of; normally used with a positive connotation, though it can be used sarcastically.",kaikki,kaikki:thanks to:prep:0:7301:s0
+instead of,prepositional_expression,C,In lieu of; in place of; rather than.,kaikki,kaikki:instead of:prep:0:6940:s0
+board of directors,compound_noun,C,A group of people elected by stockholders to establish corporate policies and make management decisions.,kaikki,kaikki:board of directors:noun:0:1077:s0
+cross one's arms,phrasal_or_multiword_verb,C,To link one's arms together across one's chest.,kaikki,kaikki:cross one's arms:verb:0:7420:s0
+followed by,conjunction,C,"And then, and after that.",kaikki,kaikki:followed by:conj:0:7340:s0
+project management,compound_noun,C,"The discipline of organizing and managing resources (e.g. people) in such a way that a project is completed within defined scope, quality, time and cost constraints.",kaikki,kaikki:project management:noun:0:7225:s0
+seating capacity,compound_noun,C,the number of people that can be seated in a vehicle or auditorium or stadium etc.,oewn,oewn-seating_capacity__1.07.00..

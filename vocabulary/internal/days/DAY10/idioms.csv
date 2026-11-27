@@ -1,0 +1,7 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+department store,compound_noun,C,"A large store containing many different departments, each of which deals in the sale of different goods or services.",kaikki,kaikki:department store:noun:0:7024:s0
+at the moment,phrase,C,At this moment; right now.,kaikki,kaikki:at the moment:prep_phrase:0:6904:s0
+for sale,phrase,C,Being offered for purchase.,kaikki,kaikki:for sale:prep_phrase:0:6973:s0
+dairy products,compound_noun,C,"Any foodstuff made from milk, such as cheese or yogurt.",kaikki,kaikki:dairy product:noun:0:8990:s0
+gift certificate,compound_noun,C,"A gift voucher entitling the bearer to a free product or service, intended to be purchased as a gift.",kaikki,kaikki:gift certificate:noun:0:7346:s0
+cash register,compound_noun,C,"A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept.",kaikki,kaikki:cash register:noun:0:2344:s0

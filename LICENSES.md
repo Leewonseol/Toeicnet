@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | Open English WordNet | 공식 WN-LMF 릴리스 사용. CC BY 4.0. | Open English Wordnet Community 및 Princeton WordNet에서 유래했음을 표시하고, 버전과 라이선스 링크, 추출·정규화 등 변경 내용을 남긴다. [권리 고지](https://github.com/globalwordnet/english-wordnet/blob/main/LICENSE.md), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Kaikki / Wiktextract | 공식 원시 덤프 다운로드. 영어 Wiktionary 원문에 적용되는 CC BY-SA 4.0 또는 해당 레코드의 GFDL 조건을 확인한다. | Wiktionary 기여자, 원본 항목과 가능한 버전·이력 링크, 라이선스 및 변경 사항을 표시한다. CC BY-SA 기반 공유에는 해당 적응물의 동일조건변경허락이 따른다. 별도 권리의 인용문·오디오 등은 해당 권리가 확인된 범위에서 내보낸다. [Kaikki 라이선스 안내](https://kaikki.org/dictionary/), [Wiktionary 저작권](https://en.wiktionary.org/wiki/Wiktionary:Copyrights), [Wikimedia 이용약관](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use) |
+| GCIDE | GNU 공식 배포 0.54 tarball 사용, GNU 키링으로 서명 확인. GPL-3.0-or-later. | GCIDE 텍스트를 포함한 생성물을 배포하면 GPL 3.0 이상의 조건과 출처 표시가 적용된다. 정의별 `<source>`(1913 Webster, WordNet 1.5, PJC 등)를 기록에 보존한다. [GCIDE](https://gcide.gnu.org.ua/about), [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html) |
 | OANC GrAF | 공식 다운로드 페이지는 상업적 연구·개발을 포함한 이용을 허용한다. | OANC 공개 페이지에서 사용·재배포 제한이 없음을 밝혔다. 출처와 버전, 장르 및 문서 식별자를 기록한다. 제공자는 정정 사항과 파생 자원의 환원을 요청한다. [OANC 이용 안내](https://anc.org/data/oanc/), [다운로드 및 프로젝트 요청](https://anc.org/data/oanc/download/) |
 | Tesseract 언어 모델 | 영어·한국어 4.1.0 모델의 공식 저장소 배포 파일 사용. | Apache 2.0 조건에 따라 필요한 고지와 라이선스를 함께 유지한다. [모델 라이선스](https://github.com/tesseract-ocr/tessdata_fast/blob/4.1.0/LICENSE) |
 
@@ -31,3 +32,7 @@ Wiktextract는 추출 소프트웨어와 Wiktionary 데이터가 별도로 공�
 - 해커스 원본 PDF, OCR, Quizlet 내보내기 파일과 해당 원천 텍스트를 담은 결과물은 로컬 작업 자료로 관리한다. GitHub 저장과 재배포 범위는 권리 확인을 거친다.
 - Quizlet의 공식 내보내기는 세트 작성자가 자기 세트를 내려받는 기능이다. 작업 입력은 사용자가 적법하게 보유한 내보내기 파일을 사용한다. [Quizlet 서비스 약관](https://quizlet.com/tos), [내보내기 안내](https://help.quizlet.com/hc/en-us/articles/360034345672-Exporting-your-sets)
 - 보카바이블 4.0의 공개 목차와 출판사 소개는 학습 설계의 참고 출처다. 프로젝트의 집단과 일정에는 자체 데이터의 근거를 연결한다. [스텝업 출판사 소개 및 목차](https://www.yes24.com/Product/Goods/61307273)
+
+## 학습용 vocabulary.csv
+
+교재 원뜻(`뜻` 열의 한국어)은 공개 라이선스 대상이 아니다. 나머지 열에 들어간 WordNet(CC BY 4.0)과 Wiktionary(CC BY-SA 4.0) 유래 텍스트는 각각의 출처 표시 조건을 따르며, 결합된 영어 부분은 CC BY-SA 4.0으로 표시한다. 출처: Open English Wordnet Community · Princeton WordNet(https://en-word.net/), 영어 Wiktionary 기여자 · Wiktextract/Kaikki(https://kaikki.org/).

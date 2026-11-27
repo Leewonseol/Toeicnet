@@ -1,0 +1,343 @@
+{
+  "user_agent": "ToeicnetSourceProbe/1.0 (+dictionary access check; Claude Code)",
+  "agent_tokens": [
+    "ToeicnetSourceProbe",
+    "Claude-User",
+    "ClaudeBot",
+    "Claude-SearchBot",
+    "Claude-Web",
+    "anthropic-ai"
+  ],
+  "sources": [
+    {
+      "source_id": "collins",
+      "checked_at": "2026-11-27T11:33:56+00:00",
+      "base_url": "https://www.collinsdictionary.com",
+      "robots_http_status": 200,
+      "access_status": "forbidden",
+      "access_reason": "HTTP 403 with a browser or CAPTCHA challenge",
+      "license_status": "license_required",
+      "license_note": "Site terms; Collins API requires registration and separate terms.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": true,
+      "provider_group": "collins",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://www.collinsdictionary.com/dictionary/english/apply",
+          "status": "forbidden",
+          "http_status": 403,
+          "reason": "HTTP 403 with a browser or CAPTCHA challenge",
+          "attempts": 1,
+          "definition_marker_hits": 0
+        }
+      ]
+    },
+    {
+      "source_id": "merriam_webster",
+      "checked_at": "2026-11-27T11:35:16+00:00",
+      "base_url": "https://www.merriam-webster.com",
+      "robots_http_status": 200,
+      "access_status": "available",
+      "access_reason": "definition marker present for 5/5 headwords",
+      "license_status": "license_required",
+      "license_note": "Site terms; Dictionary API (dictionaryapi.com) requires a key and its own terms.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": true,
+      "provider_group": "merriam_webster",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://www.merriam-webster.com/dictionary/apply",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 33
+        },
+        {
+          "headword": "requirement",
+          "url": "https://www.merriam-webster.com/dictionary/requirement",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 22
+        },
+        {
+          "headword": "acquire",
+          "url": "https://www.merriam-webster.com/dictionary/acquire",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 25
+        },
+        {
+          "headword": "contingent",
+          "url": "https://www.merriam-webster.com/dictionary/contingent",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 34
+        },
+        {
+          "headword": "employment",
+          "url": "https://www.merriam-webster.com/dictionary/employment",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 31
+        }
+      ]
+    },
+    {
+      "source_id": "merriam_webster_api",
+      "checked_at": "2026-11-27T11:34:03+00:00",
+      "base_url": "https://dictionaryapi.com",
+      "robots_http_status": 200,
+      "access_status": "authentication_required",
+      "access_reason": "service requires an API key",
+      "license_status": "license_required",
+      "license_note": "Terms read 2026-11-27: non-commercial only, 1000 queries/day per reference, at most two references; section 5(a) bars automated or recorded queries without written approval and 5(i) bars comparison with third-party products, so batch verification needs written approval.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": false,
+      "provider_group": "merriam_webster",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://dictionaryapi.com/api/v3/references/collegiate/json/apply",
+          "status": "authentication_required",
+          "http_status": 200,
+          "reason": "service requires an API key",
+          "attempts": 1,
+          "definition_marker_hits": 0
+        }
+      ]
+    },
+    {
+      "source_id": "etymonline",
+      "checked_at": "2026-11-27T11:34:06+00:00",
+      "base_url": "https://www.etymonline.com",
+      "robots_http_status": 200,
+      "access_status": "robots_denied",
+      "access_reason": "robots.txt disallows ClaudeBot",
+      "license_status": "license_required",
+      "license_note": "No public dump or API confirmed; bulk storage rights unconfirmed.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": true,
+      "provider_group": "etymonline",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://www.etymonline.com/word/apply",
+          "status": "robots_denied",
+          "http_status": null,
+          "reason": "robots.txt disallows ClaudeBot",
+          "attempts": 0
+        }
+      ]
+    },
+    {
+      "source_id": "cambridge",
+      "checked_at": "2026-11-27T11:34:09+00:00",
+      "base_url": "https://dictionary.cambridge.org",
+      "robots_http_status": 200,
+      "access_status": "available",
+      "access_reason": "definition marker present for 5/5 headwords",
+      "license_status": "license_required",
+      "license_note": "Commercial; data licensing via dictionary.cambridge.org/license.html.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": true,
+      "provider_group": "cambridge",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://dictionary.cambridge.org/dictionary/english/apply",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 13
+        },
+        {
+          "headword": "requirement",
+          "url": "https://dictionary.cambridge.org/dictionary/english/requirement",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 5
+        },
+        {
+          "headword": "acquire",
+          "url": "https://dictionary.cambridge.org/dictionary/english/acquire",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 10
+        },
+        {
+          "headword": "contingent",
+          "url": "https://dictionary.cambridge.org/dictionary/english/contingent",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 5
+        },
+        {
+          "headword": "employment",
+          "url": "https://dictionary.cambridge.org/dictionary/english/employment",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 8
+        }
+      ]
+    },
+    {
+      "source_id": "oxford",
+      "checked_at": "2026-11-27T11:34:29+00:00",
+      "base_url": "https://www.oxfordlearnersdictionaries.com",
+      "robots_http_status": 200,
+      "access_status": "robots_denied",
+      "access_reason": "robots.txt disallows Claude-Web, anthropic-ai",
+      "license_status": "license_required",
+      "license_note": "Commercial; Oxford Languages API is a separate licence.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": true,
+      "provider_group": "oxford",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/apply",
+          "status": "robots_denied",
+          "http_status": null,
+          "reason": "robots.txt disallows Claude-Web, anthropic-ai",
+          "attempts": 0
+        }
+      ]
+    },
+    {
+      "source_id": "longman",
+      "checked_at": "2026-11-27T11:34:33+00:00",
+      "base_url": "https://www.ldoceonline.com",
+      "robots_http_status": 200,
+      "access_status": "available",
+      "access_reason": "definition marker present for 5/5 headwords",
+      "license_status": "license_required",
+      "license_note": "Commercial; no public API or dump confirmed.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": true,
+      "provider_group": "longman",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://www.ldoceonline.com/dictionary/apply",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 9
+        },
+        {
+          "headword": "requirement",
+          "url": "https://www.ldoceonline.com/dictionary/requirement",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 5
+        },
+        {
+          "headword": "acquire",
+          "url": "https://www.ldoceonline.com/dictionary/acquire",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 6
+        },
+        {
+          "headword": "contingent",
+          "url": "https://www.ldoceonline.com/dictionary/contingent",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 6
+        },
+        {
+          "headword": "employment",
+          "url": "https://www.ldoceonline.com/dictionary/employment",
+          "status": "available",
+          "http_status": 200,
+          "reason": "definition marker present",
+          "attempts": 1,
+          "definition_marker_hits": 6
+        }
+      ]
+    },
+    {
+      "source_id": "britannica",
+      "checked_at": "2026-11-27T11:34:53+00:00",
+      "base_url": "https://www.britannica.com",
+      "robots_http_status": 200,
+      "access_status": "forbidden",
+      "access_reason": "HTTP 403 with a browser or CAPTCHA challenge",
+      "license_status": "license_required",
+      "license_note": "Shares the Merriam-Webster learner data lineage; not an independent source.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": false,
+      "provider_group": "merriam_webster",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://www.britannica.com/dictionary/apply",
+          "status": "forbidden",
+          "http_status": 403,
+          "reason": "HTTP 403 with a browser or CAPTCHA challenge",
+          "attempts": 1,
+          "definition_marker_hits": 0
+        }
+      ]
+    },
+    {
+      "source_id": "naver_dict",
+      "checked_at": "2026-11-27T11:34:56+00:00",
+      "base_url": "https://en.dict.naver.com",
+      "robots_http_status": 200,
+      "access_status": "robots_denied",
+      "access_reason": "robots.txt disallows ToeicnetSourceProbe, Claude-User, ClaudeBot, Claude-SearchBot, Claude-Web, anthropic-ai",
+      "license_status": "license_required",
+      "license_note": "Platform that redistributes other publishers' dictionaries; count the named provider, not Naver.",
+      "automated_collection_allowed": false,
+      "content_stored": false,
+      "independent_source": false,
+      "provider_group": "naver_dict",
+      "checks": [
+        {
+          "headword": "apply",
+          "url": "https://en.dict.naver.com/#/search?query=apply",
+          "status": "robots_denied",
+          "http_status": null,
+          "reason": "robots.txt disallows ToeicnetSourceProbe, Claude-User, ClaudeBot, Claude-SearchBot, Claude-Web, anthropic-ai",
+          "attempts": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+headword,formation_type,segmentation,bases,affixes,source_record
+accustomed,derivation,accustom + -ed,accustom,-ed,kaikki:accustomed:adj:0:1419
+corporation,derivation,corporate + -ion,corporate,-ion,kaikki:corporation:noun:0:1076
+demanding,derivation,demand + -ing,demand,-ing,kaikki:demanding:noun:0:6379
+efficiently,derivation,efficient + -ly,efficient,-ly,kaikki:efficiently:adv:0:7109
+directly,derivation,direct + -ly,direct,-ly,kaikki:directly:adv:0:4503
+remind,derivation,re- + mind,mind,re-,kaikki:remind:verb:0:3577
+assignment,derivation,assign + -ment,assign,-ment,kaikki:assignment:noun:0:6237
+release,derivation,re- + lease,lease,re-,kaikki:release:verb:2:3568
+absolutely,derivation,absolute + -ly,absolute,-ly,kaikki:absolutely:adv:0:55
+attentively,derivation,attentive + -ly,attentive,-ly,kaikki:attentively:adv:0:6750
+workshop,compound,work + shop,work;shop,,kaikki:workshop:noun:0:1059
+revision,derivation,re- + vision,vision,re-,kaikki:revision:verb:2:5841
+reluctantly,derivation,reluctant + -ly,reluctant,-ly,kaikki:reluctantly:adv:0:6028
+headquarters,compound,head + quarter,head;quarter,,kaikki:headquarters:noun:0:5077
+oversee,derivation,over- + see,see,over-,kaikki:oversee:verb:0:729
+involved,derivation,involve + -ed,involve,-ed,kaikki:involved:adj:0:6338
+daily,derivation,day + -ly,day,-ly,kaikki:daily:adj:1:1274
+tabletop,compound,table + top,table;top,,kaikki:tabletop:noun:0:7037
+as if,compound,as + if,as;if,,kaikki:as if:conj:0:6785
+offering,derivation,offer + -ing,offer,-ing,kaikki:offering:noun:0:6355
+bulletin board,compound,bulletin + board,bulletin;board,,kaikki:bulletin board:noun:0:6374
+endless,derivation,end + -less,end,-less,kaikki:endless:adj:0:5726
+reminder,derivation,remind + -er,remind,-er,kaikki:reminder:noun:0:5389
+roughly,derivation,rough + -ly,rough,-ly,kaikki:roughly:adv:0:3811
+boardroom,compound,board + room,board;room,,kaikki:boardroom:noun:0:7115
+including,derivation,include + -ing,include,-ing,kaikki:including:prep:0:6272
+panic,derivation,Pan + -ic,Pan,-ic,kaikki:panic:adj:0:7393
+secretarial,derivation,secretary + -al,secretary,-al,kaikki:secretarial:adj:0:5498
+popularize,derivation,popular + -ize,popular,-ize,kaikki:popularize:verb:0:5680
+sincerity,derivation,sincere + -ity,sincere,-ity,kaikki:sincerity:noun:0:6136
+utilization,derivation,utilize + -ation,utilize,-ation,kaikki:utilization:noun:0:5805
+administrative,derivation,administrate + -ive,administrate,-ive,kaikki:administrative:adj:0:4450
+impending,derivation,impend + -ing,impend,-ing,kaikki:impending:adj:0:6368
+proprietor,derivation,proprietary + -or,proprietary,-or,kaikki:proprietor:noun:0:2345
+telecommute,combining_forms,tele- + commute,commute,tele-,kaikki:telecommute:verb:0:6603

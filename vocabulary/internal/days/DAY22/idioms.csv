@@ -1,0 +1,17 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+guest speaker,compound_noun,C,A person who has been invited to present a speech at an event where they are not the host.,kaikki,kaikki:guest speaker:noun:0:7088:s0
+shake hands,phrasal_or_multiword_verb,C,"To grasp another person's hands as an expression of greeting, farewell, agreement, etc.",kaikki,kaikki:shake hands:verb:0:7223:s0
+write down,phrasal_or_multiword_verb,C,To produce or set (something) down in writing; to record something.,kaikki,kaikki:write down:verb:0:5054:s1
+result in,phrasal_or_multiword_verb,C,To bring about; to lead to.,kaikki,kaikki:result in:verb:0:8078:s0
+seating chart,compound_noun,C,Synonym of seating plan.,kaikki,kaikki:seating chart:noun:0:7946:s0
+keynote address,compound_noun,C,a speech setting forth the keynote,oewn,oewn-keynote_address__1.10.00..
+take notes,phrasal_or_multiword_verb,C,To make a record of what one hears or observes for future reference.,kaikki,kaikki:take notes:verb:0:5780:s0
+visual aid,compound_noun,C,"An item such as a prop, slide, or picture that appeals primarily to vision and is used to enhance the understanding of information presented orally or in writing.",kaikki,kaikki:visual aid:noun:0:7654:s0
+to start with,adverb,C,Synonym of to begin with.,kaikki,kaikki:to start with:adv:0:7854:s0
+get the point,phrasal_or_multiword_verb,C,To understand; to interpret correctly.,kaikki,kaikki:get the point:verb:0:7013:s0
+make a decision,phrasal_or_multiword_verb,C,To decide.,kaikki,kaikki:make a decision:verb:0:7269:s0
+run late,phrasal_or_multiword_verb,C,To be late; to fail to be on time.,kaikki,kaikki:run late:verb:0:7849:s0
+sit through,phrasal_or_multiword_verb,C,To unwillingly stay seated until the end of an event.,kaikki,kaikki:sit through:verb:0:7292:s0
+off chance,compound_noun,C,A possibility that is not likely or probable.,kaikki,kaikki:off chance:noun:0:6589:s0
+stand up for,phrasal_or_multiword_verb,C,"To speak or act in support or defense of (a person, a cause, a belief, or the like).",kaikki,kaikki:stand up for:verb:0:7270:s0
+summit meeting,compound_noun,C,a meeting of heads of governments,oewn,oewn-summit_meeting__1.14.00..

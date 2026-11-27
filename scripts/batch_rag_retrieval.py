@@ -15,7 +15,7 @@ from study_open_evidence import valid_context
 
 
 PRIMARY_SOURCES = ("hackers_anki_user", "hackers_back")
-EXTERNAL_SOURCES = frozenset({"oewn", "kaikki", "oanc", "ets", "toeic_kr"})
+EXTERNAL_SOURCES = frozenset({"oewn", "kaikki", "gcide", "oanc", "ets", "toeic_kr"})
 OFFICIAL_SOURCES = frozenset({"ets", "toeic_kr"})
 ATTESTED = frozenset({"source_attested", "cross_verified", "corpus_attested"})
 OLD_TAGS = frozenset({"archaic", "dated", "historical", "obsolete", "rare"})

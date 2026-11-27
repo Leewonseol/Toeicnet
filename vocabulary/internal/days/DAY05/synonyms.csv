@@ -1,0 +1,38 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+outline,abstract,wordnet_synset,oewn-outline__1.10.00..,model_reviewed_pair
+outline,precis,wordnet_synset,oewn-outline__1.10.00..,model_reviewed_pair
+outline,synopsis,wordnet_synset,oewn-outline__1.10.00..,model_reviewed_pair
+contain,comprise,wordnet_synset,oewn-contain__2.42.00..,model_reviewed_pair
+contain,incorporate,wordnet_synset,oewn-contain__2.42.00..,model_reviewed_pair
+provider,supplier,wordnet_synset,oewn-provider__1.18.00..,model_reviewed_pair
+remainder,balance,wordnet_synset,oewn-remainder__1.24.00..,double_korean_anchor
+remainder,residual,wordnet_synset,oewn-remainder__1.24.00..,double_korean_anchor
+remainder,residue,wordnet_synset,oewn-remainder__1.24.00..,double_korean_anchor
+remainder,residuum,wordnet_synset,oewn-remainder__1.24.00..,double_korean_anchor
+remainder,rest,wordnet_synset,oewn-remainder__1.24.00..,double_korean_anchor
+essential,indispensable,wordnet_synset,oewn-essential__5.00.00.necessary.00,double_korean_anchor
+divide,carve up,wordnet_synset,oewn-divide__2.41.00..,double_korean_anchor
+divide,dissever,wordnet_synset,oewn-divide__2.41.00..,double_korean_anchor
+divide,separate,wordnet_synset,oewn-divide__2.41.00..,double_korean_anchor
+divide,split,wordnet_synset,oewn-divide__2.41.00..,double_korean_anchor
+divide,split up,wordnet_synset,oewn-divide__2.41.00..,double_korean_anchor
+face,front,wordnet_synset,oewn-face__2.42.00..,model_reviewed_pair
+face,look,wordnet_synset,oewn-face__2.42.00..,model_reviewed_pair
+e-mail,e-mail message,wordnet_synset,oewn-e--mail__1.10.01..,double_korean_anchor
+e-mail,email,wordnet_synset,oewn-e--mail__1.10.01..,double_korean_anchor
+e-mail,email message,wordnet_synset,oewn-e--mail__1.10.01..,double_korean_anchor
+conceal,hold back,wordnet_synset,oewn-conceal__2.39.00..,double_korean_anchor
+conceal,hold in,wordnet_synset,oewn-conceal__2.39.00..,double_korean_anchor
+remaining,left,wordnet_synset,oewn-remaining__5.00.00.unexhausted.00,monosemous_pair
+remaining,left over,wordnet_synset,oewn-remaining__5.00.00.unexhausted.00,monosemous_pair
+remaining,leftover,wordnet_synset,oewn-remaining__5.00.00.unexhausted.00,monosemous_pair
+remaining,odd,wordnet_synset,oewn-remaining__5.00.00.unexhausted.00,monosemous_pair
+remaining,unexpended,wordnet_synset,oewn-remaining__5.00.00.unexhausted.00,monosemous_pair
+proofread,proof,wordnet_synset,oewn-proofread__2.31.00..,monosemous_pair
+company,troupe,wordnet_synset,oewn-company__1.14.02..,double_korean_anchor
+rephrase,paraphrase,wordnet_synset,oewn-rephrase__2.32.00..,monosemous_pair
+rephrase,reword,wordnet_synset,oewn-rephrase__2.32.00..,monosemous_pair
+concisely,briefly,wordnet_synset,oewn-concisely__4.02.00..,monosemous_pair
+concisely,in brief,wordnet_synset,oewn-concisely__4.02.00..,monosemous_pair
+concisely,in short,wordnet_synset,oewn-concisely__4.02.00..,monosemous_pair
+concisely,shortly,wordnet_synset,oewn-concisely__4.02.00..,monosemous_pair

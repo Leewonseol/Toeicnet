@@ -1,0 +1,58 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+rapidly,apace,wordnet_synset,oewn-rapidly__4.02.00..,model_reviewed_pair
+rapidly,chop-chop,wordnet_synset,oewn-rapidly__4.02.00..,model_reviewed_pair
+rapidly,in short order,wordnet_synset,oewn-rapidly__4.02.00..,model_reviewed_pair
+rapidly,quickly,wordnet_synset,oewn-rapidly__4.02.00..,model_reviewed_pair
+rapidly,speedily,wordnet_synset,oewn-rapidly__4.02.00..,model_reviewed_pair
+particular,peculiar,wordnet_synset,oewn-particular__5.00.00.specific.00,model_reviewed_pair
+particular,special,wordnet_synset,oewn-particular__5.00.00.specific.00,model_reviewed_pair
+lead,conduct,wordnet_synset,oewn-lead__2.38.01..,double_korean_anchor
+lead,direct,wordnet_synset,oewn-lead__2.38.01..,double_korean_anchor
+lead,guide,wordnet_synset,oewn-lead__2.38.01..,double_korean_anchor
+lead,take,wordnet_synset,oewn-lead__2.38.01..,double_korean_anchor
+period,period of time,wordnet_synset,oewn-period__1.28.00..,model_reviewed_pair
+period,time period,wordnet_synset,oewn-period__1.28.00..,model_reviewed_pair
+indicator,index,wordnet_synset,oewn-indicator__1.10.00..,model_reviewed_pair
+indicator,index number,wordnet_synset,oewn-indicator__1.10.00..,model_reviewed_pair
+indicator,indicant,wordnet_synset,oewn-indicator__1.10.00..,model_reviewed_pair
+industry,manufacture,wordnet_synset,oewn-industry__1.04.00..,model_reviewed_pair
+substitute,exchange,wordnet_synset,oewn-substitute__2.40.00..,model_reviewed_pair
+substitute,interchange,wordnet_synset,oewn-substitute__2.40.00..,model_reviewed_pair
+substitute,replace,wordnet_synset,oewn-substitute__2.40.00..,model_reviewed_pair
+consequence,effect,wordnet_synset,oewn-consequence__1.19.00..,model_reviewed_pair
+consequence,event,wordnet_synset,oewn-consequence__1.19.00..,model_reviewed_pair
+consequence,issue,wordnet_synset,oewn-consequence__1.19.00..,model_reviewed_pair
+consequence,outcome,wordnet_synset,oewn-consequence__1.19.00..,model_reviewed_pair
+consequence,result,wordnet_synset,oewn-consequence__1.19.00..,model_reviewed_pair
+consequence,upshot,wordnet_synset,oewn-consequence__1.19.00..,model_reviewed_pair
+impede,hinder,wordnet_synset,oewn-impede__2.41.00..,model_reviewed_pair
+adversity,hard knocks,wordnet_synset,oewn-adversity__1.26.00..,double_korean_anchor
+adversity,hardship,wordnet_synset,oewn-adversity__1.26.00..,double_korean_anchor
+beginning,first,wordnet_synset,oewn-beginning__5.00.00.opening.00,monosemous_pair
+differently,otherwise,wordnet_synset,oewn-differently__4.02.00..,monosemous_pair
+nationwide,countrywide,wordnet_synset,oewn-nationwide__5.00.00.comprehensive.00,monosemous_pair
+neighboring,adjacent,wordnet_synset,oewn-neighboring__5.00.00.connected.00,monosemous_pair
+neighboring,conterminous,wordnet_synset,oewn-neighboring__5.00.00.connected.00,monosemous_pair
+neighboring,contiguous,wordnet_synset,oewn-neighboring__5.00.00.connected.00,monosemous_pair
+neighboring,neighbouring,wordnet_synset,oewn-neighboring__5.00.00.connected.00,monosemous_pair
+worsen,decline,wordnet_synset,oewn-worsen__2.30.00..,double_korean_anchor
+cost-effective,cost-efficient,wordnet_synset,oewn-cost--effective__5.00.00.efficient.00,monosemous_pair
+downturn,downswing,wordnet_synset,oewn-downturn__1.04.00..,monosemous_pair
+exchange rate,rate of exchange,wordnet_synset,oewn-exchange_rate__1.21.00..,double_korean_anchor
+so far,to date,textbook_note,,
+synthesis,synthetic thinking,wordnet_synset,oewn-synthesis__1.09.00..,double_korean_anchor
+deteriorate,degenerate,wordnet_synset,oewn-deteriorate__2.29.00..,double_korean_anchor
+deteriorate,devolve,wordnet_synset,oewn-deteriorate__2.29.00..,double_korean_anchor
+deteriorate,drop,wordnet_synset,oewn-deteriorate__2.29.00..,double_korean_anchor
+leisurely,at leisure,wordnet_synset,oewn-leisurely__4.02.00..,monosemous_pair
+slowdown,lag,wordnet_synset,oewn-slowdown__1.04.00..,monosemous_pair
+slowdown,retardation,wordnet_synset,oewn-slowdown__1.04.00..,monosemous_pair
+ailing,indisposed,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+ailing,peaked,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+ailing,poorly,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+ailing,seedy,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+ailing,sickly,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+ailing,under the weather,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+ailing,unwell,wordnet_synset,oewn-ailing__5.00.00.ill.01,monosemous_pair
+nontransferable,unassignable,wordnet_synset,oewn-nontransferable__5.00.00.inalienable.00,monosemous_pair
+nontransferable,untransferable,wordnet_synset,oewn-nontransferable__5.00.00.inalienable.00,monosemous_pair

@@ -1,0 +1,34 @@
+headword,formation_type,segmentation,bases,affixes,source_record
+coordination,derivation,coordinate + -ion,coordinate,-ion,kaikki:coordination:noun:0:3413
+usually,derivation,usual + -ly,usual,-ly,kaikki:usually:adv:0:2853
+reschedule,derivation,re- + schedule,schedule,re-,kaikki:reschedule:verb:0:6560
+meeting,derivation,meet + -ing,meet,-ing,kaikki:meeting:noun:1:154
+easy,derivation,ease + -y,ease,-y,kaikki:easy:adj:0:3145
+suggestion,derivation,suggest + -ion,suggest,-ion,kaikki:suggestion:noun:0:3021
+attention,derivation,attend + -tion,attend,-tion,kaikki:attention:noun:0:705
+coincidentally,derivation,coincidental + -ly,coincidental,-ly,kaikki:coincidentally:adv:0:7075
+undergo,derivation,under- + go,go,under-,kaikki:undergo:verb:0:5169
+outcome,compound,out + come,out;come,,kaikki:outcome:noun:0:926
+narrowly,derivation,narrow + -ly,narrow,-ly,kaikki:narrowly:adv:0:6435
+differ,derivation,diff + -er,diff,-er,kaikki:differ:noun:2:897
+organize,derivation,organ + -ize,organ,-ize,kaikki:organize:verb:0:3702
+understanding,derivation,understand + -ing,understand,-ing,kaikki:understanding:adj:2:4661
+constructive,derivation,construct + -ive,construct,-ive,kaikki:constructive:adj:0:6526
+irrelevant,derivation,ir- + relevant,relevant,ir-,kaikki:irrelevant:adj:0:3768
+punctually,derivation,punctual + -ly,punctual,-ly,kaikki:punctually:adv:0:7067
+conversation,derivation,converse + -ation,converse,-ation,kaikki:conversation:noun:0:1851
+gathering,derivation,gather + -ing,gather,-ing,kaikki:gathering:noun:1:5296
+weekly,derivation,week + -ly,week,-ly,kaikki:weekly:adv:0:393
+convention,derivation,convene + -tion,convene,-tion,kaikki:convention:noun:0:2143
+conventional,derivation,convention + -al,convention,-al,kaikki:conventional:adj:0:2141
+misprint,derivation,mis- + print,print,mis-,kaikki:misprint:noun:0:6662
+controversial,derivation,controversy + -al,controversy,-al,kaikki:controversial:adj:0:4613
+reassure,derivation,re- + assure,assure,re-,kaikki:reassure:verb:0:6851
+turn out,compound,turn + out,turn;out,,kaikki:turn out:verb:0:1564
+conversationally,derivation,conversational + -ly,conversational,-ly,kaikki:conversationally:adv:0:7119
+illegible,derivation,in- + legible,legible,in-,kaikki:illegible:adj:0:3802
+presumably,derivation,presumable + -ly,presumable,-ly,kaikki:presumably:adv:0:7168
+abridgment,derivation,abridge + -ment,abridge,-ment,kaikki:abridgment:noun:0:52
+coherent,derivation,cohere + -ent,cohere,-ent,kaikki:coherent:adj:0:4328
+distinguished,derivation,distinguish + -ed,distinguish,-ed,kaikki:distinguished:adj:0:6291
+uphold,derivation,up- + hold,hold,up-,kaikki:uphold:verb:0:819

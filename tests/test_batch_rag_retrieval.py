@@ -22,7 +22,8 @@ class EvidenceRetrievalTests(unittest.TestCase):
             "INSERT INTO sources(source_id,title,independence_group,license,version) VALUES(?,?,?,?,?)",
             [("hackers_back", "PDF", "local_input", None, None),
              ("oewn", "WordNet", "globalwordnet", "CC BY", "2025"),
-             ("kaikki", "Kaikki", "wiktionary", "CC BY-SA", "snapshot")],
+             ("kaikki", "Kaikki", "wiktionary", "CC BY-SA", "snapshot"),
+             ("gcide", "GCIDE", "gcide", "GPL-3.0-or-later", "0.54")],
         )
 
     def occurrence(self, word, pos, korean, key):
@@ -52,6 +53,29 @@ class EvidenceRetrievalTests(unittest.TestCase):
         retriever = EvidenceRetriever(self.db)
         return {target["occurrence_id"]: retriever.retrieve(target, per_channel=limit)
                 for target in retriever.targets()}
+
+    def test_gcide_lineage_reaches_the_verifier(self):
+        from batch_rag_verify import ASSESSMENT_FIELDS, adjudicate_english
+        self.occurrence("apply", "verb", "지원하다", "apply-page")
+        self.candidate("wn", "apply", "Ask for something formally.", pos="verb")
+        self.candidate("gw", "apply", "To make a formal request for something.", pos="verb", source="gcide",
+                       lineage="wordnet", derived_from=["globalwordnet", "oewn", "wordnet"])
+        self.candidate("gb", "apply", "To submit a written request.", pos="verb", source="gcide",
+                       lineage="webster1913", derived_from=["webster1913"])
+        packet = self.packets()["apply-page"]
+        senses = {row["source_record_id"]: row for row in packet["senses"]}
+        self.assertEqual({senses[key]["source_id"] for key in senses}, {"oewn", "gcide"})
+        case = {"case_key": "k", "part_of_speech": "verb", "original_korean_meaning": "지원하다"}
+
+        def judge(*keys):
+            decision = {"case_key": "k", "verdict": "equivalent",
+                        "candidate_ids": [senses[key]["candidate_id"] for key in keys],
+                        "definition": "To request formally.", "reason": "Same sense.",
+                        "assessment": {field: "Considered." for field in ASSESSMENT_FIELDS}}
+            return adjudicate_english(packet["senses"], case=case, decision=decision)["grade"]
+
+        self.assertEqual(judge("wn", "gw"), "D")
+        self.assertEqual(judge("wn", "gb"), "B")
 
     def test_korean_spelling_clue_reranks_without_verifying_a_sense(self):
         self.occurrence("claim", "noun", "주장, 요구", "claim-page")

@@ -1,0 +1,15 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+award ceremony,compound_noun,C,"A ceremony, with a theme, at which awards are given out.",kaikki,kaikki:award ceremony:noun:0:7239:s0
+it's about time,interjection,C,Used to express impatience at the eventual occurrence of something that the speaker or writer has deemed to be long overdue.,kaikki,kaikki:it's about time:intj:0:2341:s0
+job satisfaction,compound_noun,C,A feeling of contentment that employees derive from their work.,kaikki,kaikki:job satisfaction:noun:0:7670:s0
+know like the back of one's hand,phrasal_or_multiword_verb,C,To be intimately knowledgeable about something.,kaikki,kaikki:know like the back of one's hand:verb:0:6263:s0
+safety drill,compound_noun,C,An emergency preparedness training activity such as a fire drill or an earthquake drill.,kaikki,kaikki:safety drill:noun:0:8089:s0
+show around,phrasal_or_multiword_verb,C,"To accustom (someone) to a physical place, especially a building, site for an event, etc.",kaikki,kaikki:show around:verb:0:7933:s0
+take place,phrasal_or_multiword_verb,B,come to pass,oewn,kaikki:take place:verb:0:2585:s0
+occupational safety and health,compound_noun,C,"The activities and policies aimed at protecting the safety, health and welfare of people engaged in work or employment.",kaikki,kaikki:occupational safety and health:noun:0:7540:s0
+paid vacation,compound_noun,C,a vacation from work by an employee with pay granted,oewn,oewn-paid_vacation__1.28.00..
+retirement plan,compound_noun,C,a plan for setting aside money to be spent after retirement,oewn,oewn-retirement_plan__1.09.00..
+work environment,compound_noun,C,Synonym of working environment.,kaikki,kaikki:work environment:noun:0:8052:s0
+maternity leave,compound_noun,C,A leave of absence from a job for a mother to care of a baby.,kaikki,kaikki:maternity leave:noun:0:7334:s0
+fringe benefits,compound_noun,C,"A benefit received in addition to the normal benefits of holding a job, or, by extension, any relationship to the source of the benefit.",kaikki,kaikki:fringe benefit:noun:0:8944:s0
+severance pay,compound_noun,C,"Money paid as compensation to someone whose employment is ended, often in exchange of waiver.",kaikki,kaikki:severance pay:noun:0:7276:s0

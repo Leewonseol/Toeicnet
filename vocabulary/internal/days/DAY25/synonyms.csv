@@ -1,0 +1,49 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+detailed,elaborate,wordnet_synset,oewn-detailed__5.00.00.careful.00,monosemous_pair
+detailed,elaborated,wordnet_synset,oewn-detailed__5.00.00.careful.00,monosemous_pair
+intersection,carrefour,wordnet_synset,oewn-intersection__1.06.00..,double_korean_anchor
+intersection,crossing,wordnet_synset,oewn-intersection__1.06.00..,double_korean_anchor
+intersection,crossroad,wordnet_synset,oewn-intersection__1.06.00..,double_korean_anchor
+intersection,crossway,wordnet_synset,oewn-intersection__1.06.00..,double_korean_anchor
+trust,believe,wordnet_synset,oewn-trust__2.31.02..,double_korean_anchor
+pass,go by,wordnet_synset,oewn-pass__2.38.05..,double_korean_anchor
+pass,go past,wordnet_synset,oewn-pass__2.38.05..,double_korean_anchor
+pass,pass by,wordnet_synset,oewn-pass__2.38.05..,double_korean_anchor
+pass,surpass,wordnet_synset,oewn-pass__2.38.05..,double_korean_anchor
+pass,travel by,wordnet_synset,oewn-pass__2.38.05..,double_korean_anchor
+prominently,conspicuously,wordnet_synset,oewn-prominently__4.02.00..,monosemous_pair
+reverse,rearward,wordnet_synset,oewn-reverse__5.00.00.backward.01,model_reviewed_pair
+obstruct,block,wordnet_synset,oewn-obstruct__2.39.04..,model_reviewed_pair
+hood,bonnet,wordnet_synset,oewn-hood__1.06.00..,double_korean_anchor
+hood,cowl,wordnet_synset,oewn-hood__1.06.00..,double_korean_anchor
+hood,cowling,wordnet_synset,oewn-hood__1.06.00..,double_korean_anchor
+route,itinerary,wordnet_synset,oewn-route__1.15.00..,double_korean_anchor
+route,path,wordnet_synset,oewn-route__1.15.00..,double_korean_anchor
+solve,resolve,wordnet_synset,oewn-solve__2.31.01..,double_korean_anchor
+broadcast,program,wordnet_synset,oewn-broadcast__1.10.01..,double_korean_anchor
+broadcast,programme,wordnet_synset,oewn-broadcast__1.10.01..,double_korean_anchor
+footrest,footstool,textbook_note,,
+footrest,footstool,wordnet_synset,oewn-footrest__1.06.00..,monosemous_pair
+footrest,ottoman,wordnet_synset,oewn-footrest__1.06.00..,monosemous_pair
+footrest,tuffet,wordnet_synset,oewn-footrest__1.06.00..,monosemous_pair
+roadwork,road construction,textbook_note,,
+walkway,paseo,wordnet_synset,oewn-walkway__1.06.00..,monosemous_pair
+walkway,walk,wordnet_synset,oewn-walkway__1.06.00..,monosemous_pair
+congested,engorged,wordnet_synset,oewn-congested__5.00.00.full.00,monosemous_pair
+principal,primary,textbook_note,,
+principal,head,wordnet_synset,oewn-principal__1.18.00..,double_korean_anchor
+principal,head teacher,wordnet_synset,oewn-principal__1.18.00..,double_korean_anchor
+principal,school principal,wordnet_synset,oewn-principal__1.18.00..,double_korean_anchor
+passerby,passer,wordnet_synset,oewn-passerby__1.18.00..,monosemous_pair
+passerby,passer-by,wordnet_synset,oewn-passerby__1.18.00..,monosemous_pair
+sidewalk,pavement,wordnet_synset,oewn-sidewalk__1.06.00..,double_korean_anchor
+specialist,specialiser,wordnet_synset,oewn-specialist__1.18.00..,double_korean_anchor
+specialist,specializer,wordnet_synset,oewn-specialist__1.18.00..,double_korean_anchor
+streetcar,tram,wordnet_synset,oewn-streetcar__1.06.00..,monosemous_pair
+streetcar,tramcar,wordnet_synset,oewn-streetcar__1.06.00..,monosemous_pair
+streetcar,trolley,wordnet_synset,oewn-streetcar__1.06.00..,monosemous_pair
+streetcar,trolley car,wordnet_synset,oewn-streetcar__1.06.00..,monosemous_pair
+bear,carry,textbook_note,,
+drawbridge,lift bridge,wordnet_synset,oewn-drawbridge__1.06.00..,double_korean_anchor
+refurbish,freshen up,wordnet_synset,oewn-refurbish__2.30.00..,monosemous_pair
+refurbish,renovate,wordnet_synset,oewn-refurbish__2.30.00..,monosemous_pair

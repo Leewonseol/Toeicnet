@@ -23,6 +23,7 @@ PDF 120쪽의 출현 3,837건을 Anki 기초·800점·900점 덱과 비교했다
 | --- | --- | --- |
 | Open English WordNet | WN-LMF 압축 파일 다운로드 | 2025 본판, `english-wordnet-2025.xml.gz`, 2025-12-31 공개. [공식 다운로드](https://en-word.net/downloads), [공식 저장소](https://github.com/globalwordnet/english-wordnet) |
 | Wiktionary via Kaikki / Wiktextract | 원시 JSONL 압축 파일 3,082,476,978바이트 다운로드 | `raw-wiktextract-data.jsonl.gz`, enwiktionary 2026-10-01 덤프, 2026-10-30 추출. English 레코드는 `lang_code == 'en'`으로 선별한다. [원시 다운로드와 추출 버전](https://kaikki.org/dictionary/rawdata.html), [추출 스키마](https://github.com/tatuylonen/wiktextract#format-of-the-extracted-word-entries) |
+| GCIDE | 0.54 tarball 14,803,080바이트 다운로드, GNU 키링 서명 확인 | 2024-12-31 릴리스. 정의 179,656건을 추출했으며 `<source>` 기준으로 Webster 1913 계보 161,702건, WordNet 유래 9,335건, GCIDE 편집자 추가 5,533건, 기타 3,086건이다. [소개](https://gcide.gnu.org.ua/about), [배포](https://ftp.gnu.org/gnu/gcide/) |
 | Open American National Corpus | GrAF 아카이브 660,388,635바이트 다운로드 | `OANC_GrAF.tgz`, 공식 배포 저장소 `datasets-2026-09-25` 릴리스. [공식 다운로드](https://anc.org/data/oanc/download/), [배포 릴리스](https://github.com/nancyide/anc-website/releases/tag/datasets-2026-09-25) |
 | ETS TOEIC Listening and Reading | 공개 샘플 34페이지를 로컬 참고용으로 다운로드 | Paper-delivered testing, 2,461,549바이트. [자료 안내](https://www.ets.org/toeic/test-takers/prepare.html), [샘플 PDF](https://www.ets.org/pdfs/toeic/toeic-listening-reading-sample-test.pdf) |
 | 한국 TOEIC 공식 사이트 | RC 공개 샘플과 실제기출 공개 페이지 확인 | 공개 샘플과 공식적으로 공개된 기출의 근거 유형을 달리 기록한다. [RC 샘플](https://exam.toeic.co.kr/content/TOE/sampleRc1.php), [실제기출 공개 페이지](https://m.exam.toeic.co.kr/content/common/realQuestion.php) |
@@ -46,8 +47,10 @@ PDF 120쪽의 출현 3,837건을 Anki 기초·800점·900점 덱과 비교했다
 | --- | --- |
 | Cambridge Dictionary | 제공자 라이선스와 공식 API 안내를 확인했다. 계약 없는 상태에서 공개 표제어를 개별 참조할 수 있는 경우 의미·품사·용례를 대조한다. [사전](https://dictionary.cambridge.org/), [라이선스](https://dictionary.cambridge.org/license.html), [API](https://dictionary.cambridge.org/develop) |
 | Oxford Learner’s Dictionaries | 학습자용 사이트의 법적 고지와 Oxford Languages의 별도 API를 확인했다. 학습자용 데이터나 Collocations 제품이 자동으로 포함된다고 가정하지 않는다. [법적 고지](https://www.oxfordlearnersdictionaries.com/legal-notice.html), [Oxford Languages API](https://languages.oup.com/products/api/) |
-| Longman Dictionary of Contemporary English | 개별 표제어를 다시 열었으나 공개 응답은 HTTP 502·503이었다. 해당 사전의 검증 근거는 확인하지 못했다. 공식 덤프와 저장 권한은 미확인이다. [사전](https://www.ldoceonline.com/) |
+| Longman Dictionary of Contemporary English | 이전 열람에서는 HTTP 502·503이었다. 2026-11-27 클라우드 점검에서는 5개 시험 표제어 모두 정의 표지를 확인했다. 공식 덤프와 저장 권한은 미확인이다. [사전](https://www.ldoceonline.com/), [접근 점검](reports/source_access.md) |
 | Collins Dictionary | 공개 사이트 약관과 별도 이용 조건이 있는 API를 확인했다. [사전](https://www.collinsdictionary.com/), [사이트 약관](https://www.collinsdictionary.com/terms-and-conditions), [API](https://www.collinsdictionary.com/us/collins-api/) |
+| Merriam-Webster | 2026-11-27 클라우드 점검에서 웹 표제어 5/5의 정의 표지를 확인했다. 공식 Dictionary API는 키 없이 `Key is required`를 반환했다. API 약관은 비상업 이용, 참조 사전별 1일 1,000건, 최대 2종을 조건으로 한다. 5조 (a)는 서면 승인 없는 자동·기록 질의를, (i)는 제3자 제품과의 비교를 금지하므로 배치 검증에는 서면 승인이 필요하다. Britannica와 같은 `merriam_webster` 계보로 센다. [사전](https://www.merriam-webster.com/), [API](https://dictionaryapi.com/), [API 약관](https://dictionaryapi.com/info/terms-of-service) |
+| 네이버 영어사전 | 다른 출판사의 사전 데이터를 제공하는 플랫폼이다. 독립 출처로 세지 않고, 화면에 표시된 원천 사전의 계보로 기록한다. 2026-11-27 점검 시 robots.txt가 모든 AI 에이전트 토큰을 차단해 본문을 요청하지 않았다. [사전](https://en.dict.naver.com/) |
 | Britannica Dictionary | 공개 표제어의 일반 웹 열람에서 overdue, portfolio, premium의 해당 의미를 확인했다. Merriam-Webster Learners Dictionary API는 별도로 확인했다. 같은 계열 학습자용 데이터를 중복 집계하지 않는다. [Britannica Dictionary](https://www.britannica.com/dictionary), [Learners Dictionary API](https://dictionaryapi.com/products/api-learners-dictionary), [사전 이용 연구](https://elibrary.narr.digital/xibrary/10.24053-AAA-2024-0004) |
 | 국립국어원 한국어기초사전 | 한국어 뜻과 한국어 용례를 독립적으로 검토하는 데 사용한다. 공식 API와 전체 내려받기 안내를 확인했다. [사전](https://krdict.korean.go.kr/), [개발 지원](https://krdict.korean.go.kr/kor/openApi/openApiInfo) |
 | Online Etymology Dictionary | 개별 공개 항목에서 remit 계열, dividend, itinerary, collateral 등의 역사적 경로와 접사를 확인했다. 공식 덤프·API 및 대량 저장 권한은 미확인이다. [Etymonline](https://www.etymonline.com/), [약관](https://www.etymonline.com/legal/terms) |
@@ -65,3 +68,12 @@ PDF 120쪽의 출현 3,837건을 Anki 기초·800점·900점 덱과 비교했다
 Part 3의 공개 목차에서 인간의 능력·감각, 직장, 법, 경제, 환경과 같은 테마 범주를 확인했다. 공식 목차는 개별 동의어 집단과 수록 숙어의 전체 목록까지 제공하지 않는다. 출판사 소개가 안내한 교재지원 공식 카페에 접속했으나 응답 시간을 초과했으며 B권 전체 강의 목록과 원문 색인은 확보하지 못했다. [목차와 색인 안내](https://www.yes24.com/Product/Goods/61307273), [교재지원 사이트](https://www.vocabible.com/)
 
 프로젝트 일정은 사용자가 지정한 DAY 01–10 접두어, DAY 11–40 어근, 20일 유의어·테마 학습을 따른다. 접미사는 보조 색인에 둔다. 각 집단의 실제 구성은 해커스 원천 출현과 개별 어휘 근거에서 생성한다.
+
+## 학습용 vocabulary.csv의 출처
+
+- `뜻`의 교재 원뜻: 사용자 제공 해커스 토익 보카 Anki 덱과 뒷단어 PDF. 해커스 저작물이며 비공개 저장소에 개인 학습용으로 둔다.
+- `뜻`의 `영어 정의:`, `동의어`의 정의: Open English WordNet 2025 또는 영어 Wiktionary(Wiktextract 2026-10-01)의 해당 의미.
+- `파생어`·`합성어`·`접두사`·`접미사`의 분해, `어근`의 원형 단어와 뜻풀이, `공통 어원`의 어근 묶음: 영어 Wiktionary 어원 기록.
+- `유의어`: WordNet `similar` 관계와 Wiktionary 의미별 동의어 목록 중 교재 어휘.
+- `사용 용법`의 표현과 뜻: 교재 표현. 문법 주의: Wiktionary 의미 태그.
+- 접두사·접미사의 한국어 뜻·기능 설명: 이 프로젝트에서 작성한 학습용 설명표(`scripts/build_vocabulary_csv.py`의 `AFFIX`).

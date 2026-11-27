@@ -3,18 +3,31 @@
 import json
 import re
 import unicodedata
+from difflib import SequenceMatcher
 from pathlib import Path
 
 from align_senses import pos_options
 from review_common import normalized_pos
 
 
-LEARNER_SOURCES = frozenset({"britannica", "cambridge", "collins", "longman", "oxford"})
-OPEN_SOURCES = frozenset({"kaikki", "oewn"})
+# Collins and Merriam-Webster are the priority learner/professional dictionaries. Britannica shares the
+# merriam_webster independence group, so the two never count as separate sources.
+LEARNER_SOURCES = frozenset({"britannica", "cambridge", "collins", "longman", "merriam_webster", "oxford"})
+# GCIDE senses carry their own lineage: WordNet-derived ones name globalwordnet in derived_from.
+OPEN_SOURCES = frozenset({"gcide", "kaikki", "oewn"})
 SENSE_SOURCES = LEARNER_SOURCES | OPEN_SOURCES
 ASSESSMENT_FIELDS = (
     "part_of_speech", "sense", "scope", "grammar", "usage_context", "toeic_relevance",
 )
+# Sense alignment results. ``equivalent`` is the only result that can support a verified sense.
+ALIGNMENT_RESULTS = (
+    "equivalent", "partially_equivalent", "broader", "narrower",
+    "context_dependent", "different_sense", "insufficient_evidence",
+)
+LEGACY_VERDICTS = {
+    "match": "equivalent", "partial": "partially_equivalent",
+    "uncertain": "insufficient_evidence", "no_match": "different_sense",
+}
 EXCLUDED_TAGS = frozenset({"obsolete", "archaic", "historical", "form-of", "alt-of"})
 SPAN_LABELS = frozenset({"phrase", "idiom", "multiword", "multiword expression"})
 POS_NAMES = {
@@ -33,9 +46,11 @@ meanings, literal synonyms, and corpus occurrences cannot establish independent 
 agreement. If apparent shared wording could come from copying, withhold cross-source
 verification. TOEIC relevance is based on the supplied context, and a TOEIC occurrence
 requires a separately supplied official citation. Do not verify or generate Korean glosses.
-Return one JSON object for each packet, copying its case_key. Use verdict match, partial,
-uncertain, or no_match; candidate_ids lists just the exact supporting sense IDs for a match.
-A match may cite one source when that is the only sense that clearly fits. For a match,
+Return one JSON object for each packet, copying its case_key. Use verdict equivalent,
+partially_equivalent, broader, narrower, context_dependent, different_sense, or
+insufficient_evidence; candidate_ids lists just the exact supporting sense IDs. Only
+equivalent counts as a match. A match may cite one source when that is the only sense
+that clearly fits. For a match,
 write a concise original English definition supported by all chosen IDs. Otherwise leave
 definition null. Include a reason and assessment notes under part_of_speech, sense, scope,
 grammar, usage_context, and toeic_relevance. State when evidence for a dimension is absent.
@@ -87,13 +102,27 @@ def _sense_candidates(candidates, case):
     return accepted
 
 
-def _result(grade, status, method, reason, *, definition=None, candidates=(), sense_ids=(), source_ids=(), groups=(), alignment=False, origin=None, context_ids=()):
+def source_combination(source_ids):
+    """Name the tiers behind a decision, e.g. learner×2 or learner×1+open×1, for separate reporting."""
+    learner = len(set(source_ids) & LEARNER_SOURCES)
+    open_ = len(set(source_ids) & OPEN_SOURCES)
+    parts = [f"{name}×{count}" for name, count in (("learner", learner), ("open", open_)) if count]
+    return "+".join(parts) or None
+
+
+def alignment_result(verdict):
+    return LEGACY_VERDICTS.get(verdict, verdict)
+
+
+def _result(grade, status, method, reason, *, definition=None, candidates=(), sense_ids=(), source_ids=(), groups=(), alignment=False, origin=None, context_ids=(), alignment_label=None):
+    all_sources = sorted(set(source_ids) | {row["source_id"] for row in candidates})
     return {
         "grade": grade, "status": status, "definition": definition,
         "source_alignment": alignment, "definition_origin": origin, "method": method,
         "review_reason": reason,
         "candidate_ids": [row["candidate_id"] for row in candidates],
-        "source_ids": sorted(set(source_ids) | {row["source_id"] for row in candidates}),
+        "source_ids": all_sources, "source_combination": source_combination(all_sources),
+        "alignment_result": alignment_label,
         "evidence_groups": sorted(set(groups) | {row["independence_group"] for row in candidates}),
         "sense_ids": list(sense_ids), "context_candidate_ids": list(context_ids),
     }
@@ -171,9 +200,22 @@ def _reused_origins(candidate):
     return origins
 
 
+def near_duplicate(first, second, *, ratio=0.8, overlap=0.75):
+    """Treat copied or lightly edited wording (e.g. Wiktionary text taken from Webster 1913) as one source."""
+    a, b = _gloss(first), _gloss(second)
+    if not a or not b:
+        return False
+    words_a, words_b = set(re.findall(r"[a-z']+", a)), set(re.findall(r"[a-z']+", b))
+    jaccard = len(words_a & words_b) / len(words_a | words_b) if words_a | words_b else 0
+    return a == b or SequenceMatcher(None, a, b).ratio() >= ratio or jaccard >= overlap
+
+
 def _groups_are_independent(candidates):
     groups = {row["independence_group"] for row in candidates}
     if len(groups) != len(candidates):
+        return False
+    definitions = [_definition(row) for row in candidates]
+    if any(near_duplicate(a, b) for i, a in enumerate(definitions) for b in definitions[i + 1:]):
         return False
     seen_origins = set()
     for row in candidates:
@@ -187,8 +229,9 @@ def _groups_are_independent(candidates):
 def _validate_model_judgment(record):
     if not isinstance(record, dict) or not isinstance(record.get("case_key"), str) or not record["case_key"]:
         raise ValueError("A model decision requires a nonempty case_key")
-    if record.get("verdict") not in {"match", "partial", "uncertain", "no_match"}:
+    if record.get("verdict") not in {*LEGACY_VERDICTS, *ALIGNMENT_RESULTS}:
         raise ValueError("Unrecognized model verdict")
+    matched = alignment_result(record["verdict"]) == "equivalent"
     ids = record.get("candidate_ids")
     if not isinstance(ids, list) or any(not isinstance(x, str) or not x for x in ids) or len(set(ids)) != len(ids):
         raise ValueError("candidate_ids must be a list of distinct, nonempty strings")
@@ -200,12 +243,12 @@ def _validate_model_judgment(record):
     if not isinstance(record.get("reason"), str) or not record["reason"].strip():
         raise ValueError("Model decision requires a reason")
     definition = record.get("definition")
-    if record["verdict"] == "match" and (
+    if matched and (
         not ids or not isinstance(definition, str) or not definition.strip() or len(definition) > 360
         or "\n" in definition or "\t" in definition
     ):
         raise ValueError("A match requires supplied sense IDs and a concise learner definition")
-    if record["verdict"] != "match" and definition is not None:
+    if not matched and definition is not None:
         raise ValueError("Unmatched decisions cannot supply a verified definition")
     korean = record.get("korean")
     if korean is not None and (
@@ -283,9 +326,10 @@ def _model_result(decision, candidates, case):
     if any(key not in candidates for key in record["candidate_ids"]):
         raise ValueError("Model cited an unavailable or ineligible sense ID")
     claimed = [candidates[key] for key in record["candidate_ids"]]
-    if record["verdict"] != "match":
+    label = alignment_result(record["verdict"])
+    if label != "equivalent":
         return _result("D" if candidates else "E", "inferred" if candidates else "unavailable",
-                       "llm_judgment", record["reason"], candidates=claimed)
+                       "llm_judgment", record["reason"], candidates=claimed, alignment_label=label)
     if len({tuple(_parts(row["part_of_speech"])) for row in claimed}) != 1:
         raise ValueError("A sense match cannot combine different parts of speech")
     if not case.get("original_korean_meaning"):
@@ -307,9 +351,11 @@ def _model_result(decision, candidates, case):
     elif ids <= LEARNER_SOURCES:
         grade, status = "A", "cross_verified"
     else:
-        return _result("D", "inferred", "llm_judgment", "Cited source types do not establish the same verification tier.", candidates=claimed)
+        # One independent learner dictionary plus independent open data. A and B keep their
+        # definitions; the result meets C and source_combination records the mixed tiers.
+        grade, status = "C", "source_attested"
     result = _result(grade, status, "llm_judgment", record["reason"], definition=record["definition"].strip(),
-                     candidates=claimed, alignment=True, origin="llm_original_definition")
+                     candidates=claimed, alignment=True, origin="llm_original_definition", alignment_label=label)
     result["assessment"] = record["assessment"]
     return result
 

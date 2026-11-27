@@ -1,0 +1,10 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+butcher's shop,compound_noun,C,Synonym of butchershop.,kaikki,kaikki:butcher's shop:noun:0:8041:s0
+dry cleaner,compound_noun,C,A business establishment that engages in the dry cleaning of clothes and other fabrics.,kaikki,kaikki:dry cleaner:noun:0:7167:s1
+in transit,phrase,C,In the process of being transported.,kaikki,kaikki:in transit:prep_phrase:0:7023:s0
+packing tape,compound_noun,C,A pressure-sensitive tape used for closing or sealing corrugated fiberboard boxes.,kaikki,kaikki:packing tape:noun:0:7971:s0
+express mail,compound_noun,C,mail that is distributed by a rapid and efficient system,oewn,oewn-express_mail__1.10.00..
+ahead of schedule,phrase,C,Prior to a deadline.,kaikki,kaikki:ahead of schedule:prep_phrase:0:7988:s0
+at the last minute,phrase,C,Very close to a deadline or potential crucial event.,kaikki,kaikki:at the last minute:prep_phrase:0:7483:s0
+trade show,compound_noun,C,A trade fair.,kaikki,kaikki:trade show:noun:0:7159:s0
+alumni association,compound_noun,C,an association of former students of a college or university,kaikki,kaikki:alumni association:noun:0:6542:s0

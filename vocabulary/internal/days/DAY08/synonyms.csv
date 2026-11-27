@@ -1,0 +1,68 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+advertisement,ad,wordnet_synset,oewn-advertisement__1.10.00..,double_korean_anchor
+advertisement,advert,wordnet_synset,oewn-advertisement__1.10.00..,double_korean_anchor
+advertisement,advertising,wordnet_synset,oewn-advertisement__1.10.00..,double_korean_anchor
+advertisement,advertizement,wordnet_synset,oewn-advertisement__1.10.00..,double_korean_anchor
+advertisement,advertizing,wordnet_synset,oewn-advertisement__1.10.00..,double_korean_anchor
+instantly,at once,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,directly,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,forthwith,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,immediately,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,like a shot,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,now,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,right away,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+instantly,straight off,wordnet_synset,oewn-instantly__4.02.00..,model_reviewed_pair
+aggressively,sharply,wordnet_synset,oewn-aggressively__4.02.00..,monosemous_pair
+aim,object,wordnet_synset,oewn-aim__1.09.01..,double_korean_anchor
+aim,objective,wordnet_synset,oewn-aim__1.09.01..,double_korean_anchor
+aim,target,wordnet_synset,oewn-aim__1.09.01..,double_korean_anchor
+indicate,designate,wordnet_synset,oewn-indicate__2.32.03..,model_reviewed_pair
+indicate,point,wordnet_synset,oewn-indicate__2.32.03..,model_reviewed_pair
+indicate,show,wordnet_synset,oewn-indicate__2.32.03..,model_reviewed_pair
+attract,draw,wordnet_synset,oewn-attract__2.35.00..,double_korean_anchor
+attract,draw in,wordnet_synset,oewn-attract__2.35.00..,double_korean_anchor
+attract,pull,wordnet_synset,oewn-attract__2.35.00..,double_korean_anchor
+attract,pull in,wordnet_synset,oewn-attract__2.35.00..,double_korean_anchor
+contemporary,contemporaneous,wordnet_synset,oewn-contemporary__5.00.00.synchronous.00,model_reviewed_pair
+favorably,favourably,wordnet_synset,oewn-favorably__4.02.00..,monosemous_pair
+disregard,brush aside,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+disregard,brush off,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+disregard,discount,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+disregard,dismiss,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+disregard,ignore,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+disregard,neglect,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+disregard,push aside,wordnet_synset,oewn-disregard__2.32.00..,model_reviewed_pair
+effort,attempt,wordnet_synset,oewn-effort__1.04.00..,model_reviewed_pair
+effort,endeavor,wordnet_synset,oewn-effort__1.04.00..,model_reviewed_pair
+effort,endeavour,wordnet_synset,oewn-effort__1.04.00..,model_reviewed_pair
+effort,try,wordnet_synset,oewn-effort__1.04.00..,model_reviewed_pair
+need,demand,wordnet_synset,oewn-need__1.26.00..,double_korean_anchor
+full,total,wordnet_synset,oewn-full__5.00.00.complete.00,double_korean_anchor
+feasible,executable,wordnet_synset,oewn-feasible__5.00.00.possible.00,monosemous_pair
+feasible,practicable,wordnet_synset,oewn-feasible__5.00.00.possible.00,monosemous_pair
+feasible,viable,wordnet_synset,oewn-feasible__5.00.00.possible.00,monosemous_pair
+feasible,workable,wordnet_synset,oewn-feasible__5.00.00.possible.00,monosemous_pair
+irreplaceable,unreplaceable,wordnet_synset,oewn-irreplaceable__3.00.00..,monosemous_pair
+abruptly,all of a sudden,wordnet_synset,oewn-abruptly__4.02.01..,monosemous_pair
+abruptly,dead,wordnet_synset,oewn-abruptly__4.02.01..,monosemous_pair
+abruptly,of a sudden,wordnet_synset,oewn-abruptly__4.02.01..,monosemous_pair
+abruptly,on the spur of the moment,wordnet_synset,oewn-abruptly__4.02.01..,monosemous_pair
+abruptly,short,wordnet_synset,oewn-abruptly__4.02.01..,monosemous_pair
+abruptly,suddenly,wordnet_synset,oewn-abruptly__4.02.01..,monosemous_pair
+preciously,most,wordnet_synset,oewn-preciously__4.02.00..,monosemous_pair
+preciously,precious,wordnet_synset,oewn-preciously__4.02.00..,monosemous_pair
+preciously,rattling,wordnet_synset,oewn-preciously__4.02.00..,monosemous_pair
+preciously,real,wordnet_synset,oewn-preciously__4.02.00..,monosemous_pair
+preciously,really,wordnet_synset,oewn-preciously__4.02.00..,monosemous_pair
+preciously,very,wordnet_synset,oewn-preciously__4.02.00..,monosemous_pair
+alluring,beguiling,wordnet_synset,oewn-alluring__5.00.00.seductive.00,monosemous_pair
+alluring,enticing,wordnet_synset,oewn-alluring__5.00.00.seductive.00,monosemous_pair
+alluring,tempting,wordnet_synset,oewn-alluring__5.00.00.seductive.00,monosemous_pair
+captivate,becharm,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,beguile,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,bewitch,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,capture,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,catch,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,charm,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,enamor,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair
+captivate,enamour,wordnet_synset,oewn-captivate__2.37.00..,monosemous_pair

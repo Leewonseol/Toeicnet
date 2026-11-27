@@ -1,0 +1,39 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+efficient,effective,wordnet_synset,oewn-efficient__5.00.00.competent.00,model_reviewed_pair
+package,bundle,wordnet_synset,oewn-package__1.14.00..,double_korean_anchor
+package,packet,wordnet_synset,oewn-package__1.14.00..,double_korean_anchor
+package,parcel,wordnet_synset,oewn-package__1.14.00..,double_korean_anchor
+warehouse,storage warehouse,wordnet_synset,oewn-warehouse__1.06.00..,double_korean_anchor
+step,measure,wordnet_synset,oewn-step__1.04.02..,double_korean_anchor
+cargo,consignment,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+cargo,freight,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+cargo,lading,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+cargo,load,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+cargo,loading,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+cargo,payload,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+cargo,shipment,wordnet_synset,oewn-cargo__1.06.00..,double_korean_anchor
+parcel,bundle,wordnet_synset,oewn-parcel__1.14.00..,double_korean_anchor
+parcel,package,wordnet_synset,oewn-parcel__1.14.00..,double_korean_anchor
+parcel,packet,wordnet_synset,oewn-parcel__1.14.00..,double_korean_anchor
+dry cleaner,drycleaner's,textbook_note,,
+inn,auberge,wordnet_synset,oewn-inn__1.06.00..,double_korean_anchor
+inn,hostel,wordnet_synset,oewn-inn__1.06.00..,double_korean_anchor
+inn,hostelry,wordnet_synset,oewn-inn__1.06.00..,double_korean_anchor
+inn,lodge,wordnet_synset,oewn-inn__1.06.00..,double_korean_anchor
+pier,dock,wordnet_synset,oewn-pier__1.06.00..,double_korean_anchor
+pier,wharf,wordnet_synset,oewn-pier__1.06.00..,double_korean_anchor
+pier,wharfage,wordnet_synset,oewn-pier__1.06.00..,double_korean_anchor
+discard,cast aside,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,cast away,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,cast out,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,chuck out,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,dispose,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,fling,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,put away,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+discard,throw away,wordnet_synset,oewn-discard__2.40.00..,double_korean_anchor
+heritage,inheritance,wordnet_synset,oewn-heritage__1.04.00..,double_korean_anchor
+institution,establishment,wordnet_synset,oewn-institution__1.14.00..,double_korean_anchor
+transportable,movable,wordnet_synset,oewn-transportable__5.00.00.mobile.00,monosemous_pair
+transportable,moveable,wordnet_synset,oewn-transportable__5.00.00.mobile.00,monosemous_pair
+transportable,transferable,wordnet_synset,oewn-transportable__5.00.00.mobile.00,monosemous_pair
+transportable,transferrable,wordnet_synset,oewn-transportable__5.00.00.mobile.00,monosemous_pair

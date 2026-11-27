@@ -1,0 +1,13 @@
+expression,type,english_grade,english_definition,definition_source,sense_ids
+blood pressure,compound_noun,C,"The pressure exerted by the blood against the walls of the arteries and veins; it varies during the heartbeat cycle, and according to a person's age, health and physical condition.",kaikki,kaikki:blood pressure:noun:0:4426:s0
+emergency room,compound_noun,C,"A department of a hospital where seriously ill or injured patients, often with life-threatening conditions that require urgent or immediate treatment, are brought in, usually by ambulance.",kaikki,kaikki:emergency room:noun:0:7343:s0
+heart attack,compound_noun,C,"An acute myocardial infarction, sometimes fatal, caused by the sudden occurrence of coronary thrombosis, which obstructs the blood supply to the heart and leads to necrosis of heart muscle tissue.",kaikki,kaikki:heart attack:noun:0:5821:s0
+lean back,phrasal_or_multiword_verb,C,move the upper body backwards and down,oewn,oewn-lean_back__2.38.00..
+lose weight,phrasal_or_multiword_verb,C,To become less heavy or obese.,kaikki,kaikki:lose weight:verb:0:7285:s0
+physical examination,compound_noun,C,"The examination of the patient's body with the use of such methods as inspection, palpation, percussion and auscultation.",kaikki,kaikki:physical examination:noun:0:7323:s0
+surgical instrument,compound_noun,C,a medical instrument used in surgery,oewn,oewn-surgical_instrument__1.06.00..
+watch over,phrasal_or_multiword_verb,C,To guard and protect.,kaikki,kaikki:watch over:verb:0:4906:s0
+first aid,compound_noun,C,"Basic medical care that is administered to a victim of an injury, usually where the injury is slight or where better care is unavailable.",kaikki,kaikki:first aid:noun:0:6905:s0
+food poisoning,compound_noun,C,"Any food-borne disease, such as salmonella, that typically causes diarrhea, vomiting, nausea, fever and abdominal cramps.",kaikki,kaikki:food poisoning:noun:0:6329:s0
+on an empty stomach,phrase,C,Without having eaten.,kaikki,kaikki:on an empty stomach:prep_phrase:0:7955:s0
+over-the-counter medicine,compound_noun,C,a drug that is sold without a prescription,oewn,oewn-over--the--counter_medicine__1.06.00..

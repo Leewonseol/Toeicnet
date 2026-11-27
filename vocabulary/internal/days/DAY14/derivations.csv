@@ -1,0 +1,56 @@
+headword,formation_type,segmentation,bases,affixes,source_record
+international,derivation,inter- + national,national,inter-,kaikki:international:adj:0:3759
+attraction,derivation,attract + -ion,attract,-ion,kaikki:attraction:noun:0:1873
+itinerary,derivation,la:iter + -ary,la:iter,-ary,kaikki:itinerary:noun:0:1167
+baggage,derivation,bag + -age,bag,-age,kaikki:baggage:noun:0:1712
+missing,derivation,miss + -ing,miss,-ing,kaikki:missing:noun:0:4826
+approximately,derivation,approximate + -ly,approximate,-ly,kaikki:approximately:adv:0:6314
+comfortable,derivation,comfort + -able,comfort,-able,kaikki:comfortable:adj:0:1901
+outgoing,derivation,outgo + -ing,outgo,-ing,kaikki:outgoing:adj:0:6425
+tightly,derivation,tight + -ly,tight,-ly,kaikki:tightly:adv:0:5938
+carrier,derivation,carry + -er,carry,-er,kaikki:carrier:noun:0:1853
+customarily,derivation,customary + -ly,customary,-ly,kaikki:customarily:adv:0:6963
+suitcase,compound,suit + case,suit;case,,kaikki:suitcase:noun:0:1786
+unavailable,derivation,un- + available,available,un-,kaikki:unavailable:adj:0:6915
+proximity,derivation,proximate + -ity,proximate,-ity,kaikki:proximity:noun:0:4870
+unlimited,derivation,un- + limited,limited,un-,kaikki:unlimited:adj:1:3771
+simply,derivation,simple + -ly,simple,-ly,kaikki:simply:adv:0:3625
+traditionally,derivation,traditional + -ly,traditional,-ly,kaikki:traditionally:adv:0:4560
+airport,compound,air + port,air;port,,kaikki:airport:noun:0:3058
+passport,compound,pass + port,pass;port,,kaikki:passport:noun:0:1950
+central,derivation,centre + -al,centre,-al,kaikki:central:adj:0:663
+underwater,compound,under + water,under;water,,kaikki:underwater:adj:1:1935
+visitor,derivation,visit + -er,visit,-er,kaikki:visitor:noun:0:5118
+airfare,compound,air + fare,air;fare,,kaikki:airfare:noun:0:6635
+aisle seat,compound,aisle + seat,aisle;seat,,kaikki:aisle seat:noun:0:7864
+immigration,derivation,immigrate + -ion,immigrate,-ion,kaikki:immigration:noun:0:3429
+in-flight,compound,in + flight,in;flight,,kaikki:in-flight:adj:0:5404
+landing,derivation,land + -ing,land,-ing,kaikki:landing:noun:0:3993
+landmark,compound,land + mark,land;mark,,kaikki:landmark:noun:0:4719
+layover,compound,lay + over,lay;over,,kaikki:layover:noun:0:6678
+mainland,compound,main + land,main;land,,kaikki:mainland:noun:0:5423
+native,derivation,la:nātus + -ive,la:nātus,-ive,kaikki:native:adj:0:2556
+overbook,derivation,over- + book,book,over-,kaikki:overbook:verb:0:7188
+porter,derivation,port + -er,port,-er,kaikki:porter:noun:1:2945
+reclaim,derivation,re- + claim,claim,re-,kaikki:reclaim:verb:0:6582
+travel agency,compound,travel + agency,travel;agency,,kaikki:travel agency:noun:0:6508
+unload,derivation,un- + load,load,un-,kaikki:unload:verb:0:6406
+unlock,derivation,un- + lock,lock,un-,kaikki:unlock:verb:0:5174
+overhead,derivation,over- + head,head,over-,kaikki:overhead:adj:1:5489
+rightly,derivation,right + -ly,right,-ly,kaikki:rightly:adv:0:6002
+tastefully,derivation,tasteful + -ly,tasteful,-ly,kaikki:tastefully:adv:0:7040
+geographic,derivation,geography + -ic,geography,-ic,kaikki:geographic:adj:0:4307
+memorable,derivation,memory + -able,memory,-able,kaikki:memorable:adj:0:6138
+precisely,derivation,precise + -ly,precise,-ly,kaikki:precisely:adv:0:5261
+round trip,compound,round + trip,round;trip,,kaikki:round trip:noun:0:5323
+runway,compound,run + way,run;way,,kaikki:runway:noun:0:4248
+seasickness,derivation,seasick + -ness,seasick,-ness,kaikki:seasickness:noun:0:6704
+wildlife,compound,wild + life,wild;life,,kaikki:wildlife:noun:0:831
+airsickness,compound,air + sickness,air;sickness,,kaikki:airsickness:noun:0:5987
+turbulence,derivation,turbulent + -ence,turbulent,-ence,kaikki:turbulence:noun:0:6262
+allowance,derivation,allow + -ance,allow,-ance,kaikki:allowance:noun:0:2087
+lodging,derivation,lodge + -ing,lodge,-ing,kaikki:lodging:noun:0:5043
+presumable,derivation,presume + -able,presume,-able,kaikki:presumable:adj:0:7141
+disembark,derivation,dis- + embark,embark,dis-,kaikki:disembark:verb:0:3352
+impound,derivation,in- + pound,pound,in-,kaikki:impound:verb:0:3434
+remittance,derivation,remit + -ance,remit,-ance,kaikki:remittance:noun:0:4350

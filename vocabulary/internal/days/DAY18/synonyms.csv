@@ -1,0 +1,65 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+complimentary,costless,wordnet_synset,oewn-complimentary__5.00.00.unpaid.00,model_reviewed_pair
+complimentary,free,wordnet_synset,oewn-complimentary__5.00.00.unpaid.00,model_reviewed_pair
+complimentary,gratis,wordnet_synset,oewn-complimentary__5.00.00.unpaid.00,model_reviewed_pair
+complimentary,gratuitous,wordnet_synset,oewn-complimentary__5.00.00.unpaid.00,model_reviewed_pair
+elegant,graceful,wordnet_synset,oewn-elegant__5.00.00.gracious.00,double_korean_anchor
+elegant,refined,wordnet_synset,oewn-elegant__5.00.00.gracious.00,double_korean_anchor
+flavor,flavour,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,nip,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,relish,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,sapidity,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,savor,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,savour,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,smack,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+flavor,tang,wordnet_synset,oewn-flavor__1.09.00..,double_korean_anchor
+beverage,drink,wordnet_synset,oewn-beverage__1.13.00..,double_korean_anchor
+beverage,drinkable,wordnet_synset,oewn-beverage__1.13.00..,double_korean_anchor
+beverage,potable,wordnet_synset,oewn-beverage__1.13.00..,double_korean_anchor
+conveniently,handily,wordnet_synset,oewn-conveniently__4.02.00..,model_reviewed_pair
+retain,continue,wordnet_synset,oewn-retain__2.41.01..,model_reviewed_pair
+retain,keep,wordnet_synset,oewn-retain__2.41.01..,model_reviewed_pair
+retain,keep on,wordnet_synset,oewn-retain__2.41.01..,model_reviewed_pair
+atmosphere,ambiance,wordnet_synset,oewn-atmosphere__1.26.01..,model_reviewed_pair
+atmosphere,ambience,wordnet_synset,oewn-atmosphere__1.26.01..,model_reviewed_pair
+sequence,succession,wordnet_synset,oewn-sequence__1.04.00..,double_korean_anchor
+prior,anterior,wordnet_synset,oewn-prior__5.00.00.antecedent.00,model_reviewed_pair
+belongings,holding,wordnet_synset,oewn-belongings__1.21.00..,model_reviewed_pair
+belongings,property,wordnet_synset,oewn-belongings__1.21.00..,model_reviewed_pair
+entirely,all,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+entirely,altogether,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+entirely,completely,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+entirely,right,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+entirely,totally,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+entirely,whole,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+entirely,wholly,wordnet_synset,oewn-entirely__4.02.00..,model_reviewed_pair
+stir,agitate,wordnet_synset,oewn-stir__2.38.00..,double_korean_anchor
+stir,budge,wordnet_synset,oewn-stir__2.38.00..,double_korean_anchor
+stir,shift,wordnet_synset,oewn-stir__2.38.00..,double_korean_anchor
+choice,option,wordnet_synset,oewn-choice__1.04.00..,double_korean_anchor
+choice,pick,wordnet_synset,oewn-choice__1.04.00..,double_korean_anchor
+choice,selection,wordnet_synset,oewn-choice__1.04.00..,double_korean_anchor
+buffet,counter,wordnet_synset,oewn-buffet__1.06.00..,double_korean_anchor
+buffet,sideboard,wordnet_synset,oewn-buffet__1.06.00..,double_korean_anchor
+dessert,afters,wordnet_synset,oewn-dessert__1.13.00..,double_korean_anchor
+dessert,sweet,wordnet_synset,oewn-dessert__1.13.00..,double_korean_anchor
+dishwasher,dish washer,wordnet_synset,oewn-dishwasher__1.06.00..,double_korean_anchor
+dishwasher,dishwashing machine,wordnet_synset,oewn-dishwasher__1.06.00..,double_korean_anchor
+serving,helping,textbook_note,,
+serving,portion,textbook_note,,
+starving,starvation,wordnet_synset,oewn-starving__1.04.00..,monosemous_pair
+competitiveness,fight,wordnet_synset,oewn-competitiveness__1.07.00..,monosemous_pair
+booking,reservation,wordnet_synset,oewn-booking__1.04.00..,double_korean_anchor
+gourmet,bon vivant,wordnet_synset,oewn-gourmet__1.18.00..,monosemous_pair
+gourmet,epicure,wordnet_synset,oewn-gourmet__1.18.00..,monosemous_pair
+gourmet,epicurean,wordnet_synset,oewn-gourmet__1.18.00..,monosemous_pair
+gourmet,foodie,wordnet_synset,oewn-gourmet__1.18.00..,monosemous_pair
+gourmet,gastronome,wordnet_synset,oewn-gourmet__1.18.00..,monosemous_pair
+as a courtesy,as a favor,textbook_note,,
+thriving,booming,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair
+thriving,burgeoning,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair
+thriving,flourishing,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair
+thriving,palmy,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair
+thriving,prospering,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair
+thriving,prosperous,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair
+thriving,roaring,wordnet_synset,oewn-thriving__5.00.00.successful.00,monosemous_pair

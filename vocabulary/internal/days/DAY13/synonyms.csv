@@ -1,0 +1,72 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+deal,business deal,wordnet_synset,oewn-deal__1.04.02..,double_korean_anchor
+deal,trade,wordnet_synset,oewn-deal__1.04.02..,double_korean_anchor
+appropriately,befittingly,wordnet_synset,oewn-appropriately__4.02.00..,model_reviewed_pair
+appropriately,duly,wordnet_synset,oewn-appropriately__4.02.00..,model_reviewed_pair
+appropriately,fitly,wordnet_synset,oewn-appropriately__4.02.00..,model_reviewed_pair
+appropriately,fittingly,wordnet_synset,oewn-appropriately__4.02.00..,model_reviewed_pair
+appropriately,properly,wordnet_synset,oewn-appropriately__4.02.00..,model_reviewed_pair
+appropriately,suitably,wordnet_synset,oewn-appropriately__4.02.00..,model_reviewed_pair
+respond,answer,wordnet_synset,oewn-respond__2.32.00..,double_korean_anchor
+respond,reply,wordnet_synset,oewn-respond__2.32.00..,double_korean_anchor
+infuriate,exasperate,wordnet_synset,oewn-infuriate__2.37.00..,monosemous_pair
+infuriate,incense,wordnet_synset,oewn-infuriate__2.37.00..,monosemous_pair
+inconvenience,bother,wordnet_synset,oewn-inconvenience__2.41.01..,monosemous_pair
+inconvenience,discommode,wordnet_synset,oewn-inconvenience__2.41.01..,monosemous_pair
+inconvenience,disoblige,wordnet_synset,oewn-inconvenience__2.41.01..,monosemous_pair
+inconvenience,incommode,wordnet_synset,oewn-inconvenience__2.41.01..,monosemous_pair
+inconvenience,put out,wordnet_synset,oewn-inconvenience__2.41.01..,monosemous_pair
+inconvenience,trouble,wordnet_synset,oewn-inconvenience__2.41.01..,monosemous_pair
+evaluation,rating,wordnet_synset,oewn-evaluation__1.09.00..,double_korean_anchor
+evaluation,valuation,wordnet_synset,oewn-evaluation__1.09.00..,double_korean_anchor
+confident,convinced,wordnet_synset,oewn-confident__5.00.00.certain.02,model_reviewed_pair
+confident,positive,wordnet_synset,oewn-confident__5.00.00.certain.02,model_reviewed_pair
+certain,sure,wordnet_synset,oewn-certain__3.00.02..,double_korean_anchor
+commitment,allegiance,wordnet_synset,oewn-commitment__1.04.00..,model_reviewed_pair
+commitment,dedication,wordnet_synset,oewn-commitment__1.04.00..,model_reviewed_pair
+commitment,loyalty,wordnet_synset,oewn-commitment__1.04.00..,model_reviewed_pair
+critical,decisive,wordnet_synset,oewn-critical__5.00.00.crucial.00,model_reviewed_pair
+inquire,ask,wordnet_synset,oewn-inquire__2.32.01..,model_reviewed_pair
+inquire,enquire,wordnet_synset,oewn-inquire__2.32.01..,model_reviewed_pair
+disclose,break,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,bring out,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,discover,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,divulge,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,expose,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,give away,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,let on,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+disclose,let out,wordnet_synset,oewn-disclose__2.32.00..,double_korean_anchor
+guarantee,warrant,wordnet_synset,oewn-guarantee__1.10.00..,model_reviewed_pair
+guarantee,warrantee,wordnet_synset,oewn-guarantee__1.10.00..,model_reviewed_pair
+guarantee,warranty,wordnet_synset,oewn-guarantee__1.10.00..,model_reviewed_pair
+politely,courteously,wordnet_synset,oewn-politely__4.02.00..,monosemous_pair
+often,frequently,wordnet_synset,oewn-often__4.02.00..,double_korean_anchor
+often,oft,wordnet_synset,oewn-often__4.02.00..,double_korean_anchor
+often,oftentimes,wordnet_synset,oewn-often__4.02.00..,double_korean_anchor
+often,ofttimes,wordnet_synset,oewn-often__4.02.00..,double_korean_anchor
+aisle,gangway,wordnet_synset,oewn-aisle__1.06.00..,double_korean_anchor
+annoy,bother,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,chafe,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,devil,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,get at,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,get to,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,gravel,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,irritate,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+annoy,nark,wordnet_synset,oewn-annoy__2.37.00..,monosemous_pair
+at no charge,at no cost,textbook_note,,
+prepaid,postpaid,wordnet_synset,oewn-prepaid__5.00.00.paid.00,monosemous_pair
+troubleshoot,trouble-shoot,wordnet_synset,oewn-troubleshoot__2.30.00..,monosemous_pair
+wardrobe,closet,wordnet_synset,oewn-wardrobe__1.06.00..,double_korean_anchor
+wardrobe,press,wordnet_synset,oewn-wardrobe__1.06.00..,double_korean_anchor
+water-resistant,water-repellent,wordnet_synset,oewn-water--resistant__5.00.00.impermeable.00,monosemous_pair
+defect,fault,wordnet_synset,oewn-defect__1.26.00..,double_korean_anchor
+defect,flaw,wordnet_synset,oewn-defect__1.26.00..,double_korean_anchor
+stain,blot,wordnet_synset,oewn-stain__1.04.00..,double_korean_anchor
+stain,smear,wordnet_synset,oewn-stain__1.04.00..,double_korean_anchor
+stain,smirch,wordnet_synset,oewn-stain__1.04.00..,double_korean_anchor
+stain,spot,wordnet_synset,oewn-stain__1.04.00..,double_korean_anchor
+testimonial,good word,wordnet_synset,oewn-testimonial__1.10.00..,double_korean_anchor
+testimonial,recommendation,wordnet_synset,oewn-testimonial__1.10.00..,double_korean_anchor
+frankly,candidly,wordnet_synset,oewn-frankly__4.02.00..,double_korean_anchor
+frankly,honestly,wordnet_synset,oewn-frankly__4.02.00..,double_korean_anchor
+swiftly,fleetly,wordnet_synset,oewn-swiftly__4.02.00..,monosemous_pair

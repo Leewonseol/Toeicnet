@@ -4,7 +4,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
-from batch_rag_verify import ASSESSMENT_FIELDS, adjudicate_english, adjudicate_korean
+from batch_rag_verify import ALIGNMENT_RESULTS, ASSESSMENT_FIELDS, adjudicate_english, adjudicate_korean
 
 
 class AdjudicationTests(unittest.TestCase):
@@ -79,6 +79,50 @@ class AdjudicationTests(unittest.TestCase):
         ko = adjudicate_korean(candidates=[bilingual], decision=reviewed,
                                english=en, english_candidates=[self.wiktionary], case=self.case)
         self.assertEqual((ko["status"], ko["meaning"]), ("verified", "기간"))
+
+    def _learner(self, source_id, group, record_id, definition):
+        return {
+            "candidate_id": source_id, "source_id": source_id, "independence_group": group,
+            "source_record_id": record_id, "part_of_speech": "noun", "definition": definition,
+        }
+
+    def test_collins_and_merriam_webster_reach_a(self):
+        collins = self._learner("collins", "harpercollins", "collins:period:1", "A length of time.")
+        webster = self._learner("merriam_webster", "merriam_webster", "mw:period:1", "A portion of time.")
+        decision = {**self.decision, "candidate_ids": ["collins", "merriam_webster"]}
+        judged = adjudicate_english([collins, webster], case=self.case, decision=decision)
+        self.assertEqual((judged["grade"], judged["source_combination"]), ("A", "learner×2"))
+        self.assertEqual(judged["alignment_result"], "equivalent")
+
+    def test_same_lineage_outlets_are_not_independent(self):
+        webster = self._learner("merriam_webster", "merriam_webster", "mw:period:1", "A portion of time.")
+        britannica = self._learner("britannica", "merriam_webster", "brit:period:1", "An amount of time.")
+        decision = {**self.decision, "candidate_ids": ["merriam_webster", "britannica"]}
+        judged = adjudicate_english([webster, britannica], case=self.case, decision=decision)
+        self.assertEqual(judged["grade"], "D")
+
+    def test_mixed_tier_keeps_a_and_b_definitions(self):
+        webster = self._learner("merriam_webster", "merriam_webster", "mw:period:1", "A portion of time.")
+        decision = {**self.decision, "candidate_ids": ["merriam_webster", "n"]}
+        judged = adjudicate_english([webster, self.wordnet], case=self.case, decision=decision)
+        self.assertEqual((judged["grade"], judged["status"]), ("C", "source_attested"))
+        self.assertEqual(judged["source_combination"], "learner×1+open×1")
+
+    def test_seven_way_alignment_results(self):
+        for label in ALIGNMENT_RESULTS:
+            with self.subTest(label=label):
+                decision = {**self.decision, "verdict": label}
+                if label != "equivalent":
+                    decision["definition"] = None
+                judged = adjudicate_english([self.wiktionary, self.wordnet], case=self.case, decision=decision)
+                self.assertEqual(judged["alignment_result"], label)
+                self.assertEqual(judged["grade"], "B" if label == "equivalent" else "D")
+        legacy = adjudicate_english([self.wiktionary, self.wordnet], case=self.case,
+                                    decision={**self.decision, "verdict": "partial", "definition": None})
+        self.assertEqual((legacy["grade"], legacy["alignment_result"]), ("D", "partially_equivalent"))
+        with self.assertRaisesRegex(ValueError, "Unmatched decisions"):
+            adjudicate_english([self.wiktionary, self.wordnet], case=self.case,
+                               decision={**self.decision, "verdict": "broader"})
 
 
 if __name__ == "__main__":

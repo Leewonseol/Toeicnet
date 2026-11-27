@@ -1,0 +1,6 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+demand,supply,wordnet_antonym,oewn-demand__1.22.00..,model_reviewed_pair
+buy,sell,wordnet_antonym,oewn-buy__2.40.00..,double_korean_anchor
+visible,invisible,wordnet_antonym,oewn-visible__3.00.00..,double_korean_anchor
+comprehensible,incomprehensible,wordnet_antonym,oewn-comprehensible__3.00.00..,monosemous_pair
+reputable,disreputable,wordnet_antonym,oewn-reputable__3.00.00..,monosemous_pair

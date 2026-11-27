@@ -1,0 +1,170 @@
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+fatigue,피로,noun,core,B,temporary loss of strength and energy resulting from hard physical or mental work,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-fatigue__1.26.00..,kaikki:fatigue:noun:1:5068:s0,피로,30,anki_core:1766527460090
+checkup,건강 진단,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460091
+symptom,증상,noun,core,B,(medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-symptom__1.26.00..,kaikki:symptom:noun:0:280:s0,증상,30,anki_core:1766527460092
+physician,내과 의사,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460093
+diagnosis,진단,noun,core,C,"The process of, or an instance of, identification of the nature and cause of a medical condition or illness.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:diagnosis:noun:0:1757:s0,진단,30,anki_core:1766527460094
+prescribe,(약을) 처방하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460095
+recovery,"회복, 쾌유",noun,core,B,gradual healing (through rest) after sickness or injury,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-recovery__1.22.00..,kaikki:recovery:noun:0:6270:s2,회복,30,anki_core:1766527460096
+recognize,"인정하다, 알아보다",verb,core,C,To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:recognize:verb:1:3788:s0,알아보다,30,anki_core:1766527460097
+join,~에 가입하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460098
+comprehensive,"종합적인, 포괄적인",adjective,core,C,Broadly or completely covering; including a large proportion of something.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:comprehensive:adj:0:2690:s0,포괄적인,30,anki_core:1766527460099
+participate,"참여하다, 참가하다",verb,core,C,"To join in, to take part, to involve oneself (in something).",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:participate:verb:0:1766:s0,참가하다,30,anki_core:1766527460100
+recommend,"권고하다, 추천하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460101
+necessary,필요한,adjective,core,C,"Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:necessary:adj:0:2700:s0,필요하다,30,anki_core:1766527460102
+ability,능력,noun,core,C,The quality or state of being able; capacity to do or of doing something; having the necessary power.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:ability:noun:0:48:s1,능력,30,anki_core:1766527460103
+operation,수술,noun,core,B,a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-operation__1.04.00..,kaikki:operation:noun:0:1463:s5,수술,30,anki_core:1766527460104
+cleanliness,청결,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460105
+duration,"지속 기간, 지속",noun,core,C,An amount of time or a particular time interval.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:duration:noun:0:2079:s0,지속,30,anki_core:1766527460106
+examination,"진찰, 검사",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460107
+eliminate,제거하다,verb,core,C,To kill (a person or animal).,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:eliminate:verb:0:2485:s2,제거하다,30,anki_core:1766527460108
+easily,쉽게,adverb,core,C,Without difficulty.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:easily:adv:0:4526:s1,쉽게,30,anki_core:1766527460109
+dental,치과의,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460110
+dietary,"식이 요법의, 규정식의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460111
+related,관련된,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460112
+transmit,전염시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460113
+periodically,주기적으로,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460114
+reaction,반응,noun,core,C,An action or statement in response to a stimulus or other event.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:reaction:noun:0:2948:s0,반응,30,anki_core:1766527460115
+simple,단순한,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460116
+coverage,"(보험의) 보상 범위, (신문 등의) 보도, 취재 범위",noun,core,C,An amount by which something or someone is covered.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:coverage:noun:0:5385:s0,보도,30,anki_core:1766527460117
+exposure,노출,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460118
+pharmaceutical,"제약의, 약학의",adjective,core,B,of or relating to pharmacy or pharmacists,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-pharmaceutical__3.01.00..,kaikki:pharmaceutical:adj:0:5240:s0,,30,anki_core:1766527460119
+premium,보험료,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460120
+relieve,완화시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460121
+combination,"결합, 연합",noun,core,C,"The act of combining, the state of being combined or the result of combining.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:combination:noun:0:2312:s0,결합,30,anki_core:1766527460122
+conscious,"알고 있는, 자각하고 있는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460123
+deprivation,"박탈, 상실",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460124
+health,"건강, (사회·기관의) 번영, 안녕",noun,core,B,a healthy state of wellbeing free from disease,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-health__1.26.00..,kaikki:health:noun:1:2292:s0,건강,30,anki_core:1766527460125
+induce,유발하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460126
+insurance,보험,noun,core,C,A means of indemnity against a future occurrence of an uncertain event.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:insurance:noun:0:2992:s0,보험,30,anki_core:1766527460127
+nutrition,영양,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460128
+prevention,예방,noun,core,C,"The act of preventing or hindering; obstruction of action, access, or approach; thwarting.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:prevention:noun:0:4781:s0,예방,30,anki_core:1766527460129
+susceptible,"~에 감염되기 쉬운, 영향받기 쉬운",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,30,anki_core:1766527460130
+uncomfortably,"불쾌하게, 불편하게",adverb,core,B,in physical discomfort,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-uncomfortably__4.02.00..,kaikki:uncomfortably:adv:0:6365:s0,,30,anki_core:1766527460131
+allergic,"알레르기가 있는, 알레르기의",adjective,basic,D,,unverified,ocr_exact,16-30(1) p57,,proposed_pair_needs_review,,,,,30,anki_basic:1766527460132
+blind,눈이 먼,noun,basic,D,,unverified,ocr_exact,16-30(1) p57,n (width),candidates_unaligned,,,,,30,anki_basic:1766527460133
+cavity,충치,noun,basic,B,soft decayed area in a tooth; progressive decay can lead to the death of a tooth,verified,ocr_similar,16-30(1) p57,n (badge),double_korean_anchor,oewn,oewn-cavity__1.22.00..,kaikki:cavity:noun:0:4755:s2,충치,30,anki_basic:1766527460134
+cold,"감기, 추위, 추운",adjective,basic,D,,unverified,ocr_variant_ocr,16-30(1) p57,,candidates_unaligned,,,,,30,anki_basic:1766527460135
+cosmetic,"미용의, 화장의",adjective,basic,D,,unverified,ocr_similar,16-30(1) p57,,candidates_unaligned,,,,,30,anki_basic:1766527460136
+feel sick,"몸이 찌뿌드드하다, 메스껍다",phrase,basic,E,,unverified,ocr_similar,16-30(1) p57,,no_sense_record,,,,,30,anki_basic:1766527460137
+fitness,건강 상태,noun,basic,D,,unverified,ocr_exact,16-30(1) p57,n (badge),candidates_unaligned,,,,,30,anki_basic:1766527460138
+gym,체육관,noun,basic,B,athletic facility equipped for sports or physical training,verified,ocr_variant_ocr,16-30(1) p57,,double_korean_anchor,oewn,oewn-gym__1.06.00..,kaikki:gym:noun:0:1571:s2,체육관,30,anki_basic:1766527460139
+have an injection,주사를 맞다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p57,phr (badge),no_sense_record,,,,,30,anki_basic:1766527460140
+medical facility,의료시설,phrase,basic,E,,unverified,ocr_prefix,16-30(1) p57,n (width),no_sense_record,,,,,30,anki_basic:1766527460141
+raincoat,비옷,noun,basic,C,A waterproof coat to be worn in the rain; (loosely) any coat or jacket with this purpose.,verified,ocr_exact,16-30(1) p57,,single_source_korean_anchor,kaikki,,kaikki:raincoat:noun:0:6760:s0,비옷,30,anki_basic:1766527460142
+surgery,수술,noun,basic,C,"The act or process of medical intervention involving incisions to remove, repair, or replace a part of a body; an instance of this process (a procedure).",verified,ocr_similar,16-30(1) p57,,single_source_korean_anchor,kaikki,,kaikki:surgery:noun:0:4495:s0,수술,30,anki_basic:1766527460143
+toothache,치통,noun,basic,C,A pain or ache in a tooth.,verified,ocr_exact,16-30(1) p57,,single_source_korean_anchor,kaikki,,kaikki:toothache:noun:0:5444:s0,치통,30,anki_basic:1766527460144
+treat,치료하다,verb,basic,C,To care for medicinally or surgically; to apply medical care to.,verified,ocr_exact,16-30(1) p57,,single_source_korean_anchor,kaikki,,kaikki:treat:verb:0:3679:s7,치료하다,30,anki_basic:1766527460145
+vision,시력,noun,basic,B,the ability to see; the visual faculty,verified,ocr_exact,16-30(1) p57,n (width),double_korean_anchor,oewn,oewn-vision__1.09.01..,kaikki:vision:noun:0:1651:s0,시력,30,anki_basic:1766527460146
+workout,운동,noun,basic,B,the activity of exerting your muscles in various ways to keep fit,verified,ocr_exact,16-30(1) p57,,double_korean_anchor,oewn,oewn-workout__1.04.00..,kaikki:workout:noun:0:1945:s0,운동,30,anki_basic:1766527460147
+beat,(심장·맥박이) 뛰다,verb,basic,D,,unverified,ocr_exact,16-30(1) p57,v (badge),proposed_pair_needs_review,,,,,30,anki_basic:1766527460148
+blink,눈을 깜박이다,verb,basic,C,To close and reopen both eyes quickly.,verified,ocr_contains,16-30(1) p57,v (badge),single_source_korean_anchor,kaikki,,kaikki:blink:verb:0:4814:s0,눈을 깜박이다,30,anki_basic:1766527460149
+cure,"치료, 치료하다",verb,basic,C,To restore to health.,verified,ocr_variant_ocr,16-30(1) p57,,single_source_korean_anchor,kaikki,,kaikki:cure:verb:2:2851:s0,치료;치료하다,30,anki_basic:1766527460150
+disease,질병,noun,basic,C,"An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired.",verified,ocr_variant_ocr,16-30(1) p57,,single_source_korean_anchor,kaikki,,kaikki:disease:noun:0:179:s0,질병,30,anki_basic:1766527460151
+healing,치료의,adjective,basic,C,tending to cure or restore to health,unverified,ocr_exact,16-30(1) p57,n (width),single_source_only_sense,oewn,oewn-healing__5.00.00.healthful.00,,,30,anki_basic:1766527460152
+internal,내부의,adjective,basic,D,,unverified,ocr_variant_ocr,16-30(1) p57,,proposed_pair_needs_review,,,,,30,anki_basic:1766527460153
+lung,"폐, 허파",noun,basic,D,,unverified,ocr_variant_ocr,16-30(1) p57,,candidates_unaligned,,,,,30,anki_basic:1766527460154
+organ,(신체) 기관,noun,basic,B,a government agency or instrument devoted to the performance of some specific function,verified,ocr_variant_ocr,16-30(1) p57,,double_korean_anchor,oewn,oewn-organ__1.14.00..;oewn-organ__1.14.00..,kaikki:organ:noun:0:1009:s0;kaikki:organ:noun:0:1009:s1,기관,30,anki_basic:1766527460155
+remedy,"치료법, 의약",noun,basic,D,,unverified,ocr_variant_ocr,16-30(1) p57,,candidates_unaligned,,,,,30,anki_basic:1766527460156
+stomachache,복통,noun,basic,B,an ache localized in the stomach or abdominal region,verified,ocr_similar,16-30(1) p57,,monosemous_pair,oewn,oewn-stomachache__1.26.00..,kaikki:stomachache:noun:0:7076:s0,복통,30,anki_basic:1766527460157
+well-being,(건강과) 행복,noun,basic,B,a contented state of being happy and healthy and prosperous,unverified,ocr_similar,16-30(1) p57,n (width),monosemous_pair,oewn,oewn-well--being__1.26.00..,kaikki:well-being:noun:0:4949:s0,,30,anki_basic:1766527460158
+aging,나이 들어가는,adjective,800,B,growing old,unverified,ocr_variant_ocr,16-30(1) p58,,monosemous_pair,oewn,oewn-aging__5.00.00.old.02,kaikki:aging:adj:0:5702:s0,,30,anki_800:1766527462124
+ankle sprain,발목 접질림,phrase,800,E,,unverified,ocr_exact,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462125
+back injury,허리부상,phrase,800,E,,unverified,ocr_prefix,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462126
+be on a special diet,특수 식이 요법 중이다,phrase,800,E,,unverified,ocr_exact,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462127
+blood pressure,혈압,phrase,800,C,"The pressure exerted by the blood against the walls of the arteries and veins; it varies during the heartbeat cycle, and according to a person's age, health and physical condition.",verified,ocr_prefix,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:blood pressure:noun:0:4426:s0,혈압,30,anki_800:1766527462128
+blood supply,혈액 공급,phrase,800,D,,unverified,ocr_prefix,16-30(1) p58,,candidates_unaligned,,,,,30,anki_800:1766527462129
+buzzing,"윙윙 소리를 내는, 와글거리는",adjective,800,B,noisy like the sound of a bee,unverified,ocr_similar,16-30(1) p58,,monosemous_pair,oewn,oewn-buzzing__5.00.00.noisy.00,kaikki:buzzing:adj:0:5402:s0,,30,anki_800:1766527462130
+doctor's appointment,진료 예약,phrase,800,E,,unverified,ocr_prefix,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462131
+emergency room,응급실,phrase,800,C,"A department of a hospital where seriously ill or injured patients, often with life-threatening conditions that require urgent or immediate treatment, are brought in, usually by ambulance.",verified,ocr_similar,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:emergency room:noun:0:7343:s0,응급실,30,anki_800:1766527462132
+get some exercise,운동하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462133
+heart ailment,심장병,phrase,800,E,,unverified,ocr_similar,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462134
+heart attack,심장마비,phrase,800,C,"An acute myocardial infarction, sometimes fatal, caused by the sudden occurrence of coronary thrombosis, which obstructs the blood supply to the heart and leads to necrosis of heart muscle tissue.",verified,ocr_exact,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:heart attack:noun:0:5821:s0,심장마비,30,anki_800:1766527462135
+heart disease,심장질환,phrase,800,D,,unverified,ocr_prefix,16-30(1) p58,,candidates_unaligned,,,,,30,anki_800:1766527462136
+injection,주사,noun,800,C,"The act of injecting, or something that is injected.",verified,ocr_exact,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:injection:noun:0:6469:s0,주사,30,anki_800:1766527462137
+insomnia,불면증,noun,800,C,A sleeping disorder that is known for its symptoms of unrest and the inability to sleep.,verified,ocr_exact,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:insomnia:noun:0:5393:s0,불면증,30,anki_800:1766527462138
+lean back,뒤로 기대다,phrase,800,C,move the upper body backwards and down,unverified,ocr_prefix,16-30(1) p58,,single_source_only_sense,oewn,oewn-lean_back__2.38.00..,,,30,anki_800:1766527462139
+lose weight,살이 빠지다,phrase,800,C,To become less heavy or obese.,verified,ocr_similar,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:lose weight:verb:0:7285:s0,살이 빠지다,30,anki_800:1766527462140
+maternity ward,산부인과 병동,phrase,800,D,,unverified,ocr_prefix,16-30(1) p58,,candidates_unaligned,,,,,30,anki_800:1766527462141
+patient's record,환자의 의료 기록,phrase,800,E,,unverified,ocr_prefix,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462142
+physical examination,신체검사,phrase,800,C,"The examination of the patient's body with the use of such methods as inspection, palpation, percussion and auscultation.",unverified,ocr_exact,16-30(1) p58,,single_source_only_sense,kaikki,,kaikki:physical examination:noun:0:7323:s0,,30,anki_800:1766527462143
+physical therapy,물리 치료,phrase,800,D,,unverified,ocr_similar,16-30(1) p58,,candidates_unaligned,,,,,30,anki_800:1766527462144
+resist,"참다, 견디다, 저항하다",verb,800,D,,unverified,ocr_similar,16-30(1) p58,v (badge),candidates_unaligned,,,,,30,anki_800:1766527462145
+sneeze,재채기하다,verb,800,C,To expel air as a reflex induced by an irritation in the nose.,verified,ocr_variant_ocr,16-30(1) p58,,single_source_korean_anchor,kaikki,,kaikki:sneeze:verb:0:1903:s0,재채기하다,30,anki_800:1766527462146
+surgical instrument,수술도구,phrase,800,C,a medical instrument used in surgery,unverified,ocr_prefix,16-30(1) p58,,single_source_only_sense,oewn,oewn-surgical_instrument__1.06.00..,,,30,anki_800:1766527462147
+tablet,알약,noun,800,D,,unverified,ocr_similar_loose,16-30(1) p58,n (badge),proposed_pair_needs_review,,,,,30,anki_800:1766527462148
+take effect,효과가 나타나다,phrase,800,D,,unverified,ocr_similar,16-30(1) p58,,candidates_unaligned,,,,,30,anki_800:1766527462149
+take medication,약을 복용하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p58,phr (badge),no_sense_record,,,,,30,anki_800:1766527462150
+take some medicine,약을 먹다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p58,,no_sense_record,,,,,30,anki_800:1766527462151
+terminal,"말기의, 불치의",adjective,800,D,,unverified,ocr_prefix,16-30(1) p58,,candidates_unaligned,,,,,30,anki_800:1766527462152
+vaccination,"백신, 예방 접종",noun,800,D,,unverified,ocr_exact,16-30(1) p58,n (width),candidates_unaligned,,,,,30,anki_800:1766527462153
+watch over,"보호하다, 지키다",phrase,800,C,To guard and protect.,verified,ocr_prefix,16-30(1) p58,phr (badge),single_source_korean_anchor,kaikki,,kaikki:watch over:verb:0:4906:s0,지키다,30,anki_800:1766527462154
+consequently,"그 결과, 따라서",adverb,800,D,,unverified,ocr_exact,16-30(1) p58,adv (badge),candidates_unaligned,,,,,30,anki_800:1766527462155
+harmful,"해로운, 유해한",adjective,800,B,causing or capable of causing harm,unverified,ocr_prefix,16-30(1) p58,,monosemous_pair,oewn,oewn-harmful__3.00.00..,kaikki:harmful:adj:0:5403:s0,,30,anki_800:1766527462156
+maximize,극대화하다,verb,800,D,,unverified,ocr_variant_ocr,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462157
+medicinal,"약용의, 치유력이 있는",adjective,800,D,,unverified,ocr_similar_loose,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462158
+patiently,"끈기 있게, 참을성 있게",adverb,800,B,with patience; in a patient manner,unverified,ocr_exact,16-30(1) p59,adv (badge),monosemous_pair,oewn,oewn-patiently__4.02.00..,kaikki:patiently:adv:0:5782:s0,,30,anki_800:1766527462159
+recover,(건강이) 회복되다,verb,800,D,,unverified,ocr_exact,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462160
+resemble,"~을 닮다, ~과 공통점이 있다",verb,800,B,appear like; be similar or bear a likeness to,unverified,ocr_exact,16-30(1) p59,v (badge),monosemous_pair,oewn,oewn-resemble__2.42.00..,kaikki:resemble:verb:0:5008:s0,,30,anki_800:1766527462161
+ultimately,"마침내, 결국",adverb,800,D,,unverified,ocr_exact,16-30(1) p59,adv (width),proposed_pair_needs_review,,,,,30,anki_800:1766527462162
+urgently,급히,adverb,800,D,,unverified,ocr_exact,16-30(1) p59,v (badge),candidates_unaligned,,,,,30,anki_800:1766527462163
+visualize,시각화하다,verb,800,D,,unverified,ocr_exact,16-30(1) p59,v (badge),candidates_unaligned,,,,,30,anki_800:1766527462164
+antibiotic,항생제,noun,800,C,"Any substance that can destroy or inhibit the growth of bacteria and similar microorganisms, generally transported by the lymphatic system.",verified,ocr_similar,16-30(1) p59,,single_source_korean_anchor,kaikki,,kaikki:antibiotic:noun:0:5714:s0,항생제,30,anki_800:1766527462165
+asthma,천식,noun,800,B,respiratory disorder characterized by wheezing; usually of allergic origin,unverified,ocr_exact,16-30(1) p59,n (badge),monosemous_pair,oewn,oewn-asthma__1.26.00..,kaikki:asthma:noun:0:4459:s0,,30,anki_800:1766527462166
+athletic skill,운동능력,phrase,800,E,,unverified,ocr_exact,16-30(1) p59,phr (badge),no_sense_record,,,,,30,anki_800:1766527462167
+chronic,만성의,adjective,800,D,,unverified,ocr_exact,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462168
+contagious,전염성의,adjective,800,D,,unverified,ocr_exact,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462169
+diabetes,당뇨병,noun,800,C,"Diabetes mellitus; any of a group of metabolic diseases whereby a person (or other animal) has high blood sugar due to an inability to produce, or inability to metabolize, sufficient quantities of the hormone insulin.",verified,ocr_exact,16-30(1) p59,,single_source_korean_anchor,kaikki,,kaikki:diabetes:noun:0:3347:s0,당뇨병,30,anki_800:1766527462170
+donor,기증자,noun,800,C,"A group or molecule that donates either a radical, electrons or a moiety in a chemical reaction. Compare acceptor.",verified,ocr_similar,16-30(1) p59,n (badge),single_source_korean_anchor,kaikki,,kaikki:donor:noun:0:5822:s2,기증자,30,anki_800:1766527462171
+dosage,1회분 복용량,noun,800,D,,unverified,ocr_exact,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462172
+dose,(약의) 1회 복용량,noun,800,D,,unverified,ocr_exact,16-30(1) p59,n (width),candidates_unaligned,,,,,30,anki_800:1766527462173
+eradicate,"근절하다, 뿌리 뽑다",verb,800,D,,unverified,ocr_similar,16-30(1) p59,v (badge),candidates_unaligned,,,,,30,anki_800:1766527462174
+exhale,숨을 내쉬다,verb,800,D,,unverified,ocr_exact,16-30(1) p59,v (badge),candidates_unaligned,,,,,30,anki_800:1766527462175
+first aid,응급처치,phrase,800,C,"Basic medical care that is administered to a victim of an injury, usually where the injury is slight or where better care is unavailable.",verified,ocr_exact,16-30(1) p59,phr (width),single_source_korean_anchor,kaikki,,kaikki:first aid:noun:0:6905:s0,응급처치,30,anki_800:1766527462176
+food poisoning,식중독,phrase,800,C,"Any food-borne disease, such as salmonella, that typically causes diarrhea, vomiting, nausea, fever and abdominal cramps.",verified,ocr_exact,16-30(1) p59,phr (badge),single_source_korean_anchor,kaikki,,kaikki:food poisoning:noun:0:6329:s0,식중독,30,anki_800:1766527462177
+forbid,금지하다,verb,800,B,command against,verified,ocr_exact,16-30(1) p59,,double_korean_anchor,oewn,oewn-forbid__2.32.00..,kaikki:forbid:verb:0:593:s0,금지하다,30,anki_800:1766527462178
+genetic research,유전학 연구,phrase,800,E,,unverified,ocr_variant_ocr,16-30(1) p59,,no_sense_record,,,,,30,anki_800:1766527462179
+germ,세균,noun,800,B,a minute life form (especially a disease-causing bacterium); the term is not in technical use,verified,ocr_variant_ocr,16-30(1) p59,,double_korean_anchor,oewn,oewn-germ__1.05.00..,kaikki:germ:noun:0:2257:s2,세균,30,anki_800:1766527462180
+hiccup,딸꾹질,noun,800,C,"A spasm of the diaphragm, or the resulting sound.",verified,ocr_exact,16-30(1) p59,,single_source_korean_anchor,kaikki,,kaikki:hiccup:noun:0:1931:s0,딸꾹질,30,anki_800:1766527462181
+hygiene,위생,noun,800,C,Those conditions and practices that promote and preserve health.,verified,ocr_exact,16-30(1) p59,,single_source_korean_anchor,kaikki,,kaikki:hygiene:noun:0:4340:s1,위생,30,anki_800:1766527462182
+immune,면역의,adjective,800,D,,unverified,ocr_exact,16-30(1) p59,n (width),candidates_unaligned,,,,,30,anki_800:1766527462183
+infection,감염,noun,800,D,,unverified,ocr_exact,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462184
+infectious disease,전염병,phrase,800,D,,unverified,ocr_exact,16-30(1) p59,phr (width),candidates_unaligned,,,,,30,anki_800:1766527462185
+inhale,숨을 들이마시다,verb,800,D,,unverified,ocr_exact,16-30(1) p59,v (badge),candidates_unaligned,,,,,30,anki_800:1766527462186
+overdose,과다복용,noun,800,C,An excessive and dangerous dose of a drug.,verified,ocr_exact,16-30(1) p59,,single_source_korean_anchor,kaikki,,kaikki:overdose:noun:1:5149:s0,과다복용,30,anki_800:1766527462187
+painkiller,진통제,noun,800,B,a medicine used to relieve pain,verified,ocr_exact,16-30(1) p59,,double_korean_anchor,oewn,oewn-painkiller__1.06.00..,kaikki:painkiller:noun:0:6661:s0,진통제,30,anki_800:1766527462188
+paralysis,마비,noun,800,B,loss of the ability to move a body part,verified,ocr_exact,16-30(1) p59,,double_korean_anchor,oewn,oewn-paralysis__1.26.00..,kaikki:paralysis:noun:0:1600:s0,마비,30,anki_800:1766527462189
+pulse,맥박,noun,800,B,the rhythmic contraction and expansion of the arteries with each beat of the heart,verified,ocr_exact,16-30(1) p59,,double_korean_anchor,oewn,oewn-pulse__1.11.00..,kaikki:pulse:noun:1:2039:s0,맥박,30,anki_800:1766527462190
+robust,"튼튼한, 강건한",adjective,800,D,,unverified,ocr_exact,16-30(1) p59,,candidates_unaligned,,,,,30,anki_800:1766527462191
+be on medication,약물치료 중이다,phrase,900,E,,unverified,ocr_similar,16-30(1) p60,,no_sense_record,,,,,30,anki_900:1766527463150
+blurry,흐릿한,adjective,900,D,,unverified,ocr_prefix,16-30(1) p60,n (width),candidates_unaligned,,,,,30,anki_900:1766527463151
+compressed,"압축된, 압착된, 간결한",adjective,900,D,,unverified,ocr_exact,16-30(1) p60,n (width),candidates_unaligned,,,,,30,anki_900:1766527463152
+get a prescription filled,처방전을 조제 받다,phrase,900,E,,unverified,ocr_similar,16-30(1) p60,,no_sense_record,,,,,30,anki_900:1766527463153
+have one's vision tested,시력을 측정하다,phrase,900,E,,unverified,ocr_exact,16-30(1) p60,,no_sense_record,,,,,30,anki_900:1766527463154
+milestone,"획기적인 사건, 중요한 단계",noun,900,D,,unverified,ocr_prefix,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463155
+on an empty stomach,공복에,phrase,900,C,Without having eaten.,unverified,ocr_exact,16-30(1) p60,,single_source_only_sense,kaikki,,kaikki:on an empty stomach:prep_phrase:0:7955:s0,,30,anki_900:1766527463156
+outpatient clinic,외래 환자 진료소,phrase,900,E,,unverified,ocr_prefix,16-30(1) p60,,no_sense_record,,,,,30,anki_900:1766527463157
+practitioner,전문의,noun,900,D,,unverified,ocr_prefix,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463158
+recurring,되풀이하여 반복하는,adjective,900,D,,unverified,ocr_variant_ocr,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463159
+refill,(약을) 재조제하다; (약의) 재조제,noun/verb,900,D,,unverified,ocr_exact,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463160
+wing,"별관, 부속 건물",noun,900,D,,unverified,ocr_exact,16-30(1) p60,,proposed_pair_needs_review,,,,,30,anki_900:1766527463161
+elderly,나이 든,noun,900,D,,unverified,ocr_exact,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463162
+insistent,"끈질긴, 강요하는",adjective,900,D,,unverified,ocr_prefix,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463163
+intuitively,직관적으로,adverb,900,B,in an intuitive manner,unverified,ocr_exact,16-30(1) p60,,monosemous_pair,oewn,oewn-intuitively__4.02.00..,kaikki:intuitively:adv:0:6302:s0,,30,anki_900:1766527463164
+plausible,그럴듯한,adjective,900,D,,unverified,ocr_exact,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463165
+prolonged,"장기의, 오래 끄는",adjective,900,D,,unverified,ocr_exact,16-30(1) p60,,proposed_pair_needs_review,,,,,30,anki_900:1766527463166
+vocation,"직업, 천직, 사명감",noun,900,D,,unverified,ocr_prefix,16-30(1) p60,n (badge),proposed_pair_needs_review,,,,,30,anki_900:1766527463167
+acute,(통증이) 심한,noun,900,D,,unverified,ocr_contains,16-30(1) p60,n (width),candidates_unaligned,,,,,30,anki_900:1766527463168
+dehydration,탈수(증),noun,900,D,,unverified,ocr_prefix,16-30(1) p60,n (badge),proposed_pair_needs_review,,,,,30,anki_900:1766527463169
+deter,"단념시키다, 막다",verb,900,D,,unverified,ocr_similar_loose,16-30(1) p60,v (badge),proposed_pair_needs_review,,,,,30,anki_900:1766527463170
+epidemic,전염성의; (전염병의) 유행,adjective/noun,900,D,,unverified,ocr_prefix,16-30(1) p60,adj (badge),candidates_unaligned,,,,,30,anki_900:1766527463171
+life expectancy,평균 수명,phrase,900,D,,unverified,ocr_prefix,16-30(1) p60,phr (badge),candidates_unaligned,,,,,30,anki_900:1766527463172
+life span,수명,phrase,900,D,,unverified,ocr_prefix,16-30(1) p60,phr (width),candidates_unaligned,,,,,30,anki_900:1766527463173
+over-the-counter medicine,처방전 없이 살 수 있는 약,phrase,900,C,a drug that is sold without a prescription,unverified,ocr_exact,16-30(1) p60,phr (badge),single_source_only_sense,oewn,oewn-over--the--counter_medicine__1.06.00..,,,30,anki_900:1766527463174
+palpitations,비정상적으로 빠른 심장 박동,noun,900,C,"An abnormal beating of the heart that may be perceived by the patient, a result of excitement, exertion, or illness.",unverified,ocr_exact,16-30(1) p60,,single_source_only_sense,kaikki,,kaikki:palpitation:noun:0:8805:s0,,30,anki_900:1766527463175
+perspire,땀을 흘리다,verb,900,D,,unverified,ocr_exact,16-30(1) p60,v (badge),candidates_unaligned,,,,,30,anki_900:1766527463176
+quarantine,격리; 격리시키다,noun/verb,900,B,isolation to prevent the spread of infectious disease,verified,ocr_similar_loose,16-30(1) p60,n (width),double_korean_anchor,oewn,oewn-quarantine__1.04.00..,kaikki:quarantine:noun:0:328:s4,격리,30,anki_900:1766527463177
+recuperate,"회복하다, 건강을 되찾다",verb,900,D,,unverified,ocr_similar_loose,16-30(1) p60,v (badge),proposed_pair_needs_review,,,,,30,anki_900:1766527463178
+respiratory system,호흡 기관,phrase,900,D,,unverified,ocr_variant_ocr,16-30(1) p60,,candidates_unaligned,,,,,30,anki_900:1766527463179
+respire,호흡하다,verb,900,D,,unverified,ocr_variant_ocr,16-30(1) p60,,proposed_pair_needs_review,,,,,30,anki_900:1766527463180
+sterilize,살균하다,verb,900,C,"To kill, deactivate (denature), or destroy (break apart) all living, viable microorganisms and spores on a surface, in a fluid, or contained in a compound, such as culture media or a medical product.",verified,ocr_variant_ocr,16-30(1) p60,,single_source_korean_anchor,kaikki,,kaikki:sterilize:verb:0:2386:s2,살균하다,30,anki_900:1766527463181

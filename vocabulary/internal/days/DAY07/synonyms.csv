@@ -1,0 +1,60 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+postpone,defer,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,hold over,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,prorogue,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,put off,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,put over,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,remit,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,set back,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+postpone,shelve,wordnet_synset,oewn-postpone__2.42.00..,double_korean_anchor
+additional,extra,wordnet_synset,oewn-additional__5.00.03.additive.00,monosemous_pair
+buy,purchase,wordnet_synset,oewn-buy__2.40.00..,double_korean_anchor
+like,care,wordnet_synset,oewn-like__2.37.01..,double_korean_anchor
+like,wish,wordnet_synset,oewn-like__2.37.01..,double_korean_anchor
+reserve,book,wordnet_synset,oewn-reserve__2.41.00..,model_reviewed_pair
+reserve,hold,wordnet_synset,oewn-reserve__2.41.00..,model_reviewed_pair
+cooperate,collaborate,wordnet_synset,oewn-cooperate__2.41.00..,double_korean_anchor
+cooperate,join forces,wordnet_synset,oewn-cooperate__2.41.00..,double_korean_anchor
+extremely,deathly,wordnet_synset,oewn-extremely__4.02.00..,model_reviewed_pair
+extremely,exceedingly,wordnet_synset,oewn-extremely__4.02.00..,model_reviewed_pair
+extremely,super,wordnet_synset,oewn-extremely__4.02.00..,model_reviewed_pair
+extremely,whopping,wordnet_synset,oewn-extremely__4.02.00..,model_reviewed_pair
+target,aim,wordnet_synset,oewn-target__1.09.00..,double_korean_anchor
+target,object,wordnet_synset,oewn-target__1.09.00..,double_korean_anchor
+target,objective,wordnet_synset,oewn-target__1.09.00..,double_korean_anchor
+focus,center,wordnet_synset,oewn-focus__2.31.00..,double_korean_anchor
+focus,centre,wordnet_synset,oewn-focus__2.31.00..,double_korean_anchor
+focus,concentrate,wordnet_synset,oewn-focus__2.31.00..,double_korean_anchor
+focus,pore,wordnet_synset,oewn-focus__2.31.00..,double_korean_anchor
+focus,rivet,wordnet_synset,oewn-focus__2.31.00..,double_korean_anchor
+impact,wallop,wordnet_synset,oewn-impact__1.19.00..,model_reviewed_pair
+attempt,assay,wordnet_synset,oewn-attempt__2.41.00..,double_korean_anchor
+attempt,essay,wordnet_synset,oewn-attempt__2.41.00..,double_korean_anchor
+attempt,seek,wordnet_synset,oewn-attempt__2.41.00..,double_korean_anchor
+attempt,try,wordnet_synset,oewn-attempt__2.41.00..,double_korean_anchor
+cinema,movie house,wordnet_synset,oewn-cinema__1.06.00..,double_korean_anchor
+cinema,movie theater,wordnet_synset,oewn-cinema__1.06.00..,double_korean_anchor
+cinema,movie theatre,wordnet_synset,oewn-cinema__1.06.00..,double_korean_anchor
+cinema,picture palace,wordnet_synset,oewn-cinema__1.06.00..,double_korean_anchor
+pattern,design,wordnet_synset,oewn-pattern__1.06.00..,double_korean_anchor
+pattern,figure,wordnet_synset,oewn-pattern__1.06.00..,double_korean_anchor
+strict,exacting,wordnet_synset,oewn-strict__5.00.00.demanding.01,double_korean_anchor
+strict,stern,wordnet_synset,oewn-strict__5.00.00.demanding.01,double_korean_anchor
+distinguish,differentiate,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,secern,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,secernate,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,separate,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,severalise,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,severalize,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,tell,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+distinguish,tell apart,wordnet_synset,oewn-distinguish__2.31.00..,double_korean_anchor
+spouse,better half,wordnet_synset,oewn-spouse__1.18.00..,monosemous_pair
+spouse,married person,wordnet_synset,oewn-spouse__1.18.00..,monosemous_pair
+spouse,mate,wordnet_synset,oewn-spouse__1.18.00..,monosemous_pair
+spouse,partner,wordnet_synset,oewn-spouse__1.18.00..,monosemous_pair
+visible,seeable,wordnet_synset,oewn-visible__3.00.00..,double_korean_anchor
+claim,call,wordnet_synset,oewn-claim__1.10.01..,double_korean_anchor
+comprehensible,comprehendible,wordnet_synset,oewn-comprehensible__3.00.00..,monosemous_pair
+misleading,deceptive,wordnet_synset,oewn-misleading__5.00.00.dishonest.00,monosemous_pair
+confiscation,arrogation,wordnet_synset,oewn-confiscation__1.04.00..,monosemous_pair
+irretrievable,unretrievable,wordnet_synset,oewn-irretrievable__5.00.00.unrecoverable.00,monosemous_pair

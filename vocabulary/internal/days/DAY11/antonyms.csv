@@ -1,0 +1,8 @@
+headword,antonym,evidence,wordnet_sense,verification_method
+successful,unsuccessful,wordnet_antonym,oewn-successful__3.00.00..,monosemous_pair
+advance,retreat,wordnet_antonym,oewn-advance__1.04.00..,model_reviewed_pair
+development,nondevelopment,wordnet_antonym,oewn-development__1.22.01..,double_korean_anchor
+absolute,relative,wordnet_antonym,oewn-absolute__3.00.00..,model_reviewed_pair
+handmade,machine-made,wordnet_antonym,oewn-handmade__3.00.00..,monosemous_pair
+turn off,turn on,textbook_note,,
+designed,undesigned,wordnet_antonym,oewn-designed__3.00.00..,monosemous_pair

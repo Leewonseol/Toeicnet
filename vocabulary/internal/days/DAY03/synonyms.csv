@@ -1,0 +1,32 @@
+headword,synonym,evidence,wordnet_sense,verification_method
+colleague,co-worker,wordnet_synset,oewn-colleague__1.18.00..,double_korean_anchor
+colleague,fellow worker,wordnet_synset,oewn-colleague__1.18.00..,double_korean_anchor
+colleague,workfellow,wordnet_synset,oewn-colleague__1.18.00..,double_korean_anchor
+efficiently,expeditiously,wordnet_synset,oewn-efficiently__4.02.00..,monosemous_pair
+notify,advise,wordnet_synset,oewn-notify__2.32.00..,monosemous_pair
+notify,apprise,wordnet_synset,oewn-notify__2.32.00..,monosemous_pair
+notify,apprize,wordnet_synset,oewn-notify__2.32.00..,monosemous_pair
+notify,give notice,wordnet_synset,oewn-notify__2.32.00..,monosemous_pair
+notify,send word,wordnet_synset,oewn-notify__2.32.00..,monosemous_pair
+perform,do,wordnet_synset,oewn-perform__2.36.00..,model_reviewed_pair
+perform,execute,wordnet_synset,oewn-perform__2.36.00..,model_reviewed_pair
+deserve,merit,wordnet_synset,oewn-deserve__2.42.00..,monosemous_pair
+concentrate,center,wordnet_synset,oewn-concentrate__2.31.00..,double_korean_anchor
+concentrate,centre,wordnet_synset,oewn-concentrate__2.31.00..,double_korean_anchor
+concentrate,focus,wordnet_synset,oewn-concentrate__2.31.00..,double_korean_anchor
+concentrate,pore,wordnet_synset,oewn-concentrate__2.31.00..,double_korean_anchor
+concentrate,rivet,wordnet_synset,oewn-concentrate__2.31.00..,double_korean_anchor
+daily,day-after-day,wordnet_synset,oewn-daily__5.00.00.periodic.00,double_korean_anchor
+daily,day-by-day,wordnet_synset,oewn-daily__5.00.00.periodic.00,double_korean_anchor
+daily,day-to-day,wordnet_synset,oewn-daily__5.00.00.periodic.00,double_korean_anchor
+laptop,laptop computer,wordnet_synset,oewn-laptop__1.06.00..,monosemous_pair
+partition,divider,wordnet_synset,oewn-partition__1.06.00..,double_korean_anchor
+sheet,piece of paper,wordnet_synset,oewn-sheet__1.10.00..,double_korean_anchor
+sheet,sheet of paper,wordnet_synset,oewn-sheet__1.10.00..,double_korean_anchor
+seal,stamp,wordnet_synset,oewn-seal__1.06.00..,double_korean_anchor
+productively,fruitfully,wordnet_synset,oewn-productively__4.02.00..,monosemous_pair
+productively,profitably,wordnet_synset,oewn-productively__4.02.00..,monosemous_pair
+impending,at hand,wordnet_synset,oewn-impending__5.00.00.close.01,monosemous_pair
+impending,close at hand,wordnet_synset,oewn-impending__5.00.00.close.01,monosemous_pair
+impending,imminent,wordnet_synset,oewn-impending__5.00.00.close.01,monosemous_pair
+impending,impendent,wordnet_synset,oewn-impending__5.00.00.close.01,monosemous_pair
