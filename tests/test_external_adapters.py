@@ -10,6 +10,7 @@ import unittest
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 from download_datasets import checksum, download
+from derive_wiktextract_inflections import form_of_relations
 from import_corpus import association, sentence_tokens
 from import_wiktextract import candidate_records as wiktextract_candidates
 from import_wordnet import candidate_records as wordnet_candidates
@@ -96,6 +97,46 @@ class ExternalAdaptersTest(unittest.TestCase):
         self.assertEqual(rows[0]["target_headword"], "견본")
         self.assertEqual(rows[0]["details"]["source_sense_label"], "an item selected for testing")
         self.assertEqual(rows[0]["details"]["korean_translation_status"], "unverified")
+
+    def test_inflection_requires_reciprocal_same_release_and_compatible_source_pos(self):
+        with tempfile.TemporaryDirectory() as folder:
+            directory = Path(folder)
+            inputs = directory / "source.jsonl"
+            candidates = directory / "candidates.jsonl"
+
+            def write_input(form_pos):
+                inputs.write_text("\n".join(json.dumps({
+                    "headword": word, "part_of_speech": pos,
+                    "source_id": "source", "source_record_id": word,
+                }) for word, pos in (("seek", "verb"), ("sought", form_pos))))
+
+            def data(version="test"):
+                common = {"source_id": "kaikki", "kind": "relation_candidate", "part_of_speech": "verb",
+                          "url": "https://en.wiktionary.org/wiki/seek#English"}
+                candidates.write_text("\n".join(json.dumps(row) for row in (
+                    {**common, "headword": "seek", "target_headword": "sought", "relation_type": "HAS_INFLECTION",
+                     "source_record_id": "entry", "version": "test", "details": {"tags": ["past"]}},
+                    {**common, "headword": "sought", "target_headword": "seek", "relation_type": "INFLECTION_OF",
+                     "source_record_id": "form", "version": version, "target_part_of_speech": "verb",
+                     "details": {"tags": ["form-of", "past"]}},
+                )))
+
+            def run():
+                catalog = {"kaikki": {"independence_group": "wiktionary"}}
+                return list(form_of_relations([inputs], [candidates], catalog, "2026-11-27"))
+
+            write_input("verb")
+            data()
+            rows = run()
+            self.assertEqual(len(rows), 1)
+            self.assertEqual(rows[0]["from"]["headword"], "sought")
+            self.assertEqual(rows[0]["attributes"]["features"], {"verb": ["past"]})
+            self.assertEqual(rows[0]["status"], "source_attested")
+            data("other-release")
+            self.assertEqual(run(), [])
+            data()
+            write_input("adjective")
+            self.assertEqual(run(), [])
 
     def test_adoption_requires_pinned_or_recorded_checksum(self):
         with tempfile.TemporaryDirectory() as folder:

@@ -76,6 +76,7 @@ python scripts/build_database.py --manifest sources/manifest.json \
   --candidates data/intermediate/wiktextract.jsonl --candidates data/intermediate/oanc.jsonl \
   --review data/intermediate/verified-senses.jsonl --review data/intermediate/reviewed-relations.jsonl
 python scripts/build_network.py
+python scripts/export_wordnet_relations.py --db data/processed/toeic.db --output-dir data/processed/wordnet
 python scripts/generate_study_notes.py
 python scripts/export_semantic_coverage.py
 python scripts/validate_database.py --core-source anki --require-coverage
@@ -85,5 +86,9 @@ python scripts/report_database.py
 독립적으로 검토된 PDF 주제 연결은 `assign_hackers_themes.py`로 생성할 수 있습니다. `--confirmed-days`에는 OCR 이미지에서 표제 및 DAY를 대조한 단원만 지정합니다.
 
 SQLite DB에는 원천 출현, 의미, 독립적인 영·한 검증 결과, 후보, 노드·에지와 근거를 정규화하여 저장합니다. CSV·JSONL과 GraphML은 `data/processed/`, 학습 노트와 60일 일정은 `notes/`에 생성합니다. `semantic_coverage.csv`와 `semantic_coverage_summary.json`은 각 출현에 의미 검증이 연결됐는지와 후보만 있는지를 보여 줍니다.
+
+`external_lexical_evidence`는 원천 어휘 표기와 일치하는 공개 사전·말뭉치 기록을 어휘 ID에 연결합니다. 원천 레코드, 버전과 교재 의미의 정렬 상태를 확인할 수 있습니다. 핵심 노트의 공개 사전 정의, OANC 용례 위치와 공식 샘플 문항 위치도 이 보기에서 가져옵니다. `data/processed/wordnet/`에는 릴리스의 의미와 Synset 식별자, 원천 관계와 라이선스가 있습니다.
+
+`derive_wiktextract_inflections.py`는 두 표제어가 원천에 있고 품사 조건을 만족할 때 같은 릴리스의 굴절형 목록과 `form-of` 항목을 대조합니다. 문법 자질이 양쪽에서 일치한 굴절 관계와 근거를 만들어 분석 입력에 추가할 수 있습니다.
 
 원본, OCR, 사전 후보와 원천 정보를 포함하는 생성물은 로컬에서 관리합니다. Git은 코드, 문서, 공개 자료의 체크섬과 이용 근거를 추적합니다.

@@ -127,3 +127,15 @@ class BuildDatabaseTest(unittest.TestCase):
         self.assertTrue(source_coverage_complete(measured, "anki"))
         self.assertFalse(source_coverage_complete(measured, "quizlet"))
         self.assertFalse(source_coverage_complete({**measured, "back_pages_image_reviewed": 119}, "anki"))
+
+    def test_external_lexical_evidence_anchors_source_words_without_linking_a_sense(self):
+        candidates = jsonl(self.candidates, [
+            {"kind": "sense_candidate", "headword": form, "source_id": "oewn",
+             "source_record_id": form, "part_of_speech": "noun", "definition": "A selected thing."}
+            for form in ("SAMPLE", "outside")
+        ])
+        build(self.db, self.config, [self.intake], [candidates])
+        with closing(sqlite3.connect(self.db)) as db:
+            rows = db.execute("SELECT headword,source_id,alignment_status FROM external_lexical_evidence").fetchall()
+            self.assertEqual(rows, [("SAMPLE", "oewn", "unreviewed")] * 2)
+            self.assertEqual(db.execute("SELECT COUNT(*) FROM sense_occurrences").fetchone(), (0,))

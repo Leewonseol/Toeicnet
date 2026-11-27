@@ -159,8 +159,9 @@ class Builder:
         if not locator or not record.get("headword"):
             raise ValueError("Candidate requires a headword and a source record ID")
         candidate_id = stable("candidate", record)
-        self.db.execute("INSERT OR IGNORE INTO external_candidates VALUES (?,?,?,?,?,?)", (
+        self.db.execute("INSERT OR IGNORE INTO external_candidates VALUES (?,?,?,?,?,?,?)", (
             candidate_id, record["kind"], record["headword"], record["source_id"], locator, packed(record),
+            normalized_lemma(record["headword"]),
         ))
 
     def edge(self, start, end, kind, status, *, sense_id=None, properties=None, evidence=()):

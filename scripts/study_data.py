@@ -10,6 +10,7 @@ from contextlib import closing, contextmanager
 from pathlib import Path
 
 from review_common import normalized_lemma, normalized_pos
+from study_open_evidence import load_open_evidence
 
 CORE_SOURCES = {"quizlet_324678752", "hackers_anki_user"}
 BACK_SOURCE = "hackers_back"
@@ -103,7 +104,7 @@ def answer(meaning, *, english_only=False):
 
 
 class StudyData:
-    def __init__(self, path):
+    def __init__(self, path, *, include_open_evidence=False):
         with closing(sqlite3.connect(path.resolve().as_uri() + "?mode=ro", uri=True)) as connection:
             connection.row_factory = sqlite3.Row
             connection.execute("BEGIN")
@@ -122,6 +123,7 @@ class StudyData:
                 self.evidence[row["object_type"], row["object_id"]].append(row)
             self.nodes = index(records(connection, "SELECT * FROM nodes ORDER BY label, node_id"), "node_id")
             self.edges = records(connection, "SELECT * FROM edges ORDER BY relation_type, from_node_id, to_node_id, edge_id")
+            self.open_evidence = load_open_evidence(connection, CORE_SOURCES) if include_open_evidence else {}
         self.word_senses = group(self.senses.values(), "word_id")
         self.homonyms = group(self.words.values(), "normalized")
         self.sense_keys = {}

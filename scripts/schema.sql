@@ -54,8 +54,18 @@ CREATE TABLE evidence (
 CREATE INDEX evidence_object ON evidence(object_type,object_id);
 CREATE TABLE external_candidates (
     candidate_id TEXT PRIMARY KEY, kind TEXT NOT NULL, headword TEXT NOT NULL,
-    source_id TEXT NOT NULL REFERENCES sources, source_record_id TEXT NOT NULL, payload_json TEXT NOT NULL
+    source_id TEXT NOT NULL REFERENCES sources, source_record_id TEXT NOT NULL, payload_json TEXT NOT NULL,
+    normalized_headword TEXT NOT NULL CHECK(length(normalized_headword)>0)
 ) STRICT;
+CREATE INDEX external_candidate_lemma ON external_candidates(normalized_headword,kind,source_id);
+CREATE VIEW external_lexical_evidence AS
+SELECT w.word_id,c.candidate_id,c.kind,c.headword,c.source_id,c.source_record_id,c.payload_json,
+       s.title AS source_title,s.version AS source_version,s.license AS source_license,
+       'unreviewed' AS alignment_status
+FROM words w JOIN external_candidates c ON c.normalized_headword=w.normalized
+JOIN sources s ON s.source_id=c.source_id
+WHERE c.source_id IN ('oewn','kaikki','oanc','ets','toeic_kr')
+AND EXISTS (SELECT 1 FROM occurrences o WHERE o.word_id=w.word_id);
 CREATE TABLE run_input (
     input_kind TEXT NOT NULL, filename TEXT NOT NULL, sha256 TEXT NOT NULL, row_count INTEGER NOT NULL,
     PRIMARY KEY(input_kind,sha256)

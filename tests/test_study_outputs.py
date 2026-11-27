@@ -138,6 +138,84 @@ class StudyOutputsTest(unittest.TestCase):
         self.assertIn("영어 정의 교차 검증", sample_note)
         self.assertIn("Cambridge", sample_note)
 
+    def test_open_evidence_is_bounded_and_kept_out_of_verified_cards(self):
+        with closing(sqlite3.connect(self.database)) as db:
+            db.executemany(
+                "INSERT INTO sources(source_id,title,url,license,version) VALUES (?,?,?,?,?)",
+                [("oewn", "Open English WordNet", "https://en-word.net/", "CC-BY-4.0", "2025"),
+                 ("kaikki", "Wiktionary", "https://en.wiktionary.org/", "CC-BY-SA-4.0", "test-dump"),
+                 ("oanc", "Open American National Corpus", "https://anc.org/", "unrestricted", "corpus-v1"),
+                 ("ets", "ETS", "https://www.ets.org/", "individual reference", "official sample")],
+            )
+            records = [
+                ("d1", "sense_candidate", "oewn", {
+                    "definition": "An open adjective definition.", "part_of_speech": "adjective",
+                    "url": "https://en-word.net/lemma/partial",
+                }),
+                ("d2", "sense_candidate", "oewn", {"definition": "Another gloss.", "part_of_speech": "adjective"}),
+                ("d0", "sense_candidate", "oewn", {
+                    "definition": "This older gloss is omitted.", "tags": ["archaic"],
+                }),
+                ("dk", "sense_candidate", "kaikki", {
+                    "definition": "A Wiktionary gloss.", "part_of_speech": "noun",
+                }),
+                ("rel", "relation_candidate", "kaikki", {
+                    "relation_type": "HAS_HISTORICAL_FORM", "target_headword": "partialis",
+                    "details": {"target_language": "la"},
+                }),
+                ("corpus", "usage_candidate", "oanc", {
+                    "verification_status": "corpus_attested", "usage_type": "COLLOCATION",
+                    "part_of_speech": "adjective", "expression": "partial result",
+                    "details": {"frequency": 7, "attestations": [{
+                        "context": "A partial result.", "surface": "partial result",
+                        "document": "sample.txt", "start": 12, "end": 26, "context_start": 10,
+                    }]},
+                }),
+                ("invalid", "usage_candidate", "oanc", {
+                    "verification_status": "corpus_attested", "usage_type": "COLLOCATION",
+                    "expression": "wrong offsets",
+                    "details": {"frequency": 99, "attestations": [{
+                        "context": "A partial result.", "surface": "partial result",
+                        "document": "sample.txt", "start": 11, "end": 25, "context_start": 10,
+                    }]},
+                }),
+                ("official", "usage_candidate", "ets", {
+                    "expression": "partial refund",
+                    "details": {"toeic_evidence": True, "item_locator": "Public sample item 5"},
+                }),
+            ]
+            db.executemany(
+                "INSERT INTO external_candidates VALUES (?,?,?,?,?,?,?)",
+                [(identifier, kind, "partial", source, identifier, json.dumps(payload), "partial")
+                 for identifier, kind, source, payload in records],
+            )
+            db.commit()
+        data = StudyData(self.database, include_open_evidence=True)
+        output = self.root / "open-notes"
+        generate_notes(data, output)
+        source_note = next((output / "part01_core_words").glob("word-partial-*.md")).read_text()
+        self.assertIn("교재의 뜻과 개별 의미 간 대응은 미검토", source_note)
+        self.assertIn("원문 정의 · 출처 품사 adjective · An open adjective definition.", source_note)
+        self.assertIn("원문 정의 후보 3건 중 2건", source_note)
+        self.assertIn("이용 조건 CC-BY-4.0", source_note)
+        self.assertNotIn("This older gloss", source_note)
+        self.assertIn("partialis · 언어 코드 la", source_note)
+        self.assertIn("7회 · 발췌 “A partial result.” · sample.txt 문자 12–26", source_note)
+        self.assertNotIn("wrong offsets", source_note)
+        self.assertIn("## 공식 TOEIC 공개 샘플 사용례", source_note)
+        self.assertIn("Public sample item 5", source_note)
+        summary = (output / "part01_core_words/README.md").read_text()
+        self.assertIn("OANC 문서와 위치가 확인된 어휘 1개", summary)
+        self.assertIn("공식 TOEIC 공개 샘플에서 표현을 확인한 어휘 1개", summary)
+        counts = write_decks(data, self.root / "cards")
+        self.assertEqual(counts["english_definitions"]["core_words"], 1)
+
+    def test_open_evidence_legacy_database(self):
+        with closing(sqlite3.connect(self.database)) as db:
+            db.execute("DROP VIEW external_lexical_evidence")
+            db.commit()
+        self.assertFalse(StudyData(self.database, include_open_evidence=True).open_evidence)
+
     def test_network_and_vocabulary_preserve_links(self):
         output = self.root / "network"
         export_network(self.data, output)

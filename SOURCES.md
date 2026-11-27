@@ -46,13 +46,17 @@ PDF 120쪽의 출현 3,837건을 Anki 기초·800점·900점 덱과 비교했다
 | --- | --- |
 | Cambridge Dictionary | 제공자 라이선스와 공식 API 안내를 확인했다. 계약 없는 상태에서 공개 표제어를 개별 참조할 수 있는 경우 의미·품사·용례를 대조한다. [사전](https://dictionary.cambridge.org/), [라이선스](https://dictionary.cambridge.org/license.html), [API](https://dictionary.cambridge.org/develop) |
 | Oxford Learner’s Dictionaries | 학습자용 사이트의 법적 고지와 Oxford Languages의 별도 API를 확인했다. 학습자용 데이터나 Collocations 제품이 자동으로 포함된다고 가정하지 않는다. [법적 고지](https://www.oxfordlearnersdictionaries.com/legal-notice.html), [Oxford Languages API](https://languages.oup.com/products/api/) |
-| Longman Dictionary of Contemporary English | 공개 웹 첫 요청이 502였다. 해당 웹사이트의 공식 덤프와 API, 이 프로젝트의 저장 권한은 미확인이다. [사전](https://www.ldoceonline.com/) |
+| Longman Dictionary of Contemporary English | 개별 표제어를 다시 열었으나 공개 응답은 HTTP 502·503이었다. 해당 사전의 검증 근거는 확인하지 못했다. 공식 덤프와 저장 권한은 미확인이다. [사전](https://www.ldoceonline.com/) |
 | Collins Dictionary | 공개 사이트 약관과 별도 이용 조건이 있는 API를 확인했다. [사전](https://www.collinsdictionary.com/), [사이트 약관](https://www.collinsdictionary.com/terms-and-conditions), [API](https://www.collinsdictionary.com/us/collins-api/) |
-| Britannica Dictionary | 본문 접근을 확인하지 못했다. Merriam-Webster Learners Dictionary API는 별도로 확인했다. 같은 계열 학습자용 데이터를 중복 집계하지 않는다. [Britannica Dictionary](https://www.britannica.com/dictionary), [Learners Dictionary API](https://dictionaryapi.com/products/api-learners-dictionary), [사전 이용 연구](https://elibrary.narr.digital/xibrary/10.24053-AAA-2024-0004) |
+| Britannica Dictionary | 공개 표제어의 일반 웹 열람에서 overdue, portfolio, premium의 해당 의미를 확인했다. Merriam-Webster Learners Dictionary API는 별도로 확인했다. 같은 계열 학습자용 데이터를 중복 집계하지 않는다. [Britannica Dictionary](https://www.britannica.com/dictionary), [Learners Dictionary API](https://dictionaryapi.com/products/api-learners-dictionary), [사전 이용 연구](https://elibrary.narr.digital/xibrary/10.24053-AAA-2024-0004) |
 | 국립국어원 한국어기초사전 | 한국어 뜻과 한국어 용례를 독립적으로 검토하는 데 사용한다. 공식 API와 전체 내려받기 안내를 확인했다. [사전](https://krdict.korean.go.kr/), [개발 지원](https://krdict.korean.go.kr/kor/openApi/openApiInfo) |
-| Online Etymology Dictionary | 홈페이지와 개별 항목을 공개 참조할 수 있었다. 공식 덤프·API 및 대량 저장 권한은 미확인이다. [Etymonline](https://www.etymonline.com/), [약관](https://www.etymonline.com/legal/terms) |
+| Online Etymology Dictionary | 개별 공개 항목에서 remit 계열, dividend, itinerary, collateral 등의 역사적 경로와 접사를 확인했다. 공식 덤프·API 및 대량 저장 권한은 미확인이다. [Etymonline](https://www.etymonline.com/), [약관](https://www.etymonline.com/legal/terms) |
 
 영어 정의 교차 검증에서 사전 이름이 달라도 원자료의 제작자가 같은 경우 한 출처로 센다. 자료 확보와 개별 해커스 의미 검증은 별도의 상태로 기록한다.
+
+## 공식 TOEIC 샘플 위치 확인
+
+한국 TOEIC 공식 RC 샘플 1의 Part 5 이미지에서 본문과 선택지의 어휘를 직접 확인했다. SQLite 기록에는 13건의 관찰 표기 및 문항 위치가 있다. 문형을 검토한 두 동사의 근거는 분석에 연결했다. 실제 공식 샘플 위치만 인용했다. [한국 TOEIC 공식 RC 샘플](https://exam.toeic.co.kr/content/TOE/sampleRc1.php)
 
 ## 보카바이블 B권 학습 구성 확인
 

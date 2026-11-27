@@ -11,6 +11,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import quote, urlsplit
 
+from study_open_evidence import CORPUS_TYPES, DICTIONARY_SOURCES, RELATIONS
+
 from study_data import (
     BACK_SOURCE, CORE_SOURCES, ENGLISH_LABELS, KOREAN_LABELS, OPPOSITION_RELATIONS,
     RELATION_LABELS, StudyData, atomic_text, json_text, markdown, object_properties, path_label, study_edges,
@@ -341,6 +343,112 @@ def core_filename(word_id, headword):
     return f"word-{slug or 'entry'}-{digest}.md"
 
 
+def open_source_citation(data, item):
+    source = data.sources.get(item["source_id"], {})
+    title = item.get("source_title") or item["source_id"]
+    stamp = " · ".join(filter(None, (str(title), item["source_id"], str(item.get("version") or ""))))
+    return [{
+        "source_title": stamp, "source_id": item["source_id"],
+        "source_record_id": item["source_record_id"], "url": item.get("url"),
+        "source_url": source.get("url"),
+    }]
+
+
+def detail_label(item, *, tag=False):
+    pos = item.get("part_of_speech")
+    return " · " + ("자동 품사 태그 " if tag else "출처 품사 ") + row_text(pos) if pos else ""
+
+
+def cite_open(data, text, item):
+    if license_name := item.get("source_license"):
+        text += " · 이용 조건 " + row_text(license_name)
+    return cited(text, open_source_citation(data, item))
+
+
+def excerpt(attestation):
+    start = attestation["start"] - attestation["context_start"]
+    end = attestation["end"] - attestation["context_start"]
+    context = attestation["context"]
+    left = max(0, start - 60)
+    right = min(len(context), end + 88)
+    return ("…" if left else "") + path_label(context[left:right]) + ("…" if right < len(context) else "")
+
+
+def open_evidence_lines(data, preview):
+    lines = []
+    if preview.definitions or preview.relations:
+        lines += ["", "## 공개 사전의 참고 자료", "",
+                  "공개 사전에 수록된 자료입니다. 교재의 뜻과 개별 의미 간 대응은 미검토 상태입니다.", ""]
+        for source_id in DICTIONARY_SOURCES:
+            definitions = preview.definitions.get(source_id, [])
+            relation_count = preview.counts[source_id, "relation"]
+            if not definitions and not relation_count:
+                continue
+            source = data.sources.get(source_id, {})
+            lines += [
+                f"### {row_text(source.get('title') or source_id)}", "",
+                f"원문 정의 후보 {preview.counts[source_id, 'definition']:,}건 중 {len(definitions)}건을 표시합니다.",
+                "",
+            ]
+            for item in definitions:
+                definition = path_label(item["definition"])
+                if len(definition) > 220:
+                    definition = definition[:217].rstrip() + "…"
+                text = "- 원문 정의" + detail_label(item) + " · " + row_text(definition)
+                if item["tags"]:
+                    text += " · 출처 태그 " + row_text(", ".join(map(str, item["tags"])))
+                if item.get("qualifiers"):
+                    text += " · 출처 한정 정보 " + row_text(item["qualifiers"])
+                lines.append(cite_open(data, text, item))
+            if relation_count:
+                shown = [(relation, items[0]) for relation, items in preview.relations.items()
+                         if relation[0] == source_id and items]
+                lines += ["", f"사전 관계 후보 {relation_count:,}건 중 {len(shown)}건을 표시합니다.", ""]
+                for relation, item in sorted(shown):
+                    text = f"- {RELATIONS[relation]}{detail_label(item)} · {row_text(item['target'])}"
+                    if item.get("external_sense_id") and item.get("target_external_sense_id"):
+                        text += (
+                            " · 원천 의미 " + row_text(item["external_sense_id"])
+                            + " → " + row_text(item["target_external_sense_id"])
+                        )
+                    details = item.get("details")
+                    if isinstance(details, dict):
+                        if lang := details.get("target_language"):
+                            text += " · 언어 코드 " + row_text(lang)
+                        if tags := details.get("tags"):
+                            text += " · 태그 " + row_text(", ".join(map(str, tags)))
+                    lines.append(cite_open(data, text, item))
+            lines.append("")
+    if preview.corpus:
+        lines += [
+            "", "## OANC 일반 영어 사용례", "",
+            f"문서와 위치가 확인된 말뭉치 레코드 {preview.counts['oanc', 'usage']:,}건 중 "
+            f"{len(preview.corpus)}건을 표시합니다. 품사 태그와 인접 결합은 자동 분석 결과입니다.", "",
+        ]
+        for corpus_type, label in CORPUS_TYPES.items():
+            if not (items := preview.corpus.get(corpus_type)):
+                continue
+            item = items[0]
+            attestation = item["attestation"]
+            text = f"- {label} · {row_text(item['expression'])}{detail_label(item, tag=True)}"
+            if document_limit := item.get("test_document_limit"):
+                text += f" · 최대 {document_limit:,}문서 범위"
+            text += (
+                f" · {item['frequency']:,}회 · 발췌 “{row_text(excerpt(attestation))}”"
+                f" · {row_text(attestation['document'])} 문자 {attestation['start']}–{attestation['end']}"
+            )
+            lines.append(cite_open(data, text, item))
+    if preview.official:
+        lines += [
+            "", "## 공식 TOEIC 공개 샘플 사용례", "",
+            f"공개 샘플 출현 {preview.counts['toeic', 'usage']:,}건 중 {len(preview.official)}건을 표시합니다.", "",
+        ]
+        for item in preview.official:
+            text = f"- {row_text(item['expression'])}{detail_label(item)} · {row_text(item['item_locator'])}"
+            lines.append(cite_open(data, text, item))
+    return lines
+
+
 def render_core(data, output, approved_ids):
     destination = output / CORE
     filenames = {}
@@ -370,6 +478,8 @@ def render_core(data, output, approved_ids):
                 if item["occurrence_id"] in aligned
             ]
             note.append("")
+        if preview := data.open_evidence.get(word_id):
+            note += open_evidence_lines(data, preview)
         note += ["", "## 형태·어원·의미·용법 연결", ""]
         edges = [
             edge for edge in data.word_edges(word_id)
@@ -382,6 +492,17 @@ def render_core(data, output, approved_ids):
         write_markdown(destination / filename, note)
     if not filenames:
         lines.append(EMPTY)
+    core_previews = [data.open_evidence[word_id] for word_id in filenames if word_id in data.open_evidence]
+    if core_previews:
+        dictionary_count = sum(bool(preview.definitions) for preview in core_previews)
+        corpus_count = sum(bool(preview.corpus) for preview in core_previews)
+        official_count = sum(bool(preview.official) for preview in core_previews)
+        lines += [
+            "", "## 참고 자료가 있는 핵심 어휘", "",
+            f"- 공개 사전 정의 후보가 있는 어휘 {dictionary_count:,}개",
+            f"- OANC 문서와 위치가 확인된 어휘 {corpus_count:,}개",
+            f"- 공식 TOEIC 공개 샘플에서 표현을 확인한 어휘 {official_count:,}개",
+        ]
     lines += ["", "## 결합 표현과 문형", ""]
     for spec in CATEGORIES:
         if spec.directory.startswith(CORE + "/"):
@@ -507,7 +628,7 @@ def main():
     parser.add_argument("--db", type=Path, default=Path("data/processed/toeic.db"))
     parser.add_argument("--output", type=Path, default=Path("notes"))
     args = parser.parse_args()
-    core, groups = generate_notes(StudyData(args.db), args.output)
+    core, groups = generate_notes(StudyData(args.db, include_open_evidence=True), args.output)
     print(f"{core} core notes, {groups} study groups, 60 scheduled days")
 
 

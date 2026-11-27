@@ -8,11 +8,14 @@ PDF 출현 **3,777건**의 DAY·정규화 표제어·교재 구간을 Anki 보�
 
 - [SQLite](../data/processed/toeic.db) 및 [어휘 CSV](../data/processed/vocabulary.csv)
 - [어휘 연결망](../data/processed/vocabulary.graphml)
+- [WordNet 원천 관계 요약](../data/processed/wordnet/summary.json) 및 [출처·라이선스](../data/processed/wordnet/ATTRIBUTION.txt)
 - [PART 1–3 학습 노트](../notes/README.md) 및 [자체 60일 일정](../notes/schedule.md)
 - [원천 출현별 의미 검토 상태](../data/processed/semantic_coverage.csv)
 - [실행 결과와 현재 커밋](final_execution.generated.md) 및 [분류별 집계](database.generated.md)
 
 영영사전 두 곳의 근거를 확인한 의미만 교차 검증으로 표시한다. 한국어 뜻은 독립적으로 판단하고 문맥 의존, 부분 대응과 미검증을 구분한다. 검증된 개별 의미의 수와 그 의미가 연결된 원천 출현 수는 각각 계산한다. WordNet, Wiktextract 및 OANC의 전체 원천 대상 분석 후보는 검토 상태를 유지한다. [정의 검증 기준](definition_validation.md)
+
+WordNet의 원천 의미, Synset과 관계를 고유 식별자로 탐색할 수 있다. Wiktextract의 굴절형 목록과 개별 `form-of` 기록에 일치하는 자질을 확인해 영어 굴절 관계에 반영했다. Etymonline에서 어원과 역사적 접두사를 개별 확인했다. 한국 TOEIC 공식 RC 샘플과 OANC 용례의 위치는 학습 노트에 구분해 표시한다. [개별 자료의 접근 범위](../SOURCES.md)
 
 ## 저장소
 
