@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "downloads": [
+    {
+      "source_id": "oewn",
+      "download_url": "https://en-word.net/static/english-wordnet-2025.xml.gz",
+      "local_path": "data/external/english-wordnet-2025.xml.gz",
+      "version": "2025",
+      "license": "CC-BY-4.0",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 11363503,
+      "sha256": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe"
+    },
+    {
+      "source_id": "kaikki",
+      "download_url": "https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz",
+      "local_path": "data/external/raw-wiktextract-data.jsonl.gz",
+      "version": "enwiktionary-2026-10-01",
+      "license": "CC-BY-SA-4.0 / GFDL subject to entry-level third-party terms",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 3082476978,
+      "sha256": "5ff2c072f8099f2d2ce484bd6957bf179f046d2ad37bc36555edf8bb84cb5291"
+    },
+    {
+      "source_id": "oanc",
+      "download_url": "https://github.com/nancyide/anc-website/releases/download/datasets-2026-09-25/OANC_GrAF.tgz",
+      "local_path": "data/external/OANC_GrAF.tgz",
+      "version": "datasets-2026-09-25",
+      "license": "OANC unrestricted use and redistribution (official corpus notice)",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 660388635,
+      "sha256": "8ae47447ab7a8903baa09b6df1d9b6757ebd8a3a305adc6489cc5dfa217c7d19"
+    },
+    {
+      "source_id": "ets",
+      "download_url": "https://www.ets.org/pdfs/toeic/toeic-listening-reading-sample-test.pdf",
+      "local_path": "data/external/toeic-listening-reading-sample-test.pdf",
+      "version": "Paper-delivered testing sample, 34 pages",
+      "license": "ETS copyright, individual reference copy",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 2461549,
+      "sha256": "8f59abfa8f5ef653624cfc7a9810caff2d1d366012179363e4a978caa9d16d4c"
+    },
+    {
+      "source_id": "tessdata_eng",
+      "download_url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/4.1.0/eng.traineddata",
+      "local_path": "data/external/tessdata/eng.traineddata",
+      "version": "4.1.0",
+      "license": "Apache-2.0",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 4113088,
+      "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+    },
+    {
+      "source_id": "tessdata_kor",
+      "download_url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/4.1.0/kor.traineddata",
+      "local_path": "data/external/tessdata/kor.traineddata",
+      "version": "4.1.0",
+      "license": "Apache-2.0",
+      "downloaded_at": "2026-11-27",
+      "size_bytes": 1677415,
+      "sha256": "6b85e11d9bbf07863b97b3523b1b112844c43e713df8b66418a081fd1060b3b2"
+    }
+  ]
+}

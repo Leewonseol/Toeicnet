@@ -1,0 +1,5 @@
+# Python 3.11 or newer.
+# OCR additionally requires Poppler and Tesseract eng/kor language data.
+PyYAML>=6.0.1,<7
+# Optional fast OCR renderer requires pypdfium2 and Pillow.
+# Anki collections ending in .anki21b require the zstd command.

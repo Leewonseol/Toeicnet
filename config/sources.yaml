@@ -1,0 +1,279 @@
+# Download destinations are relative to data/external/. Web sources require individual review.
+sources:
+  quizlet_324678752:
+    name: 해커스 토익 보카 1-30(전면개정판)
+    source_type: primary_material
+    independence_group: hackers
+    url: https://quizlet.com/kr/324678752/%ED%95%B4%EC%BB%A4%EC%8A%A4-%ED%86%A0%EC%9D%B5-%EB%B3%B4%EC%B9%B4-1-30%EC%A0%84%EB%A9%B4%EA%B0%9C%EC%A0%95%ED%8C%90-flash-cards/
+    license_url: https://quizlet.com/tos
+    allowed_hosts: [quizlet.com]
+    version: '324678752'
+    access_status: public_display_only
+    expected_items: 1224
+    expected_items_basis: Live Quizlet set page, observed 2026-11-27
+    live_item_count: 1224
+    export_status: unavailable
+    license: 저장·재배포 권한 미확인
+    download_allowed: false
+  hackers_anki_user:
+    name: 사용자 제공 해커스 Anki 대체 입력
+    source_type: primary_material
+    independence_group: hackers
+    access_status: local_input
+    edition_scope: 사용자가 제공한 Anki 빈출단어 하위 덱. Quizlet 원본과 별도.
+    expected_items: 1241
+    observed_days: 30
+    archive_note_count: 5101
+    archive_card_count: 5101
+    quizlet_equivalence: unverified
+    license: 로컬 입력, 재배포 권한 미확인
+    download_allowed: false
+  hackers_back:
+    name: 해커스 토익 보카 뒷단어 PDF 3종
+    source_type: primary_material
+    independence_group: hackers
+    access_status: local_input
+    expected_pages: 120
+    observed_pages: 120
+    files:
+      - filename: 해커스토익 뒷단어 데이 1-10(2).pdf
+        day_range: [1, 10]
+        pages: 40
+      - filename: 해커스 뒷단어 데이 11–15(1).pdf
+        day_range: [11, 15]
+        pages: 20
+      - filename: 해커스 뒷단어 16-30(1).pdf
+        day_range: [16, 30]
+        pages: 60
+    license: 저장·재배포 권한 미확인
+    download_allowed: false
+  hackers_toc:
+    name: 해커스 토익 보카 챔프스터디 강의 목차
+    source_type: methodological_reference
+    independence_group: hackers
+    url: https://champ.hackers.com/?c=lecture%2Flec_toeic&lec_id=7353&pcmode=Y&r=champstudy&sub=detail
+    allowed_hosts: [champ.hackers.com, www.hackers.co.kr]
+    access_status: reference_only
+    license: 공개 목차의 사실·출처만 참조
+    download_allowed: false
+    edition_scope: 신토익 강의 목차의 프로젝트 테마. 원천 DAY와 판본을 대조한 후 연결.
+    day_topics:
+      1: Recruitment
+      2: Rules and law
+      3: General office work
+      4: General office work
+      5: General office work
+      6: Leisure and community
+      7: Marketing
+      8: Marketing
+      9: Economy
+      10: Shopping
+      11: Product development
+      12: Production
+      13: Customer service
+      14: Travel and airports
+      15: Contracts
+      16: Commerce
+      17: Trade and shipping
+      18: Hospitality and dining
+      19: Revenue
+      20: Accounting
+      21: Company developments
+      22: Meetings
+      23: Employee benefits
+      24: Personnel changes
+      25: Transportation
+      26: Banking
+      27: Investment
+      28: Buildings and housing
+      29: Environment
+      30: Health
+  vocabible:
+    name: 보카바이블 4.0 스텝업 목차 및 출판사 소개
+    source_type: methodological_reference
+    independence_group: stepup
+    url: https://www.yes24.com/Product/Goods/61307273
+    allowed_hosts: [www.yes24.com, www.vocabible.com]
+    version: '4.0'
+    access_status: reference_only
+    license: 공개 목차의 사실·출처만 참조
+    download_allowed: false
+  cambridge:
+    name: Cambridge Dictionary
+    source_type: learner_dictionary
+    independence_group: cambridge_up
+    url: https://dictionary.cambridge.org/
+    license_url: https://dictionary.cambridge.org/license.html
+    api_url: https://dictionary.cambridge.org/develop
+    allowed_hosts: [dictionary.cambridge.org]
+    access_status: reference_only
+    license: 상용, 이용 계약 미확보
+    download_allowed: false
+  oxford:
+    name: Oxford Learner's Dictionaries
+    source_type: learner_dictionary
+    independence_group: oxford_up
+    url: https://www.oxfordlearnersdictionaries.com/
+    license_url: https://www.oxfordlearnersdictionaries.com/legal-notice.html
+    api_url: https://languages.oup.com/products/api/
+    allowed_hosts: [www.oxfordlearnersdictionaries.com, oxfordlearnersdictionaries.com]
+    access_status: reference_only
+    license: 상용, 이용 계약 미확보
+    download_allowed: false
+  longman:
+    name: Longman Dictionary of Contemporary English
+    source_type: learner_dictionary
+    independence_group: pearson
+    url: https://www.ldoceonline.com/
+    allowed_hosts: [www.ldoceonline.com, ldoceonline.com]
+    access_status: unavailable
+    license: 상용, 공개 덤프·사이트 API·이용 계약 미확인
+    download_allowed: false
+  collins:
+    name: Collins Dictionary
+    source_type: learner_dictionary
+    independence_group: harpercollins
+    url: https://www.collinsdictionary.com/
+    license_url: https://www.collinsdictionary.com/terms-and-conditions
+    api_url: https://www.collinsdictionary.com/us/collins-api/
+    allowed_hosts: [www.collinsdictionary.com, collinsdictionary.com]
+    access_status: reference_only
+    license: 상용, 이용 계약 미확보
+    download_allowed: false
+  britannica:
+    name: Britannica Dictionary
+    source_type: learner_dictionary
+    independence_group: merriam_webster
+    url: https://www.britannica.com/dictionary
+    api_url: https://dictionaryapi.com/products/api-learners-dictionary
+    license_url: https://dictionaryapi.com/info/terms-of-service
+    allowed_hosts: [www.britannica.com, britannica.com]
+    access_status: unavailable
+    license: 상용, 사이트 데이터 제공 범위·이용 계약 미확인
+    download_allowed: false
+  krdict:
+    name: 국립국어원 한국어기초사전
+    source_type: bilingual_dictionary
+    independence_group: nikl
+    url: https://krdict.korean.go.kr/
+    api_url: https://krdict.korean.go.kr/kor/openApi/openApiInfo
+    public_download_url: https://krdict.korean.go.kr/download/downloadPopup
+    license_url: https://krdict.korean.go.kr/eng/kboardPolicy/copyRightTermsInfo
+    allowed_hosts: [krdict.korean.go.kr]
+    access_status: reference_only
+    license: CC-BY-SA-2.0 for covered text, separate terms for multimedia
+    download_allowed: false
+  etymonline:
+    name: Online Etymology Dictionary
+    source_type: etymology_dictionary
+    independence_group: etymonline
+    url: https://www.etymonline.com/
+    license_url: https://www.etymonline.com/legal/terms
+    allowed_hosts: [www.etymonline.com, etymonline.com]
+    access_status: reference_only
+    license: 공개 덤프·공식 API·대량 저장 권한 미확보
+    download_allowed: false
+  oewn:
+    name: Open English WordNet
+    source_type: lexical_database
+    independence_group: globalwordnet
+    url: https://en-word.net/downloads
+    license_url: https://github.com/globalwordnet/english-wordnet/blob/main/LICENSE.md
+    download_url: https://en-word.net/static/english-wordnet-2025.xml.gz
+    filename: english-wordnet-2025.xml.gz
+    allowed_hosts: [en-word.net, github.com]
+    version: '2025'
+    downloaded_at: '2026-11-27'
+    sha256: 9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe
+    access_status: downloaded
+    license: CC-BY-4.0
+    download_allowed: true
+  kaikki:
+    name: Wiktionary English via Kaikki raw Wiktextract
+    source_type: lexical_database
+    independence_group: wiktionary
+    url: https://kaikki.org/dictionary/rawdata.html
+    license_url: https://en.wiktionary.org/wiki/Wiktionary:Copyrights
+    schema_url: https://github.com/tatuylonen/wiktextract#format-of-the-extracted-word-entries
+    download_url: https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz
+    filename: raw-wiktextract-data.jsonl.gz
+    allowed_hosts: [kaikki.org, en.wiktionary.org]
+    version: enwiktionary-2026-10-01
+    extraction_date: '2026-10-30'
+    language_filter: en
+    downloaded_at: '2026-11-27'
+    sha256: 5ff2c072f8099f2d2ce484bd6957bf179f046d2ad37bc36555edf8bb84cb5291
+    access_status: downloaded
+    license: CC-BY-SA-4.0 / GFDL subject to entry-level third-party terms
+    download_allowed: true
+  oanc:
+    name: Open American National Corpus (GrAF)
+    source_type: corpus
+    independence_group: oanc
+    url: https://anc.org/data/oanc/download/
+    license_url: https://anc.org/data/oanc/
+    download_url: https://github.com/nancyide/anc-website/releases/download/datasets-2026-09-25/OANC_GrAF.tgz
+    filename: OANC_GrAF.tgz
+    allowed_hosts: [anc.org, www.anc.org, github.com]
+    version: datasets-2026-09-25
+    downloaded_at: '2026-11-27'
+    sha256: 8ae47447ab7a8903baa09b6df1d9b6757ebd8a3a305adc6489cc5dfa217c7d19
+    access_status: downloaded
+    license: OANC unrestricted use and redistribution (official corpus notice)
+    download_allowed: true
+  ets:
+    name: ETS TOEIC Listening and Reading Sample Tests
+    source_type: official_test
+    independence_group: ets
+    url: https://www.ets.org/toeic/test-takers/prepare.html
+    license_url: https://www.ets.org/legal/permissions/licensing.html
+    public_sample_url: https://www.ets.org/pdfs/toeic/toeic-listening-reading-sample-test.pdf
+    filename: toeic-listening-reading-sample-test.pdf
+    allowed_hosts: [www.ets.org, ets.org]
+    version: Paper-delivered testing sample, 34 pages
+    downloaded_at: '2026-11-27'
+    sha256: 8f59abfa8f5ef653624cfc7a9810caff2d1d366012179363e4a978caa9d16d4c
+    access_status: local_reference
+    license: ETS copyright, individual reference copy
+    download_allowed: false
+  toeic_kr:
+    name: 한국 TOEIC 공식 공개 자료
+    source_type: official_test
+    independence_group: ets
+    url: https://exam.toeic.co.kr/content/TOE/sampleRc1.php
+    official_release_url: https://m.exam.toeic.co.kr/content/common/realQuestion.php
+    license_url: https://exam.toeic.co.kr/content/common/copyright_law.php
+    allowed_hosts: [exam.toeic.co.kr, m.exam.toeic.co.kr]
+    access_status: reference_only
+    license: ETS copyright, individual review
+    download_allowed: false
+  tessdata_eng:
+    name: Tesseract OCR English language model (fast)
+    source_type: ocr_model
+    independence_group: tesseract
+    url: https://github.com/tesseract-ocr/tessdata_fast/tree/4.1.0
+    license_url: https://github.com/tesseract-ocr/tessdata_fast/blob/4.1.0/LICENSE
+    download_url: https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/4.1.0/eng.traineddata
+    filename: tessdata/eng.traineddata
+    version: '4.1.0'
+    downloaded_at: '2026-11-27'
+    sha256: 7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2
+    access_status: downloaded
+    license: Apache-2.0
+    acquisition_method: direct vendored OCR model download
+    download_allowed: false
+  tessdata_kor:
+    name: Tesseract OCR Korean language model (fast)
+    source_type: ocr_model
+    independence_group: tesseract
+    url: https://github.com/tesseract-ocr/tessdata_fast/tree/4.1.0
+    license_url: https://github.com/tesseract-ocr/tessdata_fast/blob/4.1.0/LICENSE
+    download_url: https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/4.1.0/kor.traineddata
+    filename: tessdata/kor.traineddata
+    version: '4.1.0'
+    downloaded_at: '2026-11-27'
+    sha256: 6b85e11d9bbf07863b97b3523b1b112844c43e713df8b66418a081fd1060b3b2
+    access_status: downloaded
+    license: Apache-2.0
+    acquisition_method: direct vendored OCR model download
+    download_allowed: false

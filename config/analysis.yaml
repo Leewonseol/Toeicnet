@@ -1,0 +1,6 @@
+{
+  "scope": {"hackers_day_start": 1, "hackers_day_end": 30, "back_pdf_pages": 120},
+  "definitions": {"cross_verification_sources": ["cambridge", "oxford", "longman", "collins", "britannica"], "minimum_independent_sources": 2},
+  "study_schedule": {"prefix_days": 10, "root_days": 30, "semantic_days": 20},
+  "database": {"format": "sqlite", "default_path": "data/processed/toeic.db"}
+}

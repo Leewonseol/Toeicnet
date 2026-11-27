@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+/sources/hackers/*
+!/sources/hackers/.gitkeep
+/sources/quizlet/*
+!/sources/quizlet/.gitkeep
+/data/
+/analysis/*
+!/analysis/README.md
+/notes/
+/exports/
+/reports/*.generated.md
