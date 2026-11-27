@@ -123,6 +123,8 @@ python scripts/batch_rag_study.py \
   --assessments data/intermediate/batch_rag/full/assessments.jsonl
 ```
 
+사전 접근성은 `python scripts/source_access_probe.py [--db data/processed/toeic.db]`로 점검합니다. HTTP 상태, robots.txt(프로젝트 UA와 Anthropic 에이전트 토큰), 확인 페이지, 정의 표지 유무를 출처별로 기록하고 이용 권한은 따로 둡니다. 403, robots 차단, 인증 요구에서는 해당 출처의 요청을 중단하고, 429·5xx만 지수 백오프로 두 번까지 재시도합니다. 응답 본문은 저장하지 않습니다. [최근 점검 결과](reports/source_access.md)
+
 `prepare`는 고정 100개 표본의 검색 결과와 모델 입력을 생성합니다. 독립 검토로 만든 기준 JSONL과 실제 판정 JSONL의 형식은 각각 `batch_rag_benchmark.py`와 `batch_rag_verify.py`에서 확인할 수 있습니다. `pilot`에서 기준 표본과 대조한 결과가 통과하면 같은 DB와 설정으로 `full`을 실행합니다. 같은 입력과 설정으로 명령을 반복하면 SQLite 체크포인트에서 재개합니다. 다음 배치용 입력은 `prepare --review-queue data/intermediate/batch_rag/full/review_queue.jsonl --review-limit 100 --top-k 12`로 생성할 수 있습니다.
 
 선택 사항인 `batch_rag_model.py`는 이용 권한과 호출 한도를 확인한 로컬 모델 명령에 검색 자료를 배치로 전달합니다. 학습 노트와 Anki TSV, 항목별 검토 대기열은 원천이나 사전의 개별 기록이 포함되므로 로컬에 보관합니다. [실행 및 평가 결과](reports/batch_rag_report.md)

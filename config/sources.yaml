@@ -126,7 +126,8 @@ sources:
     independence_group: pearson
     url: https://www.ldoceonline.com/
     allowed_hosts: [www.ldoceonline.com, ldoceonline.com]
-    access_status: unavailable
+    access_status: reference_only
+    access_check: reports/source_access.md
     license: 상용, 공개 덤프·사이트 API·이용 계약 미확인
     download_allowed: false
   collins:
@@ -138,7 +139,34 @@ sources:
     api_url: https://www.collinsdictionary.com/us/collins-api/
     allowed_hosts: [www.collinsdictionary.com, collinsdictionary.com]
     access_status: reference_only
+    access_check: reports/source_access.md
     license: 상용, 이용 계약 미확보
+    download_allowed: false
+  merriam_webster:
+    name: Merriam-Webster Dictionary
+    source_type: learner_dictionary
+    independence_group: merriam_webster
+    url: https://www.merriam-webster.com/
+    license_url: https://www.merriam-webster.com/terms-of-use
+    api_url: https://dictionaryapi.com/
+    api_terms_url: https://dictionaryapi.com/info/terms-of-service
+    allowed_hosts: [www.merriam-webster.com, dictionaryapi.com]
+    access_status: reference_only
+    access_check: reports/source_access.md
+    api_status: authentication_required
+    license: 상용, 사이트 대량 수집 권한 미확보. 공식 API는 키와 API 약관 적용
+    download_allowed: false
+  naver_dict:
+    name: 네이버 영어사전
+    source_type: dictionary_platform
+    independence_group: null
+    platform: true
+    url: https://en.dict.naver.com/
+    allowed_hosts: [en.dict.naver.com]
+    access_status: reference_only
+    access_check: reports/source_access.md
+    counting_rule: 네이버 자체를 출처로 세지 않는다. 화면에 표시된 원천 사전의 source_id와 independence_group으로 기록한다.
+    license: 플랫폼 약관 및 원천 사전별 권리 적용, 자동 수집 권한 미확보
     download_allowed: false
   britannica:
     name: Britannica Dictionary
