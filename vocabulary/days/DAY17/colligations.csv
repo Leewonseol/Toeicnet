@@ -12,7 +12,7 @@ address,address to,address to,noun+to,35,oanc_candidate_unreviewed,COLLIGATION:a
 address,addressed to,address to,verb+to,33,oanc_candidate_unreviewed,COLLIGATION:address:to:verb+to
 address,address in,address in,noun+preposition,28,oanc_candidate_unreviewed,COLLIGATION:address:in:noun+preposition
 address,address of,address of,noun+preposition,26,oanc_candidate_unreviewed,COLLIGATION:address:of:noun+preposition
-address,addressed using,address VBG,verb+VBG,21,oanc_candidate_unreviewed,COLLIGATION:address:VBG:verb+VBG
+address,address recurring,address VBG,verb+VBG,21,oanc_candidate_unreviewed,COLLIGATION:address:VBG:verb+VBG
 address,address on,address on,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:address:on:noun+preposition
 address,address whether,address whether,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:address:whether:verb+preposition
 address,address at,address at,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:address:at:noun+preposition
@@ -48,7 +48,7 @@ article,articles like,article like,noun+preposition,9,oanc_candidate_unreviewed,
 article,articles as,article as,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:article:as:noun+preposition
 article,articles with,article with,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:article:with:noun+preposition
 attach,attached to,attach to,verb+to,222,oanc_candidate_unreviewed,COLLIGATION:attach:to:verb+to
-attach,attached to surfaces,attach to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:attach:to:verb+to-infinitive
+attach,attached to activated,attach to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:attach:to:verb+to-infinitive
 attach,attached as,attach as,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:attach:as:verb+preposition
 attach,attached by,attach by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:attach:by:verb+preposition
 barrier,barrier to,barrier to,noun+to,127,oanc_candidate_unreviewed,COLLIGATION:barrier:to:noun+to
@@ -74,7 +74,7 @@ base,based under,base under,verb+preposition,5,oanc_candidate_unreviewed,COLLIGA
 canal,canals in,canal in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:canal:in:noun+preposition
 canal,canal to,canal to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION:canal:to:noun+to
 canal,canals with,canal with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:canal:with:noun+preposition
-careful,careful to call,careful to + infinitive,adjective+to-infinitive,28,oanc_candidate_unreviewed,COLLIGATION:careful:to:adjective+to-infinitive
+careful,careful to adapt,careful to + infinitive,adjective+to-infinitive,28,oanc_candidate_unreviewed,COLLIGATION:careful:to:adjective+to-infinitive
 careful,careful in,careful in,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:careful:in:adjective+preposition
 cargo,cargoes of,cargo of,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:cargo:of:noun+preposition
 carry,carried out,carry out,verb+preposition,750,oanc_candidate_unreviewed,COLLIGATION:carry:out:verb+preposition
@@ -87,10 +87,10 @@ carry,carry over,carry over,verb+preposition,24,oanc_candidate_unreviewed,COLLIG
 carry,carries with,carry with,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:carry:with:verb+preposition
 carry,carried to,carry to,verb+to,14,oanc_candidate_unreviewed,COLLIGATION:carry:to:verb+to
 carry,carried through,carry through,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:carry:through:verb+preposition
-carry,carrying off,carry off,verb+particle,9,oanc_candidate_unreviewed,COLLIGATION:carry:off:verb+particle
+carry,carried off,carry off,verb+particle,9,oanc_candidate_unreviewed,COLLIGATION:carry:off:verb+particle
+carry,carried around,carry around,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:carry:around:verb+preposition
 carry,carried into,carry into,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:carry:into:verb+preposition
 carry,carried off,carry off,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:carry:off:verb+preposition
-carry,carry around,carry around,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:carry:around:verb+preposition
 carry,carry out,carry out,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:carry:out:noun+preposition
 carry,carried within,carry within,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:carry:within:verb+preposition
 caution,cautioned that,caution that,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:caution:that:verb+preposition
@@ -167,10 +167,10 @@ flow,flows to,flow to,noun+to,29,oanc_candidate_unreviewed,COLLIGATION:flow:to:n
 flow,flowing from,flow from,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:flow:from:verb+preposition
 flow,flow through,flow through,noun+preposition,20,oanc_candidate_unreviewed,COLLIGATION:flow:through:noun+preposition
 flow,flow at,flow at,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:flow:at:noun+preposition
-flow,flow through,flow through,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:flow:through:verb+preposition
-flow,flow into,flow into,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:flow:into:verb+preposition
-flow,flow to,flow to,verb+to,13,oanc_candidate_unreviewed,COLLIGATION:flow:to:verb+to
-flow,flowing in,flow in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:flow:in:verb+preposition
+flow,flows through,flow through,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:flow:through:verb+preposition
+flow,flowed to,flow to,verb+to,13,oanc_candidate_unreviewed,COLLIGATION:flow:to:verb+to
+flow,flowing into,flow into,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:flow:into:verb+preposition
+flow,flowed in,flow in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:flow:in:verb+preposition
 flow,flow into,flow into,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:flow:into:noun+preposition
 flow,flow for,flow for,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:flow:for:noun+preposition
 flow,flow as,flow as,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:flow:as:noun+preposition
@@ -237,7 +237,7 @@ museum,museum with,museum with,noun+preposition,23,oanc_candidate_unreviewed,COL
 museum,museum at,museum at,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:museum:at:noun+preposition
 museum,museum on,museum on,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:museum:on:noun+preposition
 museum,museum for,museum for,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:museum:for:noun+preposition
-oblige,obliged to seek,oblige to + infinitive,verb+to-infinitive,65,oanc_candidate_unreviewed,COLLIGATION:oblige:to:verb+to-infinitive
+oblige,obliged to get,oblige to + infinitive,verb+to-infinitive,65,oanc_candidate_unreviewed,COLLIGATION:oblige:to:verb+to-infinitive
 oblige,obliged by,oblige by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:oblige:by:verb+preposition
 oversight,oversight of,oversight of,noun+preposition,54,oanc_candidate_unreviewed,COLLIGATION:oversight:of:noun+preposition
 oversight,oversight in,oversight in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:oversight:in:noun+preposition
@@ -337,7 +337,7 @@ trade,trade in,trade in,noun+preposition,38,oanc_candidate_unreviewed,COLLIGATIO
 trade,trade in,trade in,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:trade:in:verb+preposition
 trade,traded at,trade at,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:trade:at:verb+preposition
 trade,traded on,trade on,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:trade:on:verb+preposition
-trade,trading with,trade with,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:trade:with:verb+preposition
+trade,traded with,trade with,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:trade:with:verb+preposition
 trade,trade between,trade between,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:trade:between:noun+preposition
 trade,traded for,trade for,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:trade:for:verb+preposition
 trade,trade as,trade as,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:trade:as:noun+preposition
@@ -347,7 +347,7 @@ trade,traded to,trade to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:trade:t
 venue,venues for,venue for,noun+preposition,47,oanc_candidate_unreviewed,COLLIGATION:venue:for:noun+preposition
 venue,venues in,venue in,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:venue:in:noun+preposition
 warehouse,warehouses of,warehouse of,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:warehouse:of:noun+preposition
-weigh,weighs in,weigh in,verb+preposition,74,oanc_candidate_unreviewed,COLLIGATION:weigh:in:verb+preposition
+weigh,weigh in,weigh in,verb+preposition,74,oanc_candidate_unreviewed,COLLIGATION:weigh:in:verb+preposition
 weigh,weighed on,weigh on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:weigh:on:verb+preposition
 weight,weight of,weight of,noun+preposition,153,oanc_candidate_unreviewed,COLLIGATION:weight:of:noun+preposition
 weight,weight in,weight in,noun+preposition,41,oanc_candidate_unreviewed,COLLIGATION:weight:in:noun+preposition

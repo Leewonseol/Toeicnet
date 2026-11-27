@@ -1,5 +1,5 @@
 headword,colligation,lemma,combination,oanc_frequency,status,oanc_record
-accept,accepted that,accept that,verb+preposition,59,oanc_candidate_unreviewed,COLLIGATION:accept:that:verb+preposition
+accept,accept that,accept that,verb+preposition,59,oanc_candidate_unreviewed,COLLIGATION:accept:that:verb+preposition
 accept,accepted as,accept as,verb+preposition,51,oanc_candidate_unreviewed,COLLIGATION:accept:as:verb+preposition
 accept,accepted by,accept by,verb+preposition,29,oanc_candidate_unreviewed,COLLIGATION:accept:by:verb+preposition
 accept,accepted auditing,accept VBG,verb+VBG,24,oanc_candidate_unreviewed,COLLIGATION:accept:VBG:verb+VBG
@@ -62,7 +62,7 @@ branch,branch of,branch of,noun+preposition,134,oanc_candidate_unreviewed,COLLIG
 branch,branch to,branch to,noun+to,18,oanc_candidate_unreviewed,COLLIGATION:branch:to:noun+to
 branch,branch in,branch in,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:branch:in:noun+preposition
 branch,branches on,branch on,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:branch:on:noun+preposition
-branch,branch out,branch out,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:branch:out:verb+preposition
+branch,branching out,branch out,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:branch:out:verb+preposition
 branch,branch off,branch off,noun+particle,7,oanc_candidate_unreviewed,COLLIGATION:branch:off:noun+particle
 branch,branch with,branch with,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:branch:with:noun+preposition
 branch,branch from,branch from,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:branch:from:noun+preposition
@@ -70,7 +70,7 @@ competitor,competitor in,competitor in,noun+preposition,16,oanc_candidate_unrevi
 competitor,competitors to,competitor to,noun+to,12,oanc_candidate_unreviewed,COLLIGATION:competitor:to:noun+to
 competitor,competitor from,competitor from,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:competitor:from:noun+preposition
 contribute,contributed to,contribute to,verb+to,905,oanc_candidate_unreviewed,COLLIGATION:contribute:to:verb+to
-contribute,contribute to making,contribute to + infinitive,verb+to-infinitive,60,oanc_candidate_unreviewed,COLLIGATION:contribute:to:verb+to-infinitive
+contribute,contribute to reducing,contribute to + infinitive,verb+to-infinitive,60,oanc_candidate_unreviewed,COLLIGATION:contribute:to:verb+to-infinitive
 contribute,contributed by,contribute by,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:contribute:by:verb+preposition
 contribute,contributes at,contribute at,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:contribute:at:verb+preposition
 contribute,contribute in,contribute in,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:contribute:in:verb+preposition
@@ -112,18 +112,18 @@ edge,edged out,edge out,verb+particle,5,oanc_candidate_unreviewed,COLLIGATION:ed
 emerge,emerged from,emerge from,verb+preposition,163,oanc_candidate_unreviewed,COLLIGATION:emerge:from:verb+preposition
 emerge,emerged as,emerge as,verb+preposition,99,oanc_candidate_unreviewed,COLLIGATION:emerge:as:verb+preposition
 emerge,emerged in,emerge in,verb+preposition,54,oanc_candidate_unreviewed,COLLIGATION:emerge:in:verb+preposition
-emerge,emerge to serve,emerge to + infinitive,verb+to-infinitive,17,oanc_candidate_unreviewed,COLLIGATION:emerge:to:verb+to-infinitive
+emerge,emerged to lead,emerge to + infinitive,verb+to-infinitive,17,oanc_candidate_unreviewed,COLLIGATION:emerge:to:verb+to-infinitive
 emerge,emerged that,emerge that,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:emerge:that:verb+preposition
-emerge,emerge with,emerge with,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:emerge:with:verb+preposition
-emerge,emerge out,emerge out,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:emerge:out:verb+preposition
+emerge,emerging with,emerge with,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:emerge:with:verb+preposition
+emerge,emerged out,emerge out,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:emerge:out:verb+preposition
 emerge,emerge at,emerge at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:emerge:at:verb+preposition
 emerge,emerged after,emerge after,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:emerge:after:verb+preposition
-emerge,emerge during,emerge during,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:emerge:during:verb+preposition
-emerge,emerge for,emerge for,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:emerge:for:verb+preposition
+emerge,emerged during,emerge during,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:emerge:during:verb+preposition
+emerge,emerges for,emerge for,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:emerge:for:verb+preposition
 emerge,emerged following,emerge VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:emerge:VBG:verb+VBG
 enhance,enhanced by,enhance by,verb+preposition,53,oanc_candidate_unreviewed,COLLIGATION:enhance:by:verb+preposition
 enhance,enhanced in,enhance in,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:enhance:in:verb+preposition
-enhance,enhancing existing,enhance VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:enhance:VBG:verb+VBG
+enhance,enhanced shedding,enhance VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:enhance:VBG:verb+VBG
 era,era of,era of,noun+preposition,140,oanc_candidate_unreviewed,COLLIGATION:era:of:noun+preposition
 era,era in,era in,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:era:in:noun+preposition
 era,era to,era to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:era:to:noun+to
@@ -152,7 +152,7 @@ expansion,expansion to,expansion to,noun+to,5,oanc_candidate_unreviewed,COLLIGAT
 favorable,favorable to,favorable to,adjective+to,15,oanc_candidate_unreviewed,COLLIGATION:favorable:to:adjective+to
 favorable,favorable for,favorable for,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:favorable:for:adjective+preposition
 fever,fever in,fever in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:fever:in:noun+preposition
-force,forced to convert,force to + infinitive,verb+to-infinitive,279,oanc_candidate_unreviewed,COLLIGATION:force:to:verb+to-infinitive
+force,forced to leave,force to + infinitive,verb+to-infinitive,279,oanc_candidate_unreviewed,COLLIGATION:force:to:verb+to-infinitive
 force,force of,force of,noun+preposition,161,oanc_candidate_unreviewed,COLLIGATION:force:of:noun+preposition
 force,forces in,force in,noun+preposition,130,oanc_candidate_unreviewed,COLLIGATION:force:in:noun+preposition
 force,forces to,force to,noun+to,82,oanc_candidate_unreviewed,COLLIGATION:force:to:noun+to
@@ -184,7 +184,7 @@ founder,founder of,founder of,noun+preposition,98,oanc_candidate_unreviewed,COLL
 founder,founder in,founder in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:founder:in:noun+preposition
 front-runner,front-runner in,front-runner in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:front-runner:in:noun+preposition
 grow,grown in,grow in,verb+preposition,302,oanc_candidate_unreviewed,COLLIGATION:grow:in:verb+preposition
-grow,grow up,grow up,verb+particle,139,oanc_candidate_unreviewed,COLLIGATION:grow:up:verb+particle
+grow,grown up,grow up,verb+particle,139,oanc_candidate_unreviewed,COLLIGATION:grow:up:verb+particle
 grow,grow at,grow at,verb+preposition,102,oanc_candidate_unreviewed,COLLIGATION:grow:at:verb+preposition
 grow,growing on,grow on,verb+preposition,99,oanc_candidate_unreviewed,COLLIGATION:grow:on:verb+preposition
 grow,grown to,grow to,verb+to,83,oanc_candidate_unreviewed,COLLIGATION:grow:to:verb+to
@@ -192,14 +192,14 @@ grow,grown for,grow for,verb+preposition,54,oanc_candidate_unreviewed,COLLIGATIO
 grow,growing as,grow as,verb+preposition,48,oanc_candidate_unreviewed,COLLIGATION:grow:as:verb+preposition
 grow,grew out,grow out,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:grow:out:verb+preposition
 grow,grown from,grow from,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:grow:from:verb+preposition
-grow,grow into,grow into,verb+preposition,29,oanc_candidate_unreviewed,COLLIGATION:grow:into:verb+preposition
+grow,grown into,grow into,verb+preposition,29,oanc_candidate_unreviewed,COLLIGATION:grow:into:verb+preposition
 grow,grew by,grow by,verb+preposition,25,oanc_candidate_unreviewed,COLLIGATION:grow:by:verb+preposition
 grow,grow up,grow up,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:grow:up:verb+preposition
 grow,grew to encompass,grow to + infinitive,verb+to-infinitive,17,oanc_candidate_unreviewed,COLLIGATION:grow:to:verb+to-infinitive
 grow,grown under,grow under,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:grow:under:verb+preposition
 grow,grow with,grow with,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:grow:with:verb+preposition
 grow,grow over,grow over,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:grow:over:verb+preposition
-grow,grew bearing,grow VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:grow:VBG:verb+VBG
+grow,grow according,grow VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:grow:VBG:verb+VBG
 hinder,hindered by,hinder by,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:hinder:by:verb+preposition
 imply,implies that,imply that,verb+preposition,323,oanc_candidate_unreviewed,COLLIGATION:imply:that:verb+preposition
 imply,implied by,imply by,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:imply:by:verb+preposition
@@ -299,7 +299,7 @@ productivity,productivity in,productivity in,noun+preposition,9,oanc_candidate_u
 pursue,pursued by,pursue by,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:pursue:by:verb+preposition
 pursue,pursued with,pursue with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:pursue:with:verb+preposition
 pursue,pursued in,pursue in,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:pursue:in:verb+preposition
-pursue,pursued using,pursue VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:pursue:VBG:verb+VBG
+pursue,pursuing using,pursue VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:pursue:VBG:verb+VBG
 reach,reached at,reach at,verb+preposition,75,oanc_candidate_unreviewed,COLLIGATION:reach:at:verb+preposition
 reach,reaches out,reach out,verb+preposition,72,oanc_candidate_unreviewed,COLLIGATION:reach:out:verb+preposition
 reach,reach of,reach of,noun+preposition,62,oanc_candidate_unreviewed,COLLIGATION:reach:of:noun+preposition
@@ -366,21 +366,21 @@ reveal,reveal about,reveal about,verb+preposition,9,oanc_candidate_unreviewed,CO
 reveal,revealed to affect,reveal to + infinitive,verb+to-infinitive,9,oanc_candidate_unreviewed,COLLIGATION:reveal:to:verb+to-infinitive
 reveal,revealed at,reveal at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:reveal:at:verb+preposition
 reveal,revealed with,reveal with,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:reveal:with:verb+preposition
-reveal,revealing continuing,reveal VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:reveal:VBG:verb+VBG
+reveal,revealed concerning,reveal VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:reveal:VBG:verb+VBG
 reveal,revealed on,reveal on,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:reveal:on:verb+preposition
 run,run for,run for,verb+preposition,264,oanc_candidate_unreviewed,COLLIGATION:run:for:verb+preposition
 run,run on,run on,verb+preposition,150,oanc_candidate_unreviewed,COLLIGATION:run:on:verb+preposition
-run,running in,run in,verb+preposition,130,oanc_candidate_unreviewed,COLLIGATION:run:in:verb+preposition
+run,ran in,run in,verb+preposition,130,oanc_candidate_unreviewed,COLLIGATION:run:in:verb+preposition
 run,run by,run by,verb+preposition,94,oanc_candidate_unreviewed,COLLIGATION:run:by:verb+preposition
 run,run out,run out,verb+preposition,92,oanc_candidate_unreviewed,COLLIGATION:run:out:verb+preposition
-run,runs into,run into,verb+preposition,73,oanc_candidate_unreviewed,COLLIGATION:run:into:verb+preposition
+run,ran into,run into,verb+preposition,73,oanc_candidate_unreviewed,COLLIGATION:run:into:verb+preposition
 run,runs through,run through,verb+preposition,60,oanc_candidate_unreviewed,COLLIGATION:run:through:verb+preposition
 run,runs from,run from,verb+preposition,57,oanc_candidate_unreviewed,COLLIGATION:run:from:verb+preposition
 run,run inside,run inside,verb+preposition,51,oanc_candidate_unreviewed,COLLIGATION:run:inside:verb+preposition
 run,run of,run of,noun+preposition,50,oanc_candidate_unreviewed,COLLIGATION:run:of:noun+preposition
 run,run against,run against,verb+preposition,49,oanc_candidate_unreviewed,COLLIGATION:run:against:verb+preposition
 run,runs at,run at,verb+preposition,39,oanc_candidate_unreviewed,COLLIGATION:run:at:verb+preposition
-run,run to,run to,verb+to,37,oanc_candidate_unreviewed,COLLIGATION:run:to:verb+to
+run,running to,run to,verb+to,37,oanc_candidate_unreviewed,COLLIGATION:run:to:verb+to
 run,run with,run with,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:run:with:verb+preposition
 run,run as,run as,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:run:as:verb+preposition
 run,run around,run around,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:run:around:verb+preposition
@@ -393,7 +393,7 @@ run,run over,run over,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:
 run,runs along,run along,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:run:along:verb+preposition
 run,run off,run off,verb+particle,16,oanc_candidate_unreviewed,COLLIGATION:run:off:verb+particle
 run,run using,run VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:run:VBG:verb+VBG
-run,running across,run across,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:run:across:verb+preposition
+run,ran across,run across,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:run:across:verb+preposition
 run,runs down,run down,verb+particle,13,oanc_candidate_unreviewed,COLLIGATION:run:down:verb+particle
 run,run to produce,run to + infinitive,verb+to-infinitive,11,oanc_candidate_unreviewed,COLLIGATION:run:to:verb+to-infinitive
 run,ran about,run about,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:run:about:verb+preposition
@@ -404,7 +404,7 @@ run,runs between,run between,verb+preposition,9,oanc_candidate_unreviewed,COLLIG
 run,run to,run to,noun+to,8,oanc_candidate_unreviewed,COLLIGATION:run:to:noun+to
 run,run by,run by,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:run:by:noun+preposition
 run,run from,run from,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:run:from:noun+preposition
-run,run like,run like,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:run:like:verb+preposition
+run,running like,run like,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:run:like:verb+preposition
 run,running toward,run toward,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:run:toward:verb+preposition
 run,runs throughout,run throughout,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:run:throughout:verb+preposition
 run,run that,run that,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:run:that:verb+preposition
@@ -431,7 +431,7 @@ select,selected because,select because,verb+preposition,19,oanc_candidate_unrevi
 select,selected with,select with,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:select:with:verb+preposition
 select,selected to,select to,verb+to,7,oanc_candidate_unreviewed,COLLIGATION:select:to:verb+to
 shrink,shrunk to,shrink to,verb+to,16,oanc_candidate_unreviewed,COLLIGATION:shrink:to:verb+to
-shrink,shrinks in,shrink in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:shrink:in:verb+preposition
+shrink,shrink in,shrink in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:shrink:in:verb+preposition
 shrink,shrunk from,shrink from,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:shrink:from:verb+preposition
 shrink,shrank by,shrink by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:shrink:by:verb+preposition
 spokesperson,spokesperson for,spokesperson for,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:spokesperson:for:noun+preposition
@@ -475,7 +475,7 @@ strike,strike to,strike to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION:strik
 strike,strikes by,strike by,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:strike:by:noun+preposition
 strike,striking of,strike of,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:strike:of:verb+preposition
 strike,struck for,strike for,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:strike:for:verb+preposition
-struggle,struggled to rebuild,struggle to + infinitive,verb+to-infinitive,72,oanc_candidate_unreviewed,COLLIGATION:struggle:to:verb+to-infinitive
+struggle,struggled to overcome,struggle to + infinitive,verb+to-infinitive,72,oanc_candidate_unreviewed,COLLIGATION:struggle:to:verb+to-infinitive
 struggle,struggle to,struggle to,noun+to,65,oanc_candidate_unreviewed,COLLIGATION:struggle:to:noun+to
 struggle,struggle for,struggle for,noun+preposition,57,oanc_candidate_unreviewed,COLLIGATION:struggle:for:noun+preposition
 struggle,struggling with,struggle with,verb+preposition,45,oanc_candidate_unreviewed,COLLIGATION:struggle:with:verb+preposition
@@ -483,7 +483,7 @@ struggle,struggle with,struggle with,noun+preposition,35,oanc_candidate_unreview
 struggle,struggle against,struggle against,noun+preposition,27,oanc_candidate_unreviewed,COLLIGATION:struggle:against:noun+preposition
 struggle,struggles of,struggle of,noun+preposition,27,oanc_candidate_unreviewed,COLLIGATION:struggle:of:noun+preposition
 struggle,struggle between,struggle between,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:struggle:between:noun+preposition
-struggle,struggle for,struggle for,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:struggle:for:verb+preposition
+struggle,struggling for,struggle for,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:struggle:for:verb+preposition
 struggle,struggle over,struggle over,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:struggle:over:noun+preposition
 struggle,struggles in,struggle in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:struggle:in:verb+preposition
 struggle,struggling to,struggle to,verb+to,10,oanc_candidate_unreviewed,COLLIGATION:struggle:to:verb+to

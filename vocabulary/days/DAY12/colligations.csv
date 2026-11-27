@@ -5,7 +5,7 @@ assemble,assembled by,assemble by,verb+preposition,17,oanc_candidate_unreviewed,
 assemble,assembled from,assemble from,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:assemble:from:verb+preposition
 assemble,assembled using,assemble VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:assemble:VBG:verb+VBG
 assemble,assembled with,assemble with,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:assemble:with:verb+preposition
-assemble,assembled to make,assemble to + infinitive,verb+to-infinitive,9,oanc_candidate_unreviewed,COLLIGATION:assemble:to:verb+to-infinitive
+assemble,assemble to form,assemble to + infinitive,verb+to-infinitive,9,oanc_candidate_unreviewed,COLLIGATION:assemble:to:verb+to-infinitive
 assemble,assembled at,assemble at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:assemble:at:verb+preposition
 assemble,assembled on,assemble on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:assemble:on:verb+preposition
 assemble,assemble as,assemble as,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:assemble:as:verb+preposition
@@ -99,7 +99,7 @@ fill,fill in,fill in,noun+preposition,59,oanc_candidate_unreviewed,COLLIGATION:f
 fill,filled out,fill out,verb+particle,52,oanc_candidate_unreviewed,COLLIGATION:fill:out:verb+particle
 fill,fill up,fill up,verb+particle,22,oanc_candidate_unreviewed,COLLIGATION:fill:up:verb+particle
 fill,filled by,fill by,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:fill:by:verb+preposition
-fill,fill out,fill out,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:fill:out:verb+preposition
+fill,filling out,fill out,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:fill:out:verb+preposition
 fill,fill with,fill with,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:fill:with:noun+preposition
 fitted,fitted to,fitted to,adjective+to,31,oanc_candidate_unreviewed,COLLIGATION:fitted:to:adjective+to
 fitted,fitted with,fitted with,adjective+preposition,29,oanc_candidate_unreviewed,COLLIGATION:fitted:with:adjective+preposition
@@ -167,16 +167,16 @@ occurrence,occurrence for,occurrence for,noun+preposition,6,oanc_candidate_unrev
 operate,operates in,operate in,verb+preposition,78,oanc_candidate_unreviewed,COLLIGATION:operate:in:verb+preposition
 operate,operate on,operate on,verb+preposition,51,oanc_candidate_unreviewed,COLLIGATION:operate:on:verb+preposition
 operate,operated by,operate by,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:operate:by:verb+preposition
-operate,operating at,operate at,verb+preposition,33,oanc_candidate_unreviewed,COLLIGATION:operate:at:verb+preposition
+operate,operates at,operate at,verb+preposition,33,oanc_candidate_unreviewed,COLLIGATION:operate:at:verb+preposition
 operate,operates as,operate as,verb+preposition,23,oanc_candidate_unreviewed,COLLIGATION:operate:as:verb+preposition
-operate,operate under,operate under,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:operate:under:verb+preposition
 operate,operates from,operate from,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:operate:from:verb+preposition
-operate,operating with,operate with,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:operate:with:verb+preposition
+operate,operates under,operate under,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:operate:under:verb+preposition
+operate,operated with,operate with,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:operate:with:verb+preposition
 operate,operate within,operate within,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:operate:within:verb+preposition
-operate,operated to prevent,operate to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:operate:to:verb+to-infinitive
+operate,operates to control,operate to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:operate:to:verb+to-infinitive
 operate,operate out,operate out,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:operate:out:verb+preposition
 operate,operated for,operate for,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:operate:for:verb+preposition
-operate,operate through,operate through,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:operate:through:verb+preposition
+operate,operates through,operate through,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:operate:through:verb+preposition
 output,output of,output of,noun+preposition,85,oanc_candidate_unreviewed,COLLIGATION:output:of:noun+preposition
 output,output from,output from,noun+preposition,19,oanc_candidate_unreviewed,COLLIGATION:output:from:noun+preposition
 output,output for,output for,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:output:for:noun+preposition
@@ -217,7 +217,7 @@ place,placed by,place by,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATI
 place,place around,place around,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:place:around:noun+preposition
 place,place until,place until,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:place:until:noun+preposition
 place,placed over,place over,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:place:over:verb+preposition
-place,placed to take,place to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:place:to:verb+to-infinitive
+place,placed to act,place to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:place:to:verb+to-infinitive
 place,placed between,place between,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:place:between:verb+preposition
 place,placed outside,place outside,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:place:outside:verb+preposition
 place,placed with,place with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:place:with:verb+preposition
@@ -256,7 +256,7 @@ power,power behind,power behind,noun+preposition,10,oanc_candidate_unreviewed,CO
 power,power between,power between,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:power:between:noun+preposition
 power,power during,power during,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:power:during:noun+preposition
 power,power that,power that,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:power:that:noun+preposition
-power,powered to evaluate,power to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:power:to:verb+to-infinitive
+power,powered to detect,power to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:power:to:verb+to-infinitive
 power,power at,power at,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:power:at:noun+preposition
 power,power through,power through,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:power:through:noun+preposition
 power,power into,power into,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:power:into:noun+preposition
@@ -265,7 +265,7 @@ precaution,precautions to,precaution to,noun+to,7,oanc_candidate_unreviewed,COLL
 precede,preceded by,precede by,verb+preposition,51,oanc_candidate_unreviewed,COLLIGATION:precede:by:verb+preposition
 prevail,prevailed in,prevail in,verb+preposition,31,oanc_candidate_unreviewed,COLLIGATION:prevail:in:verb+preposition
 prevail,prevailed upon,prevail upon,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:prevail:upon:verb+preposition
-prevail,prevailing over,prevail over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:prevail:over:verb+preposition
+prevail,prevail over,prevail over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:prevail:over:verb+preposition
 prevail,prevail against,prevail against,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:prevail:against:verb+preposition
 prevent,prevented by,prevent by,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:prevent:by:verb+preposition
 prevent,prevented from,prevent from,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:prevent:from:verb+preposition
@@ -276,7 +276,7 @@ produce,produced by,produce by,verb+preposition,352,oanc_candidate_unreviewed,CO
 produce,produced in,produce in,verb+preposition,81,oanc_candidate_unreviewed,COLLIGATION:produce:in:verb+preposition
 produce,produced from,produce from,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:produce:from:verb+preposition
 produce,produced for,produce for,verb+preposition,33,oanc_candidate_unreviewed,COLLIGATION:produce:for:verb+preposition
-produce,produce capping,produce VBG,verb+VBG,30,oanc_candidate_unreviewed,COLLIGATION:produce:VBG:verb+VBG
+produce,produce diverging,produce VBG,verb+VBG,30,oanc_candidate_unreviewed,COLLIGATION:produce:VBG:verb+VBG
 produce,produced at,produce at,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:produce:at:verb+preposition
 produce,produced with,produce with,verb+preposition,23,oanc_candidate_unreviewed,COLLIGATION:produce:with:verb+preposition
 produce,produced as,produce as,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:produce:as:verb+preposition
@@ -301,7 +301,7 @@ rank,ranks among,rank among,noun+preposition,8,oanc_candidate_unreviewed,COLLIGA
 rank,ranks among,rank among,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:rank:among:verb+preposition
 rank,rank to,rank to,noun+to,7,oanc_candidate_unreviewed,COLLIGATION:rank:to:noun+to
 rank,rank with,rank with,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:rank:with:noun+preposition
-rank,ranked according,rank VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:rank:VBG:verb+VBG
+rank,ranked continuing,rank VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:rank:VBG:verb+VBG
 rank,ranks as,rank as,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:rank:as:noun+preposition
 rank,ranking of,rank of,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:rank:of:verb+preposition
 rank,ranks with,rank with,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:rank:with:verb+preposition

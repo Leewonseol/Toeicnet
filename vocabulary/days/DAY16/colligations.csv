@@ -24,7 +24,7 @@ client,clients for,client for,noun+preposition,7,oanc_candidate_unreviewed,COLLI
 client,clients on,client on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:client:on:noun+preposition
 client,clients of,client of,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:client:of:noun+preposition
 client,clients at,client at,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:client:at:noun+preposition
-comforting,comforting to read,comforting to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:comforting:to:adjective+to-infinitive
+comforting,comforting to have,comforting to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:comforting:to:adjective+to-infinitive
 commercial,commercials for,commercial for,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:commercial:for:noun+preposition
 commercial,commercials on,commercial on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:commercial:on:noun+preposition
 commodity,commodity in,commodity in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:commodity:in:noun+preposition
@@ -44,12 +44,12 @@ contact,contacted by,contact by,verb+preposition,15,oanc_candidate_unreviewed,CO
 contact,contacts of,contact of,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:contact:of:noun+preposition
 contact,contacts for,contact for,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:contact:for:noun+preposition
 contact,contact by,contact by,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:contact:by:noun+preposition
-contact,contact to help,contact to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:contact:to:verb+to-infinitive
 contact,contact with,contact with,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:contact:with:verb+preposition
+contact,contacted to consider,contact to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:contact:to:verb+to-infinitive
 correspond,correspond to,correspond to,verb+to,247,oanc_candidate_unreviewed,COLLIGATION:correspond:to:verb+to
 correspond,corresponds to,correspond to,noun+to,232,oanc_candidate_unreviewed,COLLIGATION:correspond:to:noun+to
 correspond,correspond with,correspond with,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:correspond:with:verb+preposition
-correspond,correspond to stem,correspond to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:correspond:to:verb+to-infinitive
+correspond,correspond to reserve,correspond to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:correspond:to:verb+to-infinitive
 correspond,corresponds with,correspond with,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:correspond:with:noun+preposition
 cost,cost of,cost of,noun+preposition,1102,oanc_candidate_unreviewed,COLLIGATION:cost:of:noun+preposition
 cost,costs to,cost to,noun+to,161,oanc_candidate_unreviewed,COLLIGATION:cost:to:noun+to
@@ -66,7 +66,7 @@ cost,cost with,cost with,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATI
 cost,cost that,cost that,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:cost:that:noun+preposition
 cost,costs over,cost over,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:cost:over:noun+preposition
 cost,costs about,cost about,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:cost:about:noun+preposition
-cost,costing to identify,cost to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:cost:to:verb+to-infinitive
+cost,cost to cost,cost to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:cost:to:verb+to-infinitive
 cost,cost if,cost if,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:cost:if:noun+preposition
 cost,cost up,cost up,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:cost:up:verb+preposition
 cost,costs of,cost of,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:cost:of:verb+preposition
@@ -268,12 +268,12 @@ move,moved to accommodate,move to + infinitive,verb+to-infinitive,42,oanc_candid
 move,moved out,move out,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:move:out:verb+preposition
 move,move in,move in,noun+preposition,28,oanc_candidate_unreviewed,COLLIGATION:move:in:noun+preposition
 move,moved by,move by,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:move:by:verb+preposition
-move,moves towards,move toward,noun+preposition,22,oanc_candidate_unreviewed,COLLIGATION:move:toward:noun+preposition
+move,move towards,move toward,noun+preposition,22,oanc_candidate_unreviewed,COLLIGATION:move:toward:noun+preposition
 move,move around,move around,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:move:around:verb+preposition
 move,move from,move from,noun+preposition,18,oanc_candidate_unreviewed,COLLIGATION:move:from:noun+preposition
-move,moves through,move through,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:move:through:verb+preposition
+move,moved through,move through,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:move:through:verb+preposition
 move,moves into,move into,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:move:into:noun+preposition
-move,moving beyond,move beyond,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:move:beyond:verb+preposition
+move,move beyond,move beyond,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:move:beyond:verb+preposition
 move,moved over,move over,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:move:over:verb+preposition
 move,moved with,move with,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:move:with:verb+preposition
 move,move as,move as,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:move:as:noun+preposition
@@ -282,13 +282,13 @@ move,moves by,move by,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:
 move,moved across,move across,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:move:across:verb+preposition
 move,moved along,move along,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:move:along:verb+preposition
 move,moves of,move of,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:move:of:noun+preposition
+move,move against,move against,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:move:against:verb+preposition
 move,move at,move at,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:move:at:verb+preposition
 move,move for,move for,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:move:for:noun+preposition
 move,move that,move that,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:move:that:noun+preposition
-move,moving against,move against,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:move:against:verb+preposition
-move,move existing,move VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:move:VBG:verb+VBG
 move,moved out,move out,verb+particle,5,oanc_candidate_unreviewed,COLLIGATION:move:out:verb+particle
 move,moves against,move against,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:move:against:noun+preposition
+move,moving learning,move VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:move:VBG:verb+VBG
 move,moving like,move like,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:move:like:verb+preposition
 newspaper,newspaper in,newspaper in,noun+preposition,31,oanc_candidate_unreviewed,COLLIGATION:newspaper:in:noun+preposition
 newspaper,newspaper of,newspaper of,noun+preposition,23,oanc_candidate_unreviewed,COLLIGATION:newspaper:of:noun+preposition
@@ -375,7 +375,7 @@ provide,provided that,provide that,verb+preposition,74,oanc_candidate_unreviewed
 provide,provided with,provide with,verb+preposition,57,oanc_candidate_unreviewed,COLLIGATION:provide:with:verb+preposition
 provide,provide changing,provide VBG,verb+VBG,35,oanc_candidate_unreviewed,COLLIGATION:provide:VBG:verb+VBG
 provide,provided as,provide as,verb+preposition,30,oanc_candidate_unreviewed,COLLIGATION:provide:as:verb+preposition
-provide,provided to help,provide to + infinitive,verb+to-infinitive,24,oanc_candidate_unreviewed,COLLIGATION:provide:to:verb+to-infinitive
+provide,provided to carry,provide to + infinitive,verb+to-infinitive,24,oanc_candidate_unreviewed,COLLIGATION:provide:to:verb+to-infinitive
 provide,provided at,provide at,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:provide:at:verb+preposition
 provide,provided on,provide on,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:provide:on:verb+preposition
 provide,provided under,provide under,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:provide:under:verb+preposition
@@ -433,19 +433,19 @@ represent,represented as,represent as,verb+preposition,38,oanc_candidate_unrevie
 represent,represented on,represent on,verb+preposition,22,oanc_candidate_unreviewed,COLLIGATION:represent:on:verb+preposition
 represent,represents about,represent about,verb+preposition,22,oanc_candidate_unreviewed,COLLIGATION:represent:about:verb+preposition
 represent,represented at,represent at,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:represent:at:verb+preposition
-represent,represent over,represent over,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:represent:over:verb+preposition
-represent,represented leading,represent VBG,verb+VBG,9,oanc_candidate_unreviewed,COLLIGATION:represent:VBG:verb+VBG
+represent,represents over,represent over,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:represent:over:verb+preposition
+represent,represent targeting,represent VBG,verb+VBG,9,oanc_candidate_unreviewed,COLLIGATION:represent:VBG:verb+VBG
 represent,represented among,represent among,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:represent:among:verb+preposition
 represent,represented with,represent with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:represent:with:verb+preposition
 represent,represents for,represent for,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:represent:for:verb+preposition
 retail,retail for,retail for,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:retail:for:verb+preposition
 scarcity,scarcity of,scarcity of,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:scarcity:of:noun+preposition
 seek,sought to make,seek to + infinitive,verb+to-infinitive,463,oanc_candidate_unreviewed,COLLIGATION:seek:to:verb+to-infinitive
-seek,seeks to,seek to,verb+to,37,oanc_candidate_unreviewed,COLLIGATION:seek:to:verb+to
+seek,sought to,seek to,verb+to,37,oanc_candidate_unreviewed,COLLIGATION:seek:to:verb+to
 seek,seek out,seek out,verb+particle,26,oanc_candidate_unreviewed,COLLIGATION:seek:out:verb+particle
-seek,seek in,seek in,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:seek:in:verb+preposition
+seek,seeking in,seek in,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:seek:in:verb+preposition
 seek,sought by,seek by,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:seek:by:verb+preposition
-seek,sought out,seek out,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:seek:out:verb+preposition
+seek,seek out,seek out,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:seek:out:verb+preposition
 seek,sought after,seek after,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:seek:after:verb+preposition
 seek,sought for,seek for,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:seek:for:verb+preposition
 seek,seeking from,seek from,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:seek:from:verb+preposition
@@ -466,14 +466,14 @@ short,short on,short on,adjective+preposition,19,oanc_candidate_unreviewed,COLLI
 short,short in,short in,adjective+preposition,13,oanc_candidate_unreviewed,COLLIGATION:short:in:adjective+preposition
 short,short as,short as,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:short:as:adjective+preposition
 short,short by,short by,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:short:by:adjective+preposition
-short,short to generate,short to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:short:to:adjective+to-infinitive
+short,short to have,short to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:short:to:adjective+to-infinitive
 short,short while,short while,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:short:while:adjective+preposition
-start,started playing,start VBG,verb+VBG,473,oanc_candidate_unreviewed,COLLIGATION:start:VBG:verb+VBG
-start,start to appear,start to + infinitive,verb+to-infinitive,253,oanc_candidate_unreviewed,COLLIGATION:start:to:verb+to-infinitive
+start,started converting,start VBG,verb+VBG,473,oanc_candidate_unreviewed,COLLIGATION:start:VBG:verb+VBG
+start,started to earn,start to + infinitive,verb+to-infinitive,253,oanc_candidate_unreviewed,COLLIGATION:start:to:verb+to-infinitive
 start,start with,start with,verb+preposition,236,oanc_candidate_unreviewed,COLLIGATION:start:with:verb+preposition
 start,start of,start of,noun+preposition,222,oanc_candidate_unreviewed,COLLIGATION:start:of:noun+preposition
 start,started in,start in,verb+preposition,113,oanc_candidate_unreviewed,COLLIGATION:start:in:verb+preposition
-start,starts at,start at,verb+preposition,100,oanc_candidate_unreviewed,COLLIGATION:start:at:verb+preposition
+start,start at,start at,verb+preposition,100,oanc_candidate_unreviewed,COLLIGATION:start:at:verb+preposition
 start,started out,start out,verb+preposition,59,oanc_candidate_unreviewed,COLLIGATION:start:out:verb+preposition
 start,start on,start on,verb+preposition,43,oanc_candidate_unreviewed,COLLIGATION:start:on:verb+preposition
 start,started by,start by,verb+preposition,38,oanc_candidate_unreviewed,COLLIGATION:start:by:verb+preposition
@@ -485,7 +485,7 @@ start,start in,start in,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATIO
 start,start to,start to,noun+to,16,oanc_candidate_unreviewed,COLLIGATION:start:to:noun+to
 start,start with,start with,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:start:with:noun+preposition
 start,start at,start at,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:start:at:noun+preposition
-start,starting up,start up,verb+particle,11,oanc_candidate_unreviewed,COLLIGATION:start:up:verb+particle
+start,start up,start up,verb+particle,11,oanc_candidate_unreviewed,COLLIGATION:start:up:verb+particle
 start,started as,start as,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:start:as:verb+preposition
 start,start on,start on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:start:on:noun+preposition
 start,starting about,start about,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:start:about:verb+preposition
@@ -521,7 +521,7 @@ subject,subjects of,subject of,noun+preposition,342,oanc_candidate_unreviewed,CO
 subject,subjected to,subject to,verb+to,280,oanc_candidate_unreviewed,COLLIGATION:subject:to:verb+to
 subject,subjects with,subject with,noun+preposition,96,oanc_candidate_unreviewed,COLLIGATION:subject:with:noun+preposition
 subject,subjects in,subject in,noun+preposition,82,oanc_candidate_unreviewed,COLLIGATION:subject:in:noun+preposition
-subject,subject to repeated,subject to + infinitive,adjective+to-infinitive,57,oanc_candidate_unreviewed,COLLIGATION:subject:to:adjective+to-infinitive
+subject,subject to tax,subject to + infinitive,adjective+to-infinitive,57,oanc_candidate_unreviewed,COLLIGATION:subject:to:adjective+to-infinitive
 subject,subject to,subject to,noun+to,45,oanc_candidate_unreviewed,COLLIGATION:subject:to:noun+to
 subject,subjects for,subject for,noun+preposition,26,oanc_candidate_unreviewed,COLLIGATION:subject:for:noun+preposition
 subject,subjects from,subject from,noun+preposition,24,oanc_candidate_unreviewed,COLLIGATION:subject:from:noun+preposition
@@ -564,7 +564,7 @@ transformation,transformation in,transformation in,noun+preposition,19,oanc_cand
 transformation,transformation from,transformation from,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:transformation:from:noun+preposition
 transformation,transformation by,transformation by,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:transformation:by:noun+preposition
 transformation,transformation to,transformation to,noun+to,9,oanc_candidate_unreviewed,COLLIGATION:transformation:to:noun+to
-unable,unable to resist,unable to + infinitive,adjective+to-infinitive,509,oanc_candidate_unreviewed,COLLIGATION:unable:to:adjective+to-infinitive
+unable,unable to negotiate,unable to + infinitive,adjective+to-infinitive,509,oanc_candidate_unreviewed,COLLIGATION:unable:to:adjective+to-infinitive
 unable,unable to,unable to,adjective+to,43,oanc_candidate_unreviewed,COLLIGATION:unable:to:adjective+to
 unlikely,unlikely to see,unlikely to + infinitive,adjective+to-infinitive,252,oanc_candidate_unreviewed,COLLIGATION:unlikely:to:adjective+to-infinitive
 unlikely,unlikely that,unlikely that,adjective+preposition,146,oanc_candidate_unreviewed,COLLIGATION:unlikely:that:adjective+preposition

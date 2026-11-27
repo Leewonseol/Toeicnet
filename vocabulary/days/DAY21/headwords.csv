@@ -1,171 +1,171 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-announce,발표하다,verb,core,D,,unverified,proposed_pair_needs_review,,,,,21,anki_core:1766527459464
-interested,"관련 있는, 관심이 있는",adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459465
-active,"적극적인, 활발한",adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459466
-accept,"수락하다, 승낙하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459467
-foresee,"예견하다, 예감하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459468
-expansion,"확장, 팽창",noun,core,C,"An act, process, or instance of expanding.",verified,single_source_korean_anchor,kaikki,,kaikki:expansion:noun:0:2214:s0,팽창;확장,21,anki_core:1766527459469
-relocate,(공장 등을) 이전하다,verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459470
-competitor,"경쟁업체, 경쟁자",noun,core,C,A person or organization against whom one is competing.,verified,single_source_korean_anchor,kaikki,,kaikki:competitor:noun:0:4174:s0,경쟁자,21,anki_core:1766527459471
-asset,자산,noun,core,C,"A thing or quality that has value, especially one that generates cash flows.",verified,single_source_korean_anchor,kaikki,,kaikki:asset:noun:0:1101:s0,자산,21,anki_core:1766527459472
-contribute,"기여하다, 공헌하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459473
-dedicated,"(목표 등에) 전념하는, 헌신적인",adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459474
-misplace,"잃어버리다, 위치를 잘못 잡다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459475
-considerable,(정도나 양이) 상당한,adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459476
-last,지속되다,verb,core,B,continue to live and avoid dying,verified,double_korean_anchor,oewn,oewn-last__2.42.01..,kaikki:last:verb:2:160:s0,지속되다,21,anki_core:1766527459477
-emerge,"부상하다, 나타나다",verb,core,B,become known or apparent,unverified,model_reviewed_pair,oewn,oewn-emerge__2.30.01..,kaikki:emerge:verb:0:5427:s2,,21,anki_core:1766527459478
-grow,"성장하다, 성장시키다, 증가시키다",verb,core,B,"become larger, greater, or bigger; expand or gain",unverified,model_reviewed_pair,oewn,oewn-grow__2.30.00..,kaikki:grow:verb:0:603:s0,,21,anki_core:1766527459479
-select,"선발하다, 선택하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459480
-merge,"합병하다, 병합하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459481
-imply,"암시하다, 넌지시, 나타내다, 의미하다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,21,anki_core:1766527459482
-vital,필수적인,adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459483
-persist,"(집요하게) 계속하다, 계속되다, 지속되다",verb,core,B,continue to exist,unverified,model_reviewed_pair,oewn,oewn-persist__2.42.00..,kaikki:persist:verb:0:5067:s2,,21,anki_core:1766527459484
-independent,"독립적인, 독자적인",adjective,core,C,Not dependent; not contingent or depending on something else; free.,verified,single_source_korean_anchor,kaikki,,kaikki:independent:adj:0:1837:s0,독립적인,21,anki_core:1766527459485
-force,세력,noun,core,D,,unverified,proposed_pair_needs_review,,,,,21,anki_core:1766527459486
-establish,설립하다,verb,core,B,set up or found,unverified,model_reviewed_pair,oewn,oewn-establish__2.41.00..,kaikki:establish:verb:0:4220:s1,,21,anki_core:1766527459487
-initiate,"(사업 등을) 착수하다, 시작하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459488
-enhance,"(질 등을) 향상하다, 높이다, 강화하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459489
-renowned,"저명한, 유명한, 명성이 있는",adjective,core,B,widely known and esteemed,unverified,model_reviewed_pair,oewn,oewn-renowned__5.00.00.known.00,kaikki:renowned:adj:0:5158:s0,,21,anki_core:1766527459490
-informed,정보에 근거한,adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459491
-minutes,회의록,noun,core,B,a written account of what transpired at a meeting,verified,double_korean_anchor,oewn,oewn-minutes__1.10.00..,kaikki:minutes:noun:0:4172:s0,회의록,21,anki_core:1766527459492
-waive,"(규칙 등을) 적용하지 않다, (권리·청구 등을) 포기하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459493
-reach,"(치수·양 등이) ~에 달하다, ~에 도착하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459494
-authority,"권한, 당국",noun,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459495
-acquire,"매입하다, 취득하다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459496
-surpass,"~을 능가하다, 넘어서다",verb,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459497
-run,"~을 운영하다, 경영하다, (공연, 영화 등이) 상영되다, 계속되다",verb,core,B,extend or continue for a certain period of time,unverified,model_reviewed_pair,oewn,oewn-run__2.42.05..,kaikki:run:verb:0:753:s34,,21,anki_core:1766527459498
-improbable,"사실이라고 생각할 수 없는, 일어날 것 같지 않은",adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459499
-edge,"우위, 유리함, 가장자리, 끝",noun,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459500
-simultaneously,동시에,noun,core,E,,unverified,no_sense_record,,,,,21,anki_core:1766527459501
-reveal,"밝히다, 누설하다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,21,anki_core:1766527459502
-productivity,생산성,noun,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459503
-uncertain,"확신이 없는, 불확실한",adjective,core,D,,unverified,candidates_unaligned,,,,,21,anki_core:1766527459504
-premier,"으뜸의, 첫째의",adjective,core,B,first in rank or degree,unverified,model_reviewed_pair,oewn,oewn-premier__5.00.02.first.00,kaikki:premier:adj:0:1291:s0,,21,anki_core:1766527459505
-branch,"지사, 분점, 나뭇가지",noun,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459506
-critic,비평가,noun,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459507
-end up,결국 ~이 되다,phrase,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459508
-in the past,과거에,phrase,basic,E,,unverified,no_sense_record,,,,,21,anki_basic:1766527459509
-indoors,실내에서,noun,basic,C,The interior of a building; the space inside buildings generally.,unverified,single_source_only_sense,kaikki,,kaikki:indoors:noun:0:4280:s0,,21,anki_basic:1766527459510
-inward,안으로,adverb,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459511
-lean,"기울이다, 숙이다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,21,anki_basic:1766527459512
-lift,들어 올리다,verb,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459513
-partnership,"제휴, 협력",noun,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459514
-plaza,광장,noun,basic,B,a public square with room for pedestrians,verified,double_korean_anchor,oewn,oewn-plaza__1.15.00..,kaikki:plaza:noun:0:424:s0,광장,21,anki_basic:1766527459515
-relax,긴장을 풀다,verb,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459516
-staff,"직원, 직원을 배치하다",verb,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459517
-stretch,"펴다, 잡아당기다, (연속된) 길, 기간",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,21,anki_basic:1766527459518
-switch,바꾸다,verb,basic,D,,unverified,proposed_pair_needs_review,,,,,21,anki_basic:1766527459519
-as long as,~하는 한,phrase,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459520
-correctly,"바르게, 정확하게",adverb,basic,B,in an accurate manner,unverified,monosemous_pair,oewn,oewn-correctly__4.02.01..,kaikki:correctly:adv:0:2346:s0,,21,anki_basic:1766527459521
-expressly,"분명히, 명확히",adverb,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459522
-fever,열,noun,basic,C,"A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease.",verified,single_source_korean_anchor,kaikki,,kaikki:fever:noun:0:2818:s0,열,21,anki_basic:1766527459523
-founder,"창립자, 설립자",noun,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459524
-in spite of,~에도 불구하고,phrase,basic,C,"Despite, irrespective of, notwithstanding.",verified,single_source_korean_anchor,kaikki,,kaikki:in spite of:prep:0:5021:s0,에도 불구하고,21,anki_basic:1766527459525
-individual,"개인, 개인의",adjective,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459526
-ironing,다림질,noun,basic,C,"The act of pressing clothes with an iron, such as a steam iron.",verified,single_source_korean_anchor,kaikki,,kaikki:ironing:noun:0:2300:s0,다림질,21,anki_basic:1766527459527
-minor,사소한,adjective,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459528
-poorly,"저조하게, 형편없이",noun,basic,E,,unverified,no_sense_record,,,,,21,anki_basic:1766527459529
-region,지역,noun,basic,C,"Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons.",verified,single_source_korean_anchor,kaikki,,kaikki:region:noun:0:3079:s0,지역,21,anki_basic:1766527459530
-sharply,날카롭게,adverb,basic,D,,unverified,candidates_unaligned,,,,,21,anki_basic:1766527459531
-surface,표면,noun,basic,C,"The overside or upside of a flat object such as a table, or of a liquid.",verified,single_source_korean_anchor,kaikki,,kaikki:surface:noun:0:2442:s1,표면,21,anki_basic:1766527459532
-unit,"한 개, 단위",noun,basic,C,A standard measure of a quantity or magnitude.,verified,single_source_korean_anchor,kaikki,,kaikki:unit:noun:0:509:s1,단위,21,anki_basic:1766527459533
-bankrupt,파산한,adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461513
-bankruptcy,파산,noun,800,C,A legally declared or recognized condition of insolvency of a person or organization.,verified,single_source_korean_anchor,kaikki,,kaikki:bankruptcy:noun:0:909:s0,파산,21,anki_800:1766527461514
-be in a position to,~할 입장에 있다,phrase,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461515
-celebratory,"기념하는, 축하하는",adjective,800,B,used for celebrating,unverified,monosemous_pair,oewn,oewn-celebratory__3.01.00..,kaikki:celebratory:adj:0:7074:s0,,21,anki_800:1766527461516
-converse,대화하다,verb,800,B,carry on a conversation,verified,double_korean_anchor,oewn,oewn-converse__2.32.00..,kaikki:converse:verb:1:2390:s0,대화하다,21,anki_800:1766527461517
-crack,"금 가게 하다, 금, 틈",noun,800,B,a long narrow cleft,verified,double_korean_anchor,oewn,oewn-crack__1.17.00..,kaikki:crack:noun:1:1894:s0,틈,21,anki_800:1766527461518
-gathering space,모임장소,phrase,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461519
-have a good view,전망이 좋다,phrase,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461520
-last-minute,"막바지의, 마지막 순간에",noun,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461521
-look into,~을 조사하다,phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461522
-look out,조심하다,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461523
-luxury goods,사치품,phrase,800,C,A product or service that is not considered essential to everyday life and is associated with affluence.,verified,single_source_korean_anchor,kaikki,,kaikki:luxury good:noun:0:9069:s0,사치품,21,anki_800:1766527461524
-newsletter,(회사·단체 등의)회보,noun,800,B,report or open letter giving informal or confidential news of interest to a special group,unverified,monosemous_pair,oewn,oewn-newsletter__1.10.00..,kaikki:newsletter:noun:0:6135:s0,,21,anki_800:1766527461525
-occupy,차지하다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461526
-quality service,고급 서비스,phrase,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461527
-renown,명성,noun,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461528
-reputation,평판,noun,800,C,What somebody or something is known for.,verified,single_source_korean_anchor,kaikki,,kaikki:reputation:noun:0:1665:s0,평판,21,anki_800:1766527461529
-set a record,기록을 세우다,phrase,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461530
-side effect,부작용,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461531
-spokesperson,대변인,noun,800,B,an advocate who represents someone else's policy or purpose,unverified,monosemous_pair,oewn,oewn-spokesperson__1.18.00..,kaikki:spokesperson:noun:0:6470:s0,,21,anki_800:1766527461532
-spread the word,말을 퍼뜨리다,phrase,800,C,To tell a lot of people; to inform as many people as one can.,unverified,single_source_only_sense,kaikki,,kaikki:spread the word:verb:0:7876:s0,,21,anki_800:1766527461533
-alteration,"변화, 개조",noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461534
-anticipated,"기대하던, 대망의",adjective,800,B,expected hopefully,unverified,monosemous_pair,oewn,oewn-anticipated__5.00.00.expected.00,kaikki:anticipated:adj:0:6745:s0,,21,anki_800:1766527461535
-disguise,"가장하다, 숨기다",verb,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461536
-go through,(고난·경험을) 겪다,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461537
-incline,"기울다, 기울이다",verb,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461538
-indefinitely,"불명확하게, 무기한으로",adverb,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461539
-innovation,"혁신, 쇄신",noun,800,C,"The act of innovating; the introduction of something new, in customs, rites, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:innovation:noun:0:3451:s0,혁신,21,anki_800:1766527461540
-outdated,"구식의, 진부한",adjective,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461541
-perspective,"시각, 관점, 원근 화법의",adjective,800,C,"Of, in or relating to perspective.",unverified,single_source_only_sense,kaikki,,kaikki:perspective:adj:0:1634:s0,,21,anki_800:1766527461542
-progressive,진보적인,adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461543
-public hearing,공청회,phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461544
-pursue,"추구하다, 쫓다",verb,800,C,"To aim for, go after (a specified objective, situation etc.).",verified,single_source_korean_anchor,kaikki,,kaikki:pursue:verb:0:3960:s2,추구하다,21,anki_800:1766527461545
-sensible,"분별 있는, 합리적인",adjective,800,D,,unverified,proposed_pair_needs_review,,,,,21,anki_800:1766527461546
-strategic,전략적인,adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461547
-turn over,"~을 뒤집다, 방향을 바꾸다",phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461548
-a great deal of,"다량의, 많은",phrase,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461549
-advisory,자문의,adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461550
-bump into,~을 우연히 만나다,phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461551
-commemorative,기념하는,adjective,800,B,intended as a commemoration,unverified,monosemous_pair,oewn,oewn-commemorative__3.01.00..,kaikki:commemorative:adj:0:7044:s0,,21,anki_800:1766527461552
-correlation,상호관계,noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461553
-corruption,"부정, 부패",noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461554
-era,시대,noun,800,B,a period marked by distinctive character or reckoned from a fixed point or event,verified,double_korean_anchor,oewn,oewn-era__1.28.00..,kaikki:era:noun:0:830:s0,시대,21,anki_800:1766527461555
-exaggerate,과장하다,verb,800,C,"To overstate, to describe more than the fact.",verified,single_source_korean_anchor,kaikki,,kaikki:exaggerate:verb:0:1781:s0,과장하다,21,anki_800:1766527461556
-fast-growing,급성장하는,adjective,800,B,tending to spread quickly,unverified,monosemous_pair,oewn,oewn-fast--growing__5.00.00.invasive.00,kaikki:fast-growing:adj:0:7917:s0,,21,anki_800:1766527461557
-hinder,"막다, 방해하다",verb,800,B,hinder or prevent the progress or accomplishment of,verified,double_korean_anchor,oewn,oewn-hinder__2.41.00..,kaikki:hinder:verb:1:3425:s1,방해하다,21,anki_800:1766527461558
-inhabitant,거주자,noun,800,B,a person who inhabits a particular place,verified,double_korean_anchor,oewn,oewn-inhabitant__1.18.00..,kaikki:inhabitant:noun:0:3124:s0,거주자,21,anki_800:1766527461559
-inhabitation,거주,noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461560
-instinctive,본능적인,adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461561
-isolated,"고립된, 격리된",adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461562
-landfill,쓰레기 매립지,noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461563
-market share,시장 점유율,phrase,800,C,"The percentage of some market held by a company, country, (sub)sector or any other actor or aggregate.",unverified,single_source_only_sense,kaikki,,kaikki:market share:noun:0:3090:s0,,21,anki_800:1766527461564
-meditate,숙고하다,verb,800,B,reflect deeply on a subject,verified,double_korean_anchor,oewn,oewn-meditate__2.31.00..,kaikki:meditate:verb:0:3055:s0,숙고하다,21,anki_800:1766527461565
-merger,합병,noun,800,C,The act or process of merging two or more parts into a single unit.,verified,single_source_korean_anchor,kaikki,,kaikki:merger:noun:2:428:s0,합병,21,anki_800:1766527461566
-on strike,파업 중인,phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461567
-outreach,봉사활동,noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461568
-oversized,너무 큰,noun,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461569
-overstaffed,필요이상의 직원을 둔,noun,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461570
-rashly,경솔하게,adverb,800,B,in a hasty and foolhardy manner,unverified,monosemous_pair,oewn,oewn-rashly__4.02.03..,kaikki:rashly:adv:0:6808:s0,,21,anki_800:1766527461571
-regional,지역의,adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461572
-rule out,배제하다,phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461573
-scholar,학자,noun,800,C,A specialist in a particular branch of knowledge.,verified,single_source_korean_anchor,kaikki,,kaikki:scholar:noun:0:4356:s1,학자,21,anki_800:1766527461574
-spotless,"아주 깨끗한, 흠잡을 데 없는",adjective,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461575
-stand for,"~을 상징하다, ~을 대표하다",phrase,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461576
-strike,"동맹파업, 노동 쟁의",adjective,800,E,,unverified,no_sense_record,,,,,21,anki_800:1766527461577
-struggle,"애쓰다, 분투하다",verb,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461578
-succession,연속,noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461579
-takeover,인수,noun,800,D,,unverified,candidates_unaligned,,,,,21,anki_800:1766527461580
-make the first move,"개시하다, 발단을 만들다",phrase,900,C,To initiate something.,unverified,single_source_only_sense,kaikki,,kaikki:make the first move:verb:0:7863:s0,,21,anki_900:1766527462862
-take a turn for the better,호전되다,phrase,900,C,To start to become better; to improve.,unverified,single_source_only_sense,kaikki,,kaikki:take a turn for the better:verb:0:7462:s0,,21,anki_900:1766527462863
-warm-up,"준비 운동, 예행연습",noun,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462864
-be contingent upon,"~에 따라 결정되다, ~에 달려 있다",phrase,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462865
-established,"확립된, 정평이 있는",adjective,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462866
-favorable,호의적인,adjective,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462867
-front-runner,가장 유력한 우승 후보,noun,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462868
-intermittently,간헐적으로,adverb,900,B,in an intermittent manner,unverified,monosemous_pair,oewn,oewn-intermittently__4.02.00..,kaikki:intermittently:adv:0:4758:s0,,21,anki_900:1766527462869
-momentarily,잠깐,noun,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462870
-narrative,"(소설 속 사건들에 대한) 기술, 묘사",noun,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462871
-neutral,중립적인,adjective,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462872
-retreat,"후퇴하다, 물러가다",verb,900,B,pull back or move away or backward,verified,double_korean_anchor,oewn,oewn-retreat__2.38.00..,kaikki:retreat:verb:1:412:s1,후퇴하다,21,anki_900:1766527462873
-stance,"태도, 입장",noun,900,D,,unverified,proposed_pair_needs_review,,,,,21,anki_900:1766527462874
-allegedly,주장하는 바에 따르면,noun,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462875
-be oriented to,~에 중점을 두다,phrase,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462876
-beware,조심하다,verb,900,B,be on one's guard; be cautious or wary about; be alert to,unverified,monosemous_pair,oewn,oewn-beware__2.31.00..,kaikki:beware:verb:0:3942:s0,,21,anki_900:1766527462877
-clout,"영향력, 권력",noun,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462878
-craftsmanship,솜씨,noun,900,D,,unverified,proposed_pair_needs_review,,,,,21,anki_900:1766527462879
-detector,"탐지기, 측정기",noun,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462880
-exemplify,"예증하다, ~의 좋은 예가 되다",verb,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462881
-exert pressure on,~에 압력을 행사하다,phrase,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462882
-interfere with,~을 방해하다,phrase,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462883
-keep on top of,~의 선두를 유지하다,phrase,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462884
-latent,"잠재된, 잠복성의",adjective,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462885
-liquidate,"(회사를) 정리하다, 해산하다",verb,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462886
-lucid,"명쾌한, 명료한",adjective,900,D,,unverified,proposed_pair_needs_review,,,,,21,anki_900:1766527462887
-makeshift,임시방편의,adjective,900,B,done or made using whatever is available,unverified,monosemous_pair,oewn,oewn-makeshift__5.00.00.impermanent.00,kaikki:makeshift:adj:1:2932:s0,,21,anki_900:1766527462888
-roll out,(신상품을) 출시하다,phrase,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462889
-shrink,"줄어들다, 오그라들다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,21,anki_900:1766527462890
-squeaky,삐걱대는,adjective,900,B,having or making a high-pitched sound such as that made by a mouse or a rusty hinge,unverified,monosemous_pair,oewn,oewn-squeaky__5.00.00.high.03,kaikki:squeaky:adj:0:6726:s0,,21,anki_900:1766527462891
-subsidize,~에 보조금을 지급하다,verb,900,D,,unverified,candidates_unaligned,,,,,21,anki_900:1766527462892
-succumb to,"~에 굴복하다, ~에 지다",phrase,900,E,,unverified,no_sense_record,,,,,21,anki_900:1766527462893
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+announce,발표하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,21,anki_core:1766527459464
+interested,"관련 있는, 관심이 있는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459465
+active,"적극적인, 활발한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459466
+accept,"수락하다, 승낙하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459467
+foresee,"예견하다, 예감하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459468
+expansion,"확장, 팽창",noun,core,C,"An act, process, or instance of expanding.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:expansion:noun:0:2214:s0,팽창;확장,21,anki_core:1766527459469
+relocate,(공장 등을) 이전하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459470
+competitor,"경쟁업체, 경쟁자",noun,core,C,A person or organization against whom one is competing.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:competitor:noun:0:4174:s0,경쟁자,21,anki_core:1766527459471
+asset,자산,noun,core,C,"A thing or quality that has value, especially one that generates cash flows.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:asset:noun:0:1101:s0,자산,21,anki_core:1766527459472
+contribute,"기여하다, 공헌하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459473
+dedicated,"(목표 등에) 전념하는, 헌신적인",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459474
+misplace,"잃어버리다, 위치를 잘못 잡다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459475
+considerable,(정도나 양이) 상당한,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459476
+last,지속되다,verb,core,B,continue to live and avoid dying,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-last__2.42.01..,kaikki:last:verb:2:160:s0,지속되다,21,anki_core:1766527459477
+emerge,"부상하다, 나타나다",verb,core,B,become known or apparent,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-emerge__2.30.01..,kaikki:emerge:verb:0:5427:s2,,21,anki_core:1766527459478
+grow,"성장하다, 성장시키다, 증가시키다",verb,core,B,"become larger, greater, or bigger; expand or gain",unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-grow__2.30.00..,kaikki:grow:verb:0:603:s0,,21,anki_core:1766527459479
+select,"선발하다, 선택하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459480
+merge,"합병하다, 병합하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459481
+imply,"암시하다, 넌지시, 나타내다, 의미하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,21,anki_core:1766527459482
+vital,필수적인,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459483
+persist,"(집요하게) 계속하다, 계속되다, 지속되다",verb,core,B,continue to exist,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-persist__2.42.00..,kaikki:persist:verb:0:5067:s2,,21,anki_core:1766527459484
+independent,"독립적인, 독자적인",adjective,core,C,Not dependent; not contingent or depending on something else; free.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:independent:adj:0:1837:s0,독립적인,21,anki_core:1766527459485
+force,세력,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,21,anki_core:1766527459486
+establish,설립하다,verb,core,B,set up or found,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-establish__2.41.00..,kaikki:establish:verb:0:4220:s1,,21,anki_core:1766527459487
+initiate,"(사업 등을) 착수하다, 시작하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459488
+enhance,"(질 등을) 향상하다, 높이다, 강화하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459489
+renowned,"저명한, 유명한, 명성이 있는",adjective,core,B,widely known and esteemed,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-renowned__5.00.00.known.00,kaikki:renowned:adj:0:5158:s0,,21,anki_core:1766527459490
+informed,정보에 근거한,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459491
+minutes,회의록,noun,core,B,a written account of what transpired at a meeting,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-minutes__1.10.00..,kaikki:minutes:noun:0:4172:s0,회의록,21,anki_core:1766527459492
+waive,"(규칙 등을) 적용하지 않다, (권리·청구 등을) 포기하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459493
+reach,"(치수·양 등이) ~에 달하다, ~에 도착하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459494
+authority,"권한, 당국",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459495
+acquire,"매입하다, 취득하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459496
+surpass,"~을 능가하다, 넘어서다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459497
+run,"~을 운영하다, 경영하다, (공연, 영화 등이) 상영되다, 계속되다",verb,core,B,extend or continue for a certain period of time,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-run__2.42.05..,kaikki:run:verb:0:753:s34,,21,anki_core:1766527459498
+improbable,"사실이라고 생각할 수 없는, 일어날 것 같지 않은",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459499
+edge,"우위, 유리함, 가장자리, 끝",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459500
+simultaneously,동시에,noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,21,anki_core:1766527459501
+reveal,"밝히다, 누설하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,21,anki_core:1766527459502
+productivity,생산성,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459503
+uncertain,"확신이 없는, 불확실한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,21,anki_core:1766527459504
+premier,"으뜸의, 첫째의",adjective,core,B,first in rank or degree,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-premier__5.00.02.first.00,kaikki:premier:adj:0:1291:s0,,21,anki_core:1766527459505
+branch,"지사, 분점, 나뭇가지",noun,basic,D,,unverified,ocr_similar,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459506
+critic,비평가,noun,basic,D,,unverified,ocr_exact,16-30(1) p21,n (width),candidates_unaligned,,,,,21,anki_basic:1766527459507
+end up,결국 ~이 되다,phrase,basic,D,,unverified,ocr_exact,16-30(1) p21,phr (badge),candidates_unaligned,,,,,21,anki_basic:1766527459508
+in the past,과거에,phrase,basic,E,,unverified,ocr_exact,16-30(1) p21,,no_sense_record,,,,,21,anki_basic:1766527459509
+indoors,실내에서,noun,basic,C,The interior of a building; the space inside buildings generally.,unverified,ocr_exact,16-30(1) p21,,single_source_only_sense,kaikki,,kaikki:indoors:noun:0:4280:s0,,21,anki_basic:1766527459510
+inward,안으로,adverb,basic,D,,unverified,ocr_exact,16-30(1) p21,adv (badge),candidates_unaligned,,,,,21,anki_basic:1766527459511
+lean,"기울이다, 숙이다",verb,basic,D,,unverified,ocr_exact,16-30(1) p21,v (badge),proposed_pair_needs_review,,,,,21,anki_basic:1766527459512
+lift,들어 올리다,verb,basic,D,,unverified,ocr_exact,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459513
+partnership,"제휴, 협력",noun,basic,D,,unverified,ocr_exact,16-30(1) p21,n (width),candidates_unaligned,,,,,21,anki_basic:1766527459514
+plaza,광장,noun,basic,B,a public square with room for pedestrians,verified,ocr_variant_ocr,16-30(1) p21,,double_korean_anchor,oewn,oewn-plaza__1.15.00..,kaikki:plaza:noun:0:424:s0,광장,21,anki_basic:1766527459515
+relax,긴장을 풀다,verb,basic,D,,unverified,ocr_exact,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459516
+staff,"직원, 직원을 배치하다",verb,basic,D,,unverified,ocr_similar,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459517
+stretch,"펴다, 잡아당기다, (연속된) 길, 기간",noun,basic,D,,unverified,ocr_similar,16-30(1) p21,,proposed_pair_needs_review,,,,,21,anki_basic:1766527459518
+switch,바꾸다,verb,basic,D,,unverified,ocr_similar,16-30(1) p21,,proposed_pair_needs_review,,,,,21,anki_basic:1766527459519
+as long as,~하는 한,phrase,basic,D,,unverified,ocr_similar,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459520
+correctly,"바르게, 정확하게",adverb,basic,B,in an accurate manner,unverified,ocr_exact,16-30(1) p21,,monosemous_pair,oewn,oewn-correctly__4.02.01..,kaikki:correctly:adv:0:2346:s0,,21,anki_basic:1766527459521
+expressly,"분명히, 명확히",adverb,basic,D,,unverified,ocr_exact,16-30(1) p21,adv (badge),candidates_unaligned,,,,,21,anki_basic:1766527459522
+fever,열,noun,basic,C,"A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease.",verified,ocr_exact,16-30(1) p21,,single_source_korean_anchor,kaikki,,kaikki:fever:noun:0:2818:s0,열,21,anki_basic:1766527459523
+founder,"창립자, 설립자",noun,basic,D,,unverified,ocr_similar,16-30(1) p21,n (width),candidates_unaligned,,,,,21,anki_basic:1766527459524
+in spite of,~에도 불구하고,phrase,basic,C,"Despite, irrespective of, notwithstanding.",verified,ocr_similar,16-30(1) p21,phr (badge),single_source_korean_anchor,kaikki,,kaikki:in spite of:prep:0:5021:s0,에도 불구하고,21,anki_basic:1766527459525
+individual,"개인, 개인의",adjective,basic,D,,unverified,ocr_prefix,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459526
+ironing,다림질,noun,basic,C,"The act of pressing clothes with an iron, such as a steam iron.",verified,ocr_variant_ocr,16-30(1) p21,,single_source_korean_anchor,kaikki,,kaikki:ironing:noun:0:2300:s0,다림질,21,anki_basic:1766527459527
+minor,사소한,adjective,basic,D,,unverified,ocr_similar,16-30(1) p21,,candidates_unaligned,,,,,21,anki_basic:1766527459528
+poorly,"저조하게, 형편없이",noun,basic,E,,unverified,ocr_prefix,16-30(1) p21,,no_sense_record,,,,,21,anki_basic:1766527459529
+region,지역,noun,basic,C,"Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons.",verified,ocr_exact,16-30(1) p21,n (width),single_source_korean_anchor,kaikki,,kaikki:region:noun:0:3079:s0,지역,21,anki_basic:1766527459530
+sharply,날카롭게,adverb,basic,D,,unverified,ocr_exact,16-30(1) p21,adv (badge),candidates_unaligned,,,,,21,anki_basic:1766527459531
+surface,표면,noun,basic,C,"The overside or upside of a flat object such as a table, or of a liquid.",verified,ocr_exact,16-30(1) p21,,single_source_korean_anchor,kaikki,,kaikki:surface:noun:0:2442:s1,표면,21,anki_basic:1766527459532
+unit,"한 개, 단위",noun,basic,C,A standard measure of a quantity or magnitude.,verified,ocr_variant_ocr,16-30(1) p21,,single_source_korean_anchor,kaikki,,kaikki:unit:noun:0:509:s1,단위,21,anki_basic:1766527459533
+bankrupt,파산한,adjective,800,D,,unverified,ocr_variant_ocr,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461513
+bankruptcy,파산,noun,800,C,A legally declared or recognized condition of insolvency of a person or organization.,verified,ocr_similar,16-30(1) p22,,single_source_korean_anchor,kaikki,,kaikki:bankruptcy:noun:0:909:s0,파산,21,anki_800:1766527461514
+be in a position to,~할 입장에 있다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p22,,no_sense_record,,,,,21,anki_800:1766527461515
+celebratory,"기념하는, 축하하는",adjective,800,B,used for celebrating,unverified,ocr_prefix,16-30(1) p22,adj (badge),monosemous_pair,oewn,oewn-celebratory__3.01.00..,kaikki:celebratory:adj:0:7074:s0,,21,anki_800:1766527461516
+converse,대화하다,verb,800,B,carry on a conversation,verified,ocr_prefix,16-30(1) p22,v (badge),double_korean_anchor,oewn,oewn-converse__2.32.00..,kaikki:converse:verb:1:2390:s0,대화하다,21,anki_800:1766527461517
+crack,"금 가게 하다, 금, 틈",noun,800,B,a long narrow cleft,verified,ocr_contains,16-30(1) p22,v (badge),double_korean_anchor,oewn,oewn-crack__1.17.00..,kaikki:crack:noun:1:1894:s0,틈,21,anki_800:1766527461518
+gathering space,모임장소,phrase,800,E,,unverified,ocr_exact,16-30(1) p22,,no_sense_record,,,,,21,anki_800:1766527461519
+have a good view,전망이 좋다,phrase,800,E,,unverified,ocr_exact,16-30(1) p22,,no_sense_record,,,,,21,anki_800:1766527461520
+last-minute,"막바지의, 마지막 순간에",noun,800,E,,unverified,ocr_exact,16-30(1) p22,,no_sense_record,,,,,21,anki_800:1766527461521
+look into,~을 조사하다,phrase,800,D,,unverified,ocr_exact,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461522
+look out,조심하다,phrase,800,D,,unverified,ocr_exact,16-30(1) p22,,proposed_pair_needs_review,,,,,21,anki_800:1766527461523
+luxury goods,사치품,phrase,800,C,A product or service that is not considered essential to everyday life and is associated with affluence.,verified,ocr_exact,16-30(1) p22,,single_source_korean_anchor,kaikki,,kaikki:luxury good:noun:0:9069:s0,사치품,21,anki_800:1766527461524
+newsletter,(회사·단체 등의)회보,noun,800,B,report or open letter giving informal or confidential news of interest to a special group,unverified,ocr_exact,16-30(1) p22,n (badge),monosemous_pair,oewn,oewn-newsletter__1.10.00..,kaikki:newsletter:noun:0:6135:s0,,21,anki_800:1766527461525
+occupy,차지하다,verb,800,D,,unverified,ocr_prefix,16-30(1) p22,v (badge),proposed_pair_needs_review,,,,,21,anki_800:1766527461526
+quality service,고급 서비스,phrase,800,E,,unverified,ocr_similar,16-30(1) p22,,no_sense_record,,,,,21,anki_800:1766527461527
+renown,명성,noun,800,D,,unverified,ocr_prefix,16-30(1) p22,n (width),proposed_pair_needs_review,,,,,21,anki_800:1766527461528
+reputation,평판,noun,800,C,What somebody or something is known for.,verified,ocr_prefix,16-30(1) p22,,single_source_korean_anchor,kaikki,,kaikki:reputation:noun:0:1665:s0,평판,21,anki_800:1766527461529
+set a record,기록을 세우다,phrase,800,E,,unverified,ocr_exact,16-30(1) p22,,no_sense_record,,,,,21,anki_800:1766527461530
+side effect,부작용,phrase,800,D,,unverified,ocr_exact,16-30(1) p22,,proposed_pair_needs_review,,,,,21,anki_800:1766527461531
+spokesperson,대변인,noun,800,B,an advocate who represents someone else's policy or purpose,unverified,ocr_prefix,16-30(1) p22,n (badge),monosemous_pair,oewn,oewn-spokesperson__1.18.00..,kaikki:spokesperson:noun:0:6470:s0,,21,anki_800:1766527461532
+spread the word,말을 퍼뜨리다,phrase,800,C,To tell a lot of people; to inform as many people as one can.,unverified,ocr_exact,16-30(1) p22,,single_source_only_sense,kaikki,,kaikki:spread the word:verb:0:7876:s0,,21,anki_800:1766527461533
+alteration,"변화, 개조",noun,800,D,,unverified,ocr_contains,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461534
+anticipated,"기대하던, 대망의",adjective,800,B,expected hopefully,unverified,ocr_exact,16-30(1) p22,adj (badge),monosemous_pair,oewn,oewn-anticipated__5.00.00.expected.00,kaikki:anticipated:adj:0:6745:s0,,21,anki_800:1766527461535
+disguise,"가장하다, 숨기다",verb,800,D,,unverified,ocr_prefix,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461536
+go through,(고난·경험을) 겪다,phrase,800,D,,unverified,ocr_similar,16-30(1) p22,phr (badge),proposed_pair_needs_review,,,,,21,anki_800:1766527461537
+incline,"기울다, 기울이다",verb,800,D,,unverified,ocr_prefix,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461538
+indefinitely,"불명확하게, 무기한으로",adverb,800,D,,unverified,ocr_exact,16-30(1) p22,adv (badge),candidates_unaligned,,,,,21,anki_800:1766527461539
+innovation,"혁신, 쇄신",noun,800,C,"The act of innovating; the introduction of something new, in customs, rites, etc.",verified,ocr_prefix,16-30(1) p22,n (width),single_source_korean_anchor,kaikki,,kaikki:innovation:noun:0:3451:s0,혁신,21,anki_800:1766527461540
+outdated,"구식의, 진부한",adjective,800,D,,unverified,ocr_prefix,16-30(1) p22,adj (badge),proposed_pair_needs_review,,,,,21,anki_800:1766527461541
+perspective,"시각, 관점, 원근 화법의",adjective,800,C,"Of, in or relating to perspective.",unverified,ocr_exact,16-30(1) p22,n (width),single_source_only_sense,kaikki,,kaikki:perspective:adj:0:1634:s0,,21,anki_800:1766527461542
+progressive,진보적인,adjective,800,D,,unverified,ocr_prefix,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461543
+public hearing,공청회,phrase,800,D,,unverified,ocr_prefix,16-30(1) p22,,candidates_unaligned,,,,,21,anki_800:1766527461544
+pursue,"추구하다, 쫓다",verb,800,C,"To aim for, go after (a specified objective, situation etc.).",verified,ocr_prefix,16-30(1) p22,phr (width),single_source_korean_anchor,kaikki,,kaikki:pursue:verb:0:3960:s2,추구하다,21,anki_800:1766527461545
+sensible,"분별 있는, 합리적인",adjective,800,D,,unverified,ocr_variant_ocr,16-30(1) p23,,proposed_pair_needs_review,,,,,21,anki_800:1766527461546
+strategic,전략적인,adjective,800,D,,unverified,ocr_variant_ocr,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461547
+turn over,"~을 뒤집다, 방향을 바꾸다",phrase,800,D,,unverified,ocr_exact,16-30(1) p23,phr (badge),candidates_unaligned,,,,,21,anki_800:1766527461548
+a great deal of,"다량의, 많은",phrase,800,E,,unverified,ocr_exact,16-30(1) p23,,no_sense_record,,,,,21,anki_800:1766527461549
+advisory,자문의,adjective,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461550
+bump into,~을 우연히 만나다,phrase,800,D,,unverified,ocr_exact,16-30(1) p23,phr (badge),candidates_unaligned,,,,,21,anki_800:1766527461551
+commemorative,기념하는,adjective,800,B,intended as a commemoration,unverified,ocr_similar,16-30(1) p23,,monosemous_pair,oewn,oewn-commemorative__3.01.00..,kaikki:commemorative:adj:0:7044:s0,,21,anki_800:1766527461552
+correlation,상호관계,noun,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461553
+corruption,"부정, 부패",noun,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461554
+era,시대,noun,800,B,a period marked by distinctive character or reckoned from a fixed point or event,verified,ocr_exact,16-30(1) p23,n (width),double_korean_anchor,oewn,oewn-era__1.28.00..,kaikki:era:noun:0:830:s0,시대,21,anki_800:1766527461555
+exaggerate,과장하다,verb,800,C,"To overstate, to describe more than the fact.",verified,ocr_exact,16-30(1) p23,v (badge),single_source_korean_anchor,kaikki,,kaikki:exaggerate:verb:0:1781:s0,과장하다,21,anki_800:1766527461556
+fast-growing,급성장하는,adjective,800,B,tending to spread quickly,unverified,ocr_prefix,16-30(1) p23,,monosemous_pair,oewn,oewn-fast--growing__5.00.00.invasive.00,kaikki:fast-growing:adj:0:7917:s0,,21,anki_800:1766527461557
+hinder,"막다, 방해하다",verb,800,B,hinder or prevent the progress or accomplishment of,verified,ocr_similar,16-30(1) p23,v (badge),double_korean_anchor,oewn,oewn-hinder__2.41.00..,kaikki:hinder:verb:1:3425:s1,방해하다,21,anki_800:1766527461558
+inhabitant,거주자,noun,800,B,a person who inhabits a particular place,verified,ocr_exact,16-30(1) p23,,double_korean_anchor,oewn,oewn-inhabitant__1.18.00..,kaikki:inhabitant:noun:0:3124:s0,거주자,21,anki_800:1766527461559
+inhabitation,거주,noun,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461560
+instinctive,본능적인,adjective,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461561
+isolated,"고립된, 격리된",adjective,800,D,,unverified,ocr_prefix,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461562
+landfill,쓰레기 매립지,noun,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461563
+market share,시장 점유율,phrase,800,C,"The percentage of some market held by a company, country, (sub)sector or any other actor or aggregate.",unverified,ocr_exact,16-30(1) p23,phr (badge),single_source_only_sense,kaikki,,kaikki:market share:noun:0:3090:s0,,21,anki_800:1766527461564
+meditate,숙고하다,verb,800,B,reflect deeply on a subject,verified,ocr_exact,16-30(1) p23,,double_korean_anchor,oewn,oewn-meditate__2.31.00..,kaikki:meditate:verb:0:3055:s0,숙고하다,21,anki_800:1766527461565
+merger,합병,noun,800,C,The act or process of merging two or more parts into a single unit.,verified,ocr_prefix,16-30(1) p23,n (width),single_source_korean_anchor,kaikki,,kaikki:merger:noun:2:428:s0,합병,21,anki_800:1766527461566
+on strike,파업 중인,phrase,800,D,,unverified,ocr_similar,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461567
+outreach,봉사활동,noun,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461568
+oversized,너무 큰,noun,800,E,,unverified,ocr_prefix,16-30(1) p23,,no_sense_record,,,,,21,anki_800:1766527461569
+overstaffed,필요이상의 직원을 둔,noun,800,E,,unverified,ocr_similar,16-30(1) p23,,no_sense_record,,,,,21,anki_800:1766527461570
+rashly,경솔하게,adverb,800,B,in a hasty and foolhardy manner,unverified,ocr_similar_loose,16-30(1) p23,,monosemous_pair,oewn,oewn-rashly__4.02.03..,kaikki:rashly:adv:0:6808:s0,,21,anki_800:1766527461571
+regional,지역의,adjective,800,D,,unverified,ocr_similar,16-30(1) p23,adj (badge),candidates_unaligned,,,,,21,anki_800:1766527461572
+rule out,배제하다,phrase,800,D,,unverified,ocr_exact,16-30(1) p23,phr (badge),candidates_unaligned,,,,,21,anki_800:1766527461573
+scholar,학자,noun,800,C,A specialist in a particular branch of knowledge.,verified,ocr_exact,16-30(1) p23,,single_source_korean_anchor,kaikki,,kaikki:scholar:noun:0:4356:s1,학자,21,anki_800:1766527461574
+spotless,"아주 깨끗한, 흠잡을 데 없는",adjective,800,D,,unverified,ocr_prefix,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461575
+stand for,"~을 상징하다, ~을 대표하다",phrase,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461576
+strike,"동맹파업, 노동 쟁의",adjective,800,E,,unverified,ocr_similar,16-30(1) p23,,no_sense_record,,,,,21,anki_800:1766527461577
+struggle,"애쓰다, 분투하다",verb,800,D,,unverified,ocr_exact,16-30(1) p23,v (badge),candidates_unaligned,,,,,21,anki_800:1766527461578
+succession,연속,noun,800,D,,unverified,ocr_exact,16-30(1) p23,n (badge),candidates_unaligned,,,,,21,anki_800:1766527461579
+takeover,인수,noun,800,D,,unverified,ocr_exact,16-30(1) p23,,candidates_unaligned,,,,,21,anki_800:1766527461580
+make the first move,"개시하다, 발단을 만들다",phrase,900,C,To initiate something.,unverified,ocr_exact,16-30(1) p24,,single_source_only_sense,kaikki,,kaikki:make the first move:verb:0:7863:s0,,21,anki_900:1766527462862
+take a turn for the better,호전되다,phrase,900,C,To start to become better; to improve.,unverified,ocr_exact,16-30(1) p24,,single_source_only_sense,kaikki,,kaikki:take a turn for the better:verb:0:7462:s0,,21,anki_900:1766527462863
+warm-up,"준비 운동, 예행연습",noun,900,D,,unverified,ocr_prefix,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462864
+be contingent upon,"~에 따라 결정되다, ~에 달려 있다",phrase,900,E,,unverified,ocr_similar,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462865
+established,"확립된, 정평이 있는",adjective,900,D,,unverified,ocr_exact,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462866
+favorable,호의적인,adjective,900,D,,unverified,ocr_prefix,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462867
+front-runner,가장 유력한 우승 후보,noun,900,D,,unverified,ocr_exact,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462868
+intermittently,간헐적으로,adverb,900,B,in an intermittent manner,unverified,ocr_exact,16-30(1) p24,,monosemous_pair,oewn,oewn-intermittently__4.02.00..,kaikki:intermittently:adv:0:4758:s0,,21,anki_900:1766527462869
+momentarily,잠깐,noun,900,E,,unverified,ocr_prefix,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462870
+narrative,"(소설 속 사건들에 대한) 기술, 묘사",noun,900,D,,unverified,ocr_prefix,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462871
+neutral,중립적인,adjective,900,D,,unverified,ocr_prefix,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462872
+retreat,"후퇴하다, 물러가다",verb,900,B,pull back or move away or backward,verified,ocr_exact,16-30(1) p24,,double_korean_anchor,oewn,oewn-retreat__2.38.00..,kaikki:retreat:verb:1:412:s1,후퇴하다,21,anki_900:1766527462873
+stance,"태도, 입장",noun,900,D,,unverified,ocr_variant_ocr,16-30(1) p24,,proposed_pair_needs_review,,,,,21,anki_900:1766527462874
+allegedly,주장하는 바에 따르면,noun,900,E,,unverified,ocr_variant_ocr,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462875
+be oriented to,~에 중점을 두다,phrase,900,E,,unverified,ocr_prefix,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462876
+beware,조심하다,verb,900,B,be on one's guard; be cautious or wary about; be alert to,unverified,ocr_prefix,16-30(1) p24,,monosemous_pair,oewn,oewn-beware__2.31.00..,kaikki:beware:verb:0:3942:s0,,21,anki_900:1766527462877
+clout,"영향력, 권력",noun,900,D,,unverified,ocr_variant_ocr,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462878
+craftsmanship,솜씨,noun,900,D,,unverified,ocr_similar,16-30(1) p24,,proposed_pair_needs_review,,,,,21,anki_900:1766527462879
+detector,"탐지기, 측정기",noun,900,D,,unverified,ocr_similar,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462880
+exemplify,"예증하다, ~의 좋은 예가 되다",verb,900,D,,unverified,ocr_prefix,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462881
+exert pressure on,~에 압력을 행사하다,phrase,900,E,,unverified,ocr_prefix,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462882
+interfere with,~을 방해하다,phrase,900,E,,unverified,ocr_exact,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462883
+keep on top of,~의 선두를 유지하다,phrase,900,E,,unverified,ocr_exact,16-30(1) p24,,no_sense_record,,,,,21,anki_900:1766527462884
+latent,"잠재된, 잠복성의",adjective,900,D,,unverified,ocr_exact,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462885
+liquidate,"(회사를) 정리하다, 해산하다",verb,900,D,,unverified,ocr_exact,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462886
+lucid,"명쾌한, 명료한",adjective,900,D,,unverified,ocr_exact,16-30(1) p24,,proposed_pair_needs_review,,,,,21,anki_900:1766527462887
+makeshift,임시방편의,adjective,900,B,done or made using whatever is available,unverified,ocr_prefix,16-30(1) p24,,monosemous_pair,oewn,oewn-makeshift__5.00.00.impermanent.00,kaikki:makeshift:adj:1:2932:s0,,21,anki_900:1766527462888
+roll out,(신상품을) 출시하다,phrase,900,D,,unverified,ocr_variant_ocr,16-30(1) p24,,candidates_unaligned,,,,,21,anki_900:1766527462889
+shrink,"줄어들다, 오그라들다",verb,900,D,,unverified,ocr_variant_ocr,16-30(1) p24,,proposed_pair_needs_review,,,,,21,anki_900:1766527462890
+squeaky,삐걱대는,adjective,900,B,having or making a high-pitched sound such as that made by a mouse or a rusty hinge,unverified,ocr_prefix,16-30(1) p24,n (width),monosemous_pair,oewn,oewn-squeaky__5.00.00.high.03,kaikki:squeaky:adj:0:6726:s0,,21,anki_900:1766527462891
+subsidize,~에 보조금을 지급하다,verb,900,D,,unverified,ocr_similar_loose,16-30(1) p24,v (badge),candidates_unaligned,,,,,21,anki_900:1766527462892
+succumb to,"~에 굴복하다, ~에 지다",phrase,900,E,,unverified,ocr_prefix,16-30(1) p24,phr (badge),no_sense_record,,,,,21,anki_900:1766527462893

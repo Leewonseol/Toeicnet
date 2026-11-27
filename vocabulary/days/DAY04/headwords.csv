@@ -1,173 +1,173 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-lax,"(행동 등이) 느슨한, 규율에 못 미치는",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458285
-procrastinate,"미루다, 꾸물거리다",verb,core,B,postpone or delay needlessly,verified,double_korean_anchor,oewn,oewn-procrastinate__2.42.01..,kaikki:procrastinate:verb:0:1597:s0,미루다,4,anki_core:1766527458286
-combined,"결합된, 합동의",adjective,core,B,made or joined or united into one,unverified,monosemous_pair,oewn,oewn-combined__3.00.00..,kaikki:combined:adj:0:6357:s0,,4,anki_core:1766527458287
-accomplish,성취하다,verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458288
-voluntarily,자발적으로,adverb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458289
-undertake,(일을) 떠맡다,verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458290
-assume,"(증거는 없으나) 사실이라고 생각하다, (책임·역할을) 맡다",verb,core,B,take to be the case or to be true; accept without verification or proof,unverified,model_reviewed_pair,oewn,oewn-assume__2.31.00..,kaikki:assume:verb:0:1334:s0,,4,anki_core:1766527458291
-occasionally,"가끔, 때때로",adverb,core,B,sporadically and infrequently,verified,double_korean_anchor,oewn,oewn-occasionally__4.02.00..,kaikki:occasionally:adv:0:4780:s0,가끔,4,anki_core:1766527458292
-employee,"직원, 고용인",adjective,core,E,,unverified,no_sense_record,,,,,4,anki_core:1766527458293
-assist,"돕다, 조력하다",verb,core,B,give help or assistance; be of service,verified,double_korean_anchor,oewn,oewn-assist__2.41.02..,kaikki:assist:verb:0:4444:s0,돕다,4,anki_core:1766527458294
-satisfied,"만족하는, 만족스러워하는",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458295
-manner,"방식, 태도",noun,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458296
-responsible,"책임이 있는, 책임져야 할",noun,core,C,An actor taking on the lesser roles in repertory theatre.,unverified,single_source_only_sense,kaikki,,kaikki:responsible:noun:0:1884:s1,,4,anki_core:1766527458297
-conduct,(업무 등을) 수행하다,verb,core,D,,unverified,proposed_pair_needs_review,,,,,4,anki_core:1766527458298
-adjust,적응하다,verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458299
-personnel,"(집합적) 직원, 인원, 인사과",noun,core,C,"Collection of people in an organization, such as employees and office staff, members of the military, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:personnel:noun:0:4967:s0,인원;직원,4,anki_core:1766527458300
-agree,동의하다,verb,core,C,To give assent; to accede.,verified,single_source_korean_anchor,kaikki,,kaikki:agree:verb:0:2069:s1,동의하다,4,anki_core:1766527458301
-supervise,"감독하다, 지도하다",verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458302
-coworker,"동료, 협력자",noun,core,C,Somebody with whom one works.,verified,single_source_korean_anchor,kaikki,,kaikki:coworker:noun:0:6758:s0,동료,4,anki_core:1766527458303
-direct,"~에게 길을 안내하다, 가르쳐주다",verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458304
-confidential,"기밀의, 내밀한",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458305
-assign,"배정하다, 할당하다",verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458306
-leading,"선도적인, 일류의, 가장 중요한, 선두적인",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458307
-formal,격식을 갖춘,noun,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458308
-remove,"해임하다, 제거하다",verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458309
-collect,"모으다, 수집하다",verb,core,C,To gather together; amass.,verified,single_source_korean_anchor,kaikki,,kaikki:collect:verb:1:1195:s0,수집하다,4,anki_core:1766527458310
-coordinate,조정하다,verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458311
-hardly,거의~하지 않다,verb,core,E,,unverified,no_sense_record,,,,,4,anki_core:1766527458312
-abstract,"추상적인, 막연한",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458313
-directory,주소록,noun,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458314
-accountable,책임이 있는,adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458315
-skillfully,"능숙하게, 솜씨 있게",adverb,core,B,with skill,unverified,monosemous_pair,oewn,oewn-skillfully__4.02.00..,kaikki:skillfully:adv:0:6797:s0,,4,anki_core:1766527458316
-exclusive,"독점적인, 배타적인",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458317
-intention,"의지, 의향",noun,core,C,A course of action that a person intends to follow.,verified,single_source_korean_anchor,kaikki,,kaikki:intention:noun:0:4586:s0,의향,4,anki_core:1766527458318
-transform,"바꾸다, 변모시키다",verb,core,B,"change or alter in form, appearance, or nature",unverified,model_reviewed_pair,oewn,oewn-transform__2.30.00..,kaikki:transform:verb:0:2544:s0,,4,anki_core:1766527458319
-respectful,"정중한, 존중하는",adjective,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458320
-duplicate,사본,noun,core,B,a copy that corresponds to an original exactly,unverified,model_reviewed_pair,oewn,oewn-duplicate__1.06.00..,kaikki:duplicate:noun:0:5015:s1,,4,anki_core:1766527458321
-contrary,반대,noun,core,B,a relation of direct opposition,unverified,model_reviewed_pair,oewn,oewn-contrary__1.24.01..,kaikki:contrary:noun:0:3210:s0,,4,anki_core:1766527458322
-disturbing,"충격적인, 불안감을 주는, 방해하는",adjective,core,B,causing distress or worry or anxiety,unverified,monosemous_pair,oewn,oewn-disturbing__5.00.00.heavy.02,kaikki:disturbing:adj:0:6444:s0,,4,anki_core:1766527458323
-engage,"관여하다, 종사하다",verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458324
-foster,"촉진하다, 육성하다",verb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458325
-neutrality,"중립성, 중립",noun,core,C,The state or quality of being neutral; the condition of being unengaged in contests between others; state of taking no part on either side.,verified,single_source_korean_anchor,kaikki,,kaikki:neutrality:noun:0:5437:s0,중립,4,anki_core:1766527458326
-widely,널리,adverb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458327
-externally,"외부에서, 외부적으로",adverb,core,D,,unverified,candidates_unaligned,,,,,4,anki_core:1766527458328
-bookcase,"책장, 책꽂이",noun,basic,C,A piece of furniture for the storage and display of books.,verified,single_source_korean_anchor,kaikki,,kaikki:bookcase:noun:0:2662:s0,책장,4,anki_basic:1766527458329
-bookshelf,책꽂이,noun,basic,C,A shelf or shelves for storing books for easy visual reference.,verified,single_source_korean_anchor,kaikki,,kaikki:bookshelf:noun:0:6341:s0,책꽂이,4,anki_basic:1766527458330
-case,(특정한 상황의) 경우,noun,basic,B,a special set of circumstances,verified,double_korean_anchor,oewn,oewn-case__1.26.00..,kaikki:case:noun:1:313:s3,경우,4,anki_basic:1766527458331
-central office,중앙 사무실,phrase,basic,C,(usually plural) the office that serves as the administrative center of an enterprise,unverified,single_source_only_sense,oewn,oewn-central_office__1.06.00..,,,4,anki_basic:1766527458332
-copy machine,복사기,phrase,basic,C,photocopier,unverified,single_source_only_sense,kaikki,,kaikki:copy machine:noun:0:7467:s0,,4,anki_basic:1766527458333
-fax,팩스,noun,basic,C,"A document sent, or received and printed, by a fax machine.",verified,single_source_korean_anchor,kaikki,,kaikki:fax:noun:2:2493:s2,팩스,4,anki_basic:1766527458334
-file folder,서류철,phrase,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458335
-greet,"~에게 인사하다, ~를 환영하다",verb,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458336
-handwriting,"(개인의) 글씨, 필체",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,4,anki_basic:1766527458337
-keypad,(전화·계산기 등의) 소형 키보드,noun,basic,B,a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard,unverified,monosemous_pair,oewn,oewn-keypad__1.06.00..,kaikki:keypad:noun:0:6829:s0,,4,anki_basic:1766527458338
-knife,칼,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,4,anki_basic:1766527458339
-log on to,~에 로그인하다,phrase,basic,E,,unverified,no_sense_record,,,,,4,anki_basic:1766527458340
-online,인터넷에 접속된 / 온라인으로,adjective/adverb,basic,B,through a computer or a computer network,unverified,monosemous_pair,oewn,oewn-online__4.02.03..,kaikki:online:adv:0:1336:s0,,4,anki_basic:1766527458341
-photocopier,복사기,noun,basic,B,a copier that uses photographic methods of making copies,verified,monosemous_pair,oewn,oewn-photocopier__1.06.00..,kaikki:photocopier:noun:0:5032:s0,복사기,4,anki_basic:1766527458342
-photocopy,복사 / 복사하다,noun/verb,basic,B,a photographic copy of written or printed or graphic work,unverified,monosemous_pair,oewn,oewn-photocopy__1.06.00..;oewn-photocopy__2.36.00..,kaikki:photocopy:noun:0:5684:s0;kaikki:photocopy:verb:0:5685:s0,,4,anki_basic:1766527458343
-print out,(프린터로) 출력하다,phrase,basic,C,To print (a computer document).,unverified,single_source_only_sense,kaikki,,kaikki:print out:verb:0:7395:s0,,4,anki_basic:1766527458344
-right away,"즉시, 당장",phrase,basic,B,without delay or hesitation; with no time intervening,verified,double_korean_anchor,oewn,oewn-right_away__4.02.00..,kaikki:right away:adv:0:6253:s0,즉시,4,anki_basic:1766527458345
-spell,"철자를 쓰다, 철자를 말하다",verb,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458346
-wrap,"싸다, 감싸다",verb,basic,C,"To enclose (an object) completely in any flexible, thin material such as fabric or paper.",verified,single_source_korean_anchor,kaikki,,kaikki:wrap:verb:1:2961:s0,싸다,4,anki_basic:1766527458347
-fold,접다,verb,basic,C,"To bend (any thin material, such as paper) over so that it comes in contact with itself.",verified,single_source_korean_anchor,kaikki,,kaikki:fold:verb:1:2437:s0,접다,4,anki_basic:1766527458348
-least,"가장 작은, 가장 적은",adjective,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458349
-paper,서류,noun,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458350
-planning,"계획, 입안",noun,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458351
-post,"붙이다, 공고하다",verb,basic,D,,unverified,candidates_unaligned,,,,,4,anki_basic:1766527458352
-press the button,버튼을 누르다,phrase,basic,E,,unverified,no_sense_record,,,,,4,anki_basic:1766527458353
-server,"서빙하는 사람, (컴퓨터의) 서버",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,4,anki_basic:1766527458354
-store opening,"개점, 개장",phrase,basic,E,,unverified,no_sense_record,,,,,4,anki_basic:1766527458355
-task,"일, 직무",noun,basic,B,a specific piece of work required to be done as a duty or for a specific fee,verified,double_korean_anchor,oewn,oewn-task__1.04.00..,kaikki:task:noun:1:4081:s0,일,4,anki_basic:1766527458356
-be satisfied with,~에 만족하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460363
-be seated,"앉다, 앉아 있다",phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460364
-be surrounded by,~에 둘러싸이다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460365
-business contacts,사업상 아는 사람 또는 회사,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460366
-chairperson,의장,noun,800,C,"A chairman or chairwoman, someone who presides over a meeting, board, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:chairperson:noun:0:410:s0,의장,4,anki_800:1766527460367
-copy editor,원고 정리 편집자,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460368
-deep end,수심이 깊은 쪽,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460369
-double-sided,양면의,adjective,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460370
-drawer,서랍,noun,800,C,"An open-topped box that can be slid in and out of the cabinet that contains it, used for storing clothing or other articles.",verified,single_source_korean_anchor,kaikki,,kaikki:drawer:noun:1:898:s0,서랍,4,anki_800:1766527460371
-get one's approval,~의 승인을 받다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460372
-halfway,중간에 / 중간의,adjective/noun,800,D,,unverified,proposed_pair_needs_review,,,,,4,anki_800:1766527460373
-hand over,~을 건네주다,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460374
-in a pile,수북이 쌓인,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460375
-it could have been worse.,이만하니 다행이다.,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460376
-just in time,겨우 시간에 맞춰,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460377
-literacy,읽고 쓰는 능력,noun,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460378
-litter,"쓰레기 / 어지르다, 흐트러뜨리다",noun/verb,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460379
-make a selection,선정하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460380
-make room for,~을 위해 공간을 마련하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460381
-out of paper,종이가 다 떨어진,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460382
-raise one's hand,손을 들다,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460383
-report a problem,문제점을 보고하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460384
-sort,종류 / 분류하다,noun/verb,800,C,A general type.,verified,single_source_korean_anchor,kaikki,,kaikki:sort:noun:1:1620:s0,종류,4,anki_800:1766527460385
-stationery,문구류,noun,800,B,paper cut to an appropriate size for writing letters; usually with matching envelopes,unverified,monosemous_pair,oewn,oewn-stationery__1.10.00..,kaikki:stationery:noun:1:3902:s0,,4,anki_800:1766527460386
-take another look,다시 한번 보다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460387
-take A out,A를 꺼내다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460388
-typewriter,타자기,noun,800,C,"A device, at least partially mechanical, used to print text by pressing keys that cause type to be impressed through an inked ribbon onto paper.",verified,single_source_korean_anchor,kaikki,,kaikki:typewriter:noun:0:2243:s0,타자기,4,anki_800:1766527460389
-work in groups,여러 명이 작업하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460390
-writing pad,(한 장씩 떼어 쓰는) 노트,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460391
-anticipation,"예상, 기대",noun,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460392
-automobile,자동차,noun,800,B,a motor vehicle with four wheels; usually propelled by an internal combustion engine,verified,double_korean_anchor,oewn,oewn-automobile__1.06.00..,kaikki:automobile:noun:0:1846:s0,자동차,4,anki_800:1766527460393
-be asked to do,~하도록 요청받다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460394
-be paid for,~에 대해 보수를 받다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460395
-be qualified for,~을 위한 자격을 갖추다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460396
-casual,"격식을 차리지 않는, 평상복의",adjective,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460397
-draft,초안을 작성하다 / 초안,noun/verb,800,D,,unverified,proposed_pair_needs_review,,,,,4,anki_800:1766527460398
-draw on,"~을 이용하다, ~에 의지하다",phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460399
-excuse,"변명, 이유 / 용서하다",noun/verb,800,D,,unverified,proposed_pair_needs_review,,,,,4,anki_800:1766527460400
-head office,(회사의) 본사,phrase,800,C,The main administrative centre for a company or organisation.,unverified,single_source_only_sense,kaikki,,kaikki:head office:noun:0:7410:s0,,4,anki_800:1766527460401
-in anticipation of,~을 예상하고,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460402
-in light of,"~을 고려하여,~에 비추어",phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460403
-instrument,"도구, 기계, 악기",noun,800,B,any of various devices or contrivances that can be used to produce musical tones or sounds,verified,double_korean_anchor,oewn,oewn-instrument__1.06.01..,kaikki:instrument:noun:0:1991:s3,기계;도구,4,anki_800:1766527460404
-popularly,일반적으로,adverb,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460405
-regarding,~에 관하여,noun,800,C,The act by which something is regarded or observed.,unverified,single_source_only_sense,kaikki,,kaikki:regarding:noun:0:3806:s0,,4,anki_800:1766527460406
-routinely,"일상적으로, 정기적으로",adverb,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460407
-standing,"고정적인, 상설의",adjective,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460408
-supplementary,"보충의, 추가의",adjective,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460409
-work overtime,초과 근무를 하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460410
-workplace,작업장,noun,800,B,a place where work is done,unverified,monosemous_pair,oewn,oewn-workplace__1.06.00..,kaikki:workplace:noun:0:6584:s0,,4,anki_800:1766527460411
-acting,"대리의, 직무대행의 / 연기",adjective/noun,800,B,serving temporarily especially as a substitute,unverified,monosemous_pair,oewn,oewn-acting__5.00.00.impermanent.00,kaikki:acting:adj:0:1988:s0,,4,anki_800:1766527460412
-be full of,~으로 가득하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460413
-convert A to B,A를 B로 바꾸다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460414
-count on,"~을 믿다, ~에 의지하다",phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460415
-fill with,~으로 가득 차다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460416
-get along with,~와 사이좋게 지내다,phrase,800,C,have smooth relations,unverified,single_source_only_sense,oewn,oewn-get_along_with__2.41.00..,,,4,anki_800:1766527460417
-go down the steps,계단을 내려가다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460418
-key to success,성공의 길,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460419
-lose one's temper,화를 내다,phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460420
-make a copy,복사하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460421
-obsess about,~에 대해 강박 관념을 갖다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460422
-overtime hours,초과 근무 시간,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460423
-personal effects,"개인 소지품, 개인 소유물",phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460424
-reunion,친목회,noun,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460425
-sales representative,"영업 담당자, 판매 직원",phrase,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460426
-seamless,"(끊어짐이 없이) 매끄러운, 문제없는",adjective,800,D,,unverified,candidates_unaligned,,,,,4,anki_800:1766527460427
-submit A to B,A를 B에게 제출하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460428
-succeed in -ing,~에 성공하다,phrase,800,E,,unverified,no_sense_record,,,,,4,anki_800:1766527460429
-time-consuming,시간이 많이 걸리는,adjective,800,B,of a task that takes time and patience,unverified,monosemous_pair,oewn,oewn-time--consuming__5.00.00.long.02,kaikki:time-consuming:adj:0:6465:s0,,4,anki_800:1766527460430
-bookkeeping,부기,noun,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462288
-have one's hands full,몹시 바쁘다,phrase,900,C,To be busy or thoroughly preoccupied.,unverified,single_source_only_sense,kaikki,,kaikki:have one's hands full:verb:0:5759:s0,,4,anki_900:1766527462289
-make on outside call,외부로 전화를 걸다,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462290
-motivation,"이유, 동기",noun,900,B,the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior,verified,double_korean_anchor,oewn,oewn-motivation__1.03.00..,kaikki:motivation:noun:0:6488:s0,동기,4,anki_900:1766527462291
-newly listed,새로 목록에 오른,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462292
-prioritize,우선적으로 처리하다,verb,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462293
-sit in alternate seats,한자리 씩 건너 앉다,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462294
-written authorization,서면 결재,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462295
-written consent,서면 동의,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462296
-acquaintance,"아는 사람, 아는 사이",noun,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462297
-dimension,"규모, 크기, 차원, 관점",noun,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462298
-directive,"지시하는, 지배적인",adjective,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462299
-discerning,통찰력이 있는,adjective,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462300
-elegantly,"우아하게, 고상하게",adverb,900,D,,unverified,proposed_pair_needs_review,,,,,4,anki_900:1766527462301
-expectant,기대하고 있는,adjective,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462302
-invaluable,"매우 유용한, 귀중한",adjective,900,B,"having incalculable monetary, intellectual, or spiritual worth",unverified,monosemous_pair,oewn,oewn-invaluable__5.00.00.valuable.00,kaikki:invaluable:adj:0:6167:s0,,4,anki_900:1766527462303
-propel,"나아가게 하다, 몰아가다",verb,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462304
-realization,"깨달음, 자각, 인식",noun,900,D,,unverified,proposed_pair_needs_review,,,,,4,anki_900:1766527462305
-recline,"기대다, 눕다, (의자가) 젖혀지다",verb,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462306
-repository,저장소,noun,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462307
-respective,"각각의, 저마다의",adjective,900,B,considered individually,unverified,monosemous_pair,oewn,oewn-respective__5.00.00.individual.00,kaikki:respective:adj:0:1442:s0,,4,anki_900:1766527462308
-spontaneously,"자발적으로, 자연 발생적으로",adverb,900,C,In a spontaneous manner; naturally; voluntarily.,verified,single_source_korean_anchor,kaikki,,kaikki:spontaneously:adv:0:6454:s0,자발적으로,4,anki_900:1766527462309
-trivial,"사소한, 하찮은",adjective,900,C,Ignorable; of little significance or value.,verified,single_source_korean_anchor,kaikki,,kaikki:trivial:adj:0:4880:s0,사소하다,4,anki_900:1766527462310
-turn in,"(실적·수익 등을) 올리다, 제출하다",phrase,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462311
-ambiance,(장소의) 분위기,noun,900,D,,unverified,proposed_pair_needs_review,,,,,4,anki_900:1766527462312
-aspiration,"포부, 열망",noun,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462313
-creditable,"훌륭한, 칭찬할 만한",adjective,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462314
-eminent,"저명한, 탁월한",adjective,900,D,,unverified,candidates_unaligned,,,,,4,anki_900:1766527462315
-endeavor,"노력하다, 애쓰다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,4,anki_900:1766527462316
-entrust A with B,A에게 B의 책임을 맡기다,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462317
-on edge,"흥분하여, 안절부절 못하여",phrase,900,C,"Tense, nervous; consequently irritable.",unverified,single_source_only_sense,kaikki,,kaikki:on edge:prep_phrase:0:4803:s0,,4,anki_900:1766527462318
-reach one's full potential,능력을 최대한 발휘하다,phrase,900,E,,unverified,no_sense_record,,,,,4,anki_900:1766527462319
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+lax,"(행동 등이) 느슨한, 규율에 못 미치는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458285
+procrastinate,"미루다, 꾸물거리다",verb,core,B,postpone or delay needlessly,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-procrastinate__2.42.01..,kaikki:procrastinate:verb:0:1597:s0,미루다,4,anki_core:1766527458286
+combined,"결합된, 합동의",adjective,core,B,made or joined or united into one,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-combined__3.00.00..,kaikki:combined:adj:0:6357:s0,,4,anki_core:1766527458287
+accomplish,성취하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458288
+voluntarily,자발적으로,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458289
+undertake,(일을) 떠맡다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458290
+assume,"(증거는 없으나) 사실이라고 생각하다, (책임·역할을) 맡다",verb,core,B,take to be the case or to be true; accept without verification or proof,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-assume__2.31.00..,kaikki:assume:verb:0:1334:s0,,4,anki_core:1766527458291
+occasionally,"가끔, 때때로",adverb,core,B,sporadically and infrequently,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-occasionally__4.02.00..,kaikki:occasionally:adv:0:4780:s0,가끔,4,anki_core:1766527458292
+employee,"직원, 고용인",adjective,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,4,anki_core:1766527458293
+assist,"돕다, 조력하다",verb,core,B,give help or assistance; be of service,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-assist__2.41.02..,kaikki:assist:verb:0:4444:s0,돕다,4,anki_core:1766527458294
+satisfied,"만족하는, 만족스러워하는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458295
+manner,"방식, 태도",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458296
+responsible,"책임이 있는, 책임져야 할",noun,core,C,An actor taking on the lesser roles in repertory theatre.,unverified,core_deck_not_in_back_word_pdf,,,single_source_only_sense,kaikki,,kaikki:responsible:noun:0:1884:s1,,4,anki_core:1766527458297
+conduct,(업무 등을) 수행하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,4,anki_core:1766527458298
+adjust,적응하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458299
+personnel,"(집합적) 직원, 인원, 인사과",noun,core,C,"Collection of people in an organization, such as employees and office staff, members of the military, etc.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:personnel:noun:0:4967:s0,인원;직원,4,anki_core:1766527458300
+agree,동의하다,verb,core,C,To give assent; to accede.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:agree:verb:0:2069:s1,동의하다,4,anki_core:1766527458301
+supervise,"감독하다, 지도하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458302
+coworker,"동료, 협력자",noun,core,C,Somebody with whom one works.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:coworker:noun:0:6758:s0,동료,4,anki_core:1766527458303
+direct,"~에게 길을 안내하다, 가르쳐주다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458304
+confidential,"기밀의, 내밀한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458305
+assign,"배정하다, 할당하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458306
+leading,"선도적인, 일류의, 가장 중요한, 선두적인",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458307
+formal,격식을 갖춘,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458308
+remove,"해임하다, 제거하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458309
+collect,"모으다, 수집하다",verb,core,C,To gather together; amass.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:collect:verb:1:1195:s0,수집하다,4,anki_core:1766527458310
+coordinate,조정하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458311
+hardly,거의~하지 않다,verb,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,4,anki_core:1766527458312
+abstract,"추상적인, 막연한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458313
+directory,주소록,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458314
+accountable,책임이 있는,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458315
+skillfully,"능숙하게, 솜씨 있게",adverb,core,B,with skill,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-skillfully__4.02.00..,kaikki:skillfully:adv:0:6797:s0,,4,anki_core:1766527458316
+exclusive,"독점적인, 배타적인",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458317
+intention,"의지, 의향",noun,core,C,A course of action that a person intends to follow.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:intention:noun:0:4586:s0,의향,4,anki_core:1766527458318
+transform,"바꾸다, 변모시키다",verb,core,B,"change or alter in form, appearance, or nature",unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-transform__2.30.00..,kaikki:transform:verb:0:2544:s0,,4,anki_core:1766527458319
+respectful,"정중한, 존중하는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458320
+duplicate,사본,noun,core,B,a copy that corresponds to an original exactly,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-duplicate__1.06.00..,kaikki:duplicate:noun:0:5015:s1,,4,anki_core:1766527458321
+contrary,반대,noun,core,B,a relation of direct opposition,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-contrary__1.24.01..,kaikki:contrary:noun:0:3210:s0,,4,anki_core:1766527458322
+disturbing,"충격적인, 불안감을 주는, 방해하는",adjective,core,B,causing distress or worry or anxiety,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-disturbing__5.00.00.heavy.02,kaikki:disturbing:adj:0:6444:s0,,4,anki_core:1766527458323
+engage,"관여하다, 종사하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458324
+foster,"촉진하다, 육성하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458325
+neutrality,"중립성, 중립",noun,core,C,The state or quality of being neutral; the condition of being unengaged in contests between others; state of taking no part on either side.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:neutrality:noun:0:5437:s0,중립,4,anki_core:1766527458326
+widely,널리,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458327
+externally,"외부에서, 외부적으로",adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,4,anki_core:1766527458328
+bookcase,"책장, 책꽂이",noun,basic,C,A piece of furniture for the storage and display of books.,verified,ocr_exact,1-10(2) p13,,single_source_korean_anchor,kaikki,,kaikki:bookcase:noun:0:2662:s0,책장,4,anki_basic:1766527458329
+bookshelf,책꽂이,noun,basic,C,A shelf or shelves for storing books for easy visual reference.,verified,ocr_similar,1-10(2) p13,,single_source_korean_anchor,kaikki,,kaikki:bookshelf:noun:0:6341:s0,책꽂이,4,anki_basic:1766527458330
+case,(특정한 상황의) 경우,noun,basic,B,a special set of circumstances,verified,ocr_similar,1-10(2) p13,,double_korean_anchor,oewn,oewn-case__1.26.00..,kaikki:case:noun:1:313:s3,경우,4,anki_basic:1766527458331
+central office,중앙 사무실,phrase,basic,C,(usually plural) the office that serves as the administrative center of an enterprise,unverified,ocr_exact,1-10(2) p13,phr (width),single_source_only_sense,oewn,oewn-central_office__1.06.00..,,,4,anki_basic:1766527458332
+copy machine,복사기,phrase,basic,C,photocopier,unverified,ocr_exact,1-10(2) p13,,single_source_only_sense,kaikki,,kaikki:copy machine:noun:0:7467:s0,,4,anki_basic:1766527458333
+fax,팩스,noun,basic,C,"A document sent, or received and printed, by a fax machine.",verified,ocr_exact,1-10(2) p13,n (width),single_source_korean_anchor,kaikki,,kaikki:fax:noun:2:2493:s2,팩스,4,anki_basic:1766527458334
+file folder,서류철,phrase,basic,D,,unverified,ocr_exact,1-10(2) p13,phr (width),candidates_unaligned,,,,,4,anki_basic:1766527458335
+greet,"~에게 인사하다, ~를 환영하다",verb,basic,D,,unverified,ocr_exact,1-10(2) p13,,candidates_unaligned,,,,,4,anki_basic:1766527458336
+handwriting,"(개인의) 글씨, 필체",noun,basic,D,,unverified,ocr_prefix,1-10(2) p13,,proposed_pair_needs_review,,,,,4,anki_basic:1766527458337
+keypad,(전화·계산기 등의) 소형 키보드,noun,basic,B,a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard,unverified,ocr_variant_ocr,1-10(2) p13,,monosemous_pair,oewn,oewn-keypad__1.06.00..,kaikki:keypad:noun:0:6829:s0,,4,anki_basic:1766527458338
+knife,칼,noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p13,,proposed_pair_needs_review,,,,,4,anki_basic:1766527458339
+log on to,~에 로그인하다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p13,phr (width),no_sense_record,,,,,4,anki_basic:1766527458340
+online,인터넷에 접속된 / 온라인으로,adjective/adverb,basic,B,through a computer or a computer network,unverified,ocr_exact,1-10(2) p13,,monosemous_pair,oewn,oewn-online__4.02.03..,kaikki:online:adv:0:1336:s0,,4,anki_basic:1766527458341
+photocopier,복사기,noun,basic,B,a copier that uses photographic methods of making copies,verified,ocr_exact,1-10(2) p13,,monosemous_pair,oewn,oewn-photocopier__1.06.00..,kaikki:photocopier:noun:0:5032:s0,복사기,4,anki_basic:1766527458342
+photocopy,복사 / 복사하다,noun/verb,basic,B,a photographic copy of written or printed or graphic work,unverified,ocr_exact,1-10(2) p13,n (width),monosemous_pair,oewn,oewn-photocopy__1.06.00..;oewn-photocopy__2.36.00..,kaikki:photocopy:noun:0:5684:s0;kaikki:photocopy:verb:0:5685:s0,,4,anki_basic:1766527458343
+print out,(프린터로) 출력하다,phrase,basic,C,To print (a computer document).,unverified,ocr_similar,1-10(2) p13,phr (badge),single_source_only_sense,kaikki,,kaikki:print out:verb:0:7395:s0,,4,anki_basic:1766527458344
+right away,"즉시, 당장",phrase,basic,B,without delay or hesitation; with no time intervening,verified,ocr_exact,1-10(2) p13,,double_korean_anchor,oewn,oewn-right_away__4.02.00..,kaikki:right away:adv:0:6253:s0,즉시,4,anki_basic:1766527458345
+spell,"철자를 쓰다, 철자를 말하다",verb,basic,D,,unverified,ocr_variant_ocr,1-10(2) p13,,candidates_unaligned,,,,,4,anki_basic:1766527458346
+wrap,"싸다, 감싸다",verb,basic,C,"To enclose (an object) completely in any flexible, thin material such as fabric or paper.",verified,ocr_variant_ocr,1-10(2) p13,,single_source_korean_anchor,kaikki,,kaikki:wrap:verb:1:2961:s0,싸다,4,anki_basic:1766527458347
+fold,접다,verb,basic,C,"To bend (any thin material, such as paper) over so that it comes in contact with itself.",verified,ocr_exact,1-10(2) p13,,single_source_korean_anchor,kaikki,,kaikki:fold:verb:1:2437:s0,접다,4,anki_basic:1766527458348
+least,"가장 작은, 가장 적은",adjective,basic,D,,unverified,ocr_variant_ocr,1-10(2) p13,,candidates_unaligned,,,,,4,anki_basic:1766527458349
+paper,서류,noun,basic,D,,unverified,ocr_similar,1-10(2) p13,n (width),candidates_unaligned,,,,,4,anki_basic:1766527458350
+planning,"계획, 입안",noun,basic,D,,unverified,ocr_exact,1-10(2) p13,n (width),candidates_unaligned,,,,,4,anki_basic:1766527458351
+post,"붙이다, 공고하다",verb,basic,D,,unverified,ocr_exact,1-10(2) p13,,candidates_unaligned,,,,,4,anki_basic:1766527458352
+press the button,버튼을 누르다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p13,phr (width),no_sense_record,,,,,4,anki_basic:1766527458353
+server,"서빙하는 사람, (컴퓨터의) 서버",noun,basic,D,,unverified,ocr_exact,1-10(2) p13,,proposed_pair_needs_review,,,,,4,anki_basic:1766527458354
+store opening,"개점, 개장",phrase,basic,E,,unverified,ocr_exact,1-10(2) p13,,no_sense_record,,,,,4,anki_basic:1766527458355
+task,"일, 직무",noun,basic,B,a specific piece of work required to be done as a duty or for a specific fee,verified,ocr_exact,1-10(2) p13,,double_korean_anchor,oewn,oewn-task__1.04.00..,kaikki:task:noun:1:4081:s0,일,4,anki_basic:1766527458356
+be satisfied with,~에 만족하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,,no_sense_record,,,,,4,anki_800:1766527460363
+be seated,"앉다, 앉아 있다",phrase,800,E,,unverified,ocr_exact,1-10(2) p14,,no_sense_record,,,,,4,anki_800:1766527460364
+be surrounded by,~에 둘러싸이다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (width),no_sense_record,,,,,4,anki_800:1766527460365
+business contacts,사업상 아는 사람 또는 회사,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,,no_sense_record,,,,,4,anki_800:1766527460366
+chairperson,의장,noun,800,C,"A chairman or chairwoman, someone who presides over a meeting, board, etc.",verified,ocr_exact,1-10(2) p14,,single_source_korean_anchor,kaikki,,kaikki:chairperson:noun:0:410:s0,의장,4,anki_800:1766527460367
+copy editor,원고 정리 편집자,phrase,800,D,,unverified,ocr_exact,1-10(2) p14,phr (badge),candidates_unaligned,,,,,4,anki_800:1766527460368
+deep end,수심이 깊은 쪽,phrase,800,D,,unverified,ocr_exact,1-10(2) p14,,candidates_unaligned,,,,,4,anki_800:1766527460369
+double-sided,양면의,adjective,800,D,,unverified,ocr_exact,1-10(2) p14,,candidates_unaligned,,,,,4,anki_800:1766527460370
+drawer,서랍,noun,800,C,"An open-topped box that can be slid in and out of the cabinet that contains it, used for storing clothing or other articles.",verified,ocr_exact,1-10(2) p14,,single_source_korean_anchor,kaikki,,kaikki:drawer:noun:1:898:s0,서랍,4,anki_800:1766527460371
+get one's approval,~의 승인을 받다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (width),no_sense_record,,,,,4,anki_800:1766527460372
+halfway,중간에 / 중간의,adjective/noun,800,D,,unverified,ocr_exact,1-10(2) p14,v (badge),proposed_pair_needs_review,,,,,4,anki_800:1766527460373
+hand over,~을 건네주다,phrase,800,D,,unverified,ocr_exact,1-10(2) p14,phr (width),candidates_unaligned,,,,,4,anki_800:1766527460374
+in a pile,수북이 쌓인,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (badge),no_sense_record,,,,,4,anki_800:1766527460375
+it could have been worse.,이만하니 다행이다.,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (badge),no_sense_record,,,,,4,anki_800:1766527460376
+just in time,겨우 시간에 맞춰,phrase,800,D,,unverified,ocr_similar,1-10(2) p14,phr (width),candidates_unaligned,,,,,4,anki_800:1766527460377
+literacy,읽고 쓰는 능력,noun,800,D,,unverified,ocr_exact,1-10(2) p14,n (badge),candidates_unaligned,,,,,4,anki_800:1766527460378
+litter,"쓰레기 / 어지르다, 흐트러뜨리다",noun/verb,800,D,,unverified,ocr_exact,1-10(2) p14,,candidates_unaligned,,,,,4,anki_800:1766527460379
+make a selection,선정하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (badge),no_sense_record,,,,,4,anki_800:1766527460380
+make room for,~을 위해 공간을 마련하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (width),no_sense_record,,,,,4,anki_800:1766527460381
+out of paper,종이가 다 떨어진,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (width),no_sense_record,,,,,4,anki_800:1766527460382
+raise one's hand,손을 들다,phrase,800,D,,unverified,ocr_exact,1-10(2) p14,phr (badge),candidates_unaligned,,,,,4,anki_800:1766527460383
+report a problem,문제점을 보고하다,phrase,800,E,,unverified,ocr_similar,1-10(2) p14,,no_sense_record,,,,,4,anki_800:1766527460384
+sort,종류 / 분류하다,noun/verb,800,C,A general type.,verified,ocr_exact,1-10(2) p14,n (badge),single_source_korean_anchor,kaikki,,kaikki:sort:noun:1:1620:s0,종류,4,anki_800:1766527460385
+stationery,문구류,noun,800,B,paper cut to an appropriate size for writing letters; usually with matching envelopes,unverified,ocr_exact,1-10(2) p14,,monosemous_pair,oewn,oewn-stationery__1.10.00..,kaikki:stationery:noun:1:3902:s0,,4,anki_800:1766527460386
+take another look,다시 한번 보다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (badge),no_sense_record,,,,,4,anki_800:1766527460387
+take A out,A를 꺼내다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (badge),no_sense_record,,,,,4,anki_800:1766527460388
+typewriter,타자기,noun,800,C,"A device, at least partially mechanical, used to print text by pressing keys that cause type to be impressed through an inked ribbon onto paper.",verified,ocr_exact,1-10(2) p14,n (badge),single_source_korean_anchor,kaikki,,kaikki:typewriter:noun:0:2243:s0,타자기,4,anki_800:1766527460389
+work in groups,여러 명이 작업하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (width),no_sense_record,,,,,4,anki_800:1766527460390
+writing pad,(한 장씩 떼어 쓰는) 노트,phrase,800,D,,unverified,ocr_exact,1-10(2) p14,,candidates_unaligned,,,,,4,anki_800:1766527460391
+anticipation,"예상, 기대",noun,800,D,,unverified,ocr_exact,1-10(2) p14,,candidates_unaligned,,,,,4,anki_800:1766527460392
+automobile,자동차,noun,800,B,a motor vehicle with four wheels; usually propelled by an internal combustion engine,verified,ocr_exact,1-10(2) p14,,double_korean_anchor,oewn,oewn-automobile__1.06.00..,kaikki:automobile:noun:0:1846:s0,자동차,4,anki_800:1766527460393
+be asked to do,~하도록 요청받다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,,no_sense_record,,,,,4,anki_800:1766527460394
+be paid for,~에 대해 보수를 받다,phrase,800,E,,unverified,ocr_exact,1-10(2) p14,phr (badge),no_sense_record,,,,,4,anki_800:1766527460395
+be qualified for,~을 위한 자격을 갖추다,phrase,800,E,,unverified,ocr_similar_loose,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460396
+casual,"격식을 차리지 않는, 평상복의",adjective,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460397
+draft,초안을 작성하다 / 초안,noun/verb,800,D,,unverified,ocr_exact,1-10(2) p15,,proposed_pair_needs_review,,,,,4,anki_800:1766527460398
+draw on,"~을 이용하다, ~에 의지하다",phrase,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460399
+excuse,"변명, 이유 / 용서하다",noun/verb,800,D,,unverified,ocr_exact,1-10(2) p15,,proposed_pair_needs_review,,,,,4,anki_800:1766527460400
+head office,(회사의) 본사,phrase,800,C,The main administrative centre for a company or organisation.,unverified,ocr_exact,1-10(2) p15,,single_source_only_sense,kaikki,,kaikki:head office:noun:0:7410:s0,,4,anki_800:1766527460401
+in anticipation of,~을 예상하고,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460402
+in light of,"~을 고려하여,~에 비추어",phrase,800,D,,unverified,ocr_exact,1-10(2) p15,phr (badge),candidates_unaligned,,,,,4,anki_800:1766527460403
+instrument,"도구, 기계, 악기",noun,800,B,any of various devices or contrivances that can be used to produce musical tones or sounds,verified,ocr_exact,1-10(2) p15,,double_korean_anchor,oewn,oewn-instrument__1.06.01..,kaikki:instrument:noun:0:1991:s3,기계;도구,4,anki_800:1766527460404
+popularly,일반적으로,adverb,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460405
+regarding,~에 관하여,noun,800,C,The act by which something is regarded or observed.,unverified,ocr_exact,1-10(2) p15,prep (badge),single_source_only_sense,kaikki,,kaikki:regarding:noun:0:3806:s0,,4,anki_800:1766527460406
+routinely,"일상적으로, 정기적으로",adverb,800,D,,unverified,ocr_exact,1-10(2) p15,adv (width),candidates_unaligned,,,,,4,anki_800:1766527460407
+standing,"고정적인, 상설의",adjective,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460408
+supplementary,"보충의, 추가의",adjective,800,D,,unverified,ocr_exact,1-10(2) p15,n (badge),candidates_unaligned,,,,,4,anki_800:1766527460409
+work overtime,초과 근무를 하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,phr (badge),no_sense_record,,,,,4,anki_800:1766527460410
+workplace,작업장,noun,800,B,a place where work is done,unverified,ocr_exact,1-10(2) p15,,monosemous_pair,oewn,oewn-workplace__1.06.00..,kaikki:workplace:noun:0:6584:s0,,4,anki_800:1766527460411
+acting,"대리의, 직무대행의 / 연기",adjective/noun,800,B,serving temporarily especially as a substitute,unverified,ocr_contains,1-10(2) p15,adj (badge),monosemous_pair,oewn,oewn-acting__5.00.00.impermanent.00,kaikki:acting:adj:0:1988:s0,,4,anki_800:1766527460412
+be full of,~으로 가득하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,phr (badge),no_sense_record,,,,,4,anki_800:1766527460413
+convert A to B,A를 B로 바꾸다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460414
+count on,"~을 믿다, ~에 의지하다",phrase,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460415
+fill with,~으로 가득 차다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,phr (badge),no_sense_record,,,,,4,anki_800:1766527460416
+get along with,~와 사이좋게 지내다,phrase,800,C,have smooth relations,unverified,ocr_exact,1-10(2) p15,,single_source_only_sense,oewn,oewn-get_along_with__2.41.00..,,,4,anki_800:1766527460417
+go down the steps,계단을 내려가다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460418
+key to success,성공의 길,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460419
+lose one's temper,화를 내다,phrase,800,D,,unverified,ocr_exact,1-10(2) p15,phr (badge),candidates_unaligned,,,,,4,anki_800:1766527460420
+make a copy,복사하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,phr (badge),no_sense_record,,,,,4,anki_800:1766527460421
+obsess about,~에 대해 강박 관념을 갖다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460422
+overtime hours,초과 근무 시간,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,,no_sense_record,,,,,4,anki_800:1766527460423
+personal effects,"개인 소지품, 개인 소유물",phrase,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460424
+reunion,친목회,noun,800,D,,unverified,ocr_exact,1-10(2) p15,n (width),candidates_unaligned,,,,,4,anki_800:1766527460425
+sales representative,"영업 담당자, 판매 직원",phrase,800,D,,unverified,ocr_exact,1-10(2) p15,,candidates_unaligned,,,,,4,anki_800:1766527460426
+seamless,"(끊어짐이 없이) 매끄러운, 문제없는",adjective,800,D,,unverified,ocr_prefix,1-10(2) p15,phr (width),candidates_unaligned,,,,,4,anki_800:1766527460427
+submit A to B,A를 B에게 제출하다,phrase,800,E,,unverified,ocr_similar,1-10(2) p15,n (width),no_sense_record,,,,,4,anki_800:1766527460428
+succeed in -ing,~에 성공하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p15,phr (badge),no_sense_record,,,,,4,anki_800:1766527460429
+time-consuming,시간이 많이 걸리는,adjective,800,B,of a task that takes time and patience,unverified,ocr_exact,1-10(2) p15,adj (width),monosemous_pair,oewn,oewn-time--consuming__5.00.00.long.02,kaikki:time-consuming:adj:0:6465:s0,,4,anki_800:1766527460430
+bookkeeping,부기,noun,900,D,,unverified,ocr_exact,1-10(2) p16,n (width),candidates_unaligned,,,,,4,anki_900:1766527462288
+have one's hands full,몹시 바쁘다,phrase,900,C,To be busy or thoroughly preoccupied.,unverified,ocr_prefix,1-10(2) p16,phr (width),single_source_only_sense,kaikki,,kaikki:have one's hands full:verb:0:5759:s0,,4,anki_900:1766527462289
+make on outside call,외부로 전화를 걸다,phrase,900,E,,unverified,ocr_similar,1-10(2) p16,phr (badge),no_sense_record,,,,,4,anki_900:1766527462290
+motivation,"이유, 동기",noun,900,B,the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior,verified,ocr_prefix,1-10(2) p16,,double_korean_anchor,oewn,oewn-motivation__1.03.00..,kaikki:motivation:noun:0:6488:s0,동기,4,anki_900:1766527462291
+newly listed,새로 목록에 오른,phrase,900,E,,unverified,ocr_similar,1-10(2) p16,phr (badge),no_sense_record,,,,,4,anki_900:1766527462292
+prioritize,우선적으로 처리하다,verb,900,D,,unverified,ocr_prefix,1-10(2) p16,v (badge),candidates_unaligned,,,,,4,anki_900:1766527462293
+sit in alternate seats,한자리 씩 건너 앉다,phrase,900,E,,unverified,ocr_exact,1-10(2) p16,phr (badge),no_sense_record,,,,,4,anki_900:1766527462294
+written authorization,서면 결재,phrase,900,E,,unverified,ocr_exact,1-10(2) p16,phr (badge),no_sense_record,,,,,4,anki_900:1766527462295
+written consent,서면 동의,phrase,900,E,,unverified,ocr_similar,1-10(2) p16,,no_sense_record,,,,,4,anki_900:1766527462296
+acquaintance,"아는 사람, 아는 사이",noun,900,D,,unverified,ocr_exact,1-10(2) p16,n (badge),candidates_unaligned,,,,,4,anki_900:1766527462297
+dimension,"규모, 크기, 차원, 관점",noun,900,D,,unverified,ocr_prefix,1-10(2) p16,n (width),candidates_unaligned,,,,,4,anki_900:1766527462298
+directive,"지시하는, 지배적인",adjective,900,D,,unverified,ocr_similar,1-10(2) p16,,candidates_unaligned,,,,,4,anki_900:1766527462299
+discerning,통찰력이 있는,adjective,900,D,,unverified,ocr_exact,1-10(2) p16,n (width),candidates_unaligned,,,,,4,anki_900:1766527462300
+elegantly,"우아하게, 고상하게",adverb,900,D,,unverified,ocr_prefix,1-10(2) p16,,proposed_pair_needs_review,,,,,4,anki_900:1766527462301
+expectant,기대하고 있는,adjective,900,D,,unverified,ocr_similar,1-10(2) p16,,candidates_unaligned,,,,,4,anki_900:1766527462302
+invaluable,"매우 유용한, 귀중한",adjective,900,B,"having incalculable monetary, intellectual, or spiritual worth",unverified,ocr_exact,1-10(2) p16,,monosemous_pair,oewn,oewn-invaluable__5.00.00.valuable.00,kaikki:invaluable:adj:0:6167:s0,,4,anki_900:1766527462303
+propel,"나아가게 하다, 몰아가다",verb,900,D,,unverified,ocr_exact,1-10(2) p16,v (badge),candidates_unaligned,,,,,4,anki_900:1766527462304
+realization,"깨달음, 자각, 인식",noun,900,D,,unverified,ocr_exact,1-10(2) p16,,proposed_pair_needs_review,,,,,4,anki_900:1766527462305
+recline,"기대다, 눕다, (의자가) 젖혀지다",verb,900,D,,unverified,ocr_contains,1-10(2) p16,,candidates_unaligned,,,,,4,anki_900:1766527462306
+repository,저장소,noun,900,D,,unverified,ocr_prefix,1-10(2) p16,n (width),candidates_unaligned,,,,,4,anki_900:1766527462307
+respective,"각각의, 저마다의",adjective,900,B,considered individually,unverified,ocr_similar,1-10(2) p16,,monosemous_pair,oewn,oewn-respective__5.00.00.individual.00,kaikki:respective:adj:0:1442:s0,,4,anki_900:1766527462308
+spontaneously,"자발적으로, 자연 발생적으로",adverb,900,C,In a spontaneous manner; naturally; voluntarily.,verified,ocr_similar,1-10(2) p16,n (width),single_source_korean_anchor,kaikki,,kaikki:spontaneously:adv:0:6454:s0,자발적으로,4,anki_900:1766527462309
+trivial,"사소한, 하찮은",adjective,900,C,Ignorable; of little significance or value.,verified,ocr_exact,1-10(2) p16,adj (badge),single_source_korean_anchor,kaikki,,kaikki:trivial:adj:0:4880:s0,사소하다,4,anki_900:1766527462310
+turn in,"(실적·수익 등을) 올리다, 제출하다",phrase,900,D,,unverified,ocr_similar,1-10(2) p16,phr (badge),candidates_unaligned,,,,,4,anki_900:1766527462311
+ambiance,(장소의) 분위기,noun,900,D,,unverified,ocr_exact,1-10(2) p16,,proposed_pair_needs_review,,,,,4,anki_900:1766527462312
+aspiration,"포부, 열망",noun,900,D,,unverified,ocr_similar,1-10(2) p16,n (width),candidates_unaligned,,,,,4,anki_900:1766527462313
+creditable,"훌륭한, 칭찬할 만한",adjective,900,D,,unverified,ocr_similar,1-10(2) p16,adj (badge),candidates_unaligned,,,,,4,anki_900:1766527462314
+eminent,"저명한, 탁월한",adjective,900,D,,unverified,ocr_similar,1-10(2) p16,adj (badge),candidates_unaligned,,,,,4,anki_900:1766527462315
+endeavor,"노력하다, 애쓰다",verb,900,D,,unverified,ocr_similar,1-10(2) p16,v (badge),proposed_pair_needs_review,,,,,4,anki_900:1766527462316
+entrust A with B,A에게 B의 책임을 맡기다,phrase,900,E,,unverified,ocr_similar,1-10(2) p16,phr (badge),no_sense_record,,,,,4,anki_900:1766527462317
+on edge,"흥분하여, 안절부절 못하여",phrase,900,C,"Tense, nervous; consequently irritable.",unverified,ocr_contains,1-10(2) p16,phr (badge),single_source_only_sense,kaikki,,kaikki:on edge:prep_phrase:0:4803:s0,,4,anki_900:1766527462318
+reach one's full potential,능력을 최대한 발휘하다,phrase,900,E,,unverified,ocr_prefix,1-10(2) p16,phr (width),no_sense_record,,,,,4,anki_900:1766527462319

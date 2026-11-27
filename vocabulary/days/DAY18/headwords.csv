@@ -1,170 +1,170 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-check in,"체크인하다, 숙박 수속을 하다",phrase,core,C,"To announce or record one's own arrival at a hotel, airport etc.",verified,single_source_korean_anchor,kaikki,,kaikki:check in:verb:0:7093:s0,체크인하다,18,anki_core:1766527459256
-compensate,보상하다,verb,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459257
-complimentary,"무료의, 우대의",adjective,core,B,costing nothing,unverified,model_reviewed_pair,oewn,oewn-complimentary__5.00.00.unpaid.00,kaikki:complimentary:adj:0:6909:s1,,18,anki_core:1766527459258
-chef,주방장,noun,core,B,a professional cook,verified,double_korean_anchor,oewn,oewn-chef__1.18.01..,kaikki:chef:noun:0:3296:s1,주방장,18,anki_core:1766527459259
-container,"용기, 그릇",noun,core,C,"An item in which objects, materials or data can be stored or transported.",verified,single_source_korean_anchor,kaikki,,kaikki:container:noun:0:4318:s0,그릇;용기,18,anki_core:1766527459260
-elegant,"우아한, 고상한",adjective,core,B,"suggesting taste, ease, and wealth",verified,double_korean_anchor,oewn,oewn-elegant__5.00.00.gracious.00,kaikki:elegant:adj:0:3162:s0,우아한,18,anki_core:1766527459261
-flavor,"맛, 풍미",noun,core,B,the taste experience when a savoury condiment is taken into the mouth,verified,double_korean_anchor,oewn,oewn-flavor__1.09.00..,kaikki:flavor:noun:0:3010:s0,맛;풍미,18,anki_core:1766527459262
-accommodate,"(건물 등이)~을 수용하다, 숙박시키다, (조건·요구 등을) 만족시키다",verb,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459263
-available,"(사물이) 이용 가능한, (사람이) 시간이 있는",adjective,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459264
-reception,"환영회, (호텔·회사·병원 등의) 접수처",noun,core,B,a formal party of people; as after a wedding,verified,double_korean_anchor,oewn,oewn-reception__1.14.00..,kaikki:reception:noun:0:1608:s2,환영회,18,anki_core:1766527459265
-in advance,"미리, 사전에",phrase,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459266
-refreshments,"다과, 가벼운 음식물",noun,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459267
-make,"~을 하다, ~을 만들다",verb,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459268
-cater,(연회 등의) 음식물을 공급하다,verb,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459269
-reservation,"예약, 지정, 보호구역",noun,core,C,An arrangement by which accommodation or transport arrangements are secured in advance.,verified,single_source_korean_anchor,kaikki,,kaikki:reservation:noun:0:4712:s6,예약,18,anki_core:1766527459270
-beverage,음료,noun,core,B,any liquid suitable for drinking,verified,double_korean_anchor,oewn,oewn-beverage__1.13.00..,kaikki:beverage:noun:0:1278:s0,음료,18,anki_core:1766527459271
-confirm,확인하다,verb,core,C,To assure the accuracy of previous statements.,verified,single_source_korean_anchor,kaikki,,kaikki:confirm:verb:0:2539:s2,확인하다,18,anki_core:1766527459272
-cancel,취소하다,verb,core,C,To invalidate or annul something.,verified,single_source_korean_anchor,kaikki,,kaikki:cancel:verb:0:3954:s1,취소하다,18,anki_core:1766527459273
-rate,요금,noun,core,D,,unverified,proposed_pair_needs_review,,,,,18,anki_core:1766527459274
-conveniently,편리하게,adverb,core,B,in a convenient manner,unverified,model_reviewed_pair,oewn,oewn-conveniently__4.02.00..,kaikki:conveniently:adv:0:3412:s0,,18,anki_core:1766527459275
-decorate,장식하다,verb,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459276
-information,"정보, 자료",noun,core,C,Things that are or can be known about a given topic; communicable knowledge of something.,verified,single_source_korean_anchor,kaikki,,kaikki:information:noun:0:1174:s1,정보,18,anki_core:1766527459277
-retain,"유지하다, 보유하다",verb,core,B,allow to remain in a place or position or maintain a property or feature,unverified,model_reviewed_pair,oewn,oewn-retain__2.41.01..,kaikki:retain:verb:1:5145:s14,,18,anki_core:1766527459278
-atmosphere,"분위기, 환경",noun,core,B,a particular environment or surrounding influence,unverified,model_reviewed_pair,oewn,oewn-atmosphere__1.26.01..,kaikki:atmosphere:noun:0:404:s2,,18,anki_core:1766527459279
-cuisine,(독특한) 요리,noun,core,C,"A characteristic manner or style of preparing food, often associated with a place of origin.",verified,single_source_korean_anchor,kaikki,,kaikki:cuisine:noun:0:5030:s0,요리,18,anki_core:1766527459280
-sequence,"순서, 차례",noun,core,B,the action of following in order,verified,double_korean_anchor,oewn,oewn-sequence__1.04.00..,kaikki:sequence:noun:0:1184:s0,순서,18,anki_core:1766527459281
-extensive,"광범위한, 넓은",noun,core,E,,unverified,no_sense_record,,,,,18,anki_core:1766527459282
-prior,"전의, 먼저의",adjective,core,B,earlier in time,unverified,model_reviewed_pair,oewn,oewn-prior__5.00.00.antecedent.00,kaikki:prior:adj:1:3116:s0,,18,anki_core:1766527459283
-book,예약하다,verb,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459284
-amenity,편의 시설,noun,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459285
-belongings,"소지품, 소유물",noun,core,B,something owned; any tangible or intangible possession that is owned by someone,unverified,model_reviewed_pair,oewn,oewn-belongings__1.21.00..,kaikki:belonging:noun:1:8502:s1,,18,anki_core:1766527459286
-entirely,완전히,adverb,core,B,to a complete degree or to the full or entire extent; Completely or entirely,unverified,model_reviewed_pair,oewn,oewn-entirely__4.02.00..,kaikki:entirely:adv:0:4951:s0,,18,anki_core:1766527459287
-ease,"완화시키다, 쉬움, 용이함",noun,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459288
-ingredient,"재료, 성분",noun,core,C,"One of the substances present in a mixture, especially food.",verified,single_source_korean_anchor,kaikki,,kaikki:ingredient:noun:0:5033:s0,성분,18,anki_core:1766527459289
-sip,"음미하며, 마시다, 홀짝거리다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,18,anki_core:1766527459290
-stir,"휘젓다, 뒤섞다",verb,core,B,move very slightly,verified,double_korean_anchor,oewn,oewn-stir__2.38.00..,kaikki:stir:verb:1:1061:s0,휘젓다,18,anki_core:1766527459291
-choice,"선택물, 선택 사항, 선택",noun,core,B,the act of choosing or selecting,verified,double_korean_anchor,oewn,oewn-choice__1.04.00..;oewn-choice__1.04.00..,kaikki:choice:noun:1:2148:s0;kaikki:choice:noun:1:2148:s2,선택,18,anki_core:1766527459292
-complication,복잡한 문제,noun,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459293
-freshness,신선함,noun,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459294
-occupancy,(호텔 등의) 이용률,noun,core,D,,unverified,candidates_unaligned,,,,,18,anki_core:1766527459295
-spot,"발견하다, 찾다, 알아채다, (특정한) 장소",noun,core,D,,unverified,proposed_pair_needs_review,,,,,18,anki_core:1766527459296
-bite,"물다, 한 입",noun,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459297
-buffet,뷔페,noun,basic,B,a piece of furniture that stands at the side of a dining room; has shelves and drawers,verified,double_korean_anchor,oewn,oewn-buffet__1.06.00..,kaikki:buffet:noun:1:2119:s0,뷔페,18,anki_basic:1766527459298
-cafeteria,(회사·학교의) 구내식당,noun,basic,C,"A dining area in an institution where meals may be purchased (as above), provided, or brought in from elsewhere.",verified,single_source_korean_anchor,kaikki,,kaikki:cafeteria:noun:0:1778:s1,구내식당,18,anki_basic:1766527459299
-cereal,시리얼,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,18,anki_basic:1766527459300
-cookbook,요리책,noun,basic,C,A book or an encyclopedia of recipes and cookery tips.,verified,single_source_korean_anchor,kaikki,,kaikki:cookbook:noun:0:1303:s0,요리책,18,anki_basic:1766527459301
-delicious,맛있는,adjective,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459302
-dessert,후식,noun,basic,B,a dish served as the last course of a meal,verified,double_korean_anchor,oewn,oewn-dessert__1.13.00..,kaikki:dessert:noun:0:2233:s1,후식,18,anki_basic:1766527459303
-dine,식사를 하다,verb,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459304
-dining room,식당,phrase,basic,C,"A room, in a home or hotel, where meals are eaten.",verified,single_source_korean_anchor,kaikki,,kaikki:dining room:noun:0:5357:s0,식당,18,anki_basic:1766527459305
-dish,"접시, 요리",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,18,anki_basic:1766527459306
-dishwasher,식기세척기,noun,basic,B,a machine for washing dishes,verified,double_korean_anchor,oewn,oewn-dishwasher__1.06.00..,kaikki:dishwasher:noun:0:5881:s0,식기세척기,18,anki_basic:1766527459307
-dry dishes,접시를 닦다,phrase,basic,E,,unverified,no_sense_record,,,,,18,anki_basic:1766527459308
-garlic,마늘,noun,basic,C,"A plant, Allium sativum, related to the onion, having a pungent bulb much used in cooking.",verified,single_source_korean_anchor,kaikki,,kaikki:garlic:noun:0:1565:s0,마늘,18,anki_basic:1766527459309
-meal,식사,noun,basic,C,"Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity.",verified,single_source_korean_anchor,kaikki,,kaikki:meal:noun:1:1408:s0,식사,18,anki_basic:1766527459310
-plate,"접시, 그릇",noun,basic,B,dish on which food is served or from which food is eaten,verified,double_korean_anchor,oewn,oewn-plate__1.06.00..,kaikki:plate:noun:1:927:s0,접시,18,anki_basic:1766527459311
-pot,(깊은) 냄비,noun,basic,B,metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid,verified,double_korean_anchor,oewn,oewn-pot__1.06.00..,kaikki:pot:noun:1:1297:s0,냄비,18,anki_basic:1766527459312
-prepare a meal,식사 준비를 하다,phrase,basic,E,,unverified,no_sense_record,,,,,18,anki_basic:1766527459313
-seafood,해산물,noun,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459314
-spicy,매운,adjective,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459315
-spill,엎지르다,verb,basic,C,To drop something so that it spreads out or makes a mess; to accidentally pour.,verified,single_source_korean_anchor,kaikki,,kaikki:spill:verb:0:5291:s0,엎지르다,18,anki_basic:1766527459316
-tasty,맛있는,adjective,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459317
-whipped cream,휘핑크림,phrase,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459318
-blend,"섞다, 혼합하다",verb,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459319
-clean,"깨끗한, 청소하다, 깨끗하게 하다",verb,basic,C,To remove dirt from a place or object.,verified,single_source_korean_anchor,kaikki,,kaikki:clean:verb:0:862:s0,깨끗하다;청소하다,18,anki_basic:1766527459320
-fresh,신선한,adjective,basic,D,,unverified,proposed_pair_needs_review,,,,,18,anki_basic:1766527459321
-recipe,"요리법, 조리법",noun,basic,C,"Now especially, a set of instructions for making or preparing food dishes.",verified,single_source_korean_anchor,kaikki,,kaikki:recipe:noun:0:405:s3,요리법;조리법,18,anki_basic:1766527459322
-spice,"양념, 향신료",noun,basic,C,Aromatic or pungent plant matter (usually dried) used to season or flavor food.,verified,single_source_korean_anchor,kaikki,,kaikki:spice:noun:1:1783:s0,향신료,18,anki_basic:1766527459323
-taste,"~의 맛을 보다, 시식하다",verb,basic,D,,unverified,candidates_unaligned,,,,,18,anki_basic:1766527459324
-a glass of,~한 잔,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461310
-appetizer,"전채요리, 에피타이저",noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461311
-bottle,병에 담다,verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461312
-chop,잘게 썰다,verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461313
-countertop,"계산대, 조리대",noun,800,B,the top side of a counter,verified,double_korean_anchor,oewn,oewn-countertop__1.06.00..,kaikki:countertop:noun:0:7102:s0,조리대,18,anki_800:1766527461314
-diner,식사하는 사람,noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461315
-dining area,식당,phrase,800,C,an area arranged for dining,unverified,single_source_only_sense,oewn,oewn-dining_area__1.06.00..,,,18,anki_800:1766527461316
-dining supplies,주방용품,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461317
-dust off,먼지를 털다,phrase,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461318
-food supplier,음식 공급업체,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461319
-frosting,설탕을 입힘,noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461320
-frozen food product,냉동식품,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461321
-gather up,주워 모으다,phrase,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461322
-get the food ready,음식을 준비하다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461323
-grain,곡물,noun,800,C,"The harvested seeds of various grass food crops, especially wheat, maize, rye, barley, and rice.",verified,single_source_korean_anchor,kaikki,,kaikki:grain:noun:1:1542:s0,곡물,18,anki_800:1766527461324
-grill,석쇠,noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461325
-gusty,(바람이) 세찬,noun,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461326
-have a light dinner,저녁을 가볍게 먹다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461327
-have a meal,식사하다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461328
-kettle,주전자,noun,800,C,"A vessel for boiling a liquid or cooking food, usually metal and equipped with a lid.",verified,single_source_korean_anchor,kaikki,,kaikki:kettle:noun:1:3012:s0,주전자,18,anki_800:1766527461329
-kitchen appliance,주방용품,phrase,800,C,a home appliance used in preparing food,unverified,single_source_only_sense,oewn,oewn-kitchen_appliance__1.06.00..,,,18,anki_800:1766527461330
-lost and found,분실물 보관소,phrase,800,C,"A department, service or location where items that are found can be claimed by their owners.",unverified,single_source_only_sense,kaikki,,kaikki:lost and found:noun:0:6717:s0,,18,anki_800:1766527461331
-order a meal,식사를 주문하다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461332
-patio,"테라스, 베란다",noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461333
-patron,고객,noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461334
-peel off,~의 껍질을 벗기다,phrase,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461335
-potholder,뜨거운 냄비를 들 때 쓰는 천,noun,800,B,an insulated pad for holding hot pots,unverified,monosemous_pair,oewn,oewn-potholder__1.06.00..,kaikki:potholder:noun:0:6991:s0,,18,anki_800:1766527461336
-pour,"~을 붓다, ~을 따르다",verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461337
-serving,"음식 시중, 한 끼 분의 음식",noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461338
-set the table,식탁을 차리다,phrase,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461339
-snack shop,매점,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461340
-specialty,"전공, 전문",noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461341
-spoil,"상하다, 못쓰게 되다",verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461342
-starving,배고픈,noun,800,B,the act of depriving of food or subjecting to famine,unverified,monosemous_pair,oewn,oewn-starving__1.04.00..,kaikki:starving:noun:0:6160:s0,,18,anki_800:1766527461343
-stove,(요리용) 스토브,noun,800,D,,unverified,proposed_pair_needs_review,,,,,18,anki_800:1766527461344
-tablecloth,식탁보,noun,800,B,a covering spread over a dining table,verified,monosemous_pair,oewn,oewn-tablecloth__1.06.00..,kaikki:tablecloth:noun:0:5763:s0,식탁보,18,anki_800:1766527461345
-take an order,주문을 받다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461346
-teapot,찻주전자,noun,800,B,pot for brewing tea; usually has a spout and handle,verified,double_korean_anchor,oewn,oewn-teapot__1.06.00..,kaikki:teapot:noun:0:2287:s0,찻주전자,18,anki_800:1766527461347
-trial,"재판, 공판",noun,800,C,A meeting or series of meetings in a court of law at which evidence is presented to a judge (and sometimes a jury) to allow them to decide on a legal matter (especially whether an accused person is guilty of a crime).,verified,single_source_korean_anchor,kaikki,,kaikki:trial:noun:1:1555:s7,공판;재판,18,anki_800:1766527461348
-unpack,(짐을) 풀다,verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461349
-valuables,귀중품,noun,800,C,valuable items collectively.,unverified,single_source_only_sense,kaikki,,kaikki:valuables:noun:0:4683:s0,,18,anki_800:1766527461350
-wait for a table,테이블에 자리가 나기를 기다리다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461351
-agreeably,"쾌적하게, 기분 좋게",adverb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461352
-amazed,놀란,noun,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461353
-competitiveness,경쟁력,noun,800,B,an aggressive willingness to compete,unverified,monosemous_pair,oewn,oewn-competitiveness__1.07.00..,kaikki:competitiveness:noun:0:7096:s0,,18,anki_800:1766527461354
-explain to,~을 설명하다,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461355
-organizer,"조직자, 창시자",noun,800,C,A person who arranges the details of a public event.,verified,single_source_korean_anchor,kaikki,,kaikki:organizer:noun:0:1121:s0,조직자,18,anki_800:1766527461356
-progressively,계속해서,noun,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461357
-recognized,"인정된, 알려진",noun,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461358
-refer,"참조하게 하다, 조회하다",verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461359
-seemingly,"외견상으로는, 겉보기에는",adjective,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461360
-thickly,"두껍게, 두툼하게",adverb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461361
-accommodation,"거처, 숙소, 시설",noun,800,C,"Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or students, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:accommodation:noun:0:170:s0,숙소,18,anki_800:1766527461362
-booking,예약,noun,800,B,the act of reserving (a place or passage) or engaging the services of (a person or group),verified,double_korean_anchor,oewn,oewn-booking__1.04.00..,kaikki:booking:noun:0:6579:s1,예약,18,anki_800:1766527461363
-brew,"끓이다, 양조하다",verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461364
-caterer,요리조달자,noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461365
-catering service,출장 요리 서비스,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461366
-eat up,다 먹다,phrase,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461367
-gently,"다정하게, 부드럽게",adverb,800,C,In a gentle manner; to a gentle degree.,verified,single_source_korean_anchor,kaikki,,kaikki:gently:adv:0:4878:s1,부드럽게,18,anki_800:1766527461368
-overnight stay,1박,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461369
-parking facility,주차시설,phrase,800,E,,unverified,no_sense_record,,,,,18,anki_800:1766527461370
-polish,"~을 닦다, ~의 윤을 내다",verb,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461371
-squeeze,짜다,verb,800,C,To apply pressure (to something) from two or more sides at once.,verified,single_source_korean_anchor,kaikki,,kaikki:squeeze:verb:0:1866:s0,짜다,18,anki_800:1766527461372
-suite,(호텔의) 스위트룸,noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461373
-utensil,"(부엌에서 쓰는) 도구, 기구",noun,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461374
-vegetarian,채식주의자,noun,800,B,eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products,verified,double_korean_anchor,oewn,oewn-vegetarian__1.18.00..,kaikki:vegetarian:noun:0:1425:s0,채식주의자,18,anki_800:1766527461375
-vinegar,식초,noun,800,C,A sour liquid formed by the fermentation of alcohol used as a condiment or preservative; a dilute solution of acetic acid.,verified,single_source_korean_anchor,kaikki,,kaikki:vinegar:noun:0:5113:s0,식초,18,anki_800:1766527461376
-wake-up call,모닝콜,phrase,800,D,,unverified,candidates_unaligned,,,,,18,anki_800:1766527461377
-cloakroom,(식당·극장의) 휴대품 보관소,noun,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462766
-gourmet,미식가,noun,900,B,a person devoted to refined sensuous enjoyment (especially good food and drink),unverified,monosemous_pair,oewn,oewn-gourmet__1.18.00..,kaikki:gourmet:noun:0:1117:s0,,18,anki_900:1766527462767
-grab a bite,간단히 먹다,phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462768
-help oneself to the food,"자유로이 먹다, 가져다 먹다",phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462769
-meal pass,식권,phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462770
-pick up the check,돈을 내다,phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462771
-preheat,(오븐을) 예열하다,verb,900,B,heat beforehand,unverified,monosemous_pair,oewn,oewn-preheat__2.30.00..,kaikki:preheat:verb:0:7048:s0,,18,anki_900:1766527462772
-scoop,"퍼내다, 퍼올리다",verb,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462773
-slurp,소리 내어 마시다,verb,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462774
-wait on,시중을 들다,phrase,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462775
-as a courtesy,"호의를 담아, 무료로",phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462776
-forfeit,(벌로써 권리·재산 등을) 몰수당하다,verb,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462777
-garner,"얻다, 모으다",verb,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462778
-themed,특정한 테마의 분위기를 살린,noun,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462779
-thriving,"번성하는, 잘 자라는",adjective,900,B,very lively and profitable,unverified,monosemous_pair,oewn,oewn-thriving__5.00.00.successful.00,kaikki:thriving:adj:0:6399:s0,,18,anki_900:1766527462780
-assorted,"여러 가지 종류의, 다채로운",adjective,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462781
-atrium,중앙 홀,noun,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462782
-batch,"무리, 집단",noun,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462783
-batter,반죽,noun,900,C,"A beaten mixture of flour and liquid (usually egg and milk), used for baking (e.g. pancakes, cake, or Yorkshire pudding) or to coat food (e.g. fish) prior to frying.",verified,single_source_korean_anchor,kaikki,,kaikki:batter:noun:2:1741:s0,반죽,18,anki_900:1766527462784
-concierge,(호텔의) 안내인,noun,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462785
-corridor,복도,noun,900,C,"A narrow hall or passage with rooms leading off it, as in a building or in a railway carriage.",verified,single_source_korean_anchor,kaikki,,kaikki:corridor:noun:0:4236:s0,복도,18,anki_900:1766527462786
-culinary,요리의,adjective,900,D,,unverified,proposed_pair_needs_review,,,,,18,anki_900:1766527462787
-decaffeinated,카페인을 제거한,adjective,900,C,From which caffeine has been removed (e.g. decaffeinated coffee).,unverified,single_source_only_sense,kaikki,,kaikki:decaffeinated:adj:1:6177:s0,,18,anki_900:1766527462788
-double occupancy,2인실 사용,phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462789
-garnish,(음식을) 장식하다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,18,anki_900:1766527462790
-indigenous,"지역 고유의, 토착의",adjective,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462791
-palate,미각,noun,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462792
-parlor,가게,noun,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462793
-room attendant,객실 청소부,phrase,900,E,,unverified,no_sense_record,,,,,18,anki_900:1766527462794
-sanitary,위생의,adjective,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462795
-shut down,폐점하다,phrase,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462796
-sift,체로 치다,verb,900,D,,unverified,candidates_unaligned,,,,,18,anki_900:1766527462797
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+check in,"체크인하다, 숙박 수속을 하다",phrase,core,C,"To announce or record one's own arrival at a hotel, airport etc.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:check in:verb:0:7093:s0,체크인하다,18,anki_core:1766527459256
+compensate,보상하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459257
+complimentary,"무료의, 우대의",adjective,core,B,costing nothing,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-complimentary__5.00.00.unpaid.00,kaikki:complimentary:adj:0:6909:s1,,18,anki_core:1766527459258
+chef,주방장,noun,core,B,a professional cook,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-chef__1.18.01..,kaikki:chef:noun:0:3296:s1,주방장,18,anki_core:1766527459259
+container,"용기, 그릇",noun,core,C,"An item in which objects, materials or data can be stored or transported.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:container:noun:0:4318:s0,그릇;용기,18,anki_core:1766527459260
+elegant,"우아한, 고상한",adjective,core,B,"suggesting taste, ease, and wealth",verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-elegant__5.00.00.gracious.00,kaikki:elegant:adj:0:3162:s0,우아한,18,anki_core:1766527459261
+flavor,"맛, 풍미",noun,core,B,the taste experience when a savoury condiment is taken into the mouth,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-flavor__1.09.00..,kaikki:flavor:noun:0:3010:s0,맛;풍미,18,anki_core:1766527459262
+accommodate,"(건물 등이)~을 수용하다, 숙박시키다, (조건·요구 등을) 만족시키다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459263
+available,"(사물이) 이용 가능한, (사람이) 시간이 있는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459264
+reception,"환영회, (호텔·회사·병원 등의) 접수처",noun,core,B,a formal party of people; as after a wedding,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-reception__1.14.00..,kaikki:reception:noun:0:1608:s2,환영회,18,anki_core:1766527459265
+in advance,"미리, 사전에",phrase,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459266
+refreshments,"다과, 가벼운 음식물",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459267
+make,"~을 하다, ~을 만들다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459268
+cater,(연회 등의) 음식물을 공급하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459269
+reservation,"예약, 지정, 보호구역",noun,core,C,An arrangement by which accommodation or transport arrangements are secured in advance.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:reservation:noun:0:4712:s6,예약,18,anki_core:1766527459270
+beverage,음료,noun,core,B,any liquid suitable for drinking,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-beverage__1.13.00..,kaikki:beverage:noun:0:1278:s0,음료,18,anki_core:1766527459271
+confirm,확인하다,verb,core,C,To assure the accuracy of previous statements.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:confirm:verb:0:2539:s2,확인하다,18,anki_core:1766527459272
+cancel,취소하다,verb,core,C,To invalidate or annul something.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:cancel:verb:0:3954:s1,취소하다,18,anki_core:1766527459273
+rate,요금,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,18,anki_core:1766527459274
+conveniently,편리하게,adverb,core,B,in a convenient manner,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-conveniently__4.02.00..,kaikki:conveniently:adv:0:3412:s0,,18,anki_core:1766527459275
+decorate,장식하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459276
+information,"정보, 자료",noun,core,C,Things that are or can be known about a given topic; communicable knowledge of something.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:information:noun:0:1174:s1,정보,18,anki_core:1766527459277
+retain,"유지하다, 보유하다",verb,core,B,allow to remain in a place or position or maintain a property or feature,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-retain__2.41.01..,kaikki:retain:verb:1:5145:s14,,18,anki_core:1766527459278
+atmosphere,"분위기, 환경",noun,core,B,a particular environment or surrounding influence,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-atmosphere__1.26.01..,kaikki:atmosphere:noun:0:404:s2,,18,anki_core:1766527459279
+cuisine,(독특한) 요리,noun,core,C,"A characteristic manner or style of preparing food, often associated with a place of origin.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:cuisine:noun:0:5030:s0,요리,18,anki_core:1766527459280
+sequence,"순서, 차례",noun,core,B,the action of following in order,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-sequence__1.04.00..,kaikki:sequence:noun:0:1184:s0,순서,18,anki_core:1766527459281
+extensive,"광범위한, 넓은",noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,18,anki_core:1766527459282
+prior,"전의, 먼저의",adjective,core,B,earlier in time,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-prior__5.00.00.antecedent.00,kaikki:prior:adj:1:3116:s0,,18,anki_core:1766527459283
+book,예약하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459284
+amenity,편의 시설,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459285
+belongings,"소지품, 소유물",noun,core,B,something owned; any tangible or intangible possession that is owned by someone,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-belongings__1.21.00..,kaikki:belonging:noun:1:8502:s1,,18,anki_core:1766527459286
+entirely,완전히,adverb,core,B,to a complete degree or to the full or entire extent; Completely or entirely,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-entirely__4.02.00..,kaikki:entirely:adv:0:4951:s0,,18,anki_core:1766527459287
+ease,"완화시키다, 쉬움, 용이함",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459288
+ingredient,"재료, 성분",noun,core,C,"One of the substances present in a mixture, especially food.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:ingredient:noun:0:5033:s0,성분,18,anki_core:1766527459289
+sip,"음미하며, 마시다, 홀짝거리다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,18,anki_core:1766527459290
+stir,"휘젓다, 뒤섞다",verb,core,B,move very slightly,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-stir__2.38.00..,kaikki:stir:verb:1:1061:s0,휘젓다,18,anki_core:1766527459291
+choice,"선택물, 선택 사항, 선택",noun,core,B,the act of choosing or selecting,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-choice__1.04.00..;oewn-choice__1.04.00..,kaikki:choice:noun:1:2148:s0;kaikki:choice:noun:1:2148:s2,선택,18,anki_core:1766527459292
+complication,복잡한 문제,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459293
+freshness,신선함,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459294
+occupancy,(호텔 등의) 이용률,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,18,anki_core:1766527459295
+spot,"발견하다, 찾다, 알아채다, (특정한) 장소",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,18,anki_core:1766527459296
+bite,"물다, 한 입",noun,basic,D,,unverified,ocr_exact,16-30(1) p9,v (badge),candidates_unaligned,,,,,18,anki_basic:1766527459297
+buffet,뷔페,noun,basic,B,a piece of furniture that stands at the side of a dining room; has shelves and drawers,verified,ocr_exact,16-30(1) p9,,double_korean_anchor,oewn,oewn-buffet__1.06.00..,kaikki:buffet:noun:1:2119:s0,뷔페,18,anki_basic:1766527459298
+cafeteria,(회사·학교의) 구내식당,noun,basic,C,"A dining area in an institution where meals may be purchased (as above), provided, or brought in from elsewhere.",verified,ocr_exact,16-30(1) p9,,single_source_korean_anchor,kaikki,,kaikki:cafeteria:noun:0:1778:s1,구내식당,18,anki_basic:1766527459299
+cereal,시리얼,noun,basic,D,,unverified,ocr_exact,16-30(1) p9,n (badge),proposed_pair_needs_review,,,,,18,anki_basic:1766527459300
+cookbook,요리책,noun,basic,C,A book or an encyclopedia of recipes and cookery tips.,verified,ocr_exact,16-30(1) p9,,single_source_korean_anchor,kaikki,,kaikki:cookbook:noun:0:1303:s0,요리책,18,anki_basic:1766527459301
+delicious,맛있는,adjective,basic,D,,unverified,ocr_exact,16-30(1) p9,adj (badge),candidates_unaligned,,,,,18,anki_basic:1766527459302
+dessert,후식,noun,basic,B,a dish served as the last course of a meal,verified,ocr_exact,16-30(1) p9,n (width),double_korean_anchor,oewn,oewn-dessert__1.13.00..,kaikki:dessert:noun:0:2233:s1,후식,18,anki_basic:1766527459303
+dine,식사를 하다,verb,basic,D,,unverified,ocr_exact,16-30(1) p9,v (badge),candidates_unaligned,,,,,18,anki_basic:1766527459304
+dining room,식당,phrase,basic,C,"A room, in a home or hotel, where meals are eaten.",verified,ocr_exact,16-30(1) p9,,single_source_korean_anchor,kaikki,,kaikki:dining room:noun:0:5357:s0,식당,18,anki_basic:1766527459305
+dish,"접시, 요리",noun,basic,D,,unverified,ocr_variant_ocr,16-30(1) p9,,proposed_pair_needs_review,,,,,18,anki_basic:1766527459306
+dishwasher,식기세척기,noun,basic,B,a machine for washing dishes,verified,ocr_exact,16-30(1) p9,n (badge),double_korean_anchor,oewn,oewn-dishwasher__1.06.00..,kaikki:dishwasher:noun:0:5881:s0,식기세척기,18,anki_basic:1766527459307
+dry dishes,접시를 닦다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p9,,no_sense_record,,,,,18,anki_basic:1766527459308
+garlic,마늘,noun,basic,C,"A plant, Allium sativum, related to the onion, having a pungent bulb much used in cooking.",verified,ocr_exact,16-30(1) p9,n (width),single_source_korean_anchor,kaikki,,kaikki:garlic:noun:0:1565:s0,마늘,18,anki_basic:1766527459309
+meal,식사,noun,basic,C,"Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity.",verified,ocr_variant_ocr,16-30(1) p9,,single_source_korean_anchor,kaikki,,kaikki:meal:noun:1:1408:s0,식사,18,anki_basic:1766527459310
+plate,"접시, 그릇",noun,basic,B,dish on which food is served or from which food is eaten,verified,ocr_variant_ocr,16-30(1) p9,,double_korean_anchor,oewn,oewn-plate__1.06.00..,kaikki:plate:noun:1:927:s0,접시,18,anki_basic:1766527459311
+pot,(깊은) 냄비,noun,basic,B,metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid,verified,ocr_variant_ocr,16-30(1) p9,,double_korean_anchor,oewn,oewn-pot__1.06.00..,kaikki:pot:noun:1:1297:s0,냄비,18,anki_basic:1766527459312
+prepare a meal,식사 준비를 하다,phrase,basic,E,,unverified,ocr_similar,16-30(1) p9,phr (badge),no_sense_record,,,,,18,anki_basic:1766527459313
+seafood,해산물,noun,basic,D,,unverified,ocr_exact,16-30(1) p9,,candidates_unaligned,,,,,18,anki_basic:1766527459314
+spicy,매운,adjective,basic,D,,unverified,ocr_exact,16-30(1) p9,adj (badge),candidates_unaligned,,,,,18,anki_basic:1766527459315
+spill,엎지르다,verb,basic,C,To drop something so that it spreads out or makes a mess; to accidentally pour.,verified,ocr_exact,16-30(1) p9,v (badge),single_source_korean_anchor,kaikki,,kaikki:spill:verb:0:5291:s0,엎지르다,18,anki_basic:1766527459316
+tasty,맛있는,adjective,basic,D,,unverified,ocr_variant_ocr,16-30(1) p9,,candidates_unaligned,,,,,18,anki_basic:1766527459317
+whipped cream,휘핑크림,phrase,basic,D,,unverified,ocr_prefix,16-30(1) p9,phr (badge),candidates_unaligned,,,,,18,anki_basic:1766527459318
+blend,"섞다, 혼합하다",verb,basic,D,,unverified,ocr_exact,16-30(1) p9,v (badge),candidates_unaligned,,,,,18,anki_basic:1766527459319
+clean,"깨끗한, 청소하다, 깨끗하게 하다",verb,basic,C,To remove dirt from a place or object.,verified,ocr_variant_ocr,16-30(1) p9,,single_source_korean_anchor,kaikki,,kaikki:clean:verb:0:862:s0,깨끗하다;청소하다,18,anki_basic:1766527459320
+fresh,신선한,adjective,basic,D,,unverified,ocr_exact,16-30(1) p9,adj (badge),proposed_pair_needs_review,,,,,18,anki_basic:1766527459321
+recipe,"요리법, 조리법",noun,basic,C,"Now especially, a set of instructions for making or preparing food dishes.",verified,ocr_exact,16-30(1) p9,n (width),single_source_korean_anchor,kaikki,,kaikki:recipe:noun:0:405:s3,요리법;조리법,18,anki_basic:1766527459322
+spice,"양념, 향신료",noun,basic,C,Aromatic or pungent plant matter (usually dried) used to season or flavor food.,verified,ocr_variant_ocr,16-30(1) p9,,single_source_korean_anchor,kaikki,,kaikki:spice:noun:1:1783:s0,향신료,18,anki_basic:1766527459323
+taste,"~의 맛을 보다, 시식하다",verb,basic,D,,unverified,ocr_variant_ocr,16-30(1) p9,,candidates_unaligned,,,,,18,anki_basic:1766527459324
+a glass of,~한 잔,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461310
+appetizer,"전채요리, 에피타이저",noun,800,D,,unverified,ocr_exact,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461311
+bottle,병에 담다,verb,800,D,,unverified,ocr_exact,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461312
+chop,잘게 썰다,verb,800,D,,unverified,ocr_exact,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461313
+countertop,"계산대, 조리대",noun,800,B,the top side of a counter,verified,ocr_exact,16-30(1) p10,,double_korean_anchor,oewn,oewn-countertop__1.06.00..,kaikki:countertop:noun:0:7102:s0,조리대,18,anki_800:1766527461314
+diner,식사하는 사람,noun,800,D,,unverified,ocr_similar,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461315
+dining area,식당,phrase,800,C,an area arranged for dining,unverified,ocr_exact,16-30(1) p10,,single_source_only_sense,oewn,oewn-dining_area__1.06.00..,,,18,anki_800:1766527461316
+dining supplies,주방용품,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461317
+dust off,먼지를 털다,phrase,800,D,,unverified,ocr_similar,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461318
+food supplier,음식 공급업체,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461319
+frosting,설탕을 입힘,noun,800,D,,unverified,ocr_exact,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461320
+frozen food product,냉동식품,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461321
+gather up,주워 모으다,phrase,800,D,,unverified,ocr_similar,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461322
+get the food ready,음식을 준비하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461323
+grain,곡물,noun,800,C,"The harvested seeds of various grass food crops, especially wheat, maize, rye, barley, and rice.",verified,ocr_exact,16-30(1) p10,,single_source_korean_anchor,kaikki,,kaikki:grain:noun:1:1542:s0,곡물,18,anki_800:1766527461324
+grill,석쇠,noun,800,D,,unverified,ocr_variant_ocr,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461325
+gusty,(바람이) 세찬,noun,800,E,,unverified,ocr_variant_ocr,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461326
+have a light dinner,저녁을 가볍게 먹다,phrase,800,E,,unverified,ocr_similar,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461327
+have a meal,식사하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461328
+kettle,주전자,noun,800,C,"A vessel for boiling a liquid or cooking food, usually metal and equipped with a lid.",verified,ocr_prefix,16-30(1) p10,,single_source_korean_anchor,kaikki,,kaikki:kettle:noun:1:3012:s0,주전자,18,anki_800:1766527461329
+kitchen appliance,주방용품,phrase,800,C,a home appliance used in preparing food,unverified,ocr_similar,16-30(1) p10,,single_source_only_sense,oewn,oewn-kitchen_appliance__1.06.00..,,,18,anki_800:1766527461330
+lost and found,분실물 보관소,phrase,800,C,"A department, service or location where items that are found can be claimed by their owners.",unverified,ocr_prefix,16-30(1) p10,phr (badge),single_source_only_sense,kaikki,,kaikki:lost and found:noun:0:6717:s0,,18,anki_800:1766527461331
+order a meal,식사를 주문하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p10,,no_sense_record,,,,,18,anki_800:1766527461332
+patio,"테라스, 베란다",noun,800,D,,unverified,ocr_prefix,16-30(1) p10,n (badge),candidates_unaligned,,,,,18,anki_800:1766527461333
+patron,고객,noun,800,D,,unverified,ocr_prefix,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461334
+peel off,~의 껍질을 벗기다,phrase,800,D,,unverified,ocr_prefix,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461335
+potholder,뜨거운 냄비를 들 때 쓰는 천,noun,800,B,an insulated pad for holding hot pots,unverified,ocr_prefix,16-30(1) p10,n (width),monosemous_pair,oewn,oewn-potholder__1.06.00..,kaikki:potholder:noun:0:6991:s0,,18,anki_800:1766527461336
+pour,"~을 붓다, ~을 따르다",verb,800,D,,unverified,ocr_prefix,16-30(1) p10,v (badge),candidates_unaligned,,,,,18,anki_800:1766527461337
+serving,"음식 시중, 한 끼 분의 음식",noun,800,D,,unverified,ocr_prefix,16-30(1) p10,n (width),candidates_unaligned,,,,,18,anki_800:1766527461338
+set the table,식탁을 차리다,phrase,800,D,,unverified,ocr_similar,16-30(1) p10,,candidates_unaligned,,,,,18,anki_800:1766527461339
+snack shop,매점,phrase,800,E,,unverified,ocr_prefix,16-30(1) p10,phr (badge),no_sense_record,,,,,18,anki_800:1766527461340
+specialty,"전공, 전문",noun,800,D,,unverified,ocr_prefix,16-30(1) p10,n (width),candidates_unaligned,,,,,18,anki_800:1766527461341
+spoil,"상하다, 못쓰게 되다",verb,800,D,,unverified,ocr_prefix,16-30(1) p10,v (badge),candidates_unaligned,,,,,18,anki_800:1766527461342
+starving,배고픈,noun,800,B,the act of depriving of food or subjecting to famine,unverified,ocr_similar,16-30(1) p11,,monosemous_pair,oewn,oewn-starving__1.04.00..,kaikki:starving:noun:0:6160:s0,,18,anki_800:1766527461343
+stove,(요리용) 스토브,noun,800,D,,unverified,ocr_variant_ocr,16-30(1) p11,,proposed_pair_needs_review,,,,,18,anki_800:1766527461344
+tablecloth,식탁보,noun,800,B,a covering spread over a dining table,verified,ocr_exact,16-30(1) p11,,monosemous_pair,oewn,oewn-tablecloth__1.06.00..,kaikki:tablecloth:noun:0:5763:s0,식탁보,18,anki_800:1766527461345
+take an order,주문을 받다,phrase,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461346
+teapot,찻주전자,noun,800,B,pot for brewing tea; usually has a spout and handle,verified,ocr_exact,16-30(1) p11,,double_korean_anchor,oewn,oewn-teapot__1.06.00..,kaikki:teapot:noun:0:2287:s0,찻주전자,18,anki_800:1766527461347
+trial,"재판, 공판",noun,800,C,A meeting or series of meetings in a court of law at which evidence is presented to a judge (and sometimes a jury) to allow them to decide on a legal matter (especially whether an accused person is guilty of a crime).,verified,ocr_exact,16-30(1) p11,n (width),single_source_korean_anchor,kaikki,,kaikki:trial:noun:1:1555:s7,공판;재판,18,anki_800:1766527461348
+unpack,(짐을) 풀다,verb,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461349
+valuables,귀중품,noun,800,C,valuable items collectively.,unverified,ocr_exact,16-30(1) p11,,single_source_only_sense,kaikki,,kaikki:valuables:noun:0:4683:s0,,18,anki_800:1766527461350
+wait for a table,테이블에 자리가 나기를 기다리다,phrase,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461351
+agreeably,"쾌적하게, 기분 좋게",adverb,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461352
+amazed,놀란,noun,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461353
+competitiveness,경쟁력,noun,800,B,an aggressive willingness to compete,unverified,ocr_exact,16-30(1) p11,,monosemous_pair,oewn,oewn-competitiveness__1.07.00..,kaikki:competitiveness:noun:0:7096:s0,,18,anki_800:1766527461354
+explain to,~을 설명하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461355
+organizer,"조직자, 창시자",noun,800,C,A person who arranges the details of a public event.,verified,ocr_exact,16-30(1) p11,,single_source_korean_anchor,kaikki,,kaikki:organizer:noun:0:1121:s0,조직자,18,anki_800:1766527461356
+progressively,계속해서,noun,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461357
+recognized,"인정된, 알려진",noun,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461358
+refer,"참조하게 하다, 조회하다",verb,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461359
+seemingly,"외견상으로는, 겉보기에는",adjective,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461360
+thickly,"두껍게, 두툼하게",adverb,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461361
+accommodation,"거처, 숙소, 시설",noun,800,C,"Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or students, etc.",verified,ocr_exact,16-30(1) p11,,single_source_korean_anchor,kaikki,,kaikki:accommodation:noun:0:170:s0,숙소,18,anki_800:1766527461362
+booking,예약,noun,800,B,the act of reserving (a place or passage) or engaging the services of (a person or group),verified,ocr_variant_ocr,16-30(1) p11,,double_korean_anchor,oewn,oewn-booking__1.04.00..,kaikki:booking:noun:0:6579:s1,예약,18,anki_800:1766527461363
+brew,"끓이다, 양조하다",verb,800,D,,unverified,ocr_variant_ocr,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461364
+caterer,요리조달자,noun,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461365
+catering service,출장 요리 서비스,phrase,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461366
+eat up,다 먹다,phrase,800,D,,unverified,ocr_variant_ocr,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461367
+gently,"다정하게, 부드럽게",adverb,800,C,In a gentle manner; to a gentle degree.,verified,ocr_similar,16-30(1) p11,,single_source_korean_anchor,kaikki,,kaikki:gently:adv:0:4878:s1,부드럽게,18,anki_800:1766527461368
+overnight stay,1박,phrase,800,E,,unverified,ocr_similar,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461369
+parking facility,주차시설,phrase,800,E,,unverified,ocr_exact,16-30(1) p11,,no_sense_record,,,,,18,anki_800:1766527461370
+polish,"~을 닦다, ~의 윤을 내다",verb,800,D,,unverified,ocr_exact,16-30(1) p11,v (badge),candidates_unaligned,,,,,18,anki_800:1766527461371
+squeeze,짜다,verb,800,C,To apply pressure (to something) from two or more sides at once.,verified,ocr_exact,16-30(1) p11,,single_source_korean_anchor,kaikki,,kaikki:squeeze:verb:0:1866:s0,짜다,18,anki_800:1766527461372
+suite,(호텔의) 스위트룸,noun,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461373
+utensil,"(부엌에서 쓰는) 도구, 기구",noun,800,D,,unverified,ocr_exact,16-30(1) p11,,candidates_unaligned,,,,,18,anki_800:1766527461374
+vegetarian,채식주의자,noun,800,B,eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products,verified,ocr_exact,16-30(1) p11,,double_korean_anchor,oewn,oewn-vegetarian__1.18.00..,kaikki:vegetarian:noun:0:1425:s0,채식주의자,18,anki_800:1766527461375
+vinegar,식초,noun,800,C,A sour liquid formed by the fermentation of alcohol used as a condiment or preservative; a dilute solution of acetic acid.,verified,ocr_exact,16-30(1) p11,,single_source_korean_anchor,kaikki,,kaikki:vinegar:noun:0:5113:s0,식초,18,anki_800:1766527461376
+wake-up call,모닝콜,phrase,800,D,,unverified,ocr_exact,16-30(1) p11,phr (width),candidates_unaligned,,,,,18,anki_800:1766527461377
+cloakroom,(식당·극장의) 휴대품 보관소,noun,900,D,,unverified,ocr_exact,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462766
+gourmet,미식가,noun,900,B,a person devoted to refined sensuous enjoyment (especially good food and drink),unverified,ocr_prefix,16-30(1) p12,,monosemous_pair,oewn,oewn-gourmet__1.18.00..,kaikki:gourmet:noun:0:1117:s0,,18,anki_900:1766527462767
+grab a bite,간단히 먹다,phrase,900,E,,unverified,ocr_exact,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462768
+help oneself to the food,"자유로이 먹다, 가져다 먹다",phrase,900,E,,unverified,ocr_exact,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462769
+meal pass,식권,phrase,900,E,,unverified,ocr_exact,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462770
+pick up the check,돈을 내다,phrase,900,E,,unverified,ocr_exact,16-30(1) p12,n (width),no_sense_record,,,,,18,anki_900:1766527462771
+preheat,(오븐을) 예열하다,verb,900,B,heat beforehand,unverified,ocr_exact,16-30(1) p12,,monosemous_pair,oewn,oewn-preheat__2.30.00..,kaikki:preheat:verb:0:7048:s0,,18,anki_900:1766527462772
+scoop,"퍼내다, 퍼올리다",verb,900,D,,unverified,ocr_prefix,16-30(1) p12,n (badge),candidates_unaligned,,,,,18,anki_900:1766527462773
+slurp,소리 내어 마시다,verb,900,D,,unverified,ocr_prefix,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462774
+wait on,시중을 들다,phrase,900,D,,unverified,ocr_similar,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462775
+as a courtesy,"호의를 담아, 무료로",phrase,900,E,,unverified,ocr_similar_loose,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462776
+forfeit,(벌로써 권리·재산 등을) 몰수당하다,verb,900,D,,unverified,ocr_exact,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462777
+garner,"얻다, 모으다",verb,900,D,,unverified,ocr_variant_ocr,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462778
+themed,특정한 테마의 분위기를 살린,noun,900,E,,unverified,ocr_similar,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462779
+thriving,"번성하는, 잘 자라는",adjective,900,B,very lively and profitable,unverified,ocr_prefix,16-30(1) p12,,monosemous_pair,oewn,oewn-thriving__5.00.00.successful.00,kaikki:thriving:adj:0:6399:s0,,18,anki_900:1766527462780
+assorted,"여러 가지 종류의, 다채로운",adjective,900,D,,unverified,ocr_similar,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462781
+atrium,중앙 홀,noun,900,D,,unverified,ocr_variant_ocr,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462782
+batch,"무리, 집단",noun,900,D,,unverified,ocr_variant_ocr,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462783
+batter,반죽,noun,900,C,"A beaten mixture of flour and liquid (usually egg and milk), used for baking (e.g. pancakes, cake, or Yorkshire pudding) or to coat food (e.g. fish) prior to frying.",verified,ocr_variant_ocr,16-30(1) p12,,single_source_korean_anchor,kaikki,,kaikki:batter:noun:2:1741:s0,반죽,18,anki_900:1766527462784
+concierge,(호텔의) 안내인,noun,900,D,,unverified,ocr_prefix,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462785
+corridor,복도,noun,900,C,"A narrow hall or passage with rooms leading off it, as in a building or in a railway carriage.",verified,ocr_variant_ocr,16-30(1) p12,,single_source_korean_anchor,kaikki,,kaikki:corridor:noun:0:4236:s0,복도,18,anki_900:1766527462786
+culinary,요리의,adjective,900,D,,unverified,ocr_variant_ocr,16-30(1) p12,,proposed_pair_needs_review,,,,,18,anki_900:1766527462787
+decaffeinated,카페인을 제거한,adjective,900,C,From which caffeine has been removed (e.g. decaffeinated coffee).,unverified,ocr_prefix,16-30(1) p12,,single_source_only_sense,kaikki,,kaikki:decaffeinated:adj:1:6177:s0,,18,anki_900:1766527462788
+double occupancy,2인실 사용,phrase,900,E,,unverified,ocr_similar,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462789
+garnish,(음식을) 장식하다,verb,900,D,,unverified,ocr_prefix,16-30(1) p12,,proposed_pair_needs_review,,,,,18,anki_900:1766527462790
+indigenous,"지역 고유의, 토착의",adjective,900,D,,unverified,ocr_prefix,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462791
+palate,미각,noun,900,D,,unverified,ocr_prefix,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462792
+parlor,가게,noun,900,D,,unverified,ocr_prefix,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462793
+room attendant,객실 청소부,phrase,900,E,,unverified,ocr_similar,16-30(1) p12,,no_sense_record,,,,,18,anki_900:1766527462794
+sanitary,위생의,adjective,900,D,,unverified,ocr_prefix,16-30(1) p12,,candidates_unaligned,,,,,18,anki_900:1766527462795
+shut down,폐점하다,phrase,900,D,,unverified,ocr_prefix,16-30(1) p12,phr (badge),candidates_unaligned,,,,,18,anki_900:1766527462796
+sift,체로 치다,verb,900,D,,unverified,ocr_prefix,16-30(1) p12,v (badge),candidates_unaligned,,,,,18,anki_900:1766527462797

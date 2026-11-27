@@ -56,7 +56,7 @@ consent,consent for,consent for,noun+preposition,11,oanc_candidate_unreviewed,CO
 consent,consent from,consent from,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:consent:from:noun+preposition
 consent,consented to participate,consent to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:consent:to:verb+to-infinitive
 consent,consent in,consent in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:consent:in:noun+preposition
-consider,consider ascending,consider VBG,verb+VBG,255,oanc_candidate_unreviewed,COLLIGATION:consider:VBG:verb+VBG
+consider,consider making,consider VBG,verb+VBG,255,oanc_candidate_unreviewed,COLLIGATION:consider:VBG:verb+VBG
 consider,considered to be,consider to + infinitive,verb+to-infinitive,243,oanc_candidate_unreviewed,COLLIGATION:consider:to:verb+to-infinitive
 consider,considered in,consider in,verb+preposition,140,oanc_candidate_unreviewed,COLLIGATION:consider:in:verb+preposition
 consider,consider that,consider that,verb+preposition,134,oanc_candidate_unreviewed,COLLIGATION:consider:that:verb+preposition
@@ -90,7 +90,7 @@ distance,distance between,distance between,noun+preposition,156,oanc_candidate_u
 distance,distance from,distance from,noun+preposition,107,oanc_candidate_unreviewed,COLLIGATION:distance:from:noun+preposition
 distance,distance of,distance of,noun+preposition,77,oanc_candidate_unreviewed,COLLIGATION:distance:of:noun+preposition
 distance,distance to,distance to,noun+to,30,oanc_candidate_unreviewed,COLLIGATION:distance:to:noun+to
-distance,distance’ in,distance in,noun+preposition,20,oanc_candidate_unreviewed,COLLIGATION:distance:in:noun+preposition
+distance,distance in,distance in,noun+preposition,20,oanc_candidate_unreviewed,COLLIGATION:distance:in:noun+preposition
 distance,distances for,distance for,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:distance:for:noun+preposition
 distance,distance like,distance like,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:distance:like:noun+preposition
 distance,distance that,distance that,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:distance:that:noun+preposition
@@ -138,7 +138,7 @@ gratitude,gratitude for,gratitude for,noun+preposition,15,oanc_candidate_unrevie
 impair,impaired in,impair in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:impair:in:verb+preposition
 impair,impaired fasting,impair VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:impair:VBG:verb+VBG
 impair,impaired by,impair by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:impair:by:verb+preposition
-impractical,impractical to make,impractical to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:impractical:to:adjective+to-infinitive
+impractical,impractical to create,impractical to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:impractical:to:adjective+to-infinitive
 impractical,impractical for,impractical for,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:impractical:for:adjective+preposition
 input,input to,input to,noun+to,58,oanc_candidate_unreviewed,COLLIGATION:input:to:noun+to
 input,input from,input from,noun+preposition,56,oanc_candidate_unreviewed,COLLIGATION:input:from:noun+preposition
@@ -180,7 +180,7 @@ investor,investors in,investor in,noun+preposition,19,oanc_candidate_unreviewed,
 investor,investors by,investor by,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:investor:by:noun+preposition
 joint,joints of,joint of,noun+preposition,23,oanc_candidate_unreviewed,COLLIGATION:joint:of:noun+preposition
 joint,joints in,joint in,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:joint:in:noun+preposition
-justify,justify withholding,justify VBG,verb+VBG,26,oanc_candidate_unreviewed,COLLIGATION:justify:VBG:verb+VBG
+justify,justify applying,justify VBG,verb+VBG,26,oanc_candidate_unreviewed,COLLIGATION:justify:VBG:verb+VBG
 lease,lease on,lease on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:lease:on:noun+preposition
 legacy,legacy of,legacy of,noun+preposition,84,oanc_candidate_unreviewed,COLLIGATION:legacy:of:noun+preposition
 legacy,legacy in,legacy in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:legacy:in:noun+preposition
@@ -188,7 +188,7 @@ lose,lost in,lose in,verb+preposition,150,oanc_candidate_unreviewed,COLLIGATION:
 lose,lost to,lose to,verb+to,60,oanc_candidate_unreviewed,COLLIGATION:lose:to:verb+to
 lose,lost on,lose on,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:lose:on:verb+preposition
 lose,lost by,lose by,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:lose:by:verb+preposition
-lose,lost from,lose from,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:lose:from:verb+preposition
+lose,lose from,lose from,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:lose:from:verb+preposition
 lose,lost at,lose at,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:lose:at:verb+preposition
 lose,lost because,lose because,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:lose:because:verb+preposition
 lose,lost during,lose during,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:lose:during:verb+preposition
@@ -257,7 +257,7 @@ property,properties by,property by,noun+preposition,8,oanc_candidate_unreviewed,
 property,property as,property as,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:property:as:noun+preposition
 property,properties from,property from,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:property:from:noun+preposition
 propose,proposed that,propose that,verb+preposition,208,oanc_candidate_unreviewed,COLLIGATION:propose:that:verb+preposition
-propose,proposed extending,propose VBG,verb+VBG,163,oanc_candidate_unreviewed,COLLIGATION:propose:VBG:verb+VBG
+propose,propose infecting,propose VBG,verb+VBG,163,oanc_candidate_unreviewed,COLLIGATION:propose:VBG:verb+VBG
 propose,proposed to analyze,propose to + infinitive,verb+to-infinitive,137,oanc_candidate_unreviewed,COLLIGATION:propose:to:verb+to-infinitive
 propose,proposed by,propose by,verb+preposition,97,oanc_candidate_unreviewed,COLLIGATION:propose:by:verb+preposition
 propose,proposed for,propose for,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:propose:for:verb+preposition
@@ -275,8 +275,8 @@ reviewer,reviewer to,reviewer to,noun+to,13,oanc_candidate_unreviewed,COLLIGATIO
 reviewer,reviewers of,reviewer of,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:reviewer:of:noun+preposition
 reviewer,reviewer in,reviewer in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:reviewer:in:noun+preposition
 secure,secure in,secure in,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:secure:in:verb+preposition
+secure,secure lodging,secure VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:secure:VBG:verb+VBG
 secure,secured by,secure by,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:secure:by:verb+preposition
-secure,securing lodging,secure VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:secure:VBG:verb+VBG
 shareholder,shareholder in,shareholder in,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:shareholder:in:noun+preposition
 shareholder,shareholders to,shareholder to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:shareholder:to:noun+to
 single,singled out,single out,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:single:out:verb+preposition
@@ -309,7 +309,7 @@ support,support of,support of,noun+preposition,342,oanc_candidate_unreviewed,COL
 support,support to,support to,noun+to,108,oanc_candidate_unreviewed,COLLIGATION:support:to:noun+to
 support,support from,support from,noun+preposition,90,oanc_candidate_unreviewed,COLLIGATION:support:from:noun+preposition
 support,support in,support in,noun+preposition,60,oanc_candidate_unreviewed,COLLIGATION:support:in:noun+preposition
-support,supported looking,support VBG,verb+VBG,34,oanc_candidate_unreviewed,COLLIGATION:support:VBG:verb+VBG
+support,support existing,support VBG,verb+VBG,34,oanc_candidate_unreviewed,COLLIGATION:support:VBG:verb+VBG
 support,support among,support among,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:support:among:noun+preposition
 support,support by,support by,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:support:by:noun+preposition
 support,support that,support that,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:support:that:noun+preposition
@@ -336,11 +336,11 @@ tear,tearing in,tear in,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION
 tear,tears for,tear for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:tear:for:noun+preposition
 tear,torn by,tear by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:tear:by:verb+preposition
 tear,torn off,tear off,verb+particle,5,oanc_candidate_unreviewed,COLLIGATION:tear:off:verb+particle
-threaten,threaten to collapse,threaten to + infinitive,verb+to-infinitive,182,oanc_candidate_unreviewed,COLLIGATION:threaten:to:verb+to-infinitive
+threaten,threatened to break,threaten to + infinitive,verb+to-infinitive,182,oanc_candidate_unreviewed,COLLIGATION:threaten:to:verb+to-infinitive
 threaten,threatens to,threaten to,verb+to,36,oanc_candidate_unreviewed,COLLIGATION:threaten:to:verb+to
 threaten,threatened by,threaten by,verb+preposition,33,oanc_candidate_unreviewed,COLLIGATION:threaten:by:verb+preposition
 threaten,threatened with,threaten with,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:threaten:with:verb+preposition
-threaten,threatened hijacking,threaten VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:threaten:VBG:verb+VBG
+threaten,threatened canceling,threaten VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:threaten:VBG:verb+VBG
 threaten,threatened in,threaten in,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:threaten:in:verb+preposition
 unprecedented,unprecedented in,unprecedented in,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:unprecedented:in:adjective+preposition
 usual,usual with,usual with,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:usual:with:adjective+preposition
@@ -362,7 +362,7 @@ wait,waiting on,wait on,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATIO
 wait,waiting at,wait at,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:wait:at:verb+preposition
 wait,wait for,wait for,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:wait:for:noun+preposition
 wait,waiting around,wait around,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:wait:around:verb+preposition
-wait,waits outside,wait outside,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:wait:outside:verb+preposition
+wait,waiting outside,wait outside,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:wait:outside:verb+preposition
 worry,worry about,worry about,verb+preposition,259,oanc_candidate_unreviewed,COLLIGATION:worry:about:verb+preposition
 worry,worry that,worry that,verb+preposition,154,oanc_candidate_unreviewed,COLLIGATION:worry:that:verb+preposition
 worry,worries that,worry that,noun+preposition,31,oanc_candidate_unreviewed,COLLIGATION:worry:that:noun+preposition

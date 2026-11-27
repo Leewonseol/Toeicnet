@@ -94,7 +94,7 @@ exploit,exploited by,exploit by,verb+preposition,15,oanc_candidate_unreviewed,CO
 exploit,exploited in,exploit in,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:exploit:in:verb+preposition
 exploit,exploits of,exploit of,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:exploit:of:noun+preposition
 exploit,exploited for,exploit for,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:exploit:for:verb+preposition
-exploit,exploited to perform,exploit to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:exploit:to:verb+to-infinitive
+exploit,exploited to produce,exploit to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:exploit:to:verb+to-infinitive
 friendly,friendly with,friendly with,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:friendly:with:adjective+preposition
 friendly,friendly to,friendly to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:friendly:to:adjective+to
 function,function of,function of,noun+preposition,829,oanc_candidate_unreviewed,COLLIGATION:function:of:noun+preposition
@@ -184,7 +184,7 @@ include,included for,include for,verb+preposition,22,oanc_candidate_unreviewed,C
 include,included with,include with,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:include:with:verb+preposition
 include,included among,include among,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:include:among:verb+preposition
 include,included within,include within,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:include:within:verb+preposition
-include,included to determine,include to + infinitive,verb+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:include:to:verb+to-infinitive
+include,included to control,include to + infinitive,verb+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:include:to:verb+to-infinitive
 include,included on,include on,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:include:on:verb+preposition
 include,included by,include by,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:include:by:verb+preposition
 include,including to,include to,verb+to,7,oanc_candidate_unreviewed,COLLIGATION:include:to:verb+to
@@ -199,7 +199,7 @@ labor,labor to,labor to,noun+to,17,oanc_candidate_unreviewed,COLLIGATION:labor:t
 labor,labor of,labor of,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:labor:of:noun+preposition
 labor,labor on,labor on,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:labor:on:noun+preposition
 leave,left in,leave in,verb+preposition,101,oanc_candidate_unreviewed,COLLIGATION:leave:in:verb+preposition
-leave,left to remind,leave to + infinitive,verb+to-infinitive,88,oanc_candidate_unreviewed,COLLIGATION:leave:to:verb+to-infinitive
+leave,left to grow,leave to + infinitive,verb+to-infinitive,88,oanc_candidate_unreviewed,COLLIGATION:leave:to:verb+to-infinitive
 leave,left of,leave of,verb+preposition,83,oanc_candidate_unreviewed,COLLIGATION:leave:of:verb+preposition
 leave,leaving behind,leave behind,verb+preposition,77,oanc_candidate_unreviewed,COLLIGATION:leave:behind:verb+preposition
 leave,left for,leave for,verb+preposition,74,oanc_candidate_unreviewed,COLLIGATION:leave:for:verb+preposition
@@ -209,7 +209,7 @@ leave,left with,leave with,verb+preposition,51,oanc_candidate_unreviewed,COLLIGA
 leave,left out,leave out,verb+particle,42,oanc_candidate_unreviewed,COLLIGATION:leave:out:verb+particle
 leave,leaves of,leave of,noun+preposition,41,oanc_candidate_unreviewed,COLLIGATION:leave:of:noun+preposition
 leave,left by,leave by,verb+preposition,38,oanc_candidate_unreviewed,COLLIGATION:leave:by:verb+preposition
-leave,left roaming,leave VBG,verb+VBG,32,oanc_candidate_unreviewed,COLLIGATION:leave:VBG:verb+VBG
+leave,leave haunting,leave VBG,verb+VBG,32,oanc_candidate_unreviewed,COLLIGATION:leave:VBG:verb+VBG
 leave,left on,leave on,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:leave:on:verb+preposition
 leave,left at,leave at,verb+preposition,25,oanc_candidate_unreviewed,COLLIGATION:leave:at:verb+preposition
 leave,leave from,leave from,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:leave:from:verb+preposition
@@ -272,26 +272,26 @@ regard,regard to,regard to,noun+to,260,oanc_candidate_unreviewed,COLLIGATION:reg
 regard,regarded as,regard as,verb+preposition,177,oanc_candidate_unreviewed,COLLIGATION:regard:as:verb+preposition
 regard,regard for,regard for,noun+preposition,30,oanc_candidate_unreviewed,COLLIGATION:regard:for:noun+preposition
 regard,regards to,regard to,verb+to,24,oanc_candidate_unreviewed,COLLIGATION:regard:to:verb+to
-regard,regarding sampling,regard VBG,verb+VBG,18,oanc_candidate_unreviewed,COLLIGATION:regard:VBG:verb+VBG
+regard,regarding providing,regard VBG,verb+VBG,18,oanc_candidate_unreviewed,COLLIGATION:regard:VBG:verb+VBG
 regard,regarded by,regard by,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:regard:by:verb+preposition
-regard,regarded with,regard with,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:regard:with:verb+preposition
+regard,regards with,regard with,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:regard:with:verb+preposition
 regard,regard as,regard as,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:regard:as:noun+preposition
 register,register as,register as,noun+preposition,55,oanc_candidate_unreviewed,COLLIGATION:register:as:noun+preposition
 register,registered by,register by,verb+preposition,33,oanc_candidate_unreviewed,COLLIGATION:register:by:verb+preposition
 register,register on,register on,noun+preposition,29,oanc_candidate_unreviewed,COLLIGATION:register:on:noun+preposition
 register,registered as,register as,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:register:as:verb+preposition
 register,registered with,register with,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:register:with:verb+preposition
-register,registered to attend,register to + infinitive,verb+to-infinitive,13,oanc_candidate_unreviewed,COLLIGATION:register:to:verb+to-infinitive
+register,register to be,register to + infinitive,verb+to-infinitive,13,oanc_candidate_unreviewed,COLLIGATION:register:to:verb+to-infinitive
 register,register of,register of,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:register:of:noun+preposition
 register,registered in,register in,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:register:in:verb+preposition
 register,registered for,register for,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:register:for:verb+preposition
 registration,registration of,registration of,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:registration:of:noun+preposition
 reimbursement,reimbursement for,reimbursement for,noun+preposition,18,oanc_candidate_unreviewed,COLLIGATION:reimbursement:for:noun+preposition
-require,required to have,require to + infinitive,verb+to-infinitive,672,oanc_candidate_unreviewed,COLLIGATION:require:to:verb+to-infinitive
+require,required to wear,require to + infinitive,verb+to-infinitive,672,oanc_candidate_unreviewed,COLLIGATION:require:to:verb+to-infinitive
 require,required for,require for,verb+preposition,663,oanc_candidate_unreviewed,COLLIGATION:require:for:verb+preposition
 require,requires that,require that,verb+preposition,252,oanc_candidate_unreviewed,COLLIGATION:require:that:verb+preposition
 require,required by,require by,verb+preposition,251,oanc_candidate_unreviewed,COLLIGATION:require:by:verb+preposition
-require,required draining,require VBG,verb+VBG,102,oanc_candidate_unreviewed,COLLIGATION:require:VBG:verb+VBG
+require,requires attending,require VBG,verb+VBG,102,oanc_candidate_unreviewed,COLLIGATION:require:VBG:verb+VBG
 require,required to,require to,verb+to,52,oanc_candidate_unreviewed,COLLIGATION:require:to:verb+to
 require,required in,require in,verb+preposition,48,oanc_candidate_unreviewed,COLLIGATION:require:in:verb+preposition
 require,required under,require under,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:require:under:verb+preposition

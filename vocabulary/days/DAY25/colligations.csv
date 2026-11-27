@@ -20,11 +20,11 @@ bear,born in,bear in,verb+preposition,178,oanc_candidate_unreviewed,COLLIGATION:
 bear,born on,bear on,verb+preposition,45,oanc_candidate_unreviewed,COLLIGATION:bear:on:verb+preposition
 bear,born to,bear to,verb+to,43,oanc_candidate_unreviewed,COLLIGATION:bear:to:verb+to
 bear,born with,bear with,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:bear:with:verb+preposition
-bear,born out,bear out,verb+preposition,31,oanc_candidate_unreviewed,COLLIGATION:bear:out:verb+preposition
+bear,borne out,bear out,verb+preposition,31,oanc_candidate_unreviewed,COLLIGATION:bear:out:verb+preposition
 bear,born of,bear of,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:bear:of:verb+preposition
 bear,bear in,bear in,noun+preposition,24,oanc_candidate_unreviewed,COLLIGATION:bear:in:noun+preposition
 bear,borne by,bear by,verb+preposition,23,oanc_candidate_unreviewed,COLLIGATION:bear:by:verb+preposition
-bear,born to married,bear to + infinitive,verb+to-infinitive,22,oanc_candidate_unreviewed,COLLIGATION:bear:to:verb+to-infinitive
+bear,bears to bring,bear to + infinitive,verb+to-infinitive,22,oanc_candidate_unreviewed,COLLIGATION:bear:to:verb+to-infinitive
 bear,bears investigating,bear VBG,verb+VBG,21,oanc_candidate_unreviewed,COLLIGATION:bear:VBG:verb+VBG
 bear,born at,bear at,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:bear:at:verb+preposition
 bear,born into,bear into,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:bear:into:verb+preposition
@@ -70,7 +70,7 @@ drive,drive through,drive through,verb+preposition,19,oanc_candidate_unreviewed,
 drive,driving from,drive from,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:drive:from:verb+preposition
 drive,drive for,drive for,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:drive:for:noun+preposition
 drive,driven up,drive up,verb+particle,15,oanc_candidate_unreviewed,COLLIGATION:drive:up:verb+particle
-drive,driven to ask,drive to + infinitive,verb+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:drive:to:verb+to-infinitive
+drive,driven to exit,drive to + infinitive,verb+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:drive:to:verb+to-infinitive
 drive,drive from,drive from,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:drive:from:noun+preposition
 drive,drive in,drive in,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:drive:in:verb+preposition
 drive,drive along,drive along,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:drive:along:noun+preposition
@@ -78,12 +78,12 @@ drive,driving out,drive out,verb+particle,11,oanc_candidate_unreviewed,COLLIGATI
 drive,drive of,drive of,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:drive:of:noun+preposition
 drive,driven into,drive into,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:drive:into:verb+preposition
 drive,driving while,drive while,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:drive:while:verb+preposition
-drive,drive at,drive at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:drive:at:verb+preposition
 drive,drive toward,drive toward,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:drive:toward:noun+preposition
+drive,driving at,drive at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:drive:at:verb+preposition
 drive,drive on,drive on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:drive:on:noun+preposition
 drive,drive down,drive down,verb+particle,6,oanc_candidate_unreviewed,COLLIGATION:drive:down:verb+particle
 drive,drive up,drive up,noun+particle,6,oanc_candidate_unreviewed,COLLIGATION:drive:up:noun+particle
-drive,drove off,drive off,verb+particle,6,oanc_candidate_unreviewed,COLLIGATION:drive:off:verb+particle
+drive,driving off,drive off,verb+particle,6,oanc_candidate_unreviewed,COLLIGATION:drive:off:verb+particle
 drive,drive in,drive in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:drive:in:noun+preposition
 drive,drives out,drive out,noun+particle,5,oanc_candidate_unreviewed,COLLIGATION:drive:out:noun+particle
 drive,driving across,drive across,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:drive:across:verb+preposition
@@ -101,7 +101,7 @@ encounter,encountered on,encounter on,verb+preposition,7,oanc_candidate_unreview
 encounter,encounter as,encounter as,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:encounter:as:noun+preposition
 encounter,encounters for,encounter for,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:encounter:for:verb+preposition
 equip,equipped with,equip with,verb+preposition,106,oanc_candidate_unreviewed,COLLIGATION:equip:with:verb+preposition
-equip,equipped to overcome,equip to + infinitive,verb+to-infinitive,17,oanc_candidate_unreviewed,COLLIGATION:equip:to:verb+to-infinitive
+equip,equipped to meet,equip to + infinitive,verb+to-infinitive,17,oanc_candidate_unreviewed,COLLIGATION:equip:to:verb+to-infinitive
 expense,expense of,expense of,noun+preposition,132,oanc_candidate_unreviewed,COLLIGATION:expense:of:noun+preposition
 expense,expenses in,expense in,noun+preposition,19,oanc_candidate_unreviewed,COLLIGATION:expense:in:noun+preposition
 expense,expenses for,expense for,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:expense:for:noun+preposition
@@ -119,12 +119,12 @@ fuel,fuel in,fuel in,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:f
 fuel,fuels to,fuel to,noun+to,8,oanc_candidate_unreviewed,COLLIGATION:fuel:to:noun+to
 fuel,fuel for,fuel for,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:fuel:for:noun+preposition
 hang,hang on,hang on,verb+preposition,43,oanc_candidate_unreviewed,COLLIGATION:hang:on:verb+preposition
-hang,hanging out,hang out,verb+preposition,41,oanc_candidate_unreviewed,COLLIGATION:hang:out:verb+preposition
+hang,hangs out,hang out,verb+preposition,41,oanc_candidate_unreviewed,COLLIGATION:hang:out:verb+preposition
 hang,hung around,hang around,verb+preposition,33,oanc_candidate_unreviewed,COLLIGATION:hang:around:verb+preposition
 hang,hanged in,hang in,verb+preposition,29,oanc_candidate_unreviewed,COLLIGATION:hang:in:verb+preposition
 hang,hanging from,hang from,verb+preposition,22,oanc_candidate_unreviewed,COLLIGATION:hang:from:verb+preposition
 hang,hang over,hang over,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:hang:over:verb+preposition
-hang,hanging out,hang out,verb+particle,10,oanc_candidate_unreviewed,COLLIGATION:hang:out:verb+particle
+hang,hung out,hang out,verb+particle,10,oanc_candidate_unreviewed,COLLIGATION:hang:out:verb+particle
 hang,hung with,hang with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:hang:with:verb+preposition
 hang,hanging up,hang up,verb+particle,6,oanc_candidate_unreviewed,COLLIGATION:hang:up:verb+particle
 hang,hang of,hang of,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:hang:of:verb+preposition
@@ -143,7 +143,7 @@ head,head on,head on,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:h
 head,head out,head out,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:head:out:verb+preposition
 head,head over,head over,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:head:over:noun+preposition
 head,heading up,head up,verb+particle,13,oanc_candidate_unreviewed,COLLIGATION:head:up:verb+particle
-head,heads off,head off,verb+particle,12,oanc_candidate_unreviewed,COLLIGATION:head:off:verb+particle
+head,heading off,head off,verb+particle,12,oanc_candidate_unreviewed,COLLIGATION:head:off:verb+particle
 head,head off,head off,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:head:off:verb+preposition
 head,head out,head out,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:head:out:noun+preposition
 head,head off,head off,noun+particle,9,oanc_candidate_unreviewed,COLLIGATION:head:off:noun+particle
@@ -152,7 +152,7 @@ head,head at,head at,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:he
 head,heads from,head from,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:head:from:noun+preposition
 head,heads on,head on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:head:on:verb+preposition
 head,head by,head by,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:head:by:noun+preposition
-head,heads with,head with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:head:with:verb+preposition
+head,headed with,head with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:head:with:verb+preposition
 head,head against,head against,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:head:against:noun+preposition
 head,head that,head that,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:head:that:noun+preposition
 head,heading of,head of,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:head:of:verb+preposition
@@ -179,12 +179,12 @@ march,marched through,march through,verb+preposition,5,oanc_candidate_unreviewed
 march,marched to,march to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:march:to:verb+to
 mileage,mileage out,mileage out,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:mileage:out:noun+preposition
 motivate,motivated by,motivate by,verb+preposition,58,oanc_candidate_unreviewed,COLLIGATION:motivate:by:verb+preposition
-motivate,motivated to do,motivate to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:motivate:to:verb+to-infinitive
+motivate,motivated to contribute,motivate to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:motivate:to:verb+to-infinitive
 navigate,navigate through,navigate through,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:navigate:through:verb+preposition
 normal,normal in,normal in,adjective+preposition,27,oanc_candidate_unreviewed,COLLIGATION:normal:in:adjective+preposition
 normal,normal for,normal for,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:normal:for:adjective+preposition
 normal,normal to,normal to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:normal:to:adjective+to
-normal,normal to absent,normal to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:normal:to:adjective+to-infinitive
+normal,normal to provide,normal to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:normal:to:adjective+to-infinitive
 normal,normal with,normal with,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:normal:with:adjective+preposition
 obtain,obtained from,obtain from,verb+preposition,840,oanc_candidate_unreviewed,COLLIGATION:obtain:from:verb+preposition
 obtain,obtained by,obtain by,verb+preposition,208,oanc_candidate_unreviewed,COLLIGATION:obtain:by:verb+preposition
@@ -200,7 +200,7 @@ obtain,obtained on,obtain on,verb+preposition,22,oanc_candidate_unreviewed,COLLI
 obtain,obtained during,obtain during,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:obtain:during:verb+preposition
 obtain,obtained before,obtain before,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:obtain:before:verb+preposition
 obtain,obtained if,obtain if,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:obtain:if:verb+preposition
-obtain,obtained to provide,obtain to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:obtain:to:verb+to-infinitive
+obtain,obtained to plan,obtain to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:obtain:to:verb+to-infinitive
 obtain,obtained under,obtain under,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:obtain:under:verb+preposition
 obtain,obtained via,obtain via,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:obtain:via:verb+preposition
 official,officials of,official of,noun+preposition,80,oanc_candidate_unreviewed,COLLIGATION:official:of:noun+preposition
@@ -235,13 +235,13 @@ park,park along,park along,noun+preposition,5,oanc_candidate_unreviewed,COLLIGAT
 park,park for,park for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:park:for:noun+preposition
 park,parks as,park as,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:park:as:noun+preposition
 pass,passed through,pass through,verb+preposition,145,oanc_candidate_unreviewed,COLLIGATION:pass:through:verb+preposition
-pass,passed on,pass on,verb+preposition,92,oanc_candidate_unreviewed,COLLIGATION:pass:on:verb+preposition
+pass,pass on,pass on,verb+preposition,92,oanc_candidate_unreviewed,COLLIGATION:pass:on:verb+preposition
 pass,passed along,pass along,verb+preposition,63,oanc_candidate_unreviewed,COLLIGATION:pass:along:verb+preposition
 pass,passed over,pass over,verb+preposition,41,oanc_candidate_unreviewed,COLLIGATION:pass:over:verb+preposition
 pass,pass by,pass by,verb+preposition,39,oanc_candidate_unreviewed,COLLIGATION:pass:by:verb+preposition
-pass,passed in,pass in,verb+preposition,35,oanc_candidate_unreviewed,COLLIGATION:pass:in:verb+preposition
+pass,passing in,pass in,verb+preposition,35,oanc_candidate_unreviewed,COLLIGATION:pass:in:verb+preposition
 pass,passed to,pass to,verb+to,31,oanc_candidate_unreviewed,COLLIGATION:pass:to:verb+to
-pass,passes for,pass for,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:pass:for:verb+preposition
+pass,pass for,pass for,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:pass:for:verb+preposition
 pass,passes from,pass from,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:pass:from:verb+preposition
 pass,pass up,pass up,verb+particle,24,oanc_candidate_unreviewed,COLLIGATION:pass:up:verb+particle
 pass,pass of,pass of,noun+preposition,18,oanc_candidate_unreviewed,COLLIGATION:pass:of:noun+preposition
@@ -283,9 +283,9 @@ pathway,pathway via,pathway via,noun+preposition,8,oanc_candidate_unreviewed,COL
 pathway,pathway as,pathway as,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:pathway:as:noun+preposition
 pathway,pathway between,pathway between,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:pathway:between:noun+preposition
 pave,paved with,pave with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:pave:with:verb+preposition
-permit,permitted to take,permit to + infinitive,verb+to-infinitive,46,oanc_candidate_unreviewed,COLLIGATION:permit:to:verb+to-infinitive
-permit,permit dealing,permit VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:permit:VBG:verb+VBG
+permit,permitted to practice,permit to + infinitive,verb+to-infinitive,46,oanc_candidate_unreviewed,COLLIGATION:permit:to:verb+to-infinitive
 permit,permitted to,permit to,verb+to,14,oanc_candidate_unreviewed,COLLIGATION:permit:to:verb+to
+permit,permitting averaging,permit VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:permit:VBG:verb+VBG
 permit,permit to,permit to,noun+to,9,oanc_candidate_unreviewed,COLLIGATION:permit:to:noun+to
 permit,permits for,permit for,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:permit:for:verb+preposition
 permit,permitted by,permit by,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:permit:by:verb+preposition
@@ -302,7 +302,7 @@ principal,principal of,principal of,noun+preposition,6,oanc_candidate_unreviewed
 ramp,ramp to,ramp to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION:ramp:to:noun+to
 reverse,reversed by,reverse by,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:reverse:by:verb+preposition
 reverse,reversed in,reverse in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:reverse:in:verb+preposition
-reverse,reversed following,reverse VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:reverse:VBG:verb+VBG
+reverse,reverse transcribing,reverse VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:reverse:VBG:verb+VBG
 route,route to,route to,noun+to,83,oanc_candidate_unreviewed,COLLIGATION:route:to:noun+to
 route,route of,route of,noun+preposition,52,oanc_candidate_unreviewed,COLLIGATION:route:of:noun+preposition
 route,route in,route in,noun+preposition,30,oanc_candidate_unreviewed,COLLIGATION:route:in:noun+preposition
@@ -324,7 +324,7 @@ specialist,specialists for,specialist for,noun+preposition,10,oanc_candidate_unr
 stand,stood for,stand for,verb+preposition,129,oanc_candidate_unreviewed,COLLIGATION:stand:for:verb+preposition
 stand,stand in,stand in,verb+preposition,111,oanc_candidate_unreviewed,COLLIGATION:stand:in:verb+preposition
 stand,stands on,stand on,verb+preposition,95,oanc_candidate_unreviewed,COLLIGATION:stand:on:verb+preposition
-stand,standing by,stand by,verb+preposition,68,oanc_candidate_unreviewed,COLLIGATION:stand:by:verb+preposition
+stand,stands by,stand by,verb+preposition,68,oanc_candidate_unreviewed,COLLIGATION:stand:by:verb+preposition
 stand,stands at,stand at,verb+preposition,54,oanc_candidate_unreviewed,COLLIGATION:stand:at:verb+preposition
 stand,stand to gain,stand to + infinitive,verb+to-infinitive,48,oanc_candidate_unreviewed,COLLIGATION:stand:to:verb+to-infinitive
 stand,stands out,stand out,verb+preposition,48,oanc_candidate_unreviewed,COLLIGATION:stand:out:verb+preposition
@@ -335,8 +335,8 @@ stand,stood up,stand up,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATIO
 stand,stand against,stand against,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:stand:against:noun+preposition
 stand,stand of,stand of,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:stand:of:noun+preposition
 stand,stand for,stand for,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:stand:for:noun+preposition
+stand,stand around,stand around,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:stand:around:verb+preposition
 stand,stand in,stand in,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:stand:in:noun+preposition
-stand,stands around,stand around,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:stand:around:verb+preposition
 stand,stood before,stand before,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:stand:before:verb+preposition
 stand,stood behind,stand behind,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:stand:behind:verb+preposition
 stand,stands out,stand out,verb+particle,10,oanc_candidate_unreviewed,COLLIGATION:stand:out:verb+particle
@@ -352,7 +352,7 @@ surround,surrounded by,surround by,verb+preposition,185,oanc_candidate_unreviewe
 transportation,transportation to,transportation to,noun+to,13,oanc_candidate_unreviewed,COLLIGATION:transportation:to:noun+to
 transportation,transportation of,transportation of,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:transportation:of:noun+preposition
 trust,trust in,trust in,noun+preposition,27,oanc_candidate_unreviewed,COLLIGATION:trust:in:noun+preposition
-trust,trust to stand,trust to + infinitive,verb+to-infinitive,15,oanc_candidate_unreviewed,COLLIGATION:trust:to:verb+to-infinitive
+trust,trusted to understand,trust to + infinitive,verb+to-infinitive,15,oanc_candidate_unreviewed,COLLIGATION:trust:to:verb+to-infinitive
 trust,trust that,trust that,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:trust:that:verb+preposition
 trust,trust that,trust that,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:trust:that:noun+preposition
 trust,trust for,trust for,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:trust:for:noun+preposition

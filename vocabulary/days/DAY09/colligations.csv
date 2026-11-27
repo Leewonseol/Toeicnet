@@ -26,7 +26,7 @@ cast,cast by,cast by,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:ca
 cast,cast in,cast in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:cast:in:noun+preposition
 cast,cast on,cast on,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:cast:on:noun+preposition
 cease,ceased to exist,cease to + infinitive,verb+to-infinitive,64,oanc_candidate_unreviewed,COLLIGATION:cease:to:verb+to-infinitive
-cease,cease dividing,cease VBG,verb+VBG,15,oanc_candidate_unreviewed,COLLIGATION:cease:VBG:verb+VBG
+cease,ceased testing,cease VBG,verb+VBG,15,oanc_candidate_unreviewed,COLLIGATION:cease:VBG:verb+VBG
 collapse,collapse of,collapse of,noun+preposition,125,oanc_candidate_unreviewed,COLLIGATION:collapse:of:noun+preposition
 collapse,collapsed in,collapse in,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:collapse:in:verb+preposition
 collapse,collapsed into,collapse into,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:collapse:into:verb+preposition
@@ -42,7 +42,7 @@ consequence,consequences on,consequence on,noun+preposition,8,oanc_candidate_unr
 consequence,consequences as,consequence as,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:consequence:as:noun+preposition
 convenient,convenient to administer,convenient to + infinitive,adjective+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:convenient:to:adjective+to-infinitive
 convenient,convenient for,convenient for,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:convenient:for:adjective+preposition
-costly,costly to perpetuate,costly to + infinitive,adjective+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:costly:to:adjective+to-infinitive
+costly,costly to deliver,costly to + infinitive,adjective+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:costly:to:adjective+to-infinitive
 costly,costly to,costly to,adjective+to,8,oanc_candidate_unreviewed,COLLIGATION:costly:to:adjective+to
 costly,costly than,costly than,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:costly:than:adjective+preposition
 costly,costly for,costly for,adjective+preposition,6,oanc_candidate_unreviewed,COLLIGATION:costly:for:adjective+preposition
@@ -91,29 +91,29 @@ fall,fell into,fall into,verb+preposition,183,oanc_candidate_unreviewed,COLLIGAT
 fall,fall of,fall of,noun+preposition,145,oanc_candidate_unreviewed,COLLIGATION:fall:of:noun+preposition
 fall,fallen in,fall in,verb+preposition,130,oanc_candidate_unreviewed,COLLIGATION:fall:in:verb+preposition
 fall,fell to,fall to,verb+to,86,oanc_candidate_unreviewed,COLLIGATION:fall:to:verb+to
-fall,fell on,fall on,verb+preposition,70,oanc_candidate_unreviewed,COLLIGATION:fall:on:verb+preposition
+fall,fall on,fall on,verb+preposition,70,oanc_candidate_unreviewed,COLLIGATION:fall:on:verb+preposition
 fall,fell from,fall from,verb+preposition,55,oanc_candidate_unreviewed,COLLIGATION:fall:from:verb+preposition
 fall,falls in,fall in,noun+preposition,54,oanc_candidate_unreviewed,COLLIGATION:fall:in:noun+preposition
 fall,fall into,fall into,noun+preposition,48,oanc_candidate_unreviewed,COLLIGATION:fall:into:noun+preposition
 fall,fell within,fall within,verb+preposition,43,oanc_candidate_unreviewed,COLLIGATION:fall:within:verb+preposition
-fall,falling for,fall for,verb+preposition,40,oanc_candidate_unreviewed,COLLIGATION:fall:for:verb+preposition
+fall,fell for,fall for,verb+preposition,40,oanc_candidate_unreviewed,COLLIGATION:fall:for:verb+preposition
 fall,fell out,fall out,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:fall:out:verb+preposition
-fall,fall below,fall below,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:fall:below:verb+preposition
+fall,fell below,fall below,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:fall:below:verb+preposition
 fall,fell by,fall by,verb+preposition,30,oanc_candidate_unreviewed,COLLIGATION:fall:by:verb+preposition
 fall,falling outside,fall outside,verb+preposition,27,oanc_candidate_unreviewed,COLLIGATION:fall:outside:verb+preposition
 fall,fell under,fall under,verb+preposition,27,oanc_candidate_unreviewed,COLLIGATION:fall:under:verb+preposition
-fall,falls through,fall through,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:fall:through:verb+preposition
+fall,fell through,fall through,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:fall:through:verb+preposition
 fall,fall between,fall between,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:fall:between:verb+preposition
-fall,fell behind,fall behind,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:fall:behind:verb+preposition
+fall,fallen behind,fall behind,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:fall:behind:verb+preposition
 fall,fall from,fall from,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:fall:from:noun+preposition
 fall,fall on,fall on,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:fall:on:noun+preposition
 fall,fall off,fall off,verb+particle,10,oanc_candidate_unreviewed,COLLIGATION:fall:off:verb+particle
 fall,fall to,fall to,noun+to,10,oanc_candidate_unreviewed,COLLIGATION:fall:to:noun+to
 fall,fell off,fall off,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:fall:off:verb+preposition
-fall,fall as,fall as,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:fall:as:verb+preposition
+fall,falling as,fall as,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:fall:as:verb+preposition
 fall,fall at,fall at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fall:at:verb+preposition
 fall,fall outside,fall outside,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fall:outside:noun+preposition
-fall,fell over,fall over,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fall:over:verb+preposition
+fall,fall over,fall over,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fall:over:verb+preposition
 fall,fall by,fall by,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:fall:by:noun+preposition
 fall,fall during,fall during,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:fall:during:verb+preposition
 fall,fall within,fall within,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:fall:within:noun+preposition
@@ -162,10 +162,10 @@ infrastructure,infrastructure of,infrastructure of,noun+preposition,10,oanc_cand
 infrastructure,infrastructure to,infrastructure to,noun+to,8,oanc_candidate_unreviewed,COLLIGATION:infrastructure:to:noun+to
 infrastructure,infrastructure for,infrastructure for,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:infrastructure:for:noun+preposition
 infrastructure,infrastructure in,infrastructure in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:infrastructure:in:noun+preposition
-lead,lead to,lead to,verb+to,2148,oanc_candidate_unreviewed,COLLIGATION:lead:to:verb+to
+lead,leads to,lead to,verb+to,2148,oanc_candidate_unreviewed,COLLIGATION:lead:to:verb+to
 lead,lead with,lead with,verb+preposition,1021,oanc_candidate_unreviewed,COLLIGATION:lead:with:verb+preposition
 lead,led by,lead by,verb+preposition,206,oanc_candidate_unreviewed,COLLIGATION:lead:by:verb+preposition
-lead,led to power,lead to + infinitive,verb+to-infinitive,188,oanc_candidate_unreviewed,COLLIGATION:lead:to:verb+to-infinitive
+lead,led to reform,lead to + infinitive,verb+to-infinitive,188,oanc_candidate_unreviewed,COLLIGATION:lead:to:verb+to-infinitive
 lead,led at,lead at,verb+preposition,93,oanc_candidate_unreviewed,COLLIGATION:lead:at:verb+preposition
 lead,leads on,lead on,verb+preposition,55,oanc_candidate_unreviewed,COLLIGATION:lead:on:verb+preposition
 lead,lead with,lead with,noun+preposition,43,oanc_candidate_unreviewed,COLLIGATION:lead:with:noun+preposition
@@ -185,7 +185,7 @@ lead,lead about,lead about,noun+preposition,11,oanc_candidate_unreviewed,COLLIGA
 lead,leads out,lead out,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:lead:out:verb+preposition
 lead,lead over,lead over,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:lead:over:noun+preposition
 lead,lead on,lead on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:lead:on:noun+preposition
-lead,led raiding,lead VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:lead:VBG:verb+VBG
+lead,leading windsurfing,lead VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:lead:VBG:verb+VBG
 lead,leading off,lead off,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:lead:off:verb+preposition
 lead,leads for,lead for,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:lead:for:verb+preposition
 lead,lead for,lead for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:lead:for:noun+preposition
@@ -240,13 +240,13 @@ potential,potential to,potential to,noun+to,109,oanc_candidate_unreviewed,COLLIG
 potential,potential for,potential for,adjective+preposition,38,oanc_candidate_unreviewed,COLLIGATION:potential:for:adjective+preposition
 potential,potential in,potential in,adjective+preposition,17,oanc_candidate_unreviewed,COLLIGATION:potential:in:adjective+preposition
 potential,potential in,potential in,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:potential:in:noun+preposition
-potential,potential to impact,potential to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:potential:to:adjective+to-infinitive
+potential,potential to facilitate,potential to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:potential:to:adjective+to-infinitive
 potential,potential as,potential as,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:potential:as:adjective+preposition
 potential,potential from,potential from,adjective+preposition,6,oanc_candidate_unreviewed,COLLIGATION:potential:from:adjective+preposition
 potential,potential to,potential to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:potential:to:adjective+to
 potential,potentials from,potential from,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:potential:from:noun+preposition
 privatization,privatization of,privatization of,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:privatization:of:noun+preposition
-promising,promising to end,promising to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:promising:to:adjective+to-infinitive
+promising,promising to keep,promising to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:promising:to:adjective+to-infinitive
 promising,promising for,promising for,adjective+preposition,6,oanc_candidate_unreviewed,COLLIGATION:promising:for:adjective+preposition
 prospect,prospect of,prospect of,noun+preposition,113,oanc_candidate_unreviewed,COLLIGATION:prospect:of:noun+preposition
 prospect,prospect that,prospect that,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:prospect:that:noun+preposition
@@ -284,11 +284,11 @@ remain,remaining under,remain under,verb+preposition,15,oanc_candidate_unreviewe
 remain,remain with,remain with,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:remain:with:verb+preposition
 remain,remains below,remain below,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:remain:below:verb+preposition
 remain,remained after,remain after,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:remain:after:verb+preposition
+remain,remain from,remain from,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:remain:from:verb+preposition
 remain,remained above,remain above,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:remain:above:verb+preposition
-remain,remains from,remain from,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:remain:from:verb+preposition
 remain,remain about,remain about,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:remain:about:verb+preposition
 remain,remains to,remain to,verb+to,6,oanc_candidate_unreviewed,COLLIGATION:remain:to:verb+to
-remain,remain out,remain out,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:remain:out:verb+preposition
+remain,remained out,remain out,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:remain:out:verb+preposition
 remark,remarks about,remark about,noun+preposition,38,oanc_candidate_unreviewed,COLLIGATION:remark:about:noun+preposition
 remark,remarked that,remark that,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:remark:that:verb+preposition
 remark,remark that,remark that,noun+preposition,26,oanc_candidate_unreviewed,COLLIGATION:remark:that:noun+preposition
@@ -308,8 +308,8 @@ retrieval,retrieval of,retrieval of,noun+preposition,5,oanc_candidate_unreviewed
 rise,rise to,rise to,noun+to,208,oanc_candidate_unreviewed,COLLIGATION:rise:to:noun+to
 rise,rise in,rise in,noun+preposition,171,oanc_candidate_unreviewed,COLLIGATION:rise:in:noun+preposition
 rise,rise of,rise of,noun+preposition,156,oanc_candidate_unreviewed,COLLIGATION:rise:of:noun+preposition
-rise,rising to,rise to,verb+to,115,oanc_candidate_unreviewed,COLLIGATION:rise:to:verb+to
-rise,risen from,rise from,verb+preposition,80,oanc_candidate_unreviewed,COLLIGATION:rise:from:verb+preposition
+rise,rose to,rise to,verb+to,115,oanc_candidate_unreviewed,COLLIGATION:rise:to:verb+to
+rise,rose from,rise from,verb+preposition,80,oanc_candidate_unreviewed,COLLIGATION:rise:from:verb+preposition
 rise,rose in,rise in,verb+preposition,53,oanc_candidate_unreviewed,COLLIGATION:rise:in:verb+preposition
 rise,rises by,rise by,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:rise:by:verb+preposition
 rise,rise above,rise above,verb+preposition,31,oanc_candidate_unreviewed,COLLIGATION:rise:above:verb+preposition
@@ -319,9 +319,9 @@ rise,rising up,rise up,verb+particle,15,oanc_candidate_unreviewed,COLLIGATION:ri
 rise,rise with,rise with,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:rise:with:verb+preposition
 rise,rising out,rise out,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:rise:out:verb+preposition
 rise,rise as,rise as,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:rise:as:verb+preposition
-rise,rises on,rise on,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:rise:on:verb+preposition
+rise,rising on,rise on,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:rise:on:verb+preposition
 rise,rose at,rise at,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:rise:at:verb+preposition
-rise,rises about,rise about,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:rise:about:verb+preposition
+rise,risen about,rise about,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:rise:about:verb+preposition
 rise,rises for,rise for,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:rise:for:verb+preposition
 rise,rises over,rise over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:rise:over:verb+preposition
 session,session of,session of,noun+preposition,32,oanc_candidate_unreviewed,COLLIGATION:session:of:noun+preposition

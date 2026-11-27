@@ -69,7 +69,7 @@
   "vocabulary/days/DAY07/collocations.csv": 194,
   "vocabulary/days/DAY07/colligations.csv": 400,
   "vocabulary/days/DAY07/idioms.csv": 18,
-  "vocabulary/days/DAY08/headwords.csv": 168,
+  "vocabulary/days/DAY08/headwords.csv": 170,
   "vocabulary/days/DAY08/derivations.csv": 43,
   "vocabulary/days/DAY08/historical_roots.csv": 102,
   "vocabulary/days/DAY08/synonyms.csv": 67,
@@ -95,7 +95,7 @@
   "vocabulary/days/DAY10/collocations.csv": 222,
   "vocabulary/days/DAY10/colligations.csv": 432,
   "vocabulary/days/DAY10/idioms.csv": 6,
-  "vocabulary/days/DAY11/headwords.csv": 168,
+  "vocabulary/days/DAY11/headwords.csv": 173,
   "vocabulary/days/DAY11/derivations.csv": 61,
   "vocabulary/days/DAY11/historical_roots.csv": 112,
   "vocabulary/days/DAY11/synonyms.csv": 79,
@@ -176,7 +176,7 @@
   "vocabulary/days/DAY19/collocations.csv": 256,
   "vocabulary/days/DAY19/colligations.csv": 568,
   "vocabulary/days/DAY19/idioms.csv": 5,
-  "vocabulary/days/DAY20/headwords.csv": 169,
+  "vocabulary/days/DAY20/headwords.csv": 170,
   "vocabulary/days/DAY20/derivations.csv": 46,
   "vocabulary/days/DAY20/historical_roots.csv": 106,
   "vocabulary/days/DAY20/synonyms.csv": 40,
@@ -230,7 +230,7 @@
   "vocabulary/days/DAY25/collocations.csv": 176,
   "vocabulary/days/DAY25/colligations.csv": 391,
   "vocabulary/days/DAY25/idioms.csv": 13,
-  "vocabulary/days/DAY26/headwords.csv": 170,
+  "vocabulary/days/DAY26/headwords.csv": 171,
   "vocabulary/days/DAY26/derivations.csv": 37,
   "vocabulary/days/DAY26/historical_roots.csv": 91,
   "vocabulary/days/DAY26/synonyms.csv": 28,
@@ -275,6 +275,7 @@
   "vocabulary/days/DAY30/collocations.csv": 233,
   "vocabulary/days/DAY30/colligations.csv": 323,
   "vocabulary/days/DAY30/idioms.csv": 12,
+  "vocabulary/review/pdf_crosscheck.csv": 3839,
   "vocabulary/review/model_review.jsonl": 174,
   "vocabulary/review/gold_sample_and_holdout.jsonl": 140,
   "csv/headwords.csv": 5071,
@@ -295,37 +296,37 @@
   "toeicnet_rebuild_v2.apkg:notes": 1776,
   "lexicon/kaikki_targets.jsonl.gz": {
    "parts": 2,
-   "sha256_joined": "e6b90117bd8a8b746ca57dae4b600c4b322406d4ddfb0d61c2e6eefd2684081c"
+   "sha256_joined": "6020e24913c6525f754a785b0e0c3415f7f145e79cfb07a80ed2f42386b7c623"
   },
   "lexicon/kaikki_korean.jsonl.gz": {
    "parts": 1,
-   "sha256_joined": "c5c0fcacae20e80ce0673c872cf458c82a6cf3039988e6648c96cf17d050e632"
+   "sha256_joined": "dd85c3b648f977f253b80a305f75126de801525f08d9584b19800165e529c89e"
   },
   "lexicon/wordnet_targets.json.gz": {
    "parts": 1,
-   "sha256_joined": "2c9accaea0a95db0a8907040fed9b08b4ef3b95b463d67d1a92869a12bccf72f"
+   "sha256_joined": "6f60c3dec26cc3a5c8dd339671f70334121426761119c5999dbef50969132548"
   },
   "lexicon/gcide_targets.jsonl.gz": {
    "parts": 1,
-   "sha256_joined": "30b1acc5231b1c1154d60da44cf6219d8ee8022ed3126ba3bf6b59a06f09a933"
+   "sha256_joined": "7821ca8801883c60a7e7755488b28201eb6e34fd3f3e6e632b46c9b9de2b8250"
   },
   "lexicon/oanc_usage.jsonl.gz": {
    "parts": 2,
-   "sha256_joined": "5f41b5f3346548450ed06050487e054b4ade24457e9ca75508668b5a886d0b35"
+   "sha256_joined": "c9c325b7449b18cdbe187bed7c3e1a8f07667e19de5711f893eadb6d5fb4ec93"
   }
  },
  "files": {
   "vocabulary/README.md": {
-   "bytes": 12574,
-   "sha256": "d8f0321f8ca223d6ae803dc37fe58774f278457759ab50f2bd9e700b653c6032"
+   "bytes": 12980,
+   "sha256": "a550cd9ac182dd39ab5ef229e41a8207232f007f44f6893f2b237cb0cc877385"
   },
   "vocabulary/days/DAY01/antonyms.csv": {
    "bytes": 615,
    "sha256": "d5f58bcb71ec5917ab58265a516c61e3cea131e1132285a56942fc348816ebdd"
   },
   "vocabulary/days/DAY01/colligations.csv": {
-   "bytes": 43681,
-   "sha256": "f20cadda030bd839aa86b3da31934b3afa364d0d72e9466aa771ab709a8a8dd7"
+   "bytes": 43678,
+   "sha256": "3d6695a0953986b6e5ca02953d2bf0271cf5aedc8137b9ca9e0ec786f8fdaa94"
   },
   "vocabulary/days/DAY01/collocations.csv": {
    "bytes": 21637,
@@ -336,8 +337,8 @@
    "sha256": "4f191478e22ae905824bfd18e404f48e57e1b0942b2a5ef368702dcefef257b9"
   },
   "vocabulary/days/DAY01/headwords.csv": {
-   "bytes": 26720,
-   "sha256": "1cfe6fc8a6c334e6470675aaa0db4aab05ef8075310ac663abe0096c24defc2f"
+   "bytes": 31835,
+   "sha256": "6fed69b9b0f972b0dd1c79128899fe1c7fc8bded73f569be5b4b89cf314d4096"
   },
   "vocabulary/days/DAY01/historical_roots.csv": {
    "bytes": 7500,
@@ -364,8 +365,8 @@
    "sha256": "01ce7905d3cc81b19d1e583083bf8d1ae5919c482615ec5cc0ea27b2a6b1651f"
   },
   "vocabulary/days/DAY02/colligations.csv": {
-   "bytes": 66095,
-   "sha256": "e03e9a0dd046a633d0e004c0078cb243dc07bd7bfc730ff89c39e85618d0317c"
+   "bytes": 66088,
+   "sha256": "8356902adcc117dd9c4d42546dee26ae3cd97b7130acb9b6a8396add7a8a934f"
   },
   "vocabulary/days/DAY02/collocations.csv": {
    "bytes": 33737,
@@ -376,8 +377,8 @@
    "sha256": "98544d536947f04bb8c526a39419482ccfaf9b53fda98eb2f926831e0fcbdbb8"
   },
   "vocabulary/days/DAY02/headwords.csv": {
-   "bytes": 26238,
-   "sha256": "5b563cac4816d446bf9d9b06ebd8c6b3b44190e44f150ddaeed71301e74e5cdd"
+   "bytes": 31218,
+   "sha256": "7b225437dc70bcf1f5d943ca61e76c37b6c719faf2f4bc81ca7c3ee596b8b09c"
   },
   "vocabulary/days/DAY02/historical_roots.csv": {
    "bytes": 8479,
@@ -404,8 +405,8 @@
    "sha256": "f00264975715b61bc872feb443e8af265a671de48bf3e3d8f4249a9cda57125d"
   },
   "vocabulary/days/DAY03/colligations.csv": {
-   "bytes": 41719,
-   "sha256": "2e8a9892a350394055b65085c583aa72bacd6f9ba341345219dd70e6bd104bfc"
+   "bytes": 41720,
+   "sha256": "43c7a84abd7944afb302927d9cc1408a229c9d226aaf04dc23d2d4dc3ada8570"
   },
   "vocabulary/days/DAY03/collocations.csv": {
    "bytes": 16438,
@@ -416,8 +417,8 @@
    "sha256": "d462b3612a36c12ef303fec49b810ada7c9b53df7ae7929427f8a07fd39f06cf"
   },
   "vocabulary/days/DAY03/headwords.csv": {
-   "bytes": 24060,
-   "sha256": "678a332cc60bfc1572d607a0814c1d1df57f6a4592b5a37d8f60d5ba80f13031"
+   "bytes": 29171,
+   "sha256": "81be7978a7f283f43dcaf2c5fcdc2dffb9dcaa2a52e252c136b9119d98990882"
   },
   "vocabulary/days/DAY03/historical_roots.csv": {
    "bytes": 6480,
@@ -444,8 +445,8 @@
    "sha256": "e64a83fcbd9ac1cfa7b82f39df89ac4024b36b595b63a51eee02019133cdcf94"
   },
   "vocabulary/days/DAY04/colligations.csv": {
-   "bytes": 40065,
-   "sha256": "4560d7e6c62ef18e090d6782e969dccea3ce87db898b6ba61e562e4660e4f45f"
+   "bytes": 40067,
+   "sha256": "e8c867e2a999a2fc06b9962305f8b8cbba9124c95b54b84d39b737859e6ffb68"
   },
   "vocabulary/days/DAY04/collocations.csv": {
    "bytes": 15606,
@@ -456,8 +457,8 @@
    "sha256": "12f4d708c475802ed3101c3e06113dbcc108676e8a8d046836d639dc74e55f20"
   },
   "vocabulary/days/DAY04/headwords.csv": {
-   "bytes": 25311,
-   "sha256": "22d3a8df055ad78972f5375cd017539c348ec0979b754c6b982200fc8505df73"
+   "bytes": 30505,
+   "sha256": "3876581453b0dc7a0c2a95ef275b7254512b085883f29c694448b4a8b918591c"
   },
   "vocabulary/days/DAY04/historical_roots.csv": {
    "bytes": 7241,
@@ -484,8 +485,8 @@
    "sha256": "ec35c9f414698c3fe67f3077ddd7a981e084899ff7e505c3806c665fee0278d8"
   },
   "vocabulary/days/DAY05/colligations.csv": {
-   "bytes": 42549,
-   "sha256": "9cfd1d9c0e33adc08d77fb0d925efd9f203a99061f1f1904321f0af1e0a975b7"
+   "bytes": 42538,
+   "sha256": "a391fd4f5ec6b3ccba6655f953d73a491b3c959389636f9dac173bf4de50423c"
   },
   "vocabulary/days/DAY05/collocations.csv": {
    "bytes": 21845,
@@ -496,8 +497,8 @@
    "sha256": "2653f371724a6c2291a1fdcecd80b2d568bd33c5bd55e1b1912b21f862907fb7"
   },
   "vocabulary/days/DAY05/headwords.csv": {
-   "bytes": 24328,
-   "sha256": "1d404c6c5c0bb5120714f2cb413651eeb8da8d4523cec65a030434a3963acbfb"
+   "bytes": 29414,
+   "sha256": "566d8a1aff8829358bff943ca5d03192a5d10db8c75cbe325d92fb0e434313d2"
   },
   "vocabulary/days/DAY05/historical_roots.csv": {
    "bytes": 7740,
@@ -524,8 +525,8 @@
    "sha256": "4b04c6dcce08c3869e9b19fbb1d77e889234e38e28279d385a3b6973332e52d2"
   },
   "vocabulary/days/DAY06/colligations.csv": {
-   "bytes": 55108,
-   "sha256": "839db78350ff47c177ed560977e42261e771832ca5c944cd9009f933644a8845"
+   "bytes": 55109,
+   "sha256": "80866f9d69d2978ef9f23cec08388960ae5bf10ebb8f672a51bc38f2a4274632"
   },
   "vocabulary/days/DAY06/collocations.csv": {
    "bytes": 24428,
@@ -536,8 +537,8 @@
    "sha256": "f78a944d884e7be937dfab11d1358e3cb97896372e9e7c13dcfd37816cda1c95"
   },
   "vocabulary/days/DAY06/headwords.csv": {
-   "bytes": 26667,
-   "sha256": "d48bc177ebc78e53d8190104b69bb258ec3935362140525ca472798176bce48a"
+   "bytes": 31891,
+   "sha256": "0b0dffc62ac199a69a663cfd1e46321df276a3afb4738b01b4123bfb4ab3044e"
   },
   "vocabulary/days/DAY06/historical_roots.csv": {
    "bytes": 7341,
@@ -564,8 +565,8 @@
    "sha256": "5b5489948be17d5545dcabe7561ffc8db61a8938b11ca75ff50b24c940a60659"
   },
   "vocabulary/days/DAY07/colligations.csv": {
-   "bytes": 48349,
-   "sha256": "c8e679c4a7deb6ace37fb3e9d9f0b25ec3a226d519c49e72769201b1d8bd7576"
+   "bytes": 48336,
+   "sha256": "3cf4aa78173bd9341837d4436df2e56b56bb50c4abcb5f1bdbea877f61c3bfda"
   },
   "vocabulary/days/DAY07/collocations.csv": {
    "bytes": 25966,
@@ -576,8 +577,8 @@
    "sha256": "0f19e5e086c5e36d02354b1a24a222f04f11d254b8fb52749440e71d3c299920"
   },
   "vocabulary/days/DAY07/headwords.csv": {
-   "bytes": 26044,
-   "sha256": "65d75db53c6f3c9f459f893da9e843b671d96a322ea75874dc87829c05d62b68"
+   "bytes": 31132,
+   "sha256": "731c16ca2ae0f6395c54624068f36211cdcf34a9328ffe8c665e5a9c8b8d5d92"
   },
   "vocabulary/days/DAY07/historical_roots.csv": {
    "bytes": 7059,
@@ -604,8 +605,8 @@
    "sha256": "ba36b3b91d8d2395f80ca4f8bb871d40c1521e7eb47ef8f606c2a44218157362"
   },
   "vocabulary/days/DAY08/colligations.csv": {
-   "bytes": 48435,
-   "sha256": "206b1fb8a37deac300f442b4fba65895e2eb2854e8ce3806d41bebbb72b372bf"
+   "bytes": 48439,
+   "sha256": "0ffb39fb1c5f8bf8fe7a01ddd78136bcc74fc1d129a7a97db27613b0eaa0e0cf"
   },
   "vocabulary/days/DAY08/collocations.csv": {
    "bytes": 25304,
@@ -616,8 +617,8 @@
    "sha256": "106fa9889250b0fabba161a34208d421104a5c5fab04e60cabc0aa18c0e60630"
   },
   "vocabulary/days/DAY08/headwords.csv": {
-   "bytes": 24984,
-   "sha256": "173061fd4c2d5bc146af362b4069a6a673c4f6d6ff6e5021a067ba6d4b147dc9"
+   "bytes": 30517,
+   "sha256": "e5a13d2894d35ed98ef5de26c098300fb7e234245195c3ea3184e785b6e3a2b8"
   },
   "vocabulary/days/DAY08/historical_roots.csv": {
    "bytes": 7350,
@@ -644,8 +645,8 @@
    "sha256": "4d7cc1025d680d445564f03c73f604ca58bb82c106d1b22b63b1fdafe621d657"
   },
   "vocabulary/days/DAY09/colligations.csv": {
-   "bytes": 46607,
-   "sha256": "0b79a4e69a5b980f3c5723cc7d288a221aa21d8877071ebd74db5015c17cb162"
+   "bytes": 46619,
+   "sha256": "3e4ab0c83baf67e8221988b6ab7e5f76bdced295eefd4a1473d8834812f6238b"
   },
   "vocabulary/days/DAY09/collocations.csv": {
    "bytes": 27397,
@@ -656,8 +657,8 @@
    "sha256": "500e092df38fd746938a6bfb803c13bfd81b9d00895e79d378a7bcb2aef1e044"
   },
   "vocabulary/days/DAY09/headwords.csv": {
-   "bytes": 24882,
-   "sha256": "1a60037634acbd8d9f2af1e89d2252ac6de67afda542c9a68d7cea70e863af2f"
+   "bytes": 29916,
+   "sha256": "525c6e14d272718bd4db53b12417c30ac7435649b60357c633b4e07adb083553"
   },
   "vocabulary/days/DAY09/historical_roots.csv": {
    "bytes": 8105,
@@ -680,8 +681,8 @@
    "sha256": "53859bd76f93703d531f392817df120947178b076342071c4b455a07c5a3ac4e"
   },
   "vocabulary/days/DAY10/colligations.csv": {
-   "bytes": 49379,
-   "sha256": "1d919fe206a62432c85a54af437cda6cce6a188e06433c2b4033232a8a016cfa"
+   "bytes": 49358,
+   "sha256": "ff63a103f4ab9b11924dbfac95c2e25a598181ac18b984b8959410dafe77942e"
   },
   "vocabulary/days/DAY10/collocations.csv": {
    "bytes": 28087,
@@ -692,8 +693,8 @@
    "sha256": "df907d4fdc33adc20d3ddc383576ba1d0642cdd8df859d2e962d0188aabcb40a"
   },
   "vocabulary/days/DAY10/headwords.csv": {
-   "bytes": 26111,
-   "sha256": "75697a3769cb1912f9d64b0fc34dd169089f1144e31f043c55190f8bd5033c9b"
+   "bytes": 31315,
+   "sha256": "1cbfedfc318e06c816c024c20bd374353fffb43e45c6d46fa0faba4be6595718"
   },
   "vocabulary/days/DAY10/historical_roots.csv": {
    "bytes": 8169,
@@ -720,8 +721,8 @@
    "sha256": "ce002ce3c3eff990a2b99a5f316e6ff15c52b594a620c1595023f15186c993dd"
   },
   "vocabulary/days/DAY11/colligations.csv": {
-   "bytes": 58641,
-   "sha256": "93a109ab7e13d346effc6a8b35588088eef9cd2236e64171e75c2357518b6033"
+   "bytes": 58648,
+   "sha256": "0bf76f2aaedf1478d58f0d2dc352d5f085b7c76b9daeaa93cd528c52b5a1ca86"
   },
   "vocabulary/days/DAY11/collocations.csv": {
    "bytes": 32248,
@@ -732,8 +733,8 @@
    "sha256": "513335e9074014cf050fa937cbe2ed2f494b237360caba0153566e38964ede03"
   },
   "vocabulary/days/DAY11/headwords.csv": {
-   "bytes": 26720,
-   "sha256": "11494fc5a6a1a87f57ab92aab5afc3d5d184efb9280d319efec0dcd77517c6d5"
+   "bytes": 32842,
+   "sha256": "b7d24faf05323782b5de1787bc54793fdd253f7499e6c3aaea9106c17606cdfc"
   },
   "vocabulary/days/DAY11/historical_roots.csv": {
    "bytes": 8180,
@@ -760,8 +761,8 @@
    "sha256": "80817497a23150f5623575068e904d79a7ab1b0cfe8b1f34cd43fb19dfa4b7b4"
   },
   "vocabulary/days/DAY12/colligations.csv": {
-   "bytes": 42317,
-   "sha256": "b2e84f0b53d2477c469005c6d5acca64e5cf43817904c12f1a5d022608280b2c"
+   "bytes": 42316,
+   "sha256": "587e7331d43f2f7e57ceaef6d0ee9bff7f1222778f0096e3f88ce03ceb5daa42"
   },
   "vocabulary/days/DAY12/collocations.csv": {
    "bytes": 26329,
@@ -772,8 +773,8 @@
    "sha256": "48773ba5c00d657ceca40c87198bb5cd76c75880993cd04be68a019175fd957e"
   },
   "vocabulary/days/DAY12/headwords.csv": {
-   "bytes": 25049,
-   "sha256": "62d9b0353adf841a60bd65314957379242ec8c7576879be3ab0f4fb60c64fb4b"
+   "bytes": 30322,
+   "sha256": "e30f82f1182d1f5594faba27c48c725af4edce31ec453ad0cdbb8ea78590a24c"
   },
   "vocabulary/days/DAY12/historical_roots.csv": {
    "bytes": 7442,
@@ -800,8 +801,8 @@
    "sha256": "4cdc648c3c569df6a23a3ac58f38857f011c19eb0aba1f51dd7a8aa9d2323bba"
   },
   "vocabulary/days/DAY13/colligations.csv": {
-   "bytes": 47906,
-   "sha256": "b21f5b21251c35c82a5a492b702722b64e4cf829dc2bee22024a8199e0eabeb4"
+   "bytes": 47907,
+   "sha256": "a85bd20e80148a65c3ccf7f1f4e707597ff69246c47ca811935c49a7cd6759b9"
   },
   "vocabulary/days/DAY13/collocations.csv": {
    "bytes": 21482,
@@ -812,8 +813,8 @@
    "sha256": "a7a5391babd7211e939cae10ecd85d87502022cc21be9993ab6cf917ce521ee9"
   },
   "vocabulary/days/DAY13/headwords.csv": {
-   "bytes": 24814,
-   "sha256": "492d7797f273908804ac2cccbf70dfae345b9130ad43f4f1233010f7aedea9e6"
+   "bytes": 30106,
+   "sha256": "f73a1ed9f0b6adbeac92940293822c7c5c28a09c7b4c1768889d882e027f92e4"
   },
   "vocabulary/days/DAY13/historical_roots.csv": {
    "bytes": 7909,
@@ -840,8 +841,8 @@
    "sha256": "6eb60f3fda736307ccd99c1e7208b7611210fe8344f1183670340dfdf2db11fa"
   },
   "vocabulary/days/DAY14/colligations.csv": {
-   "bytes": 43335,
-   "sha256": "c8cb505b5253f652f694e0154a7680f96a6f935af2af94bb77ad33c0129b86b7"
+   "bytes": 43332,
+   "sha256": "08c7c4581c3a6cc356c35a7566de2c4b558c5b9bfb59cf5393856ebbbefb18ef"
   },
   "vocabulary/days/DAY14/collocations.csv": {
    "bytes": 28311,
@@ -852,8 +853,8 @@
    "sha256": "51770d3bad6bfdd86637a465024745f075e1541f89b11376b03b6282ccef2493"
   },
   "vocabulary/days/DAY14/headwords.csv": {
-   "bytes": 26612,
-   "sha256": "b346fee196459153ca595d26156442381f516ceb355b4a69c03fd81001b52cfd"
+   "bytes": 32175,
+   "sha256": "2d8407aa3a633d314e0c54def4077822aae8f9d75a77d53f588e7b3f93d4eb4c"
   },
   "vocabulary/days/DAY14/historical_roots.csv": {
    "bytes": 8478,
@@ -880,8 +881,8 @@
    "sha256": "56a37845ca6f1c6565bf97996119718a17c86aa9cdaa7d48424d797d52680115"
   },
   "vocabulary/days/DAY15/colligations.csv": {
-   "bytes": 48542,
-   "sha256": "42268e341e4a307935ce08e8876f1ea14be0b2d614c7a328fdec3d6c9ee2d94a"
+   "bytes": 48507,
+   "sha256": "072d3e677ffefc7c1d86dfb620c39b2b7501b9de42fac5eab6f463a44f105f9b"
   },
   "vocabulary/days/DAY15/collocations.csv": {
    "bytes": 23325,
@@ -892,8 +893,8 @@
    "sha256": "443afb5c6260b732b2a084acd87a3df1a6fe72d68da851d48d7094da31e69dad"
   },
   "vocabulary/days/DAY15/headwords.csv": {
-   "bytes": 24658,
-   "sha256": "fcc2bf6ffe19580236c1b757db0f68a74d2190a19845613dbc2e868970aa3792"
+   "bytes": 30273,
+   "sha256": "4881a6a34c7a3ed99984112cde4cfcb9904735ebf9614c19a5d67593646899cf"
   },
   "vocabulary/days/DAY15/historical_roots.csv": {
    "bytes": 8029,
@@ -920,8 +921,8 @@
    "sha256": "259a0d44739c022720982334bdb8f77c64ce28719ace2d7c7c6406dff22838ab"
   },
   "vocabulary/days/DAY16/colligations.csv": {
-   "bytes": 67915,
-   "sha256": "3bf8933f0f41ace1ca97ef17ee13ce8f669e0b60ced8f68ec32b6e5eee39da2a"
+   "bytes": 67911,
+   "sha256": "c826d5615c24c7392c28e547a906a362f554ec4b4ee4d6aad179b603be2fa27b"
   },
   "vocabulary/days/DAY16/collocations.csv": {
    "bytes": 30085,
@@ -932,8 +933,8 @@
    "sha256": "0b646077621868a782e191449416fd137b88d18d8dc73a987f757ac88828709f"
   },
   "vocabulary/days/DAY16/headwords.csv": {
-   "bytes": 26270,
-   "sha256": "91f83a78dd4508598ccae3de8e95c7e3ca71d6251f2f3c6a2bedf46e549135e6"
+   "bytes": 30949,
+   "sha256": "f174fafe522fc7edb68dadce85bd2a05f623ae81b2984eca6817b7e7e813c54c"
   },
   "vocabulary/days/DAY16/historical_roots.csv": {
    "bytes": 7715,
@@ -960,8 +961,8 @@
    "sha256": "9b62f8f72d3613f1d9b08a30e6b298374e71515d24c0c9d9a446e8a4a0c91e1d"
   },
   "vocabulary/days/DAY17/colligations.csv": {
-   "bytes": 42399,
-   "sha256": "14c0ea2808f64f54ec89d77ca5830da046309f7403413f529ae240260cd95663"
+   "bytes": 42406,
+   "sha256": "667a527982311a64e07778232234e1421b643ad5e5d4aa93dcceb301cc7bbb43"
   },
   "vocabulary/days/DAY17/collocations.csv": {
    "bytes": 23403,
@@ -972,8 +973,8 @@
    "sha256": "e76ac7ba3d99698814252e15f905b165c2f81ffc1b526c9072c639cca00a0c8f"
   },
   "vocabulary/days/DAY17/headwords.csv": {
-   "bytes": 25266,
-   "sha256": "9b6ab756785578a2e0a5fd70f016d914bc2b9db4d315cfdfba68938b5439ef9a"
+   "bytes": 30186,
+   "sha256": "8997c08eae9ffd78582f5d74ccb711a2fedcdc1a494ac089aeed52c8e09c30c3"
   },
   "vocabulary/days/DAY17/historical_roots.csv": {
    "bytes": 7741,
@@ -1000,8 +1001,8 @@
    "sha256": "af9d3e6f15c9f7acf1ea9e72decab80495464ccbfb0d00d3a607b596b321f87c"
   },
   "vocabulary/days/DAY18/colligations.csv": {
-   "bytes": 39166,
-   "sha256": "bd7f241860d5c152649de73edd2e79463eaa747394da7dfaf62428c9e597d6e1"
+   "bytes": 39168,
+   "sha256": "2b8294f07dc1346547a92c190576a5ce6a0885e7176e4fe6167ca7d35d34ab02"
   },
   "vocabulary/days/DAY18/collocations.csv": {
    "bytes": 14437,
@@ -1012,8 +1013,8 @@
    "sha256": "1d094623d0a963ddffdf203a07396b309023fff3743b0df98885e7d7b467dcdb"
   },
   "vocabulary/days/DAY18/headwords.csv": {
-   "bytes": 25696,
-   "sha256": "2b11a5dd1a504c9993e8107c3adef20540ff8818165bbbf8591c53946981c044"
+   "bytes": 30583,
+   "sha256": "ea7fb321f9cdf81d41d9de8cce59075adcc5920e1a854282ffbc3e6d7a314a86"
   },
   "vocabulary/days/DAY18/historical_roots.csv": {
    "bytes": 8314,
@@ -1040,8 +1041,8 @@
    "sha256": "5784333b89a1d64d550c5ec432c501557cdf5362d2c0c2b03e8db03a4a33d5eb"
   },
   "vocabulary/days/DAY19/colligations.csv": {
-   "bytes": 67172,
-   "sha256": "acd97988f10bb8f21fce75eb2f117cc35ec6c20983dc0ae395f1e535a64cf7c2"
+   "bytes": 67181,
+   "sha256": "dda644e124717669fd711d51aba00eafe5a5bc01f7088ab391c3921598b39bac"
   },
   "vocabulary/days/DAY19/collocations.csv": {
    "bytes": 33324,
@@ -1052,8 +1053,8 @@
    "sha256": "9b8d32f601a0c7bc934863711d7a5277f2b7479f69946a0fccbc14dc60ff72f3"
   },
   "vocabulary/days/DAY19/headwords.csv": {
-   "bytes": 23890,
-   "sha256": "b3bd254dc23fd96be1a0ae6ac4b90d751bb60604239f876fde895984dfbc37bc"
+   "bytes": 29010,
+   "sha256": "b3a9526cc4116a90fc7f6e4b9ebacd7cee30e2d131d6e3f27f5eeb3d0431490a"
   },
   "vocabulary/days/DAY19/historical_roots.csv": {
    "bytes": 8365,
@@ -1080,8 +1081,8 @@
    "sha256": "edc3fc4a17af7d25da010e82d79c3babe824c502c05a66adf762772355a0c07c"
   },
   "vocabulary/days/DAY20/colligations.csv": {
-   "bytes": 48324,
-   "sha256": "dad3647af76aec0354a6aadaa635782462a6f0173e7ff0c768ecf5923b44fb15"
+   "bytes": 48328,
+   "sha256": "51065bd5504eedff044a32e67873937b0bc6fbc6ec9d09d1315435152de2fc3b"
   },
   "vocabulary/days/DAY20/collocations.csv": {
    "bytes": 29486,
@@ -1092,8 +1093,8 @@
    "sha256": "a954c9797f9e7cab480dccef55a6b518a7c6582181ad609a4a4e17f41e82b146"
   },
   "vocabulary/days/DAY20/headwords.csv": {
-   "bytes": 25909,
-   "sha256": "b1ec2a188612f5cee5ef37d43d77bc851f0891be9a051513b52d190aa87904a0"
+   "bytes": 31119,
+   "sha256": "51840faaf097b8248c76cc423296c96d03465d8fff08114a0b830f80f27b3f66"
   },
   "vocabulary/days/DAY20/historical_roots.csv": {
    "bytes": 7743,
@@ -1120,8 +1121,8 @@
    "sha256": "622ff5be36a07e5e40ced9426676c88f2f70b7dd90a3791c6c775c9c02f40ed3"
   },
   "vocabulary/days/DAY21/colligations.csv": {
-   "bytes": 63280,
-   "sha256": "9e2aae7abac735d1e4606c690962a9fda1701f2d59b18dc0105743e39ba626b1"
+   "bytes": 63290,
+   "sha256": "3fdab9c5c25f060defe2a33388f09de7af2d74fe561b2043f13d1e0c2d163120"
   },
   "vocabulary/days/DAY21/collocations.csv": {
    "bytes": 29201,
@@ -1132,8 +1133,8 @@
    "sha256": "3b1800b7e97a07f280aec89c2ec2cdac10283e4b54efde7ed0702665f7d93b97"
   },
   "vocabulary/days/DAY21/headwords.csv": {
-   "bytes": 24689,
-   "sha256": "e1e3b54eee08dbddca2838afd38c2ef08914ed968456128fc7c1dfcd5ce718fd"
+   "bytes": 29712,
+   "sha256": "60e876a69e5428a4ddb7fc33210f782dcd4ddebf38a8bb79aca0d65db583a6d2"
   },
   "vocabulary/days/DAY21/historical_roots.csv": {
    "bytes": 8796,
@@ -1160,8 +1161,8 @@
    "sha256": "688824e4ea1c994c70fcc43be8cf32d561b386f4de6717e52a26417b705cff55"
   },
   "vocabulary/days/DAY22/colligations.csv": {
-   "bytes": 56525,
-   "sha256": "b9e352d55f77871cd42a6c5e1915a9b4dd723c5eb6935edb3823682162f7897a"
+   "bytes": 56549,
+   "sha256": "94eb5e3aab83761f6844700955b7def02ad6a5f28e8d840c2cfdff1d8093f039"
   },
   "vocabulary/days/DAY22/collocations.csv": {
    "bytes": 22728,
@@ -1172,8 +1173,8 @@
    "sha256": "01963f48d6395db1fa05eef08118bb8a206abbbcc7fd1b0ec5e1f249a509c12a"
   },
   "vocabulary/days/DAY22/headwords.csv": {
-   "bytes": 26223,
-   "sha256": "e86041af6c4fef2b76b4f1e6e020c7ecf2105acad72bdfc22f3a87f4c3b48110"
+   "bytes": 31279,
+   "sha256": "0d77cc38023af71e08a3a523a3fea05d1ee4ce730917832456bbfbb0341e47dc"
   },
   "vocabulary/days/DAY22/historical_roots.csv": {
    "bytes": 6553,
@@ -1200,8 +1201,8 @@
    "sha256": "16659991a579ef7b1f64afd283ea1a89889031bc5c7aac51821e2f5a1ee212fb"
   },
   "vocabulary/days/DAY23/colligations.csv": {
-   "bytes": 47422,
-   "sha256": "c024850cfb3969ed3fa1ce10f03e94308b0af5ba0854e82ddc3c29199d58fd31"
+   "bytes": 47415,
+   "sha256": "beb3d95d6d43ee6d7010f752e93c55b282852a8fd749883d3c6c314a8d618229"
   },
   "vocabulary/days/DAY23/collocations.csv": {
    "bytes": 20601,
@@ -1212,8 +1213,8 @@
    "sha256": "61fb0f82eb726d97487016d21729962480c11d3ac115c1ff801e67d3cc9bb0fc"
   },
   "vocabulary/days/DAY23/headwords.csv": {
-   "bytes": 25232,
-   "sha256": "3ac646c47c699d71e4366ea9684e8259099f7143e3ad4ecb4dc9ea35d96261bc"
+   "bytes": 30552,
+   "sha256": "41b86cfe95f32b4ded4f31e268d6a442810e4234f005977cf2fdfa7742dcc0e8"
   },
   "vocabulary/days/DAY23/historical_roots.csv": {
    "bytes": 6647,
@@ -1240,8 +1241,8 @@
    "sha256": "d7a20378690a589395118456a54831259946d36f2828d98f90ffd6db6c0f9c58"
   },
   "vocabulary/days/DAY24/colligations.csv": {
-   "bytes": 53624,
-   "sha256": "09b9ed5ea54802b36b334deacaaea8f9e026d13d573455eeff1e6d5e6aef02bf"
+   "bytes": 53629,
+   "sha256": "be6dda781b47d05de6f8f95e666b84372cdf20b02fdfc3b47fccdc9d4eea0ece"
   },
   "vocabulary/days/DAY24/collocations.csv": {
    "bytes": 18945,
@@ -1252,8 +1253,8 @@
    "sha256": "62cfec1a3f6eb647ae6a266f422d4d7f898823a33e3ba77c68a237df3c9e7e90"
   },
   "vocabulary/days/DAY24/headwords.csv": {
-   "bytes": 23760,
-   "sha256": "5f7b048917894b09a317aa55e338841677fa8409b11da63c83f0c85b96e10812"
+   "bytes": 28928,
+   "sha256": "7194adc8a52292d5ed20c7353120e0094bab4f2a07f7ef80ebdae63828d79097"
   },
   "vocabulary/days/DAY24/historical_roots.csv": {
    "bytes": 8396,
@@ -1280,8 +1281,8 @@
    "sha256": "05231fd1f30f173076cfbe9140c27277ab57ffce9cdd6feb82a15149b7c2d469"
   },
   "vocabulary/days/DAY25/colligations.csv": {
-   "bytes": 45021,
-   "sha256": "3facc4b5ac425c775924e90b146b15f8c724fd01f5dc2d57063f47d0cbb9a3ed"
+   "bytes": 45039,
+   "sha256": "84611ed1f28cdd7f6c0ae903225ffb7f91e32c4547cbc4d0b2abb4d7190e870a"
   },
   "vocabulary/days/DAY25/collocations.csv": {
    "bytes": 22164,
@@ -1292,8 +1293,8 @@
    "sha256": "b3f1da3daf0131b6a386673cb77fba7c05a78f9dcfeb97d538356d6e1872406e"
   },
   "vocabulary/days/DAY25/headwords.csv": {
-   "bytes": 25253,
-   "sha256": "beade0a53c9f06e35b2f2dfd9e95fd8867df5c1ed9e0edea46280b93ef05052f"
+   "bytes": 30709,
+   "sha256": "c26a32f335a88dc1110ba62992f6a6723eb13b34ad61e952e0994f2432a01986"
   },
   "vocabulary/days/DAY25/historical_roots.csv": {
    "bytes": 6820,
@@ -1320,8 +1321,8 @@
    "sha256": "0b398fe51dfa8f6243dd4425e725c2512c6ddb62531ebd2e4db8c1dd8b14b287"
   },
   "vocabulary/days/DAY26/colligations.csv": {
-   "bytes": 44182,
-   "sha256": "6e15db32675a51b4b9ac6da624628effd02f033f8095f42bf9588820365c499d"
+   "bytes": 44171,
+   "sha256": "eb0cbe30a2040555bd7d3a73e5224776c4e02fc3ce4134d73da29f9534bf7ee1"
   },
   "vocabulary/days/DAY26/collocations.csv": {
    "bytes": 25578,
@@ -1332,8 +1333,8 @@
    "sha256": "99169780588d0e1d4d60117eff084d499e42cb471906703c4b7c9467e9ceb789"
   },
   "vocabulary/days/DAY26/headwords.csv": {
-   "bytes": 26236,
-   "sha256": "78994dd436c62b9a06a4824bf5a48c327a113cdd5fcff6dfe90bb9c7fa98ba2a"
+   "bytes": 31879,
+   "sha256": "377e7c75513fe6e1ebc290e2b28822d8c7ea7d0ee919ea144ea106b8b2751601"
   },
   "vocabulary/days/DAY26/historical_roots.csv": {
    "bytes": 6657,
@@ -1360,8 +1361,8 @@
    "sha256": "a9143b633a73ae4c4e4b3b81ead02cd9fa26b5079dae4cd95803f9926fa50693"
   },
   "vocabulary/days/DAY27/colligations.csv": {
-   "bytes": 45572,
-   "sha256": "9bf301980ca58bb85a0a30774c88efc09e44ec3f7e26acf89b90afa376459f77"
+   "bytes": 45562,
+   "sha256": "24e3e1087a38e3b9d5383d215aaa2c2672856e5b158a1800856e7a1600664e3a"
   },
   "vocabulary/days/DAY27/collocations.csv": {
    "bytes": 24570,
@@ -1372,8 +1373,8 @@
    "sha256": "1115c235270f63f4948707546e4b1e8b87ebb257f7c0780985db22b4f802eac6"
   },
   "vocabulary/days/DAY27/headwords.csv": {
-   "bytes": 25431,
-   "sha256": "532979f74e79e4724137d4116aa0a9165fb9f23a72f43ecc55495e6a3a9f9f83"
+   "bytes": 30728,
+   "sha256": "ab4f4fca2516729810275ccac20b6f57b9fce934adb5e401127e8157a7ef2f76"
   },
   "vocabulary/days/DAY27/historical_roots.csv": {
    "bytes": 8145,
@@ -1400,8 +1401,8 @@
    "sha256": "f6ea267c7e0adc89e428e731fe55cc613ef7e8fe777abe482ef2873a6bee121f"
   },
   "vocabulary/days/DAY28/colligations.csv": {
-   "bytes": 40673,
-   "sha256": "caa0c3df01d5663068ca08bd693ec98c2b10ed59759673c1bbbb8f29f1262be8"
+   "bytes": 40679,
+   "sha256": "9e24bb09f6ef492b0e341c4830e54ac36971e7464f9dda3ded2354c8bccc0b83"
   },
   "vocabulary/days/DAY28/collocations.csv": {
    "bytes": 18712,
@@ -1412,8 +1413,8 @@
    "sha256": "163ff7af1873e0c30d9c63bc53f844635aea037c4115fa9c41fcb2bcc00e951f"
   },
   "vocabulary/days/DAY28/headwords.csv": {
-   "bytes": 27850,
-   "sha256": "1a32d40eab81ff54e4976f37e237f92f50889ddb89ec975835d6ac1e9c658b72"
+   "bytes": 32925,
+   "sha256": "f04f1935143f132d71313a8c084629d3d3556cc8920e762e59c80a69004b591a"
   },
   "vocabulary/days/DAY28/historical_roots.csv": {
    "bytes": 8744,
@@ -1440,8 +1441,8 @@
    "sha256": "e62f4720719f746e84b2e12779dcdacb6ba7cb3e68a6b64004d289d88c3d1853"
   },
   "vocabulary/days/DAY29/colligations.csv": {
-   "bytes": 52296,
-   "sha256": "9ad8a95bdddb3f9f354bd0db8c3f53e5f95647daf3f93b0eac629b2968500440"
+   "bytes": 52292,
+   "sha256": "ec2238c96d7f767537bac900df7fff9c94a80b25d4b9fa7bb0671f117e259ce9"
   },
   "vocabulary/days/DAY29/collocations.csv": {
    "bytes": 27290,
@@ -1452,8 +1453,8 @@
    "sha256": "2aece01f91be0f9a489e8ef81a18da9aa710048c94d787dc25732c72e14d597f"
   },
   "vocabulary/days/DAY29/headwords.csv": {
-   "bytes": 26394,
-   "sha256": "dee3f77c7afd4ebee5bfbe442072b942e63e2ad4a44fa08fea63795d2af9ee75"
+   "bytes": 31675,
+   "sha256": "1f8079b73b4b5f6f13a20594d9b83ad43419395b6b2b55ce646c11850e5f3c19"
   },
   "vocabulary/days/DAY29/historical_roots.csv": {
    "bytes": 9268,
@@ -1480,8 +1481,8 @@
    "sha256": "65a389f9242fe12fe0f137ae0b65d3e72baeb0f7ce3fbe559c4c25bb2864c22d"
   },
   "vocabulary/days/DAY30/colligations.csv": {
-   "bytes": 39109,
-   "sha256": "4d0fe804359d6056cefef14122b43a1980861cecaa0ec00ea22af97cce814e2d"
+   "bytes": 39098,
+   "sha256": "cc23f2171cccdd2d151dd5eb44b9caca273eecc76b547b7a515a21883c43b857"
   },
   "vocabulary/days/DAY30/collocations.csv": {
    "bytes": 31093,
@@ -1492,8 +1493,8 @@
    "sha256": "e6045f8db8572d16d106ee9b5337fd76444b70c36b6236b55e8f8428676884d9"
   },
   "vocabulary/days/DAY30/headwords.csv": {
-   "bytes": 27477,
-   "sha256": "beb76791d9bd31c45c2a7cbcd1ac45c81bb150509a761543e3e8a394d64078d4"
+   "bytes": 32582,
+   "sha256": "2b1745c20cbf675cfbbaac8e1b875454076ecf8b401bb01962817ffe44075f26"
   },
   "vocabulary/days/DAY30/historical_roots.csv": {
    "bytes": 8701,
@@ -1538,6 +1539,10 @@
   "vocabulary/review/model_review.jsonl": {
    "bytes": 48453,
    "sha256": "9f756dc5a03d3eba9c0d6a566068bced338e4785b133ea7bffdbeb83b1433392"
+  },
+  "vocabulary/review/pdf_crosscheck.csv": {
+   "bytes": 398509,
+   "sha256": "560263cb8785cece5e8186b6589833a50928d5d71b751273a7ee806fb0d22477"
   }
  }
 }

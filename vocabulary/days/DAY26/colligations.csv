@@ -48,7 +48,7 @@ bill,bills from,bill from,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATI
 bill,bill at,bill at,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:bill:at:noun+preposition
 bill,bill on,bill on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:bill:on:noun+preposition
 bill,billed to,bill to,verb+to,6,oanc_candidate_unreviewed,COLLIGATION:bill:to:verb+to
-bounce,bounce around,bounce around,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:bounce:around:verb+preposition
+bounce,bounced around,bounce around,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:bounce:around:verb+preposition
 cash,cash in,cash in,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:cash:in:verb+preposition
 cash,cash to,cash to,noun+to,21,oanc_candidate_unreviewed,COLLIGATION:cash:to:noun+to
 cash,cash in,cash in,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:cash:in:noun+preposition
@@ -73,7 +73,7 @@ cluster,cluster at,cluster at,noun+preposition,9,oanc_candidate_unreviewed,COLLI
 cluster,clustered into,cluster into,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:cluster:into:verb+preposition
 cluster,clusters into,cluster into,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:cluster:into:noun+preposition
 cluster,cluster as,cluster as,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:cluster:as:noun+preposition
-cluster,clustering ordering,cluster VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:cluster:VBG:verb+VBG
+cluster,clustering using,cluster VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:cluster:VBG:verb+VBG
 cluster,clustered by,cluster by,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:cluster:by:verb+preposition
 cluster,clustered within,cluster within,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:cluster:within:verb+preposition
 cluster,cluster from,cluster from,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:cluster:from:noun+preposition
@@ -83,7 +83,7 @@ coin,coin to,coin to,noun+to,9,oanc_candidate_unreviewed,COLLIGATION:coin:to:nou
 coin,coined by,coin by,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:coin:by:verb+preposition
 coin,coin of,coin of,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:coin:of:noun+preposition
 coin,coined in,coin in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:coin:in:verb+preposition
-coin,coined to define,coin to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:coin:to:verb+to-infinitive
+coin,coined to refer,coin to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:coin:to:verb+to-infinitive
 contender,contender for,contender for,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:contender:for:noun+preposition
 convert,converted to,convert to,verb+to,135,oanc_candidate_unreviewed,COLLIGATION:convert:to:verb+to
 convert,converted into,convert into,verb+preposition,75,oanc_candidate_unreviewed,COLLIGATION:convert:into:verb+preposition
@@ -139,7 +139,7 @@ document,documents at,document at,noun+preposition,11,oanc_candidate_unreviewed,
 document,documents on,document on,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:document:on:noun+preposition
 document,documents as,document as,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:document:as:noun+preposition
 document,documents about,document about,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:document:about:noun+preposition
-document,documented to justify,document to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:document:to:verb+to-infinitive
+document,documented to be,document to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:document:to:verb+to-infinitive
 double,doubled in,double in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:double:in:verb+preposition
 double,doubles as,double as,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:double:as:verb+preposition
 double,doubled since,double since,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:double:since:verb+preposition
@@ -154,7 +154,7 @@ due,due in,due in,adjective+preposition,36,oanc_candidate_unreviewed,COLLIGATION
 due,due by,due by,adjective+preposition,18,oanc_candidate_unreviewed,COLLIGATION:due:by:adjective+preposition
 due,due for,due for,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:due:for:adjective+preposition
 due,due out,due out,adjective+preposition,6,oanc_candidate_unreviewed,COLLIGATION:due:out:adjective+preposition
-expect,expected to pay,expect to + infinitive,verb+to-infinitive,796,oanc_candidate_unreviewed,COLLIGATION:expect:to:verb+to-infinitive
+expect,expect to start,expect to + infinitive,verb+to-infinitive,796,oanc_candidate_unreviewed,COLLIGATION:expect:to:verb+to-infinitive
 expect,expected that,expect that,verb+preposition,168,oanc_candidate_unreviewed,COLLIGATION:expect:that:verb+preposition
 expect,expected from,expect from,verb+preposition,76,oanc_candidate_unreviewed,COLLIGATION:expect:from:verb+preposition
 expect,expected in,expect in,verb+preposition,51,oanc_candidate_unreviewed,COLLIGATION:expect:in:verb+preposition
@@ -164,13 +164,13 @@ expect,expected of,expect of,verb+preposition,30,oanc_candidate_unreviewed,COLLI
 expect,expected for,expect for,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:expect:for:verb+preposition
 expect,expected if,expect if,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:expect:if:verb+preposition
 expect,expected at,expect at,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:expect:at:verb+preposition
-expect,expect coding,expect VBG,verb+VBG,11,oanc_candidate_unreviewed,COLLIGATION:expect:VBG:verb+VBG
+expect,expected following,expect VBG,verb+VBG,11,oanc_candidate_unreviewed,COLLIGATION:expect:VBG:verb+VBG
 expect,expected since,expect since,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:expect:since:verb+preposition
 expect,expected as,expect as,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:expect:as:verb+preposition
 expect,expected under,expect under,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:expect:under:verb+preposition
 expect,expected on,expect on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:expect:on:verb+preposition
 float,floating on,float on,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:float:on:verb+preposition
-float,floating” in,float in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:float:in:verb+preposition
+float,floats in,float in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:float:in:verb+preposition
 float,floated by,float by,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:float:by:verb+preposition
 float,floating around,float around,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:float:around:verb+preposition
 gesture,gesture of,gesture of,noun+preposition,35,oanc_candidate_unreviewed,COLLIGATION:gesture:of:noun+preposition
@@ -220,7 +220,7 @@ lower,lower for,lower for,adjective+preposition,11,oanc_candidate_unreviewed,COL
 lower,lower of,lower of,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:lower:of:adjective+preposition
 owe,owing to,owe to,verb+to,112,oanc_candidate_unreviewed,COLLIGATION:owe:to:verb+to
 owe,owing in,owe in,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:owe:in:verb+preposition
-owe,owing to increased,owe to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:owe:to:verb+to-infinitive
+owe,owing to migrating,owe to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:owe:to:verb+to-infinitive
 partial,partial to,partial to,adjective+to,9,oanc_candidate_unreviewed,COLLIGATION:partial:to:adjective+to
 payable,payable to,payable to,adjective+to,26,oanc_candidate_unreviewed,COLLIGATION:payable:to:adjective+to
 pleasure,pleasures of,pleasure of,noun+preposition,73,oanc_candidate_unreviewed,COLLIGATION:pleasure:of:noun+preposition
@@ -252,7 +252,7 @@ practice,practicing on,practice on,verb+preposition,5,oanc_candidate_unreviewed,
 receive,received from,receive from,verb+preposition,83,oanc_candidate_unreviewed,COLLIGATION:receive:from:verb+preposition
 receive,received by,receive by,verb+preposition,77,oanc_candidate_unreviewed,COLLIGATION:receive:by:verb+preposition
 receive,received in,receive in,verb+preposition,63,oanc_candidate_unreviewed,COLLIGATION:receive:in:verb+preposition
-receive,receive matching,receive VBG,verb+VBG,27,oanc_candidate_unreviewed,COLLIGATION:receive:VBG:verb+VBG
+receive,received counseling,receive VBG,verb+VBG,27,oanc_candidate_unreviewed,COLLIGATION:receive:VBG:verb+VBG
 receive,received on,receive on,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:receive:on:verb+preposition
 receive,received at,receive at,verb+preposition,23,oanc_candidate_unreviewed,COLLIGATION:receive:at:verb+preposition
 receive,receives as,receive as,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:receive:as:verb+preposition
@@ -273,7 +273,7 @@ relation,relation in,relation in,noun+preposition,21,oanc_candidate_unreviewed,C
 relation,relation for,relation for,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:relation:for:noun+preposition
 relation,relations among,relation among,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:relation:among:noun+preposition
 relation,relations at,relation at,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:relation:at:noun+preposition
-reluctant,reluctant to make,reluctant to + infinitive,adjective+to-infinitive,91,oanc_candidate_unreviewed,COLLIGATION:reluctant:to:adjective+to-infinitive
+reluctant,reluctant to see,reluctant to + infinitive,adjective+to-infinitive,91,oanc_candidate_unreviewed,COLLIGATION:reluctant:to:adjective+to-infinitive
 reluctant,reluctant to,reluctant to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:reluctant:to:adjective+to
 savings,savings of,savings of,noun+preposition,22,oanc_candidate_unreviewed,COLLIGATION:savings:of:noun+preposition
 savings,savings in,savings in,noun+preposition,19,oanc_candidate_unreviewed,COLLIGATION:savings:in:noun+preposition
@@ -284,7 +284,7 @@ savings,savings from,savings from,noun+preposition,11,oanc_candidate_unreviewed,
 savings,savings by,savings by,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:savings:by:noun+preposition
 savings,savings on,savings on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:savings:on:noun+preposition
 simplify,simplified by,simplify by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:simplify:by:verb+preposition
-simplify,simplified” spelling,simplify VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:simplify:VBG:verb+VBG
+simplify,simplify cloning,simplify VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:simplify:VBG:verb+VBG
 spending,spending on,spending on,noun+preposition,62,oanc_candidate_unreviewed,COLLIGATION:spending:on:noun+preposition
 spending,spending for,spending for,noun+preposition,25,oanc_candidate_unreviewed,COLLIGATION:spending:for:noun+preposition
 spending,spending in,spending in,noun+preposition,22,oanc_candidate_unreviewed,COLLIGATION:spending:in:noun+preposition
@@ -322,7 +322,7 @@ study,study because,study because,noun+preposition,34,oanc_candidate_unreviewed,
 study,studied by,study by,verb+preposition,29,oanc_candidate_unreviewed,COLLIGATION:study:by:verb+preposition
 study,studied at,study at,verb+preposition,25,oanc_candidate_unreviewed,COLLIGATION:study:at:verb+preposition
 study,studied for,study for,verb+preposition,25,oanc_candidate_unreviewed,COLLIGATION:study:for:verb+preposition
-study,studies comparing,study VBG,verb+VBG,22,oanc_candidate_unreviewed,COLLIGATION:study:VBG:verb+VBG
+study,studies demonstrating,study VBG,verb+VBG,22,oanc_candidate_unreviewed,COLLIGATION:study:VBG:verb+VBG
 study,studied with,study with,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:study:with:verb+preposition
 study,study among,study among,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:study:among:noun+preposition
 study,studied to determine,study to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:study:to:verb+to-infinitive
@@ -361,7 +361,7 @@ unnecessary,unnecessary for,unnecessary for,adjective+preposition,6,oanc_candida
 unnecessary,unnecessary to point,unnecessary to + infinitive,adjective+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:unnecessary:to:adjective+to-infinitive
 useful,useful for,useful for,adjective+preposition,155,oanc_candidate_unreviewed,COLLIGATION:useful:for:adjective+preposition
 useful,useful in,useful in,adjective+preposition,139,oanc_candidate_unreviewed,COLLIGATION:useful:in:adjective+preposition
-useful,useful to identify,useful to + infinitive,adjective+to-infinitive,85,oanc_candidate_unreviewed,COLLIGATION:useful:to:adjective+to-infinitive
+useful,useful to guide,useful to + infinitive,adjective+to-infinitive,85,oanc_candidate_unreviewed,COLLIGATION:useful:to:adjective+to-infinitive
 useful,useful to,useful to,adjective+to,46,oanc_candidate_unreviewed,COLLIGATION:useful:to:adjective+to
 useful,useful as,useful as,adjective+preposition,27,oanc_candidate_unreviewed,COLLIGATION:useful:as:adjective+preposition
 useful,useful if,useful if,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:useful:if:adjective+preposition

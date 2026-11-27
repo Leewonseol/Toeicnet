@@ -1,169 +1,169 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-attire,"복장, 옷차림새",noun,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458149
-code,"규범, 관례, 암호",noun,core,C,A cryptographic system using a codebook that converts words or phrases into codewords.,verified,single_source_korean_anchor,kaikki,,kaikki:code:noun:1:1645:s6,암호,2,anki_core:1766527458150
-concern,"우려, 걱정, 문제, 일 / ~을 걱정스럽게 하다, 영향을 미치다, 관련되다",noun/verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458151
-policy,"규정, 보험 증권",noun,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458152
-comply,"준수하다, 따르다",verb,core,B,"act in accordance with someone's rules, commands, or wishes",unverified,monosemous_pair,oewn,oewn-comply__2.41.00..,kaikki:comply:verb:0:3304:s0,,2,anki_core:1766527458153
-regulation,규정,noun,core,D,,unverified,proposed_pair_needs_review,,,,,2,anki_core:1766527458154
-exception,예외,noun,core,C,"An interruption in normal processing, typically caused by an error condition, that can be raised (""thrown"") by one part of the program and handled (""caught"") by another part.",verified,single_source_korean_anchor,kaikki,,kaikki:exception:noun:0:4907:s4,예외,2,anki_core:1766527458155
-adhere,"지키다, 고수하다",verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458156
-severely,"엄격하게, 심하게",adverb,core,C,In a severe manner; with severity.,verified,single_source_korean_anchor,kaikki,,kaikki:severely:adv:0:5168:s0,심하게;엄격하게,2,anki_core:1766527458157
-refrain,"자제하다, 삼가다",verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458158
-permission,"허락, 허가",noun,core,C,authorisation; consent (especially formal consent from someone in authority),verified,single_source_korean_anchor,kaikki,,kaikki:permission:noun:0:4101:s0,허가,2,anki_core:1766527458159
-access,"이용 권한, 접근, 통로 / ~에 접근하다, 도달하다",noun/verb,core,C,A way or means of approaching or entering; an entrance; a passage.,verified,single_source_korean_anchor,kaikki,,kaikki:access:noun:1:223:s0,접근,2,anki_core:1766527458160
-thoroughly,"철저하게, 완전히, 대단히",adverb,core,B,completely and absolutely (‘good’ is sometimes used informally for ‘thoroughly’),unverified,model_reviewed_pair,oewn,oewn-thoroughly__4.02.01..,kaikki:thoroughly:adv:0:5808:s0,,2,anki_core:1766527458161
-revise,"(의견, 계획을) 수정하다, 변경하다",verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458162
-approach,"접근법, 처리 방법 / 다가오다, 가까워지다",noun/verb,core,B,move towards,unverified,model_reviewed_pair,oewn,oewn-approach__2.38.00..,kaikki:approach:verb:1:2335:s0,,2,anki_core:1766527458163
-approval,"승인, 인가",noun,core,D,,unverified,proposed_pair_needs_review,,,,,2,anki_core:1766527458164
-form,"종류, 유형, 양식",noun,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458165
-immediately,"즉시, 곧",adverb,core,B,without delay or hesitation; with no time intervening,verified,double_korean_anchor,oewn,oewn-immediately__4.02.00..,kaikki:immediately:adv:0:4550:s0,곧;즉시,2,anki_core:1766527458166
-inspection,"점검, 검사",noun,core,B,a formal or official examination,verified,double_korean_anchor,oewn,oewn-inspection__1.04.00..,kaikki:inspection:noun:0:5686:s0,검사,2,anki_core:1766527458167
-arrangement,"준비, 마련, 주선",noun,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458168
-procedure,절차,noun,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458169
-negative,"부정적인, 비판적인",adjective,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458170
-mandate,"명령하다, 지시하다 / 권한, 지시, 명령",noun/verb,core,B,a document giving an official instruction or command,verified,double_korean_anchor,oewn,oewn-mandate__1.10.00..,kaikki:mandate:noun:1:3739:s0,권한,2,anki_core:1766527458171
-effect,"(법률 등의) 효력, 효과, 영향 / 결과로서 ~을 가져오다",noun/verb,core,B,a phenomenon that follows and is caused by some previous phenomenon,verified,double_korean_anchor,oewn,oewn-effect__1.19.00..,kaikki:effect:noun:0:893:s6,효과;효력,2,anki_core:1766527458172
-drastically,"심하게, 과감하게, 철저하게",adverb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458173
-according to,~에 따라,phrase,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458174
-enable,(무엇을) 가능하게 하다,verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458175
-standard,"기준, 표준",noun,core,B,a basis for comparison; a reference point against which other things can be evaluated,verified,double_korean_anchor,oewn,oewn-standard__1.10.00..,kaikki:standard:noun:0:191:s1,기준;표준,2,anki_core:1766527458176
-constant,"지속적인, 끊임없이 계속하는",adjective,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458177
-act,"법령, 결의서, 행위, 행동 / 결정하다, 판결을 내리다, 행동하다",noun/verb,core,B,behave in a certain manner; show a certain behavior; conduct or comport oneself,verified,double_korean_anchor,oewn,oewn-act__2.29.00..,kaikki:act:verb:1:853:s4,법령;행동;행동하다;행위,2,anki_core:1766527458178
-compensation,"보상금, 보상",noun,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458179
-ban,금지 / 금지하다,noun/verb,core,C,To prohibit; to interdict; to proscribe; to forbid or block from participation.,verified,single_source_korean_anchor,kaikki,,kaikki:ban:verb:1:431:s0,금지하다,2,anki_core:1766527458180
-obligation,"의무, 책임",noun,core,B,the social force that binds you to the courses of action demanded by that force,verified,double_korean_anchor,oewn,oewn-obligation__1.04.00..,kaikki:obligation:noun:0:3178:s0,의무;책임,2,anki_core:1766527458181
-authorize,"~을 인가하다, 권한을 부여하다",verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458182
-prohibit,금지하다,verb,core,B,command against,unverified,model_reviewed_pair,oewn,oewn-prohibit__2.32.00..,kaikki:prohibit:verb:0:4934:s0,,2,anki_core:1766527458183
-abolish,"(제도, 법률 등을) 폐지하다",verb,core,B,do away with,unverified,monosemous_pair,oewn,oewn-abolish__2.41.00..,kaikki:abolish:verb:0:51:s0,,2,anki_core:1766527458184
-enforce,"(법률을) 시행하다, 집행하다",verb,core,D,,unverified,candidates_unaligned,,,,,2,anki_core:1766527458185
-habit,"습관, 버릇",noun,core,B,(psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition,verified,double_korean_anchor,oewn,oewn-habit__1.04.02..,kaikki:habit:noun:1:359:s1,버릇;습관,2,anki_core:1766527458186
-legislation,"법률, 법규",noun,core,B,law enacted by a legislative body,verified,double_korean_anchor,oewn,oewn-legislation__1.10.00..,kaikki:legislation:noun:0:5302:s1,법률,2,anki_core:1766527458187
-restrict,"한정하다, 제한하다",verb,core,B,place limits on (extent or amount or access),verified,double_korean_anchor,oewn,oewn-restrict__2.30.00..,kaikki:restrict:verb:0:5263:s0,제한하다,2,anki_core:1766527458188
-bend over,몸을 앞으로 숙이다,phrase,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458189
-by oneself,혼자 힘으로,phrase,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458190
-date,날짜,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,2,anki_basic:1766527458191
-get used to,~에 익숙해지다,phrase,basic,C,get or become familiar or accustomed with through experience,unverified,single_source_only_sense,oewn,oewn-get_used_to__2.30.00..,,,2,anki_basic:1766527458192
-if it's okay with you,당신만 괜찮다면,phrase,basic,E,,unverified,no_sense_record,,,,,2,anki_basic:1766527458193
-in case of,~의 경우에는,phrase,basic,C,If there should be.,unverified,single_source_only_sense,kaikki,,kaikki:in case of:prep:0:7636:s0,,2,anki_basic:1766527458194
-in rows,"줄지어, 여러 줄로",phrase,basic,E,,unverified,no_sense_record,,,,,2,anki_basic:1766527458195
-item,항목,noun,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458196
-legal,"법률의, 합법적인",adjective,basic,B,relating to or characteristic of the profession of law,verified,double_korean_anchor,oewn,oewn-legal__3.01.01..;oewn-legal__3.00.00..,kaikki:legal:adj:0:655:s1;kaikki:legal:adj:0:655:s2,법률;합법적인,2,anki_basic:1766527458197
-let go,놓아주다,phrase,basic,D,,unverified,proposed_pair_needs_review,,,,,2,anki_basic:1766527458198
-ruler,자,noun,basic,B,measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths,verified,double_korean_anchor,oewn,oewn-ruler__1.06.00..,kaikki:ruler:noun:0:3881:s0,자,2,anki_basic:1766527458199
-stop,멈추다,verb,basic,B,"come to a halt, stop moving",verified,double_korean_anchor,oewn,oewn-stop__2.38.00..,kaikki:stop:verb:1:1024:s0,멈추다,2,anki_basic:1766527458200
-busy,바쁜,noun,basic,C,A police officer.,unverified,single_source_only_sense,kaikki,,kaikki:busy:noun:1:1704:s0,,2,anki_basic:1766527458201
-curriculum,교과 과정,noun,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458202
-dress,의복 / 옷을 차려입다,noun/verb,basic,B,clothing of a distinctive style or for a particular occasion,verified,double_korean_anchor,oewn,oewn-dress__1.06.01..,kaikki:dress:noun:0:1780:s4,의복,2,anki_basic:1766527458203
-enough,충분한 / 필요한 만큼의 수·양,adjective/noun,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458204
-finish,"끝내다, 완료하다",verb,basic,C,To complete (something).,verified,single_source_korean_anchor,kaikki,,kaikki:finish:verb:0:298:s0,끝내다,2,anki_basic:1766527458205
-have a problem(in) -ing,~하는 데 문제가 있다,phrase,basic,E,,unverified,no_sense_record,,,,,2,anki_basic:1766527458206
-large,"큰, 넓은",noun,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458207
-law firm,법률 회사,phrase,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458208
-loudly,시끄럽게,adverb,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458209
-plus,"~을 더한, ~을 더하여",noun,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458210
-protect,보호하다,verb,basic,C,To keep safe; to defend; to guard; to prevent harm coming to.,verified,single_source_korean_anchor,kaikki,,kaikki:protect:verb:0:3466:s0,보호하다,2,anki_basic:1766527458211
-seldom,"드물게, 좀처럼~않는",adjective,basic,E,,unverified,no_sense_record,,,,,2,anki_basic:1766527458212
-theft,절도,noun,basic,B,the act of taking something from someone unlawfully,verified,double_korean_anchor,oewn,oewn-theft__1.04.00..,kaikki:theft:noun:0:2661:s0,절도,2,anki_basic:1766527458213
-try,"시도하다, 노력하다",verb,basic,B,make an effort or attempt,verified,double_korean_anchor,oewn,oewn-try__2.41.00..,kaikki:try:verb:1:2426:s0,노력하다;시도하다,2,anki_basic:1766527458214
-witness,"목격자, 증인",noun,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458215
-write,"글씨를 쓰다, 저술하다",verb,basic,D,,unverified,candidates_unaligned,,,,,2,anki_basic:1766527458216
-against the law,법에 위반되는,phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460227
-by all means,"반드시, 무슨 일이 있어도, 물론이지",phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460228
-by mistake,실수로,phrase,800,C,By accident; without the intention to do so.,unverified,single_source_only_sense,kaikki,,kaikki:by mistake:prep_phrase:0:7480:s0,,2,anki_800:1766527460229
-come to an end,끝나다,phrase,800,C,To stop; to cease; to no longer continue.,unverified,single_source_only_sense,kaikki,,kaikki:come to an end:verb:0:7408:s0,,2,anki_800:1766527460230
-company regulations,회사 규정,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460231
-give directions,"일을 지시하다, 방향을 알려주다",phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460232
-hold up,"견디다, 떠받치다",phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460233
-if I'm not mistaken,제 기억이 옳다면,phrase,800,C,Used before stating something that the speaker believes to be correct,unverified,single_source_only_sense,kaikki,,kaikki:if i'm not mistaken:phrase:0:7907:s0,,2,anki_800:1766527460234
-in progress,진행 중인,phrase,800,C,Currently taking place.,unverified,single_source_only_sense,kaikki,,kaikki:in progress:prep_phrase:0:7371:s0,,2,anki_800:1766527460235
-keep in mind,명심하다,phrase,800,C,Synonym of bear in mind.,unverified,single_source_only_sense,kaikki,,kaikki:keep in mind:verb:0:4855:s0,,2,anki_800:1766527460236
-legal counsel,법률 상담,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460237
-self-defense,"자기방어, 정당방위",noun,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460238
-suspect,용의자 / 의심하다,noun/verb,800,D,,unverified,proposed_pair_needs_review,,,,,2,anki_800:1766527460239
-take one's advice,~의 충고를 따르다,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460240
-to one's advantage,~에게 유리하게,phrase,800,C,In a way that is favorable to one.,unverified,single_source_only_sense,kaikki,,kaikki:to one's advantage:phrase:0:7982:s0,,2,anki_800:1766527460241
-under control,관리하에 있는,phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460242
-under the supervision of,~의 감독하에,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460243
-abuse,남용 / 남용하다,noun/verb,800,B,improper or excessive use,verified,double_korean_anchor,oewn,oewn-abuse__1.04.01..,kaikki:abuse:noun:1:215:s0,남용,2,anki_800:1766527460244
-alert,경고하다 / 주의하는,adjective/verb,800,B,warn or arouse to a sense of danger or call to a state of preparedness,unverified,monosemous_pair,oewn,oewn-alert__2.32.00..,kaikki:alert:verb:2:1171:s0,,2,anki_800:1766527460245
-assessment,평가,noun,800,C,An appraisal or evaluation.,verified,single_source_korean_anchor,kaikki,,kaikki:assessment:noun:0:6306:s1,평가,2,anki_800:1766527460246
-at all times,"항상, 언제나",phrase,800,C,Always.,unverified,single_source_only_sense,kaikki,,kaikki:at all times:adv:0:7882:s0,,2,anki_800:1766527460247
-authorization,"권한 부여, 위임",noun,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460248
-concerning,~에 관하여,noun,800,C,That which one is concerned in; one's business.,unverified,single_source_only_sense,kaikki,,kaikki:concerning:noun:0:3810:s0,,2,anki_800:1766527460249
-consideration,"고려, 숙고",noun,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460250
-defensive,방어적인,adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460251
-depiction,"묘사, 서술",noun,800,D,,unverified,proposed_pair_needs_review,,,,,2,anki_800:1766527460252
-disobedient,"반항하는, 거역하는",adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460253
-endure,"견디다, 참다",verb,800,B,put up with something or somebody unpleasant,verified,double_korean_anchor,oewn,oewn-endure__2.31.00..,kaikki:endure:verb:0:4166:s1,견디다;참다,2,anki_800:1766527460254
-exemplary,"모범적인, 대표적인",adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460255
-ignore,무시하다,verb,800,C,To deliberately not listen or pay attention to.,verified,single_source_korean_anchor,kaikki,,kaikki:ignore:verb:0:1371:s0,무시하다,2,anki_800:1766527460256
-illegal,불법의,adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460257
-in accordance with,"~에 따라서, ~과 일치하여",phrase,800,C,According to: following the rules or standards of; in a way consistent with; in a way not discordant with.,unverified,single_source_only_sense,kaikki,,kaikki:in accordance with:prep:0:7906:s0,,2,anki_800:1766527460258
-indecisive,"결말이 안 난, 우유부단한",adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460259
-justly,"정당하게, 당연히",adverb,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460260
-obey,복종하다,verb,800,C,"To do as ordered by (a person, institution etc), to act according to the bidding of.",verified,single_source_korean_anchor,kaikki,,kaikki:obey:verb:0:2849:s0,복종하다,2,anki_800:1766527460261
-observance,준수,noun,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460262
-on-site,"현장의, 현지의 / 현장에서, 현지에서",adjective/noun,800,B,taking place or located at the site,unverified,monosemous_pair,oewn,oewn-on--site__3.00.00..,kaikki:on-site:adj:0:6978:s0,,2,anki_800:1766527460263
-penalty,벌금,noun,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460264
-pointed,"(말·표현 등이) 예리한, 날카로운, 적절한",adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460265
-precious,귀중한,adjective,800,C,Of high value or worth.,verified,single_source_korean_anchor,kaikki,,kaikki:precious:adj:0:5189:s0,귀중한,2,anki_800:1766527460266
-principle,"원리, 원칙",noun,800,D,,unverified,proposed_pair_needs_review,,,,,2,anki_800:1766527460267
-punishment,"형벌, 처벌",noun,800,C,"The act (action) or process of punishing, imposing and/or applying a sanction, typically by an authority or a person in authority (for example: a parent or teacher), especially when disappointed or dissatisfied with the behavior or actions of a child, student, or someone else being looked after.",verified,single_source_korean_anchor,kaikki,,kaikki:punishment:noun:0:1365:s0,처벌;형벌,2,anki_800:1766527460268
-regulate,"규제하다, 조절하다",verb,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460269
-restricted area,제한 구역,phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460270
-restriction,"제한, 한정",noun,800,D,,unverified,proposed_pair_needs_review,,,,,2,anki_800:1766527460271
-safety inspection,안전 점검,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460272
-suppress,"억누르다, 금지하다",verb,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460273
-tensely,"긴장하여, 딱딱하게",adverb,800,B,in a tense manner,unverified,monosemous_pair,oewn,oewn-tensely__4.02.00..,kaikki:tensely:adv:0:7207:s0,,2,anki_800:1766527460274
-unauthorized,인가받지 않은,adjective,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460275
-with respect to,~에 관해서,phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460276
-accuse,"비난하다, 고소하다",verb,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460277
-assess,평가하다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,2,anki_800:1766527460278
-attorney,변호사,noun,800,B,a professional person authorized to practice law; conducts lawsuits or gives legal advice,verified,double_korean_anchor,oewn,oewn-attorney__1.18.00..,kaikki:attorney:noun:0:1074:s0,변호사,2,anki_800:1766527460279
-be absent from,~에 결석하다,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460280
-be allowed to do,~하도록 허락받다,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460281
-by way of,"~의 방법으로, ~에 의해서",phrase,800,D,,unverified,candidates_unaligned,,,,,2,anki_800:1766527460282
-distrust,의심하다 / 불신,noun/verb,800,B,regard as untrustworthy; regard with suspicion; have no faith or confidence in,unverified,monosemous_pair,oewn,oewn-distrust__2.31.00..,kaikki:distrust:verb:0:6419:s0,,2,anki_800:1766527460283
-from this day onward,오늘부터,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460284
-have permission to do,~할 허가를 받다,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460285
-in a strict way,엄격하게,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460286
-make clear,분명히 하다,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460287
-ministry,(정부의) 부서,noun,800,D,,unverified,proposed_pair_needs_review,,,,,2,anki_800:1766527460288
-newly established,신설된,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460289
-put into effect,~을 시행하다,phrase,800,C,To implement; to execute; to carry out.,unverified,single_source_only_sense,kaikki,,kaikki:put into effect:verb:0:7427:s0,,2,anki_800:1766527460290
-registration confirmation,등록 확인,phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460291
-stand over,옆에서 지켜보다,phrase,800,C,To be very watchful of.,unverified,single_source_only_sense,kaikki,,kaikki:stand over:verb:0:8021:s0,,2,anki_800:1766527460292
-warn,경고하다,verb,800,C,"To make (someone) aware of impending danger, evil, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:warn:verb:0:4898:s0,경고하다,2,anki_800:1766527460293
-without respect to,"~을 고려하지 않고, ~을 무시하고",phrase,800,E,,unverified,no_sense_record,,,,,2,anki_800:1766527460294
-commonplace,"평범한 일, 흔한 일 / 평범한, 흔한",noun,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462224
-protective smock,보호 작업복,phrase,900,E,,unverified,no_sense_record,,,,,2,anki_900:1766527462225
-testimony,증언,noun,900,C,Statements made by a witness in court.,verified,single_source_korean_anchor,kaikki,,kaikki:testimony:noun:0:3951:s0,증언,2,anki_900:1766527462226
-accordance,"일치, 조화",noun,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462227
-crucial,중요한,adjective,900,D,,unverified,proposed_pair_needs_review,,,,,2,anki_900:1766527462228
-deviation,"일탈, 탈선",noun,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462229
-effortlessly,힘들지 않게,adverb,900,B,without effort or apparent effort,unverified,monosemous_pair,oewn,oewn-effortlessly__4.02.00..,kaikki:effortlessly:adv:0:6620:s0,,2,anki_900:1766527462230
-in observance of,~을 기념하여,phrase,900,E,,unverified,no_sense_record,,,,,2,anki_900:1766527462231
-inadvertently,"무심코, 우연히",adverb,900,B,without knowledge or intention,unverified,monosemous_pair,oewn,oewn-inadvertently__4.02.00..,kaikki:inadvertently:adv:0:5934:s0,,2,anki_900:1766527462232
-judicial,"사법의, 재판의",adjective,900,B,decreed by or proceeding from a court of justice,verified,double_korean_anchor,oewn,oewn-judicial__5.00.00.legal.00,kaikki:judicial:adj:0:5924:s1,사법의,2,anki_900:1766527462233
-justification,정당한 이유,noun,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462234
-keenly,"날카롭게, 예민하게",adverb,900,B,in a keen or penetrating way,unverified,monosemous_pair,oewn,oewn-keenly__4.02.00..,kaikki:keenly:adv:0:6019:s0,,2,anki_900:1766527462235
-lawsuit,"소송, 고소",noun,900,B,a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy,unverified,monosemous_pair,oewn,oewn-lawsuit__1.04.00..,kaikki:lawsuit:noun:0:3936:s0,,2,anki_900:1766527462236
-mundane,"일상적인, 재미없는",adjective,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462237
-off-limits,출입금지의,adjective,900,B,barred to a designated group,unverified,monosemous_pair,oewn,oewn-off--limits__5.00.00.restricted.00,kaikki:off-limits:adj:0:6523:s0,,2,anki_900:1766527462238
-ordinance,"법령, 명령",noun,900,C,"A local law, passed by e.g. a city.",verified,single_source_korean_anchor,kaikki,,kaikki:ordinance:noun:0:1806:s0,법령,2,anki_900:1766527462239
-pulled,"철회된, 철수한",adjective,900,C,"Of cooked meat, prepared by being torn into fine pieces.",unverified,single_source_only_sense,kaikki,,kaikki:pulled:adj:0:6372:s0,,2,anki_900:1766527462240
-reprimand,"비난하다, 질책하다",verb,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462241
-resolution,"결의(안), 결정, 해상도",noun,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462242
-stiff,"뻣뻣한, 경직된",adjective,900,D,,unverified,proposed_pair_needs_review,,,,,2,anki_900:1766527462243
-substantiate,입증하다,verb,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462244
-trespass,(남의 토지에) 침입하다,verb,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462245
-violate,위반하다,verb,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462246
-at the discretion of,~의 재량으로,phrase,900,E,,unverified,no_sense_record,,,,,2,anki_900:1766527462247
-bound,"의무가 있는, 꼭~하게 되어 있는",adjective,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462248
-circumscribe,~을 제한하다,verb,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462249
-enactment,"입법, 법령",noun,900,D,,unverified,proposed_pair_needs_review,,,,,2,anki_900:1766527462250
-impeccable,결점 없는,adjective,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462251
-infringement,침해,noun,900,B,a crime less serious than a felony,verified,double_korean_anchor,oewn,oewn-infringement__1.04.00..,kaikki:infringement:noun:0:5756:s0,침해,2,anki_900:1766527462252
-legitimate,"합법적인, 적법한",adjective,900,D,,unverified,proposed_pair_needs_review,,,,,2,anki_900:1766527462253
-petition,"진정서, 탄원서",noun,900,D,,unverified,candidates_unaligned,,,,,2,anki_900:1766527462254
-when it comes to,~에 관해서는,phrase,900,C,as for; with regard to,unverified,single_source_only_sense,kaikki,,kaikki:when it comes to:prep:0:7888:s0,,2,anki_900:1766527462255
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+attire,"복장, 옷차림새",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458149
+code,"규범, 관례, 암호",noun,core,C,A cryptographic system using a codebook that converts words or phrases into codewords.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:code:noun:1:1645:s6,암호,2,anki_core:1766527458150
+concern,"우려, 걱정, 문제, 일 / ~을 걱정스럽게 하다, 영향을 미치다, 관련되다",noun/verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458151
+policy,"규정, 보험 증권",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458152
+comply,"준수하다, 따르다",verb,core,B,"act in accordance with someone's rules, commands, or wishes",unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-comply__2.41.00..,kaikki:comply:verb:0:3304:s0,,2,anki_core:1766527458153
+regulation,규정,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,2,anki_core:1766527458154
+exception,예외,noun,core,C,"An interruption in normal processing, typically caused by an error condition, that can be raised (""thrown"") by one part of the program and handled (""caught"") by another part.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:exception:noun:0:4907:s4,예외,2,anki_core:1766527458155
+adhere,"지키다, 고수하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458156
+severely,"엄격하게, 심하게",adverb,core,C,In a severe manner; with severity.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:severely:adv:0:5168:s0,심하게;엄격하게,2,anki_core:1766527458157
+refrain,"자제하다, 삼가다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458158
+permission,"허락, 허가",noun,core,C,authorisation; consent (especially formal consent from someone in authority),verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:permission:noun:0:4101:s0,허가,2,anki_core:1766527458159
+access,"이용 권한, 접근, 통로 / ~에 접근하다, 도달하다",noun/verb,core,C,A way or means of approaching or entering; an entrance; a passage.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:access:noun:1:223:s0,접근,2,anki_core:1766527458160
+thoroughly,"철저하게, 완전히, 대단히",adverb,core,B,completely and absolutely (‘good’ is sometimes used informally for ‘thoroughly’),unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-thoroughly__4.02.01..,kaikki:thoroughly:adv:0:5808:s0,,2,anki_core:1766527458161
+revise,"(의견, 계획을) 수정하다, 변경하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458162
+approach,"접근법, 처리 방법 / 다가오다, 가까워지다",noun/verb,core,B,move towards,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-approach__2.38.00..,kaikki:approach:verb:1:2335:s0,,2,anki_core:1766527458163
+approval,"승인, 인가",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,2,anki_core:1766527458164
+form,"종류, 유형, 양식",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458165
+immediately,"즉시, 곧",adverb,core,B,without delay or hesitation; with no time intervening,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-immediately__4.02.00..,kaikki:immediately:adv:0:4550:s0,곧;즉시,2,anki_core:1766527458166
+inspection,"점검, 검사",noun,core,B,a formal or official examination,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-inspection__1.04.00..,kaikki:inspection:noun:0:5686:s0,검사,2,anki_core:1766527458167
+arrangement,"준비, 마련, 주선",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458168
+procedure,절차,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458169
+negative,"부정적인, 비판적인",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458170
+mandate,"명령하다, 지시하다 / 권한, 지시, 명령",noun/verb,core,B,a document giving an official instruction or command,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-mandate__1.10.00..,kaikki:mandate:noun:1:3739:s0,권한,2,anki_core:1766527458171
+effect,"(법률 등의) 효력, 효과, 영향 / 결과로서 ~을 가져오다",noun/verb,core,B,a phenomenon that follows and is caused by some previous phenomenon,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-effect__1.19.00..,kaikki:effect:noun:0:893:s6,효과;효력,2,anki_core:1766527458172
+drastically,"심하게, 과감하게, 철저하게",adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458173
+according to,~에 따라,phrase,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458174
+enable,(무엇을) 가능하게 하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458175
+standard,"기준, 표준",noun,core,B,a basis for comparison; a reference point against which other things can be evaluated,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-standard__1.10.00..,kaikki:standard:noun:0:191:s1,기준;표준,2,anki_core:1766527458176
+constant,"지속적인, 끊임없이 계속하는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458177
+act,"법령, 결의서, 행위, 행동 / 결정하다, 판결을 내리다, 행동하다",noun/verb,core,B,behave in a certain manner; show a certain behavior; conduct or comport oneself,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-act__2.29.00..,kaikki:act:verb:1:853:s4,법령;행동;행동하다;행위,2,anki_core:1766527458178
+compensation,"보상금, 보상",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458179
+ban,금지 / 금지하다,noun/verb,core,C,To prohibit; to interdict; to proscribe; to forbid or block from participation.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:ban:verb:1:431:s0,금지하다,2,anki_core:1766527458180
+obligation,"의무, 책임",noun,core,B,the social force that binds you to the courses of action demanded by that force,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-obligation__1.04.00..,kaikki:obligation:noun:0:3178:s0,의무;책임,2,anki_core:1766527458181
+authorize,"~을 인가하다, 권한을 부여하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458182
+prohibit,금지하다,verb,core,B,command against,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-prohibit__2.32.00..,kaikki:prohibit:verb:0:4934:s0,,2,anki_core:1766527458183
+abolish,"(제도, 법률 등을) 폐지하다",verb,core,B,do away with,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-abolish__2.41.00..,kaikki:abolish:verb:0:51:s0,,2,anki_core:1766527458184
+enforce,"(법률을) 시행하다, 집행하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,2,anki_core:1766527458185
+habit,"습관, 버릇",noun,core,B,(psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-habit__1.04.02..,kaikki:habit:noun:1:359:s1,버릇;습관,2,anki_core:1766527458186
+legislation,"법률, 법규",noun,core,B,law enacted by a legislative body,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-legislation__1.10.00..,kaikki:legislation:noun:0:5302:s1,법률,2,anki_core:1766527458187
+restrict,"한정하다, 제한하다",verb,core,B,place limits on (extent or amount or access),verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-restrict__2.30.00..,kaikki:restrict:verb:0:5263:s0,제한하다,2,anki_core:1766527458188
+bend over,몸을 앞으로 숙이다,phrase,basic,D,,unverified,ocr_similar,1-10(2) p5,phr (badge),candidates_unaligned,,,,,2,anki_basic:1766527458189
+by oneself,혼자 힘으로,phrase,basic,D,,unverified,ocr_exact,1-10(2) p5,phr (badge),candidates_unaligned,,,,,2,anki_basic:1766527458190
+date,날짜,noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p5,,proposed_pair_needs_review,,,,,2,anki_basic:1766527458191
+get used to,~에 익숙해지다,phrase,basic,C,get or become familiar or accustomed with through experience,unverified,ocr_exact,1-10(2) p5,phr (badge),single_source_only_sense,oewn,oewn-get_used_to__2.30.00..,,,2,anki_basic:1766527458192
+if it's okay with you,당신만 괜찮다면,phrase,basic,E,,unverified,ocr_exact,1-10(2) p5,,no_sense_record,,,,,2,anki_basic:1766527458193
+in case of,~의 경우에는,phrase,basic,C,If there should be.,unverified,ocr_exact,1-10(2) p5,phr (badge),single_source_only_sense,kaikki,,kaikki:in case of:prep:0:7636:s0,,2,anki_basic:1766527458194
+in rows,"줄지어, 여러 줄로",phrase,basic,E,,unverified,ocr_exact,1-10(2) p5,phr (badge),no_sense_record,,,,,2,anki_basic:1766527458195
+item,항목,noun,basic,D,,unverified,ocr_exact,1-10(2) p5,n (width),candidates_unaligned,,,,,2,anki_basic:1766527458196
+legal,"법률의, 합법적인",adjective,basic,B,relating to or characteristic of the profession of law,verified,ocr_exact,1-10(2) p5,adj (badge),double_korean_anchor,oewn,oewn-legal__3.01.01..;oewn-legal__3.00.00..,kaikki:legal:adj:0:655:s1;kaikki:legal:adj:0:655:s2,법률;합법적인,2,anki_basic:1766527458197
+let go,놓아주다,phrase,basic,D,,unverified,ocr_exact,1-10(2) p5,phr (badge),proposed_pair_needs_review,,,,,2,anki_basic:1766527458198
+ruler,자,noun,basic,B,measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths,verified,ocr_exact,1-10(2) p5,,double_korean_anchor,oewn,oewn-ruler__1.06.00..,kaikki:ruler:noun:0:3881:s0,자,2,anki_basic:1766527458199
+stop,멈추다,verb,basic,B,"come to a halt, stop moving",verified,ocr_similar,1-10(2) p5,v (badge),double_korean_anchor,oewn,oewn-stop__2.38.00..,kaikki:stop:verb:1:1024:s0,멈추다,2,anki_basic:1766527458200
+busy,바쁜,noun,basic,C,A police officer.,unverified,ocr_exact,1-10(2) p5,adj (badge),single_source_only_sense,kaikki,,kaikki:busy:noun:1:1704:s0,,2,anki_basic:1766527458201
+curriculum,교과 과정,noun,basic,D,,unverified,ocr_exact,1-10(2) p5,n (width),candidates_unaligned,,,,,2,anki_basic:1766527458202
+dress,의복 / 옷을 차려입다,noun/verb,basic,B,clothing of a distinctive style or for a particular occasion,verified,ocr_exact,1-10(2) p5,,double_korean_anchor,oewn,oewn-dress__1.06.01..,kaikki:dress:noun:0:1780:s4,의복,2,anki_basic:1766527458203
+enough,충분한 / 필요한 만큼의 수·양,adjective/noun,basic,D,,unverified,ocr_similar_loose,1-10(2) p5,adj (badge),candidates_unaligned,,,,,2,anki_basic:1766527458204
+finish,"끝내다, 완료하다",verb,basic,C,To complete (something).,verified,ocr_exact,1-10(2) p5,v (badge),single_source_korean_anchor,kaikki,,kaikki:finish:verb:0:298:s0,끝내다,2,anki_basic:1766527458205
+have a problem(in) -ing,~하는 데 문제가 있다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p5,,no_sense_record,,,,,2,anki_basic:1766527458206
+large,"큰, 넓은",noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p5,,candidates_unaligned,,,,,2,anki_basic:1766527458207
+law firm,법률 회사,phrase,basic,D,,unverified,ocr_variant_ocr,1-10(2) p5,,candidates_unaligned,,,,,2,anki_basic:1766527458208
+loudly,시끄럽게,adverb,basic,D,,unverified,ocr_variant_ocr,1-10(2) p5,,candidates_unaligned,,,,,2,anki_basic:1766527458209
+plus,"~을 더한, ~을 더하여",noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p5,,candidates_unaligned,,,,,2,anki_basic:1766527458210
+protect,보호하다,verb,basic,C,To keep safe; to defend; to guard; to prevent harm coming to.,verified,ocr_similar,1-10(2) p5,v (badge),single_source_korean_anchor,kaikki,,kaikki:protect:verb:0:3466:s0,보호하다,2,anki_basic:1766527458211
+seldom,"드물게, 좀처럼~않는",adjective,basic,E,,unverified,ocr_exact,1-10(2) p5,adv (badge),no_sense_record,,,,,2,anki_basic:1766527458212
+theft,절도,noun,basic,B,the act of taking something from someone unlawfully,verified,ocr_exact,1-10(2) p5,n (width),double_korean_anchor,oewn,oewn-theft__1.04.00..,kaikki:theft:noun:0:2661:s0,절도,2,anki_basic:1766527458213
+try,"시도하다, 노력하다",verb,basic,B,make an effort or attempt,verified,ocr_variant_ocr,1-10(2) p5,,double_korean_anchor,oewn,oewn-try__2.41.00..,kaikki:try:verb:1:2426:s0,노력하다;시도하다,2,anki_basic:1766527458214
+witness,"목격자, 증인",noun,basic,D,,unverified,ocr_exact,1-10(2) p5,n (width),candidates_unaligned,,,,,2,anki_basic:1766527458215
+write,"글씨를 쓰다, 저술하다",verb,basic,D,,unverified,ocr_exact,1-10(2) p5,,candidates_unaligned,,,,,2,anki_basic:1766527458216
+against the law,법에 위반되는,phrase,800,D,,unverified,ocr_similar,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460227
+by all means,"반드시, 무슨 일이 있어도, 물론이지",phrase,800,D,,unverified,ocr_exact,1-10(2) p6,phr (badge),candidates_unaligned,,,,,2,anki_800:1766527460228
+by mistake,실수로,phrase,800,C,By accident; without the intention to do so.,unverified,ocr_exact,1-10(2) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:by mistake:prep_phrase:0:7480:s0,,2,anki_800:1766527460229
+come to an end,끝나다,phrase,800,C,To stop; to cease; to no longer continue.,unverified,ocr_exact,1-10(2) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:come to an end:verb:0:7408:s0,,2,anki_800:1766527460230
+company regulations,회사 규정,phrase,800,E,,unverified,ocr_exact,1-10(2) p6,phr (badge),no_sense_record,,,,,2,anki_800:1766527460231
+give directions,"일을 지시하다, 방향을 알려주다",phrase,800,E,,unverified,ocr_exact,1-10(2) p6,phr (badge),no_sense_record,,,,,2,anki_800:1766527460232
+hold up,"견디다, 떠받치다",phrase,800,D,,unverified,ocr_exact,1-10(2) p6,phr (badge),candidates_unaligned,,,,,2,anki_800:1766527460233
+if I'm not mistaken,제 기억이 옳다면,phrase,800,C,Used before stating something that the speaker believes to be correct,unverified,ocr_similar,1-10(2) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:if i'm not mistaken:phrase:0:7907:s0,,2,anki_800:1766527460234
+in progress,진행 중인,phrase,800,C,Currently taking place.,unverified,ocr_exact,1-10(2) p6,,single_source_only_sense,kaikki,,kaikki:in progress:prep_phrase:0:7371:s0,,2,anki_800:1766527460235
+keep in mind,명심하다,phrase,800,C,Synonym of bear in mind.,unverified,ocr_similar,1-10(2) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:keep in mind:verb:0:4855:s0,,2,anki_800:1766527460236
+legal counsel,법률 상담,phrase,800,E,,unverified,ocr_exact,1-10(2) p6,phr (badge),no_sense_record,,,,,2,anki_800:1766527460237
+self-defense,"자기방어, 정당방위",noun,800,D,,unverified,ocr_exact,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460238
+suspect,용의자 / 의심하다,noun/verb,800,D,,unverified,ocr_exact,1-10(2) p6,n (width),proposed_pair_needs_review,,,,,2,anki_800:1766527460239
+take one's advice,~의 충고를 따르다,phrase,800,E,,unverified,ocr_exact,1-10(2) p6,phr (badge),no_sense_record,,,,,2,anki_800:1766527460240
+to one's advantage,~에게 유리하게,phrase,800,C,In a way that is favorable to one.,unverified,ocr_exact,1-10(2) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:to one's advantage:phrase:0:7982:s0,,2,anki_800:1766527460241
+under control,관리하에 있는,phrase,800,D,,unverified,ocr_exact,1-10(2) p6,phr (badge),candidates_unaligned,,,,,2,anki_800:1766527460242
+under the supervision of,~의 감독하에,phrase,800,E,,unverified,ocr_exact,1-10(2) p6,phr (badge),no_sense_record,,,,,2,anki_800:1766527460243
+abuse,남용 / 남용하다,noun/verb,800,B,improper or excessive use,verified,ocr_exact,1-10(2) p6,,double_korean_anchor,oewn,oewn-abuse__1.04.01..,kaikki:abuse:noun:1:215:s0,남용,2,anki_800:1766527460244
+alert,경고하다 / 주의하는,adjective/verb,800,B,warn or arouse to a sense of danger or call to a state of preparedness,unverified,ocr_exact,1-10(2) p6,v (badge),monosemous_pair,oewn,oewn-alert__2.32.00..,kaikki:alert:verb:2:1171:s0,,2,anki_800:1766527460245
+assessment,평가,noun,800,C,An appraisal or evaluation.,verified,ocr_exact,1-10(2) p6,,single_source_korean_anchor,kaikki,,kaikki:assessment:noun:0:6306:s1,평가,2,anki_800:1766527460246
+at all times,"항상, 언제나",phrase,800,C,Always.,unverified,ocr_exact,1-10(2) p6,phr (badge),single_source_only_sense,kaikki,,kaikki:at all times:adv:0:7882:s0,,2,anki_800:1766527460247
+authorization,"권한 부여, 위임",noun,800,D,,unverified,ocr_similar,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460248
+concerning,~에 관하여,noun,800,C,That which one is concerned in; one's business.,unverified,ocr_prefix,1-10(2) p6,prep (badge),single_source_only_sense,kaikki,,kaikki:concerning:noun:0:3810:s0,,2,anki_800:1766527460249
+consideration,"고려, 숙고",noun,800,D,,unverified,ocr_exact,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460250
+defensive,방어적인,adjective,800,D,,unverified,ocr_exact,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460251
+depiction,"묘사, 서술",noun,800,D,,unverified,ocr_similar,1-10(2) p6,,proposed_pair_needs_review,,,,,2,anki_800:1766527460252
+disobedient,"반항하는, 거역하는",adjective,800,D,,unverified,ocr_exact,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460253
+endure,"견디다, 참다",verb,800,B,put up with something or somebody unpleasant,verified,ocr_exact,1-10(2) p6,,double_korean_anchor,oewn,oewn-endure__2.31.00..,kaikki:endure:verb:0:4166:s1,견디다;참다,2,anki_800:1766527460254
+exemplary,"모범적인, 대표적인",adjective,800,D,,unverified,ocr_exact,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460255
+ignore,무시하다,verb,800,C,To deliberately not listen or pay attention to.,verified,ocr_exact,1-10(2) p6,,single_source_korean_anchor,kaikki,,kaikki:ignore:verb:0:1371:s0,무시하다,2,anki_800:1766527460256
+illegal,불법의,adjective,800,D,,unverified,ocr_exact,1-10(2) p6,,candidates_unaligned,,,,,2,anki_800:1766527460257
+in accordance with,"~에 따라서, ~과 일치하여",phrase,800,C,According to: following the rules or standards of; in a way consistent with; in a way not discordant with.,unverified,ocr_similar,1-10(2) p6,n (width),single_source_only_sense,kaikki,,kaikki:in accordance with:prep:0:7906:s0,,2,anki_800:1766527460258
+indecisive,"결말이 안 난, 우유부단한",adjective,800,D,,unverified,ocr_exact,1-10(2) p6,n (badge),candidates_unaligned,,,,,2,anki_800:1766527460259
+justly,"정당하게, 당연히",adverb,800,D,,unverified,ocr_variant_ocr,1-10(2) p7,,candidates_unaligned,,,,,2,anki_800:1766527460260
+obey,복종하다,verb,800,C,"To do as ordered by (a person, institution etc), to act according to the bidding of.",verified,ocr_variant_ocr,1-10(2) p7,,single_source_korean_anchor,kaikki,,kaikki:obey:verb:0:2849:s0,복종하다,2,anki_800:1766527460261
+observance,준수,noun,800,D,,unverified,ocr_exact,1-10(2) p7,n (width),candidates_unaligned,,,,,2,anki_800:1766527460262
+on-site,"현장의, 현지의 / 현장에서, 현지에서",adjective/noun,800,B,taking place or located at the site,unverified,ocr_exact,1-10(2) p7,adj (badge),monosemous_pair,oewn,oewn-on--site__3.00.00..,kaikki:on-site:adj:0:6978:s0,,2,anki_800:1766527460263
+penalty,벌금,noun,800,D,,unverified,ocr_exact,1-10(2) p7,,candidates_unaligned,,,,,2,anki_800:1766527460264
+pointed,"(말·표현 등이) 예리한, 날카로운, 적절한",adjective,800,D,,unverified,ocr_exact,1-10(2) p7,adj (badge),candidates_unaligned,,,,,2,anki_800:1766527460265
+precious,귀중한,adjective,800,C,Of high value or worth.,verified,ocr_exact,1-10(2) p7,adj (badge),single_source_korean_anchor,kaikki,,kaikki:precious:adj:0:5189:s0,귀중한,2,anki_800:1766527460266
+principle,"원리, 원칙",noun,800,D,,unverified,ocr_exact,1-10(2) p7,n (width),proposed_pair_needs_review,,,,,2,anki_800:1766527460267
+punishment,"형벌, 처벌",noun,800,C,"The act (action) or process of punishing, imposing and/or applying a sanction, typically by an authority or a person in authority (for example: a parent or teacher), especially when disappointed or dissatisfied with the behavior or actions of a child, student, or someone else being looked after.",verified,ocr_exact,1-10(2) p7,,single_source_korean_anchor,kaikki,,kaikki:punishment:noun:0:1365:s0,처벌;형벌,2,anki_800:1766527460268
+regulate,"규제하다, 조절하다",verb,800,D,,unverified,ocr_variant_ocr,1-10(2) p7,,candidates_unaligned,,,,,2,anki_800:1766527460269
+restricted area,제한 구역,phrase,800,D,,unverified,ocr_similar,1-10(2) p7,phr (badge),candidates_unaligned,,,,,2,anki_800:1766527460270
+restriction,"제한, 한정",noun,800,D,,unverified,ocr_exact,1-10(2) p7,n (width),proposed_pair_needs_review,,,,,2,anki_800:1766527460271
+safety inspection,안전 점검,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,,no_sense_record,,,,,2,anki_800:1766527460272
+suppress,"억누르다, 금지하다",verb,800,D,,unverified,ocr_prefix,1-10(2) p7,v (badge),candidates_unaligned,,,,,2,anki_800:1766527460273
+tensely,"긴장하여, 딱딱하게",adverb,800,B,in a tense manner,unverified,ocr_exact,1-10(2) p7,,monosemous_pair,oewn,oewn-tensely__4.02.00..,kaikki:tensely:adv:0:7207:s0,,2,anki_800:1766527460274
+unauthorized,인가받지 않은,adjective,800,D,,unverified,ocr_exact,1-10(2) p7,,candidates_unaligned,,,,,2,anki_800:1766527460275
+with respect to,~에 관해서,phrase,800,D,,unverified,ocr_exact,1-10(2) p7,,candidates_unaligned,,,,,2,anki_800:1766527460276
+accuse,"비난하다, 고소하다",verb,800,D,,unverified,ocr_exact,1-10(2) p7,v (badge),candidates_unaligned,,,,,2,anki_800:1766527460277
+assess,평가하다,verb,800,D,,unverified,ocr_exact,1-10(2) p7,,proposed_pair_needs_review,,,,,2,anki_800:1766527460278
+attorney,변호사,noun,800,B,a professional person authorized to practice law; conducts lawsuits or gives legal advice,verified,ocr_exact,1-10(2) p7,n (width),double_korean_anchor,oewn,oewn-attorney__1.18.00..,kaikki:attorney:noun:0:1074:s0,변호사,2,anki_800:1766527460279
+be absent from,~에 결석하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,,no_sense_record,,,,,2,anki_800:1766527460280
+be allowed to do,~하도록 허락받다,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,,no_sense_record,,,,,2,anki_800:1766527460281
+by way of,"~의 방법으로, ~에 의해서",phrase,800,D,,unverified,ocr_exact,1-10(2) p7,,candidates_unaligned,,,,,2,anki_800:1766527460282
+distrust,의심하다 / 불신,noun/verb,800,B,regard as untrustworthy; regard with suspicion; have no faith or confidence in,unverified,ocr_exact,1-10(2) p7,v (badge),monosemous_pair,oewn,oewn-distrust__2.31.00..,kaikki:distrust:verb:0:6419:s0,,2,anki_800:1766527460283
+from this day onward,오늘부터,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,,no_sense_record,,,,,2,anki_800:1766527460284
+have permission to do,~할 허가를 받다,phrase,800,E,,unverified,ocr_prefix,1-10(2) p7,phr (badge),no_sense_record,,,,,2,anki_800:1766527460285
+in a strict way,엄격하게,phrase,800,E,,unverified,ocr_similar,1-10(2) p7,phr (badge),no_sense_record,,,,,2,anki_800:1766527460286
+make clear,분명히 하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,,no_sense_record,,,,,2,anki_800:1766527460287
+ministry,(정부의) 부서,noun,800,D,,unverified,ocr_prefix,1-10(2) p7,n (width),proposed_pair_needs_review,,,,,2,anki_800:1766527460288
+newly established,신설된,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,,no_sense_record,,,,,2,anki_800:1766527460289
+put into effect,~을 시행하다,phrase,800,C,To implement; to execute; to carry out.,unverified,ocr_similar,1-10(2) p7,,single_source_only_sense,kaikki,,kaikki:put into effect:verb:0:7427:s0,,2,anki_800:1766527460290
+registration confirmation,등록 확인,phrase,800,E,,unverified,ocr_exact,1-10(2) p7,phr (badge),no_sense_record,,,,,2,anki_800:1766527460291
+stand over,옆에서 지켜보다,phrase,800,C,To be very watchful of.,unverified,ocr_similar,1-10(2) p7,phr (badge),single_source_only_sense,kaikki,,kaikki:stand over:verb:0:8021:s0,,2,anki_800:1766527460292
+warn,경고하다,verb,800,C,"To make (someone) aware of impending danger, evil, etc.",verified,ocr_variant_ocr,1-10(2) p7,,single_source_korean_anchor,kaikki,,kaikki:warn:verb:0:4898:s0,경고하다,2,anki_800:1766527460293
+without respect to,"~을 고려하지 않고, ~을 무시하고",phrase,800,E,,unverified,ocr_exact,1-10(2) p7,phr (badge),no_sense_record,,,,,2,anki_800:1766527460294
+commonplace,"평범한 일, 흔한 일 / 평범한, 흔한",noun,900,D,,unverified,ocr_exact,1-10(2) p8,n (badge),candidates_unaligned,,,,,2,anki_900:1766527462224
+protective smock,보호 작업복,phrase,900,E,,unverified,ocr_exact,1-10(2) p8,phr (badge),no_sense_record,,,,,2,anki_900:1766527462225
+testimony,증언,noun,900,C,Statements made by a witness in court.,verified,ocr_exact,1-10(2) p8,,single_source_korean_anchor,kaikki,,kaikki:testimony:noun:0:3951:s0,증언,2,anki_900:1766527462226
+accordance,"일치, 조화",noun,900,D,,unverified,ocr_exact,1-10(2) p8,n (width),candidates_unaligned,,,,,2,anki_900:1766527462227
+crucial,중요한,adjective,900,D,,unverified,ocr_similar,1-10(2) p8,,proposed_pair_needs_review,,,,,2,anki_900:1766527462228
+deviation,"일탈, 탈선",noun,900,D,,unverified,ocr_similar,1-10(2) p8,,candidates_unaligned,,,,,2,anki_900:1766527462229
+effortlessly,힘들지 않게,adverb,900,B,without effort or apparent effort,unverified,ocr_exact,1-10(2) p8,,monosemous_pair,oewn,oewn-effortlessly__4.02.00..,kaikki:effortlessly:adv:0:6620:s0,,2,anki_900:1766527462230
+in observance of,~을 기념하여,phrase,900,E,,unverified,ocr_prefix,1-10(2) p8,phr (badge),no_sense_record,,,,,2,anki_900:1766527462231
+inadvertently,"무심코, 우연히",adverb,900,B,without knowledge or intention,unverified,ocr_prefix,1-10(2) p8,adv (badge),monosemous_pair,oewn,oewn-inadvertently__4.02.00..,kaikki:inadvertently:adv:0:5934:s0,,2,anki_900:1766527462232
+judicial,"사법의, 재판의",adjective,900,B,decreed by or proceeding from a court of justice,verified,ocr_similar,1-10(2) p8,,double_korean_anchor,oewn,oewn-judicial__5.00.00.legal.00,kaikki:judicial:adj:0:5924:s1,사법의,2,anki_900:1766527462233
+justification,정당한 이유,noun,900,D,,unverified,ocr_contains,1-10(2) p8,n (badge),candidates_unaligned,,,,,2,anki_900:1766527462234
+keenly,"날카롭게, 예민하게",adverb,900,B,in a keen or penetrating way,unverified,ocr_exact,1-10(2) p8,v (badge),monosemous_pair,oewn,oewn-keenly__4.02.00..,kaikki:keenly:adv:0:6019:s0,,2,anki_900:1766527462235
+lawsuit,"소송, 고소",noun,900,B,a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy,unverified,ocr_exact,1-10(2) p8,,monosemous_pair,oewn,oewn-lawsuit__1.04.00..,kaikki:lawsuit:noun:0:3936:s0,,2,anki_900:1766527462236
+mundane,"일상적인, 재미없는",adjective,900,D,,unverified,ocr_prefix,1-10(2) p8,,candidates_unaligned,,,,,2,anki_900:1766527462237
+off-limits,출입금지의,adjective,900,B,barred to a designated group,unverified,ocr_exact,1-10(2) p8,,monosemous_pair,oewn,oewn-off--limits__5.00.00.restricted.00,kaikki:off-limits:adj:0:6523:s0,,2,anki_900:1766527462238
+ordinance,"법령, 명령",noun,900,C,"A local law, passed by e.g. a city.",verified,ocr_exact,1-10(2) p8,n (width),single_source_korean_anchor,kaikki,,kaikki:ordinance:noun:0:1806:s0,법령,2,anki_900:1766527462239
+pulled,"철회된, 철수한",adjective,900,C,"Of cooked meat, prepared by being torn into fine pieces.",unverified,ocr_exact,1-10(2) p8,,single_source_only_sense,kaikki,,kaikki:pulled:adj:0:6372:s0,,2,anki_900:1766527462240
+reprimand,"비난하다, 질책하다",verb,900,D,,unverified,ocr_exact,1-10(2) p8,v (badge),candidates_unaligned,,,,,2,anki_900:1766527462241
+resolution,"결의(안), 결정, 해상도",noun,900,D,,unverified,ocr_exact,1-10(2) p8,n (badge),candidates_unaligned,,,,,2,anki_900:1766527462242
+stiff,"뻣뻣한, 경직된",adjective,900,D,,unverified,ocr_exact,1-10(2) p8,,proposed_pair_needs_review,,,,,2,anki_900:1766527462243
+substantiate,입증하다,verb,900,D,,unverified,ocr_exact,1-10(2) p8,v (badge),candidates_unaligned,,,,,2,anki_900:1766527462244
+trespass,(남의 토지에) 침입하다,verb,900,D,,unverified,ocr_exact,1-10(2) p8,,candidates_unaligned,,,,,2,anki_900:1766527462245
+violate,위반하다,verb,900,D,,unverified,ocr_exact,1-10(2) p8,,candidates_unaligned,,,,,2,anki_900:1766527462246
+at the discretion of,~의 재량으로,phrase,900,E,,unverified,ocr_similar,1-10(2) p8,v (badge),no_sense_record,,,,,2,anki_900:1766527462247
+bound,"의무가 있는, 꼭~하게 되어 있는",adjective,900,D,,unverified,ocr_exact,1-10(2) p8,n (width),candidates_unaligned,,,,,2,anki_900:1766527462248
+circumscribe,~을 제한하다,verb,900,D,,unverified,ocr_exact,1-10(2) p8,,candidates_unaligned,,,,,2,anki_900:1766527462249
+enactment,"입법, 법령",noun,900,D,,unverified,ocr_exact,1-10(2) p8,,proposed_pair_needs_review,,,,,2,anki_900:1766527462250
+impeccable,결점 없는,adjective,900,D,,unverified,ocr_exact,1-10(2) p8,n (width),candidates_unaligned,,,,,2,anki_900:1766527462251
+infringement,침해,noun,900,B,a crime less serious than a felony,verified,ocr_exact,1-10(2) p8,,double_korean_anchor,oewn,oewn-infringement__1.04.00..,kaikki:infringement:noun:0:5756:s0,침해,2,anki_900:1766527462252
+legitimate,"합법적인, 적법한",adjective,900,D,,unverified,ocr_similar,1-10(2) p8,phr (width),proposed_pair_needs_review,,,,,2,anki_900:1766527462253
+petition,"진정서, 탄원서",noun,900,D,,unverified,ocr_similar,1-10(2) p8,phr (width),candidates_unaligned,,,,,2,anki_900:1766527462254
+when it comes to,~에 관해서는,phrase,900,C,as for; with regard to,unverified,ocr_exact,1-10(2) p8,,single_source_only_sense,kaikki,,kaikki:when it comes to:prep:0:7888:s0,,2,anki_900:1766527462255

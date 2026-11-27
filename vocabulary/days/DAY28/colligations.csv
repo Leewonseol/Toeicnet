@@ -66,7 +66,7 @@ complex,complex to,complex to,noun+to,17,oanc_candidate_unreviewed,COLLIGATION:c
 complex,complex with,complex with,adjective+preposition,15,oanc_candidate_unreviewed,COLLIGATION:complex:with:adjective+preposition
 complex,complex for,complex for,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:complex:for:adjective+preposition
 complex,complex that,complex that,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:complex:that:adjective+preposition
-complex,complex to protect,complex to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:complex:to:adjective+to-infinitive
+complex,complex to result,complex to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:complex:to:adjective+to-infinitive
 complex,complex during,complex during,adjective+preposition,9,oanc_candidate_unreviewed,COLLIGATION:complex:during:adjective+preposition
 complex,complex as,complex as,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:complex:as:adjective+preposition
 complex,complex at,complex at,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:complex:at:adjective+preposition
@@ -83,7 +83,7 @@ construct,constructed using,construct VBG,verb+VBG,70,oanc_candidate_unreviewed,
 construct,constructed in,construct in,verb+preposition,47,oanc_candidate_unreviewed,COLLIGATION:construct:in:verb+preposition
 construct,constructed from,construct from,verb+preposition,38,oanc_candidate_unreviewed,COLLIGATION:construct:from:verb+preposition
 construct,constructed for,construct for,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:construct:for:verb+preposition
-construct,constructed to allow,construct to + infinitive,verb+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:construct:to:verb+to-infinitive
+construct,constructed to provide,construct to + infinitive,verb+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:construct:to:verb+to-infinitive
 construct,constructed as,construct as,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:construct:as:verb+preposition
 construct,constructed with,construct with,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:construct:with:verb+preposition
 construct,constructed of,construct of,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:construct:of:verb+preposition
@@ -106,7 +106,7 @@ courtyard,courtyard with,courtyard with,noun+preposition,5,oanc_candidate_unrevi
 decoration,decoration of,decoration of,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:decoration:of:noun+preposition
 delay,delays in,delay in,noun+preposition,78,oanc_candidate_unreviewed,COLLIGATION:delay:in:noun+preposition
 delay,delay of,delay of,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:delay:of:noun+preposition
-delay,delayed following,delay VBG,verb+VBG,15,oanc_candidate_unreviewed,COLLIGATION:delay:VBG:verb+VBG
+delay,delay answering,delay VBG,verb+VBG,15,oanc_candidate_unreviewed,COLLIGATION:delay:VBG:verb+VBG
 delay,delayed by,delay by,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:delay:by:verb+preposition
 delay,delayed in,delay in,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:delay:in:verb+preposition
 delay,delayed until,delay until,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:delay:until:verb+preposition
@@ -129,12 +129,12 @@ describe,described on,describe on,verb+preposition,10,oanc_candidate_unreviewed,
 describe,described with,describe with,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:describe:with:verb+preposition
 describe,described to analyze,describe to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:describe:to:verb+to-infinitive
 describe,described under,describe under,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:describe:under:verb+preposition
-desirable,desirable to develop,desirable to + infinitive,adjective+to-infinitive,24,oanc_candidate_unreviewed,COLLIGATION:desirable:to:adjective+to-infinitive
+desirable,desirable to make,desirable to + infinitive,adjective+to-infinitive,24,oanc_candidate_unreviewed,COLLIGATION:desirable:to:adjective+to-infinitive
 desirable,desirable in,desirable in,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:desirable:in:adjective+preposition
 desirable,desirable for,desirable for,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:desirable:for:adjective+preposition
 develop,developed in,develop in,verb+preposition,135,oanc_candidate_unreviewed,COLLIGATION:develop:in:verb+preposition
 develop,developed by,develop by,verb+preposition,128,oanc_candidate_unreviewed,COLLIGATION:develop:by:verb+preposition
-develop,developed to allow,develop to + infinitive,verb+to-infinitive,74,oanc_candidate_unreviewed,COLLIGATION:develop:to:verb+to-infinitive
+develop,developed to manipulate,develop to + infinitive,verb+to-infinitive,74,oanc_candidate_unreviewed,COLLIGATION:develop:to:verb+to-infinitive
 develop,developed for,develop for,verb+preposition,73,oanc_candidate_unreviewed,COLLIGATION:develop:for:verb+preposition
 develop,developed guiding,develop VBG,verb+VBG,55,oanc_candidate_unreviewed,COLLIGATION:develop:VBG:verb+VBG
 develop,developed into,develop into,verb+preposition,44,oanc_candidate_unreviewed,COLLIGATION:develop:into:verb+preposition
@@ -142,17 +142,17 @@ develop,developed as,develop as,verb+preposition,42,oanc_candidate_unreviewed,CO
 develop,developed from,develop from,verb+preposition,37,oanc_candidate_unreviewed,COLLIGATION:develop:from:verb+preposition
 develop,developed with,develop with,verb+preposition,29,oanc_candidate_unreviewed,COLLIGATION:develop:with:verb+preposition
 develop,developed to,develop to,verb+to,27,oanc_candidate_unreviewed,COLLIGATION:develop:to:verb+to
-develop,developing at,develop at,verb+preposition,25,oanc_candidate_unreviewed,COLLIGATION:develop:at:verb+preposition
+develop,develop at,develop at,verb+preposition,25,oanc_candidate_unreviewed,COLLIGATION:develop:at:verb+preposition
 develop,developed during,develop during,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:develop:during:verb+preposition
 develop,developed on,develop on,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:develop:on:verb+preposition
 develop,developed over,develop over,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:develop:over:verb+preposition
 develop,developed after,develop after,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:develop:after:verb+preposition
 develop,developed through,develop through,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:develop:through:verb+preposition
 develop,develop among,develop among,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:develop:among:verb+preposition
-develop,develops between,develop between,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:develop:between:verb+preposition
+develop,developing between,develop between,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:develop:between:verb+preposition
 develop,developed under,develop under,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:develop:under:verb+preposition
-develop,develop since,develop since,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:develop:since:verb+preposition
 develop,developed against,develop against,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:develop:against:verb+preposition
+develop,developed since,develop since,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:develop:since:verb+preposition
 district,district of,district of,noun+preposition,145,oanc_candidate_unreviewed,COLLIGATION:district:of:noun+preposition
 district,district in,district in,noun+preposition,23,oanc_candidate_unreviewed,COLLIGATION:district:in:noun+preposition
 district,district to,district to,noun+to,13,oanc_candidate_unreviewed,COLLIGATION:district:to:noun+to
@@ -198,14 +198,14 @@ install,installed at,install at,verb+preposition,16,oanc_candidate_unreviewed,CO
 install,installed by,install by,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:install:by:verb+preposition
 install,installed on,install on,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:install:on:verb+preposition
 install,installed as,install as,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:install:as:verb+preposition
-install,installed to meet,install to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:install:to:verb+to-infinitive
+install,installed to oversee,install to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:install:to:verb+to-infinitive
 insulation,insulation in,insulation in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:insulation:in:noun+preposition
 interfere,interfering with,interfere with,verb+preposition,199,oanc_candidate_unreviewed,COLLIGATION:interfere:with:verb+preposition
 interfere,interfere in,interfere in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:interfere:in:verb+preposition
 landlord,landlord to,landlord to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:landlord:to:noun+to
 landlord,landlord of,landlord of,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:landlord:of:noun+preposition
 lighten,lighten up,lighten up,verb+particle,5,oanc_candidate_unreviewed,COLLIGATION:lighten:up:verb+particle
-lobby,lobbying for,lobby for,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:lobby:for:verb+preposition
+lobby,lobby for,lobby for,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:lobby:for:verb+preposition
 lobby,lobby of,lobby of,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:lobby:of:noun+preposition
 lobby,lobby for,lobby for,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:lobby:for:noun+preposition
 lobby,lobbying on,lobby on,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:lobby:on:verb+preposition
@@ -299,9 +299,9 @@ stairway,stairway to,stairway to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION
 stick,stick to,stick to,verb+to,87,oanc_candidate_unreviewed,COLLIGATION:stick:to:verb+to
 stick,stuck with,stick with,verb+preposition,65,oanc_candidate_unreviewed,COLLIGATION:stick:with:verb+preposition
 stick,stuck in,stick in,verb+preposition,49,oanc_candidate_unreviewed,COLLIGATION:stick:in:verb+preposition
-stick,stick out,stick out,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:stick:out:verb+preposition
+stick,sticks out,stick out,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:stick:out:verb+preposition
 stick,stuck on,stick on,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:stick:on:verb+preposition
-stick,stuck using,stick VBG,verb+VBG,10,oanc_candidate_unreviewed,COLLIGATION:stick:VBG:verb+VBG
+stick,stick fighting,stick VBG,verb+VBG,10,oanc_candidate_unreviewed,COLLIGATION:stick:VBG:verb+VBG
 stick,sticking up,stick up,verb+particle,9,oanc_candidate_unreviewed,COLLIGATION:stick:up:verb+particle
 stick,stuck around,stick around,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:stick:around:verb+preposition
 stick,stick of,stick of,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:stick:of:noun+preposition

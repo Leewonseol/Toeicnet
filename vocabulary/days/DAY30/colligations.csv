@@ -105,7 +105,7 @@ exposure,exposure with,exposure with,noun+preposition,5,oanc_candidate_unreviewe
 fitness,fitness of,fitness of,noun+preposition,28,oanc_candidate_unreviewed,COLLIGATION:fitness:of:noun+preposition
 fitness,fitness in,fitness in,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:fitness:in:noun+preposition
 fitness,fitness for,fitness for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:fitness:for:noun+preposition
-forbid,forbidden to discuss,forbid to + infinitive,verb+to-infinitive,26,oanc_candidate_unreviewed,COLLIGATION:forbid:to:verb+to-infinitive
+forbid,forbidden to feed,forbid to + infinitive,verb+to-infinitive,26,oanc_candidate_unreviewed,COLLIGATION:forbid:to:verb+to-infinitive
 forbid,forbidden to,forbid to,verb+to,6,oanc_candidate_unreviewed,COLLIGATION:forbid:to:verb+to
 forbid,forbidden in,forbid in,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:forbid:in:verb+preposition
 harmful,harmful to,harmful to,adjective+to,14,oanc_candidate_unreviewed,COLLIGATION:harmful:to:adjective+to
@@ -161,7 +161,7 @@ join,joined with,join with,verb+preposition,28,oanc_candidate_unreviewed,COLLIGA
 join,joined at,join at,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:join:at:verb+preposition
 join,joining of,join of,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:join:of:verb+preposition
 join,joined to,join to,verb+to,7,oanc_candidate_unreviewed,COLLIGATION:join:to:verb+to
-join,joining to form,join to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:join:to:verb+to-infinitive
+join,joined to bring,join to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:join:to:verb+to-infinitive
 join,joined as,join as,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:join:as:verb+preposition
 lung,lungs of,lung of,noun+preposition,22,oanc_candidate_unreviewed,COLLIGATION:lung:of:noun+preposition
 milestone,milestone in,milestone in,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:milestone:in:noun+preposition
@@ -208,7 +208,7 @@ physician,physicians of,physician of,noun+preposition,6,oanc_candidate_unreviewe
 physician,physician at,physician at,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:physician:at:noun+preposition
 physician,physicians on,physician on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:physician:on:noun+preposition
 plausible,plausible that,plausible that,adjective+preposition,33,oanc_candidate_unreviewed,COLLIGATION:plausible:that:adjective+preposition
-plausible,plausible to suggest,plausible to + infinitive,adjective+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:plausible:to:adjective+to-infinitive
+plausible,plausible to say,plausible to + infinitive,adjective+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:plausible:to:adjective+to-infinitive
 plausible,plausible than,plausible than,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:plausible:than:adjective+preposition
 practitioner,practitioners of,practitioner of,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:practitioner:of:noun+preposition
 practitioner,practitioners in,practitioner in,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:practitioner:in:noun+preposition
@@ -242,15 +242,15 @@ recognize,recognized as,recognize as,verb+preposition,169,oanc_candidate_unrevie
 recognize,recognized by,recognize by,verb+preposition,128,oanc_candidate_unreviewed,COLLIGATION:recognize:by:verb+preposition
 recognize,recognized in,recognize in,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:recognize:in:verb+preposition
 recognize,recognized for,recognize for,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:recognize:for:verb+preposition
-recognize,recognized to confer,recognize to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:recognize:to:verb+to-infinitive
+recognize,recognized to be,recognize to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:recognize:to:verb+to-infinitive
 recognize,recognized at,recognize at,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:recognize:at:verb+preposition
 recommend,recommend that,recommend that,verb+preposition,142,oanc_candidate_unreviewed,COLLIGATION:recommend:that:verb+preposition
 recommend,recommended by,recommend by,verb+preposition,69,oanc_candidate_unreviewed,COLLIGATION:recommend:by:verb+preposition
-recommend,recommend withholding,recommend VBG,verb+VBG,49,oanc_candidate_unreviewed,COLLIGATION:recommend:VBG:verb+VBG
+recommend,recommend allowing,recommend VBG,verb+VBG,49,oanc_candidate_unreviewed,COLLIGATION:recommend:VBG:verb+VBG
 recommend,recommended for,recommend for,verb+preposition,37,oanc_candidate_unreviewed,COLLIGATION:recommend:for:verb+preposition
 recommend,recommended in,recommend in,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:recommend:in:verb+preposition
 recommend,recommended to,recommend to,verb+to,9,oanc_candidate_unreviewed,COLLIGATION:recommend:to:verb+to
-recommend,recommend against,recommend against,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:recommend:against:verb+preposition
+recommend,recommends against,recommend against,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:recommend:against:verb+preposition
 recover,recovered from,recover from,verb+preposition,110,oanc_candidate_unreviewed,COLLIGATION:recover:from:verb+preposition
 recover,recovered in,recover in,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:recover:in:verb+preposition
 recover,recovered by,recover by,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:recover:by:verb+preposition
@@ -265,20 +265,20 @@ recovery,recovery in,recovery in,noun+preposition,13,oanc_candidate_unreviewed,C
 recovery,recovery after,recovery after,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:recovery:after:noun+preposition
 related,related to,related to,noun+to,13,oanc_candidate_unreviewed,COLLIGATION:related:to:noun+to
 related,related to,related to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:related:to:adjective+to
-relieve,relieved to learn,relieve to + infinitive,verb+to-infinitive,13,oanc_candidate_unreviewed,COLLIGATION:relieve:to:verb+to-infinitive
+relieve,relieved to see,relieve to + infinitive,verb+to-infinitive,13,oanc_candidate_unreviewed,COLLIGATION:relieve:to:verb+to-infinitive
 relieve,relieved that,relieve that,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:relieve:that:verb+preposition
 relieve,relieved by,relieve by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:relieve:by:verb+preposition
 relieve,relieved of,relieve of,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:relieve:of:verb+preposition
 remedy,remedy for,remedy for,noun+preposition,26,oanc_candidate_unreviewed,COLLIGATION:remedy:for:noun+preposition
 remedy,remedies in,remedy in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:remedy:in:noun+preposition
 resemble,resembles that,resemble that,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:resemble:that:verb+preposition
-resemble,resembles putting,resemble VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:resemble:VBG:verb+VBG
-resist,resists boiling,resist VBG,verb+VBG,42,oanc_candidate_unreviewed,COLLIGATION:resist:VBG:verb+VBG
+resemble,resembles buying,resemble VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:resemble:VBG:verb+VBG
+resist,resisted replacing,resist VBG,verb+VBG,42,oanc_candidate_unreviewed,COLLIGATION:resist:VBG:verb+VBG
 resist,resisted by,resist by,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:resist:by:verb+preposition
 robust,robust to,robust to,adjective+to,18,oanc_candidate_unreviewed,COLLIGATION:robust:to:adjective+to
 robust,robust in,robust in,adjective+preposition,9,oanc_candidate_unreviewed,COLLIGATION:robust:in:adjective+preposition
 robust,robust than,robust than,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:robust:than:adjective+preposition
-simple,simple to put,simple to + infinitive,adjective+to-infinitive,19,oanc_candidate_unreviewed,COLLIGATION:simple:to:adjective+to-infinitive
+simple,simple to rent,simple to + infinitive,adjective+to-infinitive,19,oanc_candidate_unreviewed,COLLIGATION:simple:to:adjective+to-infinitive
 simple,simple as,simple as,adjective+preposition,11,oanc_candidate_unreviewed,COLLIGATION:simple:as:adjective+preposition
 surgery,surgery in,surgery in,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:surgery:in:noun+preposition
 surgery,surgery for,surgery for,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:surgery:for:noun+preposition
@@ -293,7 +293,7 @@ symptom,symptoms in,symptom in,noun+preposition,27,oanc_candidate_unreviewed,COL
 symptom,symptoms for,symptom for,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:symptom:for:noun+preposition
 symptom,symptoms to,symptom to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:symptom:to:noun+to
 tablet,tablets of,tablet of,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:tablet:of:noun+preposition
-terminal,terminal of,terminal of,noun+preposition,28,oanc_candidate_unreviewed,COLLIGATION:terminal:of:noun+preposition
+terminal,terminal” of,terminal of,noun+preposition,28,oanc_candidate_unreviewed,COLLIGATION:terminal:of:noun+preposition
 terminal,terminal to,terminal to,noun+to,21,oanc_candidate_unreviewed,COLLIGATION:terminal:to:noun+to
 terminal,terminal for,terminal for,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:terminal:for:noun+preposition
 terminal,terminal in,terminal in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:terminal:in:noun+preposition
@@ -304,7 +304,7 @@ transmit,transmitted from,transmit from,verb+preposition,6,oanc_candidate_unrevi
 transmit,transmitted in,transmit in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:transmit:in:verb+preposition
 treat,treated with,treat with,verb+preposition,677,oanc_candidate_unreviewed,COLLIGATION:treat:with:verb+preposition
 treat,treated as,treat as,verb+preposition,150,oanc_candidate_unreviewed,COLLIGATION:treat:as:verb+preposition
-treat,treated in,treat in,verb+preposition,58,oanc_candidate_unreviewed,COLLIGATION:treat:in:verb+preposition
+treat,treat in,treat in,verb+preposition,58,oanc_candidate_unreviewed,COLLIGATION:treat:in:verb+preposition
 treat,treated for,treat for,verb+preposition,48,oanc_candidate_unreviewed,COLLIGATION:treat:for:verb+preposition
 treat,treated at,treat at,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:treat:at:verb+preposition
 treat,treated by,treat by,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:treat:by:verb+preposition

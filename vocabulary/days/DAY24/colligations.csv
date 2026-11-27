@@ -2,7 +2,7 @@ headword,colligation,lemma,combination,oanc_frequency,status,oanc_record
 accomplishment,accomplishments of,accomplishment of,noun+preposition,20,oanc_candidate_unreviewed,COLLIGATION:accomplishment:of:noun+preposition
 accomplishment,accomplishments in,accomplishment in,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:accomplishment:in:noun+preposition
 appoint,appointed by,appoint by,verb+preposition,36,oanc_candidate_unreviewed,COLLIGATION:appoint:by:verb+preposition
-appoint,appointed to study,appoint to + infinitive,verb+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:appoint:to:verb+to-infinitive
+appoint,appointed to boost,appoint to + infinitive,verb+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:appoint:to:verb+to-infinitive
 appoint,appointed to,appoint to,verb+to,11,oanc_candidate_unreviewed,COLLIGATION:appoint:to:verb+to
 appointment,appointment of,appointment of,noun+preposition,45,oanc_candidate_unreviewed,COLLIGATION:appointment:of:noun+preposition
 appointment,appointments to,appointment to,noun+to,15,oanc_candidate_unreviewed,COLLIGATION:appointment:to:noun+to
@@ -32,7 +32,7 @@ characteristic,characteristics between,characteristic between,noun+preposition,7
 characteristic,characteristics to,characteristic to,noun+to,7,oanc_candidate_unreviewed,COLLIGATION:characteristic:to:noun+to
 characteristic,characteristics with,characteristic with,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:characteristic:with:noun+preposition
 characteristic,characteristics by,characteristic by,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:characteristic:by:noun+preposition
-competent,competent to make,competent to + infinitive,adjective+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:competent:to:adjective+to-infinitive
+competent,competent to respond,competent to + infinitive,adjective+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:competent:to:adjective+to-infinitive
 competent,competent for,competent for,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:competent:for:adjective+preposition
 competent,competent than,competent than,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:competent:than:adjective+preposition
 dedication,dedication to,dedication to,noun+to,30,oanc_candidate_unreviewed,COLLIGATION:dedication:to:noun+to
@@ -44,7 +44,7 @@ deploy,deployed to,deploy to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:dep
 designate,designated as,designate as,verb+preposition,70,oanc_candidate_unreviewed,COLLIGATION:designate:as:verb+preposition
 designate,designated by,designate by,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:designate:by:verb+preposition
 designate,designated for,designate for,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:designate:for:verb+preposition
-designate,designated to speak,designate to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:designate:to:verb+to-infinitive
+designate,designated to become,designate to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:designate:to:verb+to-infinitive
 designate,designated under,designate under,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:designate:under:verb+preposition
 designation,designation of,designation of,noun+preposition,25,oanc_candidate_unreviewed,COLLIGATION:designation:of:noun+preposition
 designation,designation for,designation for,noun+preposition,19,oanc_candidate_unreviewed,COLLIGATION:designation:for:noun+preposition
@@ -56,7 +56,7 @@ dismissal,dismissal of,dismissal of,noun+preposition,39,oanc_candidate_unreviewe
 early,early to call,early to + infinitive,adjective+to-infinitive,30,oanc_candidate_unreviewed,COLLIGATION:early:to:adjective+to-infinitive
 early,early to,early to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:early:to:adjective+to
 elect,elected to,elect to,verb+to,29,oanc_candidate_unreviewed,COLLIGATION:elect:to:verb+to
-elect,elect to receive,elect to + infinitive,verb+to-infinitive,26,oanc_candidate_unreviewed,COLLIGATION:elect:to:verb+to-infinitive
+elect,elected to take,elect to + infinitive,verb+to-infinitive,26,oanc_candidate_unreviewed,COLLIGATION:elect:to:verb+to-infinitive
 elect,elected in,elect in,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:elect:in:verb+preposition
 elect,elected by,elect by,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:elect:by:verb+preposition
 elect,elected as,elect as,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:elect:as:verb+preposition
@@ -197,7 +197,7 @@ performance,performance that,performance that,noun+preposition,8,oanc_candidate_
 performance,performance with,performance with,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:performance:with:noun+preposition
 performance,performance toward,performance toward,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:performance:toward:noun+preposition
 plan,plans to,plan to,noun+to,434,oanc_candidate_unreviewed,COLLIGATION:plan:to:noun+to
-plan,plan to climb,plan to + infinitive,verb+to-infinitive,314,oanc_candidate_unreviewed,COLLIGATION:plan:to:verb+to-infinitive
+plan,plan to take,plan to + infinitive,verb+to-infinitive,314,oanc_candidate_unreviewed,COLLIGATION:plan:to:verb+to-infinitive
 plan,plan for,plan for,noun+preposition,240,oanc_candidate_unreviewed,COLLIGATION:plan:for:noun+preposition
 plan,planned for,plan for,verb+preposition,61,oanc_candidate_unreviewed,COLLIGATION:plan:for:verb+preposition
 plan,plan of,plan of,noun+preposition,54,oanc_candidate_unreviewed,COLLIGATION:plan:of:noun+preposition
@@ -255,11 +255,11 @@ progress,progress on,progress on,noun+preposition,23,oanc_candidate_unreviewed,C
 progress,progress through,progress through,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:progress:through:noun+preposition
 progress,progressed in,progress in,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:progress:in:verb+preposition
 progress,progresses through,progress through,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:progress:through:verb+preposition
-progress,progress from,progress from,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:progress:from:verb+preposition
+progress,progressed from,progress from,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:progress:from:verb+preposition
 progress,progressed on,progress on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:progress:on:verb+preposition
 progress,progressed to permit,progress to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:progress:to:verb+to-infinitive
 promote,promoted by,promote by,verb+preposition,23,oanc_candidate_unreviewed,COLLIGATION:promote:by:verb+preposition
-promote,promote refolding,promote VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:promote:VBG:verb+VBG
+promote,promoting saving,promote VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:promote:VBG:verb+VBG
 promote,promoted to,promote to,verb+to,9,oanc_candidate_unreviewed,COLLIGATION:promote:to:verb+to
 promote,promoted in,promote in,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:promote:in:verb+preposition
 promotion,promotion of,promotion of,noun+preposition,33,oanc_candidate_unreviewed,COLLIGATION:promotion:of:noun+preposition
@@ -332,7 +332,7 @@ scheme,scheme of,scheme of,noun+preposition,18,oanc_candidate_unreviewed,COLLIGA
 scheme,scheme in,scheme in,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:scheme:in:noun+preposition
 scheme,scheme with,scheme with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:scheme:with:noun+preposition
 search,search for,search for,noun+preposition,299,oanc_candidate_unreviewed,COLLIGATION:search:for:noun+preposition
-search,searching for,search for,verb+preposition,242,oanc_candidate_unreviewed,COLLIGATION:search:for:verb+preposition
+search,searched for,search for,verb+preposition,242,oanc_candidate_unreviewed,COLLIGATION:search:for:verb+preposition
 search,search of,search of,noun+preposition,239,oanc_candidate_unreviewed,COLLIGATION:search:of:noun+preposition
 search,searches with,search with,noun+preposition,45,oanc_candidate_unreviewed,COLLIGATION:search:with:noun+preposition
 search,search in,search in,noun+preposition,23,oanc_candidate_unreviewed,COLLIGATION:search:in:noun+preposition
@@ -346,9 +346,9 @@ search,searched out,search out,verb+preposition,8,oanc_candidate_unreviewed,COLL
 search,search by,search by,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:search:by:noun+preposition
 search,searched with,search with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:search:with:verb+preposition
 search,search without,search without,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:search:without:noun+preposition
-search,searching to obtain,search to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:search:to:verb+to-infinitive
+search,searching to attempting,search to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:search:to:verb+to-infinitive
 serve,served as,serve as,verb+preposition,776,oanc_candidate_unreviewed,COLLIGATION:serve:as:verb+preposition
-serve,served to finance,serve to + infinitive,verb+to-infinitive,121,oanc_candidate_unreviewed,COLLIGATION:serve:to:verb+to-infinitive
+serve,serves to support,serve to + infinitive,verb+to-infinitive,121,oanc_candidate_unreviewed,COLLIGATION:serve:to:verb+to-infinitive
 serve,served by,serve by,verb+preposition,71,oanc_candidate_unreviewed,COLLIGATION:serve:by:verb+preposition
 serve,served in,serve in,verb+preposition,71,oanc_candidate_unreviewed,COLLIGATION:serve:in:verb+preposition
 serve,served on,serve on,verb+preposition,62,oanc_candidate_unreviewed,COLLIGATION:serve:on:verb+preposition
@@ -359,8 +359,8 @@ serve,served at,serve at,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATI
 serve,served with,serve with,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:serve:with:verb+preposition
 serve,serves during,serve during,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:serve:during:verb+preposition
 serve,served out,serve out,verb+particle,6,oanc_candidate_unreviewed,COLLIGATION:serve:out:verb+particle
+serve,serve under,serve under,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:serve:under:verb+preposition
 serve,served if,serve if,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:serve:if:verb+preposition
-serve,served under,serve under,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:serve:under:verb+preposition
 shred,shred of,shred of,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:shred:of:noun+preposition
 skilled,skilled at,skilled at,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:skilled:at:adjective+preposition
 skilled,skilled in,skilled in,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:skilled:in:adjective+preposition

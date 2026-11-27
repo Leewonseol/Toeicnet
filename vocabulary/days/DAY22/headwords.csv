@@ -1,175 +1,175 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-agenda,"의제, 의사일정",noun,core,C,A temporally organized plan for matters to be attended to.,verified,single_source_korean_anchor,kaikki,,kaikki:agenda:noun:0:2058:s0,의사일정;의제,22,anki_core:1766527459534
-convene,"(회원 등이) 모이다, (회의가) 개최되다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,22,anki_core:1766527459535
-refute,"부인하다, 반박하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459536
-coordination,조정,noun,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459537
-unanimous,"만장일치의, 동의하는",adjective,core,C,"Based on unanimity, assent or agreement.",verified,single_source_korean_anchor,kaikki,,kaikki:unanimous:adj:0:5133:s0,만장일치,22,anki_core:1766527459538
-convince,"납득시키다, 확신시키다",verb,core,C,"To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",verified,single_source_korean_anchor,kaikki,,kaikki:convince:verb:0:5082:s0,납득시키다;확신시키다,22,anki_core:1766527459539
-consensus,"여론, 일치된 의견",noun,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459540
-defer,"연기하다, 미루다",verb,core,B,hold back to a later time,unverified,model_reviewed_pair,oewn,oewn-defer__2.42.00..,kaikki:defer:verb:1:263:s0,,22,anki_core:1766527459541
-usually,"보통, 일반적으로",adverb,core,B,under normal conditions,unverified,model_reviewed_pair,oewn,oewn-usually__4.02.00..,kaikki:usually:adv:0:2853:s1,,22,anki_core:1766527459542
-reschedule,일정을 바꾸다,verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459543
-meeting,회의,noun,core,C,A gathering of persons for a purpose; an assembly.,verified,single_source_korean_anchor,kaikki,,kaikki:meeting:noun:1:154:s1,회의,22,anki_core:1766527459544
-determine,"알아내다, 결정하다, 확정하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459545
-report,"보고하다, 출두하다, 보고서, 보도, 기록 (직장·회의 등에 도착을) 알리다",verb,core,C,"To relate details of (an event or incident); to recount, describe (something).",verified,single_source_korean_anchor,kaikki,,kaikki:report:verb:0:735:s0,보고서;보고하다,22,anki_core:1766527459546
-comment,"논평하다, 언급하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459547
-phase,단계,noun,core,B,any distinct time period in a sequence of events,verified,double_korean_anchor,oewn,oewn-phase__1.28.00..,kaikki:phase:noun:1:2621:s0,단계,22,anki_core:1766527459548
-approve,"승인하다, 찬성하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459549
-enclosed,동봉된,adjective,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459550
-easy,"쉬운, 용이한",adjective,core,C,Requiring little skill or effort.,verified,single_source_korean_anchor,kaikki,,kaikki:easy:adj:0:3145:s1,쉬운;용이하다,22,anki_core:1766527459551
-record,"기록, 경력, 이력, 기록하다",verb,core,C,To make a record of information.,verified,single_source_korean_anchor,kaikki,,kaikki:record:verb:2:2952:s0,기록;기록하다,22,anki_core:1766527459552
-suggestion,제안,noun,core,C,Something suggested (with subsequent adposition being for),verified,single_source_korean_anchor,kaikki,,kaikki:suggestion:noun:0:3021:s0,제안,22,anki_core:1766527459553
-attention,"주의, 경청",noun,core,C,Mental focus.,verified,single_source_korean_anchor,kaikki,,kaikki:attention:noun:0:705:s0,주의,22,anki_core:1766527459554
-object,반대하다,verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459555
-coincidentally,"우연히, 일치하게, 동시 발생적으로",adverb,core,B,happening at the same time,unverified,monosemous_pair,oewn,oewn-coincidentally__4.02.00..,kaikki:coincidentally:adv:0:7075:s0,,22,anki_core:1766527459556
-crowded,"붐비는, 복잡한",adjective,core,B,overfilled or compacted or concentrated,verified,monosemous_pair,oewn,oewn-crowded__3.00.00..,kaikki:crowded:adj:0:5865:s0,복잡하다,22,anki_core:1766527459557
-undergo,"겪다, 거치다, 경험하다",verb,core,B,go through,unverified,model_reviewed_pair,oewn,oewn-undergo__2.39.04..,kaikki:undergo:verb:0:5169:s0,,22,anki_core:1766527459558
-outcome,결과,noun,core,B,something that results,verified,double_korean_anchor,oewn,oewn-outcome__1.11.00..,kaikki:outcome:noun:0:926:s0,결과,22,anki_core:1766527459559
-narrowly,"주의 깊게, 좁게, 가까스로, 간신히, 겨우",adverb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459560
-differ,"의견을 달리하다, 다르다",adjective,core,E,,unverified,no_sense_record,,,,,22,anki_core:1766527459561
-discuss,"논의하다, 토론하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459562
-give,(연설·수업 등을) 하다,verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459563
-brief,"~에게 간단히 설명하다, 브리핑하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459564
-distract,"(주의를) 산만하게 하다, 빗기게 하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459565
-emphasis,"강조, 중점",noun,core,C,Special weight or forcefulness given to something considered important.,verified,single_source_korean_anchor,kaikki,,kaikki:emphasis:noun:0:4698:s0,강조,22,anki_core:1766527459566
-press,"언론(계), 보도기관, 누르다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459567
-organize,"준비하다, 조직하다, 정리하다",verb,core,B,arrange by systematic planning and united effort,verified,double_korean_anchor,oewn,oewn-organize__2.36.00..,kaikki:organize:verb:0:3702:s0,조직하다,22,anki_core:1766527459568
-mention,언급하다,verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459569
-persuasive,설득력 있는,adjective,core,B,intended or having the power to induce action or belief,unverified,monosemous_pair,oewn,oewn-persuasive__3.00.00..,kaikki:persuasive:adj:0:6336:s0,,22,anki_core:1766527459570
-understanding,이해심 있는,adjective,core,B,characterized by understanding based on comprehension and discernment and empathy,unverified,monosemous_pair,oewn,oewn-understanding__5.00.00.perceptive.00,kaikki:understanding:adj:2:4661:s0,,22,anki_core:1766527459571
-adjourn,(회의 등을) 휴회하다,verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459572
-constructive,건설적인,adjective,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459573
-preside,"(회의의) 사회를 보다, ~의 의장을 맡아보다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459574
-irrelevant,"관계가 없는, 무관한",adjective,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459575
-constraint,제한,noun,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459576
-condensed,"요약한, 응축한, 압축한",adjective,core,C,"Highly concentrated, or packed into a small space.",unverified,single_source_only_sense,kaikki,,kaikki:condensed:adj:0:6877:s0,,22,anki_core:1766527459577
-endorse,"(공개적으로) 지지하다, 보증하다",verb,core,D,,unverified,candidates_unaligned,,,,,22,anki_core:1766527459578
-punctually,"제시간에, 늦지 않게",adverb,core,B,at the expected or proper time,unverified,monosemous_pair,oewn,oewn-punctually__4.02.00..,kaikki:punctually:adv:0:7067:s0,,22,anki_core:1766527459579
-annual meeting,연례 회의,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459580
-conference room,회의실,phrase,basic,D,,unverified,candidates_unaligned,,,,,22,anki_basic:1766527459581
-guest speaker,초청 연사,phrase,basic,C,A person who has been invited to present a speech at an event where they are not the host.,unverified,single_source_only_sense,kaikki,,kaikki:guest speaker:noun:0:7088:s0,,22,anki_basic:1766527459582
-hand out,~을 나누어 주다,phrase,basic,D,,unverified,candidates_unaligned,,,,,22,anki_basic:1766527459583
-holiday,"휴가, 방학",noun,basic,B,leisure time away from work devoted to rest or pleasure,verified,double_korean_anchor,oewn,oewn-holiday__1.28.00..,kaikki:holiday:noun:0:2246:s2,방학;휴가,22,anki_basic:1766527459584
-let's end,끝냅시다,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459585
-meeting time,회의 시간,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459586
-scan,"살피다, 자세히 조사하다",verb,basic,D,,unverified,candidates_unaligned,,,,,22,anki_basic:1766527459587
-shake hands,악수하다,phrase,basic,C,"To grasp another person's hands as an expression of greeting, farewell, agreement, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:shake hands:verb:0:7223:s0,악수하다,22,anki_basic:1766527459588
-speech,연설,noun,basic,B,the act of delivering a formal spoken communication to an audience,verified,double_korean_anchor,oewn,oewn-speech__1.10.01..,kaikki:speech:noun:0:1907:s2,연설,22,anki_basic:1766527459589
-teammate,팀 동료,noun,basic,B,a fellow member of a team,unverified,monosemous_pair,oewn,oewn-teammate__1.18.00..,kaikki:teammate:noun:0:7021:s0,,22,anki_basic:1766527459590
-water,"물, 물을 주다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,22,anki_basic:1766527459591
-write down,적다,phrase,basic,C,To produce or set (something) down in writing; to record something.,verified,single_source_korean_anchor,kaikki,,kaikki:write down:verb:0:5054:s1,적다,22,anki_basic:1766527459592
-advise A of B,A에게 B를 알리다,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459593
-be held,(행사가) 열리다,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459594
-be scheduled for,~로 예정되어 있다,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459595
-business talk,사업 이야기,phrase,basic,E,,unverified,no_sense_record,,,,,22,anki_basic:1766527459596
-conversation,대화,noun,basic,C,"Expression and exchange of individual ideas through talking with other people; also, a set instance or occasion of such talking.",verified,single_source_korean_anchor,kaikki,,kaikki:conversation:noun:0:1851:s0,대화,22,anki_basic:1766527459597
-debate,토론하다,verb,basic,C,"To participate in a debate; to dispute, argue, especially in a public arena.",verified,single_source_korean_anchor,kaikki,,kaikki:debate:verb:1:1764:s0,토론하다,22,anki_basic:1766527459598
-express,표현하다,verb,basic,D,,unverified,candidates_unaligned,,,,,22,anki_basic:1766527459599
-gathering,모임,noun,basic,C,A meeting or get-together; a party or social function.,verified,single_source_korean_anchor,kaikki,,kaikki:gathering:noun:1:5296:s0,모임,22,anki_basic:1766527459600
-judge,"판단하다, 평가하다",verb,basic,D,,unverified,candidates_unaligned,,,,,22,anki_basic:1766527459601
-local time,현지 시간,phrase,basic,D,,unverified,candidates_unaligned,,,,,22,anki_basic:1766527459602
-result in,~을 야기하다,phrase,basic,C,To bring about; to lead to.,unverified,single_source_only_sense,kaikki,,kaikki:result in:verb:0:8078:s0,,22,anki_basic:1766527459603
-seating chart,좌석 배치도,phrase,basic,C,Synonym of seating plan.,unverified,single_source_only_sense,kaikki,,kaikki:seating chart:noun:0:7946:s0,,22,anki_basic:1766527459604
-seminar,세미나,noun,basic,B,a course offered for a small group of advanced students,verified,double_korean_anchor,oewn,oewn-seminar__1.04.00..,kaikki:seminar:noun:0:5696:s0,세미나,22,anki_basic:1766527459605
-vote,"투표하다, 투표",noun,basic,C,A formalized choice on legally relevant measures such as employment or appointment to office or a proceeding about a legal dispute.,verified,single_source_korean_anchor,kaikki,,kaikki:vote:noun:0:1012:s0,투표;투표하다,22,anki_basic:1766527459606
-weekly,"매주의, 매주",adverb,basic,C,Once every week.,verified,single_source_korean_anchor,kaikki,,kaikki:weekly:adv:0:393:s0,매주;매주의,22,anki_basic:1766527459607
-a large attendance,많은 참석자들,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461581
-attend a conference,학술 발표회에 참석하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461582
-business attire,비즈니스 정장,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461583
-conference call,전화회담,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461584
-convention,회의,noun,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461585
-face to face,서로 얼굴을 맞대고,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461586
-film footage,자료 화면,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461587
-get an appointment,약속을 잡다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461588
-get back in touch,다시 연락이 되다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461589
-get in touch with,~와 연락을 취하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461590
-give a presentation,발표를 하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461591
-have a discussion,토론하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461592
-keynote address,기조연설,phrase,800,C,a speech setting forth the keynote,unverified,single_source_only_sense,oewn,oewn-keynote_address__1.10.00..,,,22,anki_800:1766527461593
-keynote speaker,기조연설자,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461594
-make a speech,연설하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461595
-make adjustment,조정하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461596
-pass around,~을 차례로 돌리다,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461597
-pass out,~을 나누어 주다,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461598
-put in an offer,제안하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461599
-run a meeting,회의를 진행하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461600
-schedule an appointment,약속을 잡다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461601
-speak up,(큰소리로) 말하다,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461602
-stare into,~을 응시하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461603
-take down,"~을 적다, 내리다",phrase,800,D,,unverified,proposed_pair_needs_review,,,,,22,anki_800:1766527461604
-take notes,기록하다,phrase,800,C,To make a record of what one hears or observes for future reference.,unverified,single_source_only_sense,kaikki,,kaikki:take notes:verb:0:5780:s0,,22,anki_800:1766527461605
-take part in,~에 참가하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461606
-visual aid,(그림·도표·비디오 등의) 시각 보조자료,phrase,800,C,"An item such as a prop, slide, or picture that appeals primarily to vision and is used to enhance the understanding of information presented orally or in writing.",unverified,single_source_only_sense,kaikki,,kaikki:visual aid:noun:0:7654:s0,,22,anki_800:1766527461607
-conventional,"흔히 있는, 전통적인",adjective,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461608
-custom,"관습, 풍습",noun,800,C,"Frequent repetition of the same behavior; way of behavior common to many; ordinary manner; habitual practice; method of doing, living or behaving.",verified,single_source_korean_anchor,kaikki,,kaikki:custom:noun:0:4258:s0,풍습,22,anki_800:1766527461609
-hold back,"자제하다, 억제하다",phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461610
-intense,"극심한, 강렬한",adjective,800,C,"Of a characteristic: extreme or very high or strong in degree; severe; also, excessive, towering.",verified,single_source_korean_anchor,kaikki,,kaikki:intense:adj:0:3457:s0,강렬한;극심한,22,anki_800:1766527461611
-misprint,오식,noun,800,B,a mistake in printed matter resulting from mechanical failures of some kind,unverified,monosemous_pair,oewn,oewn-misprint__1.10.00..,kaikki:misprint:noun:0:6662:s0,,22,anki_800:1766527461612
-occupied,"바쁜, 사용 중인, 사람이 있는",adjective,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461613
-participate in,~에 참가하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461614
-to start with,"우선, 첫째로",phrase,800,C,Synonym of to begin with.,unverified,single_source_only_sense,kaikki,,kaikki:to start with:adv:0:7854:s0,,22,anki_800:1766527461615
-arrange a conference,회의를 준비하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461616
-be supposed to do,~하기로 되어 있다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461617
-biweekly,"격주의, 격주로",adverb,800,D,,unverified,proposed_pair_needs_review,,,,,22,anki_800:1766527461618
-bring up,(문제를) 제기하다,phrase,800,D,,unverified,proposed_pair_needs_review,,,,,22,anki_800:1766527461619
-clash,"(의견의) 충돌, 불일치",noun,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461620
-come to a decision,결정을 내리다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461621
-come to an agreement,합의에 도달하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461622
-controversial,논쟁의 여지가 있는,adjective,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461623
-develop into,~으로 발전하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461624
-get the point,요점을 이해하다,phrase,800,C,To understand; to interpret correctly.,unverified,single_source_only_sense,kaikki,,kaikki:get the point:verb:0:7013:s0,,22,anki_800:1766527461625
-in conclusion,결론적으로,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461626
-in support of,~을 지지하여,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461627
-in the middle of,~도중에,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461628
-insist,주장하다,verb,800,C,To hold up a claim emphatically.,verified,single_source_korean_anchor,kaikki,,kaikki:insist:verb:0:4709:s0,주장하다,22,anki_800:1766527461629
-insult,모욕하다,verb,800,B,"treat, mention, or speak to rudely",verified,monosemous_pair,oewn,oewn-insult__2.32.00..,kaikki:insult:verb:0:4234:s0,모욕하다,22,anki_800:1766527461630
-inviting,"매력적인, 솔깃한",adjective,800,D,,unverified,proposed_pair_needs_review,,,,,22,anki_800:1766527461631
-luncheon,"오찬, 점심",noun,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461632
-make a conclusion,결론을 내리다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461633
-make a decision,결정하다,phrase,800,C,To decide.,unverified,single_source_only_sense,kaikki,,kaikki:make a decision:verb:0:7269:s0,,22,anki_800:1766527461634
-offer an apology to A,A에게 사과하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461635
-official arrangement,공식적인 합의,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461636
-OJT(on-the-job training),"사내교육, 현장 직무 교육",phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461637
-opponent,"반대자, 적수",noun,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461638
-postpone until,~까지 연기하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461639
-public speaking,"강연, 연설",phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461640
-reach a conclusion,결론에 이르다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461641
-reach unanimous agreement,만장일치로 합의하다,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461642
-reassure,안심시키다,verb,800,C,To assure anew; to restore confidence to; to free from fear or self-doubt.,verified,single_source_korean_anchor,kaikki,,kaikki:reassure:verb:0:6851:s0,안심시키다,22,anki_800:1766527461643
-recess,휴회,noun,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461644
-slot,"시간, 틈",noun,800,D,,unverified,proposed_pair_needs_review,,,,,22,anki_800:1766527461645
-to the point,"적절한, 핵심을 찌르는",phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461646
-turn out,~으로 판명되다,phrase,800,D,,unverified,candidates_unaligned,,,,,22,anki_800:1766527461647
-without the consent of,~의 동의 없이,phrase,800,E,,unverified,no_sense_record,,,,,22,anki_800:1766527461648
-chair,"의장을 맡다, 사회를 맡다",verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462894
-conflict of interest,이해관계의 충돌,phrase,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462895
-excerpt,"발췌, 인용구",noun,900,B,a passage selected from a larger work,unverified,monosemous_pair,oewn,oewn-excerpt__1.10.00..,kaikki:excerpt:noun:0:5496:s0,,22,anki_900:1766527462896
-prop against,~에 받쳐 놓다,phrase,900,E,,unverified,no_sense_record,,,,,22,anki_900:1766527462897
-run late,"늦게 하다, 늦게 도착하다",phrase,900,C,To be late; to fail to be on time.,unverified,single_source_only_sense,kaikki,,kaikki:run late:verb:0:7849:s0,,22,anki_900:1766527462898
-sit through,끝까지 자리를 지키다,phrase,900,C,To unwillingly stay seated until the end of an event.,unverified,single_source_only_sense,kaikki,,kaikki:sit through:verb:0:7292:s0,,22,anki_900:1766527462899
-stand on,"~에 기초하다, ~에 의거하다",phrase,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462900
-symposium,"토론회, 심포지엄",noun,900,B,a meeting or conference for the public discussion of some topic especially one in which the participants form an audience and make presentations,verified,double_korean_anchor,oewn,oewn-symposium__1.14.00..,kaikki:symposium:noun:0:5176:s0,심포지엄,22,anki_900:1766527462901
-consenting,"동의하는, 승낙하는",adjective,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462902
-conversationally,"담화로, 회화체로",adverb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462903
-eloquent,"웅변을 잘 하는, (연설 등이) 감명을 주는",adjective,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462904
-faction,"파벌, 당파",noun,900,C,"A group of people, especially within a political organization, which expresses a shared belief or opinion different from people who are not part of the group.",verified,single_source_korean_anchor,kaikki,,kaikki:faction:noun:1:1084:s0,파벌,22,anki_900:1766527462905
-illegible,읽기 어려운,adjective,900,B,"(of handwriting, print, etc.) not legible",unverified,monosemous_pair,oewn,oewn-illegible__3.00.00..,kaikki:illegible:adj:0:3802:s0,,22,anki_900:1766527462906
-presumably,"아마, 생각건대",noun,900,E,,unverified,no_sense_record,,,,,22,anki_900:1766527462907
-abbreviate,"요약하다, 단축하다",verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462908
-abridgment,"요약본, 요약",noun,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462909
-coherent,"(이야기가) 조리 있는, 일관성 있는",adjective,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462910
-confine,"제한하다, ~에 한정시키다",verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462911
-counteroffer,"수정 제안, 대안",noun,900,B,an offer made by someone who has rejected a prior offer,unverified,monosemous_pair,oewn,oewn-counteroffer__1.10.00..,kaikki:counteroffer:noun:0:7122:s0,,22,anki_900:1766527462912
-disperse,(군중 등이) 흩어지다,verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462913
-distinguished,"뛰어난, 저명한",adjective,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462914
-elaborate,"상세하게 설명하다; 공들인, 정교한",adjective/verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462915
-enthuse,열변을 토하다,verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462916
-moderate a meeting,회의의 사회를 보다,phrase,900,E,,unverified,no_sense_record,,,,,22,anki_900:1766527462917
-off chance,"요행, 희박한 가능성",phrase,900,C,A possibility that is not likely or probable.,unverified,single_source_only_sense,kaikki,,kaikki:off chance:noun:0:6589:s0,,22,anki_900:1766527462918
-presiding,(회의를) 주재하는,adjective,900,C,Having authority over; vested with the authority to preside over.,unverified,single_source_only_sense,kaikki,,kaikki:presiding:adj:0:6984:s0,,22,anki_900:1766527462919
-put off,"연기하다, 미루다",phrase,900,D,,unverified,proposed_pair_needs_review,,,,,22,anki_900:1766527462920
-stand up for,~을 옹호하다,phrase,900,C,"To speak or act in support or defense of (a person, a cause, a belief, or the like).",unverified,single_source_only_sense,kaikki,,kaikki:stand up for:verb:0:7270:s0,,22,anki_900:1766527462921
-succinct,간결한,adjective,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462922
-summit meeting,정상 회담,phrase,900,C,a meeting of heads of governments,unverified,single_source_only_sense,oewn,oewn-summit_meeting__1.14.00..,,,22,anki_900:1766527462923
-summon,소환하다,verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462924
-uphold,"지지하다, 떠받들다",verb,900,D,,unverified,candidates_unaligned,,,,,22,anki_900:1766527462925
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+agenda,"의제, 의사일정",noun,core,C,A temporally organized plan for matters to be attended to.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:agenda:noun:0:2058:s0,의사일정;의제,22,anki_core:1766527459534
+convene,"(회원 등이) 모이다, (회의가) 개최되다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,22,anki_core:1766527459535
+refute,"부인하다, 반박하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459536
+coordination,조정,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459537
+unanimous,"만장일치의, 동의하는",adjective,core,C,"Based on unanimity, assent or agreement.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:unanimous:adj:0:5133:s0,만장일치,22,anki_core:1766527459538
+convince,"납득시키다, 확신시키다",verb,core,C,"To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:convince:verb:0:5082:s0,납득시키다;확신시키다,22,anki_core:1766527459539
+consensus,"여론, 일치된 의견",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459540
+defer,"연기하다, 미루다",verb,core,B,hold back to a later time,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-defer__2.42.00..,kaikki:defer:verb:1:263:s0,,22,anki_core:1766527459541
+usually,"보통, 일반적으로",adverb,core,B,under normal conditions,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-usually__4.02.00..,kaikki:usually:adv:0:2853:s1,,22,anki_core:1766527459542
+reschedule,일정을 바꾸다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459543
+meeting,회의,noun,core,C,A gathering of persons for a purpose; an assembly.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:meeting:noun:1:154:s1,회의,22,anki_core:1766527459544
+determine,"알아내다, 결정하다, 확정하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459545
+report,"보고하다, 출두하다, 보고서, 보도, 기록 (직장·회의 등에 도착을) 알리다",verb,core,C,"To relate details of (an event or incident); to recount, describe (something).",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:report:verb:0:735:s0,보고서;보고하다,22,anki_core:1766527459546
+comment,"논평하다, 언급하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459547
+phase,단계,noun,core,B,any distinct time period in a sequence of events,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-phase__1.28.00..,kaikki:phase:noun:1:2621:s0,단계,22,anki_core:1766527459548
+approve,"승인하다, 찬성하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459549
+enclosed,동봉된,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459550
+easy,"쉬운, 용이한",adjective,core,C,Requiring little skill or effort.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:easy:adj:0:3145:s1,쉬운;용이하다,22,anki_core:1766527459551
+record,"기록, 경력, 이력, 기록하다",verb,core,C,To make a record of information.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:record:verb:2:2952:s0,기록;기록하다,22,anki_core:1766527459552
+suggestion,제안,noun,core,C,Something suggested (with subsequent adposition being for),verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:suggestion:noun:0:3021:s0,제안,22,anki_core:1766527459553
+attention,"주의, 경청",noun,core,C,Mental focus.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:attention:noun:0:705:s0,주의,22,anki_core:1766527459554
+object,반대하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459555
+coincidentally,"우연히, 일치하게, 동시 발생적으로",adverb,core,B,happening at the same time,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-coincidentally__4.02.00..,kaikki:coincidentally:adv:0:7075:s0,,22,anki_core:1766527459556
+crowded,"붐비는, 복잡한",adjective,core,B,overfilled or compacted or concentrated,verified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-crowded__3.00.00..,kaikki:crowded:adj:0:5865:s0,복잡하다,22,anki_core:1766527459557
+undergo,"겪다, 거치다, 경험하다",verb,core,B,go through,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-undergo__2.39.04..,kaikki:undergo:verb:0:5169:s0,,22,anki_core:1766527459558
+outcome,결과,noun,core,B,something that results,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-outcome__1.11.00..,kaikki:outcome:noun:0:926:s0,결과,22,anki_core:1766527459559
+narrowly,"주의 깊게, 좁게, 가까스로, 간신히, 겨우",adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459560
+differ,"의견을 달리하다, 다르다",adjective,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,22,anki_core:1766527459561
+discuss,"논의하다, 토론하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459562
+give,(연설·수업 등을) 하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459563
+brief,"~에게 간단히 설명하다, 브리핑하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459564
+distract,"(주의를) 산만하게 하다, 빗기게 하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459565
+emphasis,"강조, 중점",noun,core,C,Special weight or forcefulness given to something considered important.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:emphasis:noun:0:4698:s0,강조,22,anki_core:1766527459566
+press,"언론(계), 보도기관, 누르다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459567
+organize,"준비하다, 조직하다, 정리하다",verb,core,B,arrange by systematic planning and united effort,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-organize__2.36.00..,kaikki:organize:verb:0:3702:s0,조직하다,22,anki_core:1766527459568
+mention,언급하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459569
+persuasive,설득력 있는,adjective,core,B,intended or having the power to induce action or belief,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-persuasive__3.00.00..,kaikki:persuasive:adj:0:6336:s0,,22,anki_core:1766527459570
+understanding,이해심 있는,adjective,core,B,characterized by understanding based on comprehension and discernment and empathy,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-understanding__5.00.00.perceptive.00,kaikki:understanding:adj:2:4661:s0,,22,anki_core:1766527459571
+adjourn,(회의 등을) 휴회하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459572
+constructive,건설적인,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459573
+preside,"(회의의) 사회를 보다, ~의 의장을 맡아보다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459574
+irrelevant,"관계가 없는, 무관한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459575
+constraint,제한,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459576
+condensed,"요약한, 응축한, 압축한",adjective,core,C,"Highly concentrated, or packed into a small space.",unverified,core_deck_not_in_back_word_pdf,,,single_source_only_sense,kaikki,,kaikki:condensed:adj:0:6877:s0,,22,anki_core:1766527459577
+endorse,"(공개적으로) 지지하다, 보증하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,22,anki_core:1766527459578
+punctually,"제시간에, 늦지 않게",adverb,core,B,at the expected or proper time,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-punctually__4.02.00..,kaikki:punctually:adv:0:7067:s0,,22,anki_core:1766527459579
+annual meeting,연례 회의,phrase,basic,E,,unverified,ocr_exact,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459580
+conference room,회의실,phrase,basic,D,,unverified,ocr_exact,16-30(1) p25,,candidates_unaligned,,,,,22,anki_basic:1766527459581
+guest speaker,초청 연사,phrase,basic,C,A person who has been invited to present a speech at an event where they are not the host.,unverified,ocr_similar,16-30(1) p25,,single_source_only_sense,kaikki,,kaikki:guest speaker:noun:0:7088:s0,,22,anki_basic:1766527459582
+hand out,~을 나누어 주다,phrase,basic,D,,unverified,ocr_exact,16-30(1) p25,,candidates_unaligned,,,,,22,anki_basic:1766527459583
+holiday,"휴가, 방학",noun,basic,B,leisure time away from work devoted to rest or pleasure,verified,ocr_exact,16-30(1) p25,,double_korean_anchor,oewn,oewn-holiday__1.28.00..,kaikki:holiday:noun:0:2246:s2,방학;휴가,22,anki_basic:1766527459584
+let's end,끝냅시다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459585
+meeting time,회의 시간,phrase,basic,E,,unverified,ocr_prefix,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459586
+scan,"살피다, 자세히 조사하다",verb,basic,D,,unverified,ocr_prefix,16-30(1) p25,,candidates_unaligned,,,,,22,anki_basic:1766527459587
+shake hands,악수하다,phrase,basic,C,"To grasp another person's hands as an expression of greeting, farewell, agreement, etc.",verified,ocr_exact,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:shake hands:verb:0:7223:s0,악수하다,22,anki_basic:1766527459588
+speech,연설,noun,basic,B,the act of delivering a formal spoken communication to an audience,verified,ocr_variant_ocr,16-30(1) p25,,double_korean_anchor,oewn,oewn-speech__1.10.01..,kaikki:speech:noun:0:1907:s2,연설,22,anki_basic:1766527459589
+teammate,팀 동료,noun,basic,B,a fellow member of a team,unverified,ocr_exact,16-30(1) p25,n (badge),monosemous_pair,oewn,oewn-teammate__1.18.00..,kaikki:teammate:noun:0:7021:s0,,22,anki_basic:1766527459590
+water,"물, 물을 주다",verb,basic,D,,unverified,ocr_exact,16-30(1) p25,,proposed_pair_needs_review,,,,,22,anki_basic:1766527459591
+write down,적다,phrase,basic,C,To produce or set (something) down in writing; to record something.,verified,ocr_exact,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:write down:verb:0:5054:s1,적다,22,anki_basic:1766527459592
+advise A of B,A에게 B를 알리다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459593
+be held,(행사가) 열리다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459594
+be scheduled for,~로 예정되어 있다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459595
+business talk,사업 이야기,phrase,basic,E,,unverified,ocr_exact,16-30(1) p25,,no_sense_record,,,,,22,anki_basic:1766527459596
+conversation,대화,noun,basic,C,"Expression and exchange of individual ideas through talking with other people; also, a set instance or occasion of such talking.",verified,ocr_exact,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:conversation:noun:0:1851:s0,대화,22,anki_basic:1766527459597
+debate,토론하다,verb,basic,C,"To participate in a debate; to dispute, argue, especially in a public arena.",verified,ocr_exact,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:debate:verb:1:1764:s0,토론하다,22,anki_basic:1766527459598
+express,표현하다,verb,basic,D,,unverified,ocr_exact,16-30(1) p25,,candidates_unaligned,,,,,22,anki_basic:1766527459599
+gathering,모임,noun,basic,C,A meeting or get-together; a party or social function.,verified,ocr_exact,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:gathering:noun:1:5296:s0,모임,22,anki_basic:1766527459600
+judge,"판단하다, 평가하다",verb,basic,D,,unverified,ocr_exact,16-30(1) p25,,candidates_unaligned,,,,,22,anki_basic:1766527459601
+local time,현지 시간,phrase,basic,D,,unverified,ocr_exact,16-30(1) p25,,candidates_unaligned,,,,,22,anki_basic:1766527459602
+result in,~을 야기하다,phrase,basic,C,To bring about; to lead to.,unverified,ocr_exact,16-30(1) p25,phr (width),single_source_only_sense,kaikki,,kaikki:result in:verb:0:8078:s0,,22,anki_basic:1766527459603
+seating chart,좌석 배치도,phrase,basic,C,Synonym of seating plan.,unverified,ocr_exact,16-30(1) p25,phr (width),single_source_only_sense,kaikki,,kaikki:seating chart:noun:0:7946:s0,,22,anki_basic:1766527459604
+seminar,세미나,noun,basic,B,a course offered for a small group of advanced students,verified,ocr_exact,16-30(1) p25,,double_korean_anchor,oewn,oewn-seminar__1.04.00..,kaikki:seminar:noun:0:5696:s0,세미나,22,anki_basic:1766527459605
+vote,"투표하다, 투표",noun,basic,C,A formalized choice on legally relevant measures such as employment or appointment to office or a proceeding about a legal dispute.,verified,ocr_variant_ocr,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:vote:noun:0:1012:s0,투표;투표하다,22,anki_basic:1766527459606
+weekly,"매주의, 매주",adverb,basic,C,Once every week.,verified,ocr_variant_ocr,16-30(1) p25,,single_source_korean_anchor,kaikki,,kaikki:weekly:adv:0:393:s0,매주;매주의,22,anki_basic:1766527459607
+a large attendance,많은 참석자들,phrase,800,E,,unverified,ocr_similar,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461581
+attend a conference,학술 발표회에 참석하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461582
+business attire,비즈니스 정장,phrase,800,E,,unverified,ocr_exact,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461583
+conference call,전화회담,phrase,800,D,,unverified,ocr_exact,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461584
+convention,회의,noun,800,D,,unverified,ocr_exact,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461585
+face to face,서로 얼굴을 맞대고,phrase,800,D,,unverified,ocr_exact,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461586
+film footage,자료 화면,phrase,800,E,,unverified,ocr_similar,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461587
+get an appointment,약속을 잡다,phrase,800,E,,unverified,ocr_exact,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461588
+get back in touch,다시 연락이 되다,phrase,800,E,,unverified,ocr_contains,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461589
+get in touch with,~와 연락을 취하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461590
+give a presentation,발표를 하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461591
+have a discussion,토론하다,phrase,800,E,,unverified,ocr_contains,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461592
+keynote address,기조연설,phrase,800,C,a speech setting forth the keynote,unverified,ocr_prefix,16-30(1) p26,,single_source_only_sense,oewn,oewn-keynote_address__1.10.00..,,,22,anki_800:1766527461593
+keynote speaker,기조연설자,phrase,800,E,,unverified,ocr_prefix,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461594
+make a speech,연설하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461595
+make adjustment,조정하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461596
+pass around,~을 차례로 돌리다,phrase,800,D,,unverified,ocr_contains,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461597
+pass out,~을 나누어 주다,phrase,800,D,,unverified,ocr_prefix,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461598
+put in an offer,제안하다,phrase,800,E,,unverified,ocr_similar,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461599
+run a meeting,회의를 진행하다,phrase,800,E,,unverified,ocr_similar_loose,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461600
+schedule an appointment,약속을 잡다,phrase,800,E,,unverified,ocr_similar,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461601
+speak up,(큰소리로) 말하다,phrase,800,D,,unverified,ocr_prefix,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461602
+stare into,~을 응시하다,phrase,800,E,,unverified,ocr_similar,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461603
+take down,"~을 적다, 내리다",phrase,800,D,,unverified,ocr_variant_ocr,16-30(1) p26,,proposed_pair_needs_review,,,,,22,anki_800:1766527461604
+take notes,기록하다,phrase,800,C,To make a record of what one hears or observes for future reference.,unverified,ocr_prefix,16-30(1) p26,,single_source_only_sense,kaikki,,kaikki:take notes:verb:0:5780:s0,,22,anki_800:1766527461605
+take part in,~에 참가하다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p26,,no_sense_record,,,,,22,anki_800:1766527461606
+visual aid,(그림·도표·비디오 등의) 시각 보조자료,phrase,800,C,"An item such as a prop, slide, or picture that appeals primarily to vision and is used to enhance the understanding of information presented orally or in writing.",unverified,ocr_prefix,16-30(1) p26,,single_source_only_sense,kaikki,,kaikki:visual aid:noun:0:7654:s0,,22,anki_800:1766527461607
+conventional,"흔히 있는, 전통적인",adjective,800,D,,unverified,ocr_contains,16-30(1) p26,,candidates_unaligned,,,,,22,anki_800:1766527461608
+custom,"관습, 풍습",noun,800,C,"Frequent repetition of the same behavior; way of behavior common to many; ordinary manner; habitual practice; method of doing, living or behaving.",verified,ocr_prefix,16-30(1) p26,,single_source_korean_anchor,kaikki,,kaikki:custom:noun:0:4258:s0,풍습,22,anki_800:1766527461609
+hold back,"자제하다, 억제하다",phrase,800,D,,unverified,ocr_prefix,16-30(1) p26,phr (width),candidates_unaligned,,,,,22,anki_800:1766527461610
+intense,"극심한, 강렬한",adjective,800,C,"Of a characteristic: extreme or very high or strong in degree; severe; also, excessive, towering.",verified,ocr_prefix,16-30(1) p26,n (width),single_source_korean_anchor,kaikki,,kaikki:intense:adj:0:3457:s0,강렬한;극심한,22,anki_800:1766527461611
+misprint,오식,noun,800,B,a mistake in printed matter resulting from mechanical failures of some kind,unverified,ocr_prefix,16-30(1) p26,,monosemous_pair,oewn,oewn-misprint__1.10.00..,kaikki:misprint:noun:0:6662:s0,,22,anki_800:1766527461612
+occupied,"바쁜, 사용 중인, 사람이 있는",adjective,800,D,,unverified,ocr_prefix,16-30(1) p26,adj (width),candidates_unaligned,,,,,22,anki_800:1766527461613
+participate in,~에 참가하다,phrase,800,E,,unverified,ocr_variant_ocr,16-30(1) p27,,no_sense_record,,,,,22,anki_800:1766527461614
+to start with,"우선, 첫째로",phrase,800,C,Synonym of to begin with.,unverified,ocr_exact,16-30(1) p27,,single_source_only_sense,kaikki,,kaikki:to start with:adv:0:7854:s0,,22,anki_800:1766527461615
+arrange a conference,회의를 준비하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (badge),no_sense_record,,,,,22,anki_800:1766527461616
+be supposed to do,~하기로 되어 있다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (badge),no_sense_record,,,,,22,anki_800:1766527461617
+biweekly,"격주의, 격주로",adverb,800,D,,unverified,ocr_exact,16-30(1) p27,,proposed_pair_needs_review,,,,,22,anki_800:1766527461618
+bring up,(문제를) 제기하다,phrase,800,D,,unverified,ocr_exact,16-30(1) p27,phr (badge),proposed_pair_needs_review,,,,,22,anki_800:1766527461619
+clash,"(의견의) 충돌, 불일치",noun,800,D,,unverified,ocr_exact,16-30(1) p27,,candidates_unaligned,,,,,22,anki_800:1766527461620
+come to a decision,결정을 내리다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (badge),no_sense_record,,,,,22,anki_800:1766527461621
+come to an agreement,합의에 도달하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (badge),no_sense_record,,,,,22,anki_800:1766527461622
+controversial,논쟁의 여지가 있는,adjective,800,D,,unverified,ocr_exact,16-30(1) p27,n (width),candidates_unaligned,,,,,22,anki_800:1766527461623
+develop into,~으로 발전하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,,no_sense_record,,,,,22,anki_800:1766527461624
+get the point,요점을 이해하다,phrase,800,C,To understand; to interpret correctly.,unverified,ocr_exact,16-30(1) p27,,single_source_only_sense,kaikki,,kaikki:get the point:verb:0:7013:s0,,22,anki_800:1766527461625
+in conclusion,결론적으로,phrase,800,D,,unverified,ocr_exact,16-30(1) p27,phr (badge),candidates_unaligned,,,,,22,anki_800:1766527461626
+in support of,~을 지지하여,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,,no_sense_record,,,,,22,anki_800:1766527461627
+in the middle of,~도중에,phrase,800,D,,unverified,ocr_exact,16-30(1) p27,phr (badge),candidates_unaligned,,,,,22,anki_800:1766527461628
+insist,주장하다,verb,800,C,To hold up a claim emphatically.,verified,ocr_exact,16-30(1) p27,v (badge),single_source_korean_anchor,kaikki,,kaikki:insist:verb:0:4709:s0,주장하다,22,anki_800:1766527461629
+insult,모욕하다,verb,800,B,"treat, mention, or speak to rudely",verified,ocr_exact,16-30(1) p27,v (badge),monosemous_pair,oewn,oewn-insult__2.32.00..,kaikki:insult:verb:0:4234:s0,모욕하다,22,anki_800:1766527461630
+inviting,"매력적인, 솔깃한",adjective,800,D,,unverified,ocr_exact,16-30(1) p27,,proposed_pair_needs_review,,,,,22,anki_800:1766527461631
+luncheon,"오찬, 점심",noun,800,D,,unverified,ocr_exact,16-30(1) p27,,candidates_unaligned,,,,,22,anki_800:1766527461632
+make a conclusion,결론을 내리다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (badge),no_sense_record,,,,,22,anki_800:1766527461633
+make a decision,결정하다,phrase,800,C,To decide.,unverified,ocr_exact,16-30(1) p27,,single_source_only_sense,kaikki,,kaikki:make a decision:verb:0:7269:s0,,22,anki_800:1766527461634
+offer an apology to A,A에게 사과하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (width),no_sense_record,,,,,22,anki_800:1766527461635
+official arrangement,공식적인 합의,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,,no_sense_record,,,,,22,anki_800:1766527461636
+OJT(on-the-job training),"사내교육, 현장 직무 교육",phrase,800,E,,unverified,ocr_variant_ocr,16-30(1) p25,,no_sense_record,,,,,22,anki_800:1766527461637
+opponent,"반대자, 적수",noun,800,D,,unverified,ocr_exact,16-30(1) p27,,candidates_unaligned,,,,,22,anki_800:1766527461638
+postpone until,~까지 연기하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,,no_sense_record,,,,,22,anki_800:1766527461639
+public speaking,"강연, 연설",phrase,800,D,,unverified,ocr_exact,16-30(1) p27,n (width),candidates_unaligned,,,,,22,anki_800:1766527461640
+reach a conclusion,결론에 이르다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,,no_sense_record,,,,,22,anki_800:1766527461641
+reach unanimous agreement,만장일치로 합의하다,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (badge),no_sense_record,,,,,22,anki_800:1766527461642
+reassure,안심시키다,verb,800,C,To assure anew; to restore confidence to; to free from fear or self-doubt.,verified,ocr_exact,16-30(1) p27,v (badge),single_source_korean_anchor,kaikki,,kaikki:reassure:verb:0:6851:s0,안심시키다,22,anki_800:1766527461643
+recess,휴회,noun,800,D,,unverified,ocr_exact,16-30(1) p27,n (width),candidates_unaligned,,,,,22,anki_800:1766527461644
+slot,"시간, 틈",noun,800,D,,unverified,ocr_exact,16-30(1) p27,n (badge),proposed_pair_needs_review,,,,,22,anki_800:1766527461645
+to the point,"적절한, 핵심을 찌르는",phrase,800,D,,unverified,ocr_exact,16-30(1) p27,phr (badge),candidates_unaligned,,,,,22,anki_800:1766527461646
+turn out,~으로 판명되다,phrase,800,D,,unverified,ocr_exact,16-30(1) p27,phr (badge),candidates_unaligned,,,,,22,anki_800:1766527461647
+without the consent of,~의 동의 없이,phrase,800,E,,unverified,ocr_exact,16-30(1) p27,phr (width),no_sense_record,,,,,22,anki_800:1766527461648
+chair,"의장을 맡다, 사회를 맡다",verb,900,D,,unverified,ocr_similar,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462894
+conflict of interest,이해관계의 충돌,phrase,900,D,,unverified,ocr_similar,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462895
+excerpt,"발췌, 인용구",noun,900,B,a passage selected from a larger work,unverified,ocr_prefix,16-30(1) p28,,monosemous_pair,oewn,oewn-excerpt__1.10.00..,kaikki:excerpt:noun:0:5496:s0,,22,anki_900:1766527462896
+prop against,~에 받쳐 놓다,phrase,900,E,,unverified,ocr_exact,16-30(1) p28,,no_sense_record,,,,,22,anki_900:1766527462897
+run late,"늦게 하다, 늦게 도착하다",phrase,900,C,To be late; to fail to be on time.,unverified,ocr_exact,16-30(1) p28,,single_source_only_sense,kaikki,,kaikki:run late:verb:0:7849:s0,,22,anki_900:1766527462898
+sit through,끝까지 자리를 지키다,phrase,900,C,To unwillingly stay seated until the end of an event.,unverified,ocr_exact,16-30(1) p28,,single_source_only_sense,kaikki,,kaikki:sit through:verb:0:7292:s0,,22,anki_900:1766527462899
+stand on,"~에 기초하다, ~에 의거하다",phrase,900,D,,unverified,ocr_exact,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462900
+symposium,"토론회, 심포지엄",noun,900,B,a meeting or conference for the public discussion of some topic especially one in which the participants form an audience and make presentations,verified,ocr_exact,16-30(1) p28,,double_korean_anchor,oewn,oewn-symposium__1.14.00..,kaikki:symposium:noun:0:5176:s0,심포지엄,22,anki_900:1766527462901
+consenting,"동의하는, 승낙하는",adjective,900,D,,unverified,ocr_similar,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462902
+conversationally,"담화로, 회화체로",adverb,900,D,,unverified,ocr_exact,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462903
+eloquent,"웅변을 잘 하는, (연설 등이) 감명을 주는",adjective,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462904
+faction,"파벌, 당파",noun,900,C,"A group of people, especially within a political organization, which expresses a shared belief or opinion different from people who are not part of the group.",verified,ocr_exact,16-30(1) p28,,single_source_korean_anchor,kaikki,,kaikki:faction:noun:1:1084:s0,파벌,22,anki_900:1766527462905
+illegible,읽기 어려운,adjective,900,B,"(of handwriting, print, etc.) not legible",unverified,ocr_exact,16-30(1) p28,,monosemous_pair,oewn,oewn-illegible__3.00.00..,kaikki:illegible:adj:0:3802:s0,,22,anki_900:1766527462906
+presumably,"아마, 생각건대",noun,900,E,,unverified,ocr_exact,16-30(1) p28,v (badge),no_sense_record,,,,,22,anki_900:1766527462907
+abbreviate,"요약하다, 단축하다",verb,900,D,,unverified,ocr_similar,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462908
+abridgment,"요약본, 요약",noun,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462909
+coherent,"(이야기가) 조리 있는, 일관성 있는",adjective,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462910
+confine,"제한하다, ~에 한정시키다",verb,900,D,,unverified,ocr_similar_loose,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462911
+counteroffer,"수정 제안, 대안",noun,900,B,an offer made by someone who has rejected a prior offer,unverified,ocr_prefix,16-30(1) p28,,monosemous_pair,oewn,oewn-counteroffer__1.10.00..,kaikki:counteroffer:noun:0:7122:s0,,22,anki_900:1766527462912
+disperse,(군중 등이) 흩어지다,verb,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462913
+distinguished,"뛰어난, 저명한",adjective,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462914
+elaborate,"상세하게 설명하다; 공들인, 정교한",adjective/verb,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462915
+enthuse,열변을 토하다,verb,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462916
+moderate a meeting,회의의 사회를 보다,phrase,900,E,,unverified,ocr_similar,16-30(1) p28,n (width),no_sense_record,,,,,22,anki_900:1766527462917
+off chance,"요행, 희박한 가능성",phrase,900,C,A possibility that is not likely or probable.,unverified,ocr_prefix,16-30(1) p28,,single_source_only_sense,kaikki,,kaikki:off chance:noun:0:6589:s0,,22,anki_900:1766527462918
+presiding,(회의를) 주재하는,adjective,900,C,Having authority over; vested with the authority to preside over.,unverified,ocr_exact,16-30(1) p28,,single_source_only_sense,kaikki,,kaikki:presiding:adj:0:6984:s0,,22,anki_900:1766527462919
+put off,"연기하다, 미루다",phrase,900,D,,unverified,ocr_exact,16-30(1) p28,phr (badge),proposed_pair_needs_review,,,,,22,anki_900:1766527462920
+stand up for,~을 옹호하다,phrase,900,C,"To speak or act in support or defense of (a person, a cause, a belief, or the like).",unverified,ocr_exact,16-30(1) p28,phr (badge),single_source_only_sense,kaikki,,kaikki:stand up for:verb:0:7270:s0,,22,anki_900:1766527462921
+succinct,간결한,adjective,900,D,,unverified,ocr_exact,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462922
+summit meeting,정상 회담,phrase,900,C,a meeting of heads of governments,unverified,ocr_contains,16-30(1) p28,phr (badge),single_source_only_sense,oewn,oewn-summit_meeting__1.14.00..,,,22,anki_900:1766527462923
+summon,소환하다,verb,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462924
+uphold,"지지하다, 떠받들다",verb,900,D,,unverified,ocr_prefix,16-30(1) p28,,candidates_unaligned,,,,,22,anki_900:1766527462925

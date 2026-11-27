@@ -2,25 +2,25 @@ headword,colligation,lemma,combination,oanc_frequency,status,oanc_record
 acceptable,acceptable for,acceptable for,adjective+preposition,22,oanc_candidate_unreviewed,COLLIGATION:acceptable:for:adjective+preposition
 acceptable,acceptable to,acceptable to,adjective+to,21,oanc_candidate_unreviewed,COLLIGATION:acceptable:to:adjective+to
 acceptable,acceptable if,acceptable if,adjective+preposition,10,oanc_candidate_unreviewed,COLLIGATION:acceptable:if:adjective+preposition
-acceptable,acceptable to use,acceptable to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:acceptable:to:adjective+to-infinitive
+acceptable,acceptable to omit,acceptable to + infinitive,adjective+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:acceptable:to:adjective+to-infinitive
 acceptable,acceptable as,acceptable as,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:acceptable:as:adjective+preposition
 acceptable,acceptable in,acceptable in,adjective+preposition,6,oanc_candidate_unreviewed,COLLIGATION:acceptable:in:adjective+preposition
 affordable,affordable to,affordable to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:affordable:to:adjective+to
 alter,altered in,alter in,verb+preposition,44,oanc_candidate_unreviewed,COLLIGATION:alter:in:verb+preposition
 alter,altered by,alter by,verb+preposition,39,oanc_candidate_unreviewed,COLLIGATION:alter:by:verb+preposition
-alter,alter existing,alter VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:alter:VBG:verb+VBG
+alter,alter sorting,alter VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:alter:VBG:verb+VBG
 alter,altered during,alter during,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:alter:during:verb+preposition
 alter,altered with,alter with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:alter:with:verb+preposition
-alter,altered to incorporate,alter to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:alter:to:verb+to-infinitive
+alter,altered to study,alter to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:alter:to:verb+to-infinitive
 apply,applied to,apply to,verb+to,742,oanc_candidate_unreviewed,COLLIGATION:apply:to:verb+to
 apply,apply for,apply for,verb+preposition,122,oanc_candidate_unreviewed,COLLIGATION:apply:for:verb+preposition
 apply,applied in,apply in,verb+preposition,74,oanc_candidate_unreviewed,COLLIGATION:apply:in:verb+preposition
-apply,applies to jostling,apply to + infinitive,verb+to-infinitive,69,oanc_candidate_unreviewed,COLLIGATION:apply:to:verb+to-infinitive
+apply,applied to solve,apply to + infinitive,verb+to-infinitive,69,oanc_candidate_unreviewed,COLLIGATION:apply:to:verb+to-infinitive
 apply,applied by,apply by,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:apply:by:verb+preposition
 apply,applied with,apply with,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:apply:with:verb+preposition
 apply,applied as,apply as,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:apply:as:verb+preposition
 apply,applied at,apply at,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:apply:at:verb+preposition
-apply,applied tapering,apply VBG,verb+VBG,9,oanc_candidate_unreviewed,COLLIGATION:apply:VBG:verb+VBG
+apply,applied using,apply VBG,verb+VBG,9,oanc_candidate_unreviewed,COLLIGATION:apply:VBG:verb+VBG
 apply,applied across,apply across,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:apply:across:verb+preposition
 apply,apply if,apply if,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:apply:if:verb+preposition
 apply,applied on,apply on,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:apply:on:verb+preposition
@@ -49,7 +49,7 @@ area,area than,area than,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATIO
 area,area while,area while,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:area:while:noun+preposition
 area,areas across,area across,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:area:across:noun+preposition
 auction,auction of,auction of,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:auction:of:noun+preposition
-auction,auctioned off,auction off,verb+particle,11,oanc_candidate_unreviewed,COLLIGATION:auction:off:verb+particle
+auction,auctioning off,auction off,verb+particle,11,oanc_candidate_unreviewed,COLLIGATION:auction:off:verb+particle
 auction,auction under,auction under,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:auction:under:noun+preposition
 auction,auction for,auction for,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:auction:for:noun+preposition
 auction,auction off,auction off,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:auction:off:verb+preposition
@@ -95,7 +95,7 @@ charge,charged by,charge by,verb+preposition,15,oanc_candidate_unreviewed,COLLIG
 charge,charge on,charge on,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:charge:on:noun+preposition
 charge,charge from,charge from,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:charge:from:noun+preposition
 charge,charged in,charge in,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:charge:in:verb+preposition
-charge,charged to review,charge to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:charge:to:verb+to-infinitive
+charge,charged to build,charge to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:charge:to:verb+to-infinitive
 charge,charges by,charge by,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:charge:by:noun+preposition
 charge,charge at,charge at,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:charge:at:noun+preposition
 charge,charged at,charge at,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:charge:at:verb+preposition
@@ -140,7 +140,7 @@ description,description for,description for,noun+preposition,7,oanc_candidate_un
 desire,desire to,desire to,noun+to,195,oanc_candidate_unreviewed,COLLIGATION:desire:to:noun+to
 desire,desire for,desire for,noun+preposition,52,oanc_candidate_unreviewed,COLLIGATION:desire:for:noun+preposition
 desire,desires of,desire of,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:desire:of:noun+preposition
-desire,desire to sleep,desire to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:desire:to:verb+to-infinitive
+desire,desire to visit,desire to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:desire:to:verb+to-infinitive
 desire,desired by,desire by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:desire:by:verb+preposition
 dilute,diluted in,dilute in,verb+preposition,50,oanc_candidate_unreviewed,COLLIGATION:dilute:in:verb+preposition
 dilute,diluted to,dilute to,verb+to,36,oanc_candidate_unreviewed,COLLIGATION:dilute:to:verb+to
@@ -155,14 +155,14 @@ display,displayed by,display by,verb+preposition,16,oanc_candidate_unreviewed,CO
 display,displayed as,display as,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:display:as:verb+preposition
 display,displayed for,display for,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:display:for:verb+preposition
 display,displayed at,display at,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:display:at:verb+preposition
-display,displayed staining,display VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:display:VBG:verb+VBG
+display,displayed showing,display VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:display:VBG:verb+VBG
 display,displays on,display on,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:display:on:noun+preposition
 display,display to,display to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:display:to:noun+to
 display,displays for,display for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:display:for:noun+preposition
 equivalent,equivalent of,equivalent of,noun+preposition,173,oanc_candidate_unreviewed,COLLIGATION:equivalent:of:noun+preposition
 equivalent,equivalent to,equivalent to,adjective+to,171,oanc_candidate_unreviewed,COLLIGATION:equivalent:to:adjective+to
 equivalent,equivalent in,equivalent in,noun+preposition,24,oanc_candidate_unreviewed,COLLIGATION:equivalent:in:noun+preposition
-equivalent,equivalent to control,equivalent to + infinitive,adjective+to-infinitive,15,oanc_candidate_unreviewed,COLLIGATION:equivalent:to:adjective+to-infinitive
+equivalent,equivalent to censoring,equivalent to + infinitive,adjective+to-infinitive,15,oanc_candidate_unreviewed,COLLIGATION:equivalent:to:adjective+to-infinitive
 expert,expert in,expert in,noun+preposition,54,oanc_candidate_unreviewed,COLLIGATION:expert:in:noun+preposition
 expert,expert on,expert on,noun+preposition,43,oanc_candidate_unreviewed,COLLIGATION:expert:on:noun+preposition
 expert,experts to,expert to,noun+to,33,oanc_candidate_unreviewed,COLLIGATION:expert:to:noun+to
@@ -270,7 +270,7 @@ notice,notice about,notice about,verb+preposition,5,oanc_candidate_unreviewed,CO
 notice,notice on,notice on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:notice:on:noun+preposition
 notice,noticed on,notice on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:notice:on:verb+preposition
 offer,offered by,offer by,verb+preposition,90,oanc_candidate_unreviewed,COLLIGATION:offer:by:verb+preposition
-offer,offers to supply,offer to + infinitive,verb+to-infinitive,80,oanc_candidate_unreviewed,COLLIGATION:offer:to:verb+to-infinitive
+offer,offer to mix,offer to + infinitive,verb+to-infinitive,80,oanc_candidate_unreviewed,COLLIGATION:offer:to:verb+to-infinitive
 offer,offered to,offer to,verb+to,43,oanc_candidate_unreviewed,COLLIGATION:offer:to:verb+to
 offer,offers of,offer of,noun+preposition,42,oanc_candidate_unreviewed,COLLIGATION:offer:of:noun+preposition
 offer,offered in,offer in,verb+preposition,37,oanc_candidate_unreviewed,COLLIGATION:offer:in:verb+preposition
@@ -278,8 +278,8 @@ offer,offer to,offer to,noun+to,35,oanc_candidate_unreviewed,COLLIGATION:offer:t
 offer,offered for,offer for,verb+preposition,27,oanc_candidate_unreviewed,COLLIGATION:offer:for:verb+preposition
 offer,offers up,offer up,verb+particle,20,oanc_candidate_unreviewed,COLLIGATION:offer:up:verb+particle
 offer,offered as,offer as,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:offer:as:verb+preposition
+offer,offer cooling,offer VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:offer:VBG:verb+VBG
 offer,offer for,offer for,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:offer:for:noun+preposition
-offer,offers windsurfing,offer VBG,verb+VBG,14,oanc_candidate_unreviewed,COLLIGATION:offer:VBG:verb+VBG
 offer,offer from,offer from,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:offer:from:noun+preposition
 offer,offered at,offer at,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:offer:at:verb+preposition
 offer,offered on,offer on,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:offer:on:verb+preposition
@@ -319,7 +319,7 @@ purchase,purchases in,purchase in,noun+preposition,6,oanc_candidate_unreviewed,C
 purchase,purchases for,purchase for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:purchase:for:noun+preposition
 qualify,qualify for,qualify for,verb+preposition,75,oanc_candidate_unreviewed,COLLIGATION:qualify:for:verb+preposition
 qualify,qualify as,qualify as,verb+preposition,61,oanc_candidate_unreviewed,COLLIGATION:qualify:as:verb+preposition
-qualify,qualified to offer,qualify to + infinitive,verb+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:qualify:to:verb+to-infinitive
+qualify,qualified to dive,qualify to + infinitive,verb+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:qualify:to:verb+to-infinitive
 qualify,qualified in,qualify in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:qualify:in:verb+preposition
 qualify,qualified with,qualify with,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:qualify:with:verb+preposition
 receipt,receipt of,receipt of,noun+preposition,50,oanc_candidate_unreviewed,COLLIGATION:receipt:of:noun+preposition

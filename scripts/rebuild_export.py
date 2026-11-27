@@ -69,14 +69,28 @@ def colligation_candidates(path=DATA / "oanc_usage.jsonl"):
                "oanc_candidate_unreviewed", row["source_record_id"]]
 
 
+PDF_DIR = DATA / "pdf_ocr"
+
+
+def pdf_status():
+    path = PDF_DIR / "pdf_status.jsonl"
+    return {r["item_id"]: r for r in map(json.loads, path.open(encoding="utf-8"))} if path.exists() else {}
+
+
+def pdf_only():
+    path = PDF_DIR / "pdf_only_items.jsonl"
+    return [json.loads(l) for l in path.open(encoding="utf-8")] if path.exists() else []
+
+
 def tables(rows, korean, colligations=None):
     """Build every table once; `korean` adds the textbook gloss columns (private export only)."""
     order = sorted(rows, key=lambda r: (r["headword"].casefold(), r["item_id"])) if not korean else rows
     t = {}
     if korean:
         head = ["headword", "korean_textbook", "pos", "deck", "english_grade", "english_definition", "korean_status",
-                "verification_method", "definition_source", "wordnet_sense_ids", "wiktionary_sense_ids",
-                "korean_evidence_wiktionary", "day", "item_id"]
+                "pdf_status", "pdf_page", "pdf_pos", "verification_method", "definition_source", "wordnet_sense_ids",
+                "wiktionary_sense_ids", "korean_evidence_wiktionary", "day", "item_id"]
+        pdf = pdf_status()
     else:
         head = ["headword", "source_set", "pos", "english_grade", "english_definition", "korean_status",
                 "verification_method", "definition_source", "wordnet_sense_ids", "wiktionary_sense_ids", "item_id"]
@@ -86,11 +100,23 @@ def tables(rows, korean, colligations=None):
         wn = ";".join(e["wn_sense"] for e in r["english"] if e["wn_sense"])
         kk = ";".join(e["kk_sense"] for e in r["english"] if e["kk_sense"])
         if korean:
+            p = pdf.get(r["item_id"]) or {}
+            status = p.get("pdf_status") or ("core_deck_not_in_back_word_pdf" if r["core"] else "")
+            page = f"{p['pdf_file'].split(' ')[-1].replace('.pdf', '')} p{p['pdf_page']}" if p.get("pdf_page") else ""
+            pos = f"{p['pdf_pos']} ({'badge' if p['pdf_pos_method'] == 'badge_ocr' else 'width'})" if p.get("pdf_pos") else ""
             out.append([r["headword"], " / ".join(r["korean"]), "/".join(r["pos"]), r["deck"], r["english_grade"], text or "",
-                        r["korean_status"], r["method"], src or "", wn, kk, ";".join(r["korean_evidence"]), r["day"], r["item_id"]])
+                        r["korean_status"], status, page, pos, r["method"], src or "", wn, kk, ";".join(r["korean_evidence"]),
+                        r["day"], r["item_id"]])
         else:
             out.append([r["headword"], "core" if r["core"] else "back", "/".join(r["pos"]), r["english_grade"], text or "",
                         r["korean_status"], r["method"], src or "", wn, kk, r["item_id"]])
+    if korean:
+        days = {r["day"] for r in rows}
+        for x in pdf_only():
+            if x["day"] in days and len(days) == 1:
+                out.append([x["headword"], x["korean_textbook"], "", x["deck"], "", "", "unverified", "pdf_only_not_in_anki",
+                            f"{x['file'].split(' ')[-1].replace('.pdf', '')} p{x['pdf_page']}", f"{x['pos_label']} (badge, image read)",
+                            "not_analyzed", "", "", "", "", x["day"], x["item_id"]])
     t["headwords"] = (head, out)
 
     prefixes, suffixes, derivs, bases = [], [], [], defaultdict(list)
@@ -176,6 +202,11 @@ Each DAY folder follows the textbook DAY of the Anki deck (빈출 = core, 기초
 Columns `korean_textbook` hold the textbook's Korean glosses. They are 해커스 copyrighted material,
 stored in this private repository by the owner's decision of 2026-11-27 for personal study; they are
 not covered by the licence below and must not be redistributed.
+
+PDF columns (`pdf_status`, `pdf_page`, `pdf_pos`) come from the three back-word PDF scans: Tesseract OCR
+of the English column and POS badges, then page-image checks where OCR failed. `struck_through` marks an
+entry crossed out by hand on the scan; `pdf_only_not_in_anki` rows were read from the page image and are
+not yet analysed; `(badge)` POS was read by OCR, `(width)` inferred from the badge width.
 
 Sources and licences for everything except `korean_textbook` (attribution required; CC BY-SA 4.0):
 - Open English WordNet 2025, Open English Wordnet Community and Princeton WordNet, CC BY 4.0,
@@ -293,6 +324,15 @@ def main():
         for name, recs in gold.items():
             for g in recs:
                 h.write(json.dumps({"sample": name, **g}, ensure_ascii=False) + "\n")
+    status = list(pdf_status().values())
+    if status:
+        extra = [[x["item_id"], x["headword"], x["deck"], x["day"], "pdf_only_not_in_anki",
+                  x["file"], x["pdf_page"], x["pos_label"], "badge, image read"] for x in pdf_only()]
+        counts["vocabulary/review/pdf_crosscheck.csv"] = write_csv(
+            review_dir / "pdf_crosscheck.csv",
+            ["item_id", "headword", "deck", "day", "pdf_status", "pdf_file", "pdf_page", "pdf_pos", "pdf_pos_method"],
+            [[r["item_id"], r["headword"], r["deck"], r["day"], r["pdf_status"], r["pdf_file"] or "", r["pdf_page"] or "",
+              r["pdf_pos"] or "", r["pdf_pos_method"] or ""] for r in status] + extra)
     counts["vocabulary/review/model_review.jsonl"] = len(review)
     counts["vocabulary/review/gold_sample_and_holdout.jsonl"] = sum(map(len, gold.values()))
     lines = [ATTRIBUTION, "", "## DAY별 자료", "",

@@ -1,169 +1,169 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-résumé,이력서,noun,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458081
-opening,"공석, 결원; 개장, 개시",noun,core,D,,unverified,proposed_pair_needs_review,,,,,1,anki_core:1766527458082
-applicant,"지원자, 신청자",noun,core,C,One who applies for something; one who makes a request; a petitioner.,verified,single_source_korean_anchor,kaikki,,kaikki:applicant:noun:0:2228:s0,신청자;지원자,1,anki_core:1766527458083
-requirement,"필요조건, 요건",noun,core,B,something that is required in advance,unverified,model_reviewed_pair,oewn,oewn-requirement__1.09.00..,kaikki:requirement:noun:0:4689:s0,,1,anki_core:1766527458084
-meet,(필요·요구 등을) 만족시키다,verb,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458085
-qualified,"자격있는, 적격의",adjective,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458086
-candidate,"후보자, 지원자",noun,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458087
-confidence,"확신,자신; 신임",noun,core,B,freedom from doubt; belief in yourself and your abilities,verified,model_reviewed_pair,oewn,oewn-confidence__1.09.00..;oewn-confidence__1.12.00..,kaikki:confidence:noun:0:1978:s0;kaikki:confidence:noun:0:1978:s1,신임;자신;확신,1,anki_core:1766527458088
-highly,"매우, 대단히",adverb,core,B,to a high degree or extent; favorably or with much respect,unverified,model_reviewed_pair,oewn,oewn-highly__4.02.01..,kaikki:highly:adv:0:4502:s1,,1,anki_core:1766527458089
-professional,"전문적인, 직업의 / 전문가",adjective/noun,core,C,An expert.,verified,single_source_korean_anchor,kaikki,,kaikki:professional:noun:0:4218:s5,전문가,1,anki_core:1766527458090
-interview,면접 / 면접을 보다,noun/verb,core,C,"A formal meeting, in person, for the assessment of a candidate or applicant.",verified,single_source_korean_anchor,kaikki,,kaikki:interview:noun:0:4584:s3,면접,1,anki_core:1766527458091
-hire,고용하다,verb,core,B,engage or hire for work,verified,double_korean_anchor,oewn,oewn-hire__2.41.00..,kaikki:hire:verb:2:3081:s2,고용하다,1,anki_core:1766527458092
-training,"교육, 훈련",noun,core,C,The activity of imparting and acquiring skills.,verified,single_source_korean_anchor,kaikki,,kaikki:training:noun:0:6207:s1,훈련,1,anki_core:1766527458093
-reference,추천서; 참고,noun,core,C,A measurement one can compare (some other measurement) to.,verified,single_source_korean_anchor,kaikki,,kaikki:reference:noun:0:1663:s1,참고,1,anki_core:1766527458094
-position,"일자리, 직책 / 두다",noun/verb,core,B,put into a certain place or abstract location,unverified,model_reviewed_pair,oewn,oewn-position__2.35.00..,kaikki:position:verb:0:2511:s0,,1,anki_core:1766527458095
-achievement,"성취, 달성",noun,core,C,The act of achieving or performing; a successful performance; accomplishment.,verified,single_source_korean_anchor,kaikki,,kaikki:achievement:noun:0:83:s0,달성,1,anki_core:1766527458096
-impressed,"인상 깊게 생각하는, 감명을 받은",adjective,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458097
-excellent,"훌륭한, 탁월한",adjective,core,C,Of higher or the highest quality; splendid.,verified,single_source_korean_anchor,kaikki,,kaikki:excellent:adj:0:3136:s1,훌륭한,1,anki_core:1766527458098
-eligible,"자격이 있는,적격의",adjective,core,B,qualified for or allowed or worthy of being chosen,unverified,model_reviewed_pair,oewn,oewn-eligible__3.00.00..,kaikki:eligible:adj:0:6045:s0,,1,anki_core:1766527458099
-identify,"알아보다, 확인하다",verb,core,B,recognize as being; establish the identity of someone or something,unverified,model_reviewed_pair,oewn,oewn-identify__2.31.00..,kaikki:identify:verb:0:1695:s0,,1,anki_core:1766527458100
-associate,관련시키다,verb,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458101
-condition,조건,noun,core,C,A logical clause or phrase that a conditional statement uses. The phrase can either be true or false.,verified,single_source_korean_anchor,kaikki,,kaikki:condition:noun:0:722:s6,조건,1,anki_core:1766527458102
-employment,고용,noun,core,C,The act of employing.,verified,single_source_korean_anchor,kaikki,,kaikki:employment:noun:0:2009:s1,고용,1,anki_core:1766527458103
-lack,~이 없다 / 부족,noun/verb,core,C,"A deficiency or need (of something desirable or necessary); an absence, want, dearth.",verified,single_source_korean_anchor,kaikki,,kaikki:lack:noun:1:3469:s0,부족,1,anki_core:1766527458104
-managerial,관리의,adjective,core,B,of or relating to the function or responsibility or activity of management,verified,double_korean_anchor,oewn,oewn-managerial__3.01.00..,kaikki:managerial:adj:0:2523:s0,관리의,1,anki_core:1766527458105
-diligent,성실한,adjective,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458106
-familiar,"익숙한, 친숙한",adjective,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458107
-proficiency,"숙달, 능숙",noun,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458108
-prospective,"장래의, 미래의",adjective,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458109
-appeal,"관심을 끌다, 매력적이다",verb,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458110
-specialize,"~을 전공하다, 전문적으로 다루다",verb,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458111
-apprehensive,"걱정하는, 염려하는",adjective,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458112
-consultant,"고문, 컨설턴트",noun,core,C,A person or party that is consulted.,verified,single_source_korean_anchor,kaikki,,kaikki:consultant:noun:0:2744:s0,고문;컨설턴트,1,anki_core:1766527458113
-entitle,자격을 주다,verb,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458114
-degree,학위,noun,core,B,an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study,unverified,model_reviewed_pair,oewn,oewn-degree__1.10.00..,kaikki:degree:noun:0:1386:s0,,1,anki_core:1766527458115
-payroll,"임금 대장, 급료 명부",noun,core,D,,unverified,candidates_unaligned,,,,,1,anki_core:1766527458116
-recruit,(신입 사원 등을) 모집하다,verb,core,C,"To enroll or enlist new members or potential employees on behalf of an employer, organization, sports team, the military, etc.",verified,single_source_korean_anchor,kaikki,,kaikki:recruit:verb:0:3563:s0,모집하다,1,anki_core:1766527458117
-certification,"증명서, 증명",noun,core,C,The act of certifying.,verified,single_source_korean_anchor,kaikki,,kaikki:certification:noun:0:3295:s0,증명,1,anki_core:1766527458118
-occupation,직업,noun,core,C,"An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",verified,single_source_korean_anchor,kaikki,,kaikki:occupation:noun:0:1214:s0,직업,1,anki_core:1766527458119
-wage,"임금, 급료",noun,core,B,something that remunerates,verified,monosemous_pair,oewn,oewn-wage__1.21.00..,kaikki:wage:noun:1:126:s0,급료;임금,1,anki_core:1766527458120
-application form,신청서,phrase,basic,C,"A form one fills in when applying for a job, placement, course, service etc.",verified,single_source_korean_anchor,kaikki,,kaikki:application form:noun:0:7066:s0,신청서,1,anki_basic:1766527458121
-career,"직업, 경력",noun,basic,B,the particular occupation for which you are trained,verified,double_korean_anchor,oewn,oewn-career__1.04.00..,kaikki:career:noun:0:4451:s0,경력;직업,1,anki_basic:1766527458122
-completion,"완료, 완성",noun,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458123
-fair,"공정한, 타당한",adjective,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458124
-graduation,졸업,noun,basic,C,The action or process of graduating and receiving a diploma for completing a course of study (such as from an educational institution).,verified,single_source_korean_anchor,kaikki,,kaikki:graduation:noun:0:601:s0,졸업,1,anki_basic:1766527458125
-in fact,사실은,phrase,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458126
-job fair,취업 박람회,phrase,basic,C,"An event organised for employers, recruiters and schools to meet with prospective jobseekers.",unverified,single_source_only_sense,kaikki,,kaikki:job fair:noun:0:7551:s0,,1,anki_basic:1766527458127
-job offer,일자리 제안,phrase,basic,C,"A formal proposal from an employer to a candidate, outlining the terms of employment after the hiring process.",unverified,single_source_only_sense,kaikki,,kaikki:job offer:noun:0:7981:s0,,1,anki_basic:1766527458128
-list,"목록, 명단 / 목록에 기입하다",noun/verb,basic,B,a database containing an ordered array of items (names or topics),verified,double_korean_anchor,oewn,oewn-list__1.10.00..,kaikki:list:noun:1:937:s2,목록,1,anki_basic:1766527458129
-newcomer,"새로 온 사람, 신입사원",noun,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458130
-part-time,"파트타임의, 시간제의",adjective,basic,C,"For, during, or involving less than the normal time for some activity, especially the number of hours an employee works.",verified,single_source_korean_anchor,kaikki,,kaikki:part-time:adj:0:5922:s0,파트타임의,1,anki_basic:1766527458131
-previous job,이전 직업,phrase,basic,E,,unverified,no_sense_record,,,,,1,anki_basic:1766527458132
-secretary,비서,noun,basic,C,"A person who keeps records, takes notes and handles general clerical work.",verified,single_source_korean_anchor,kaikki,,kaikki:secretary:noun:0:676:s0,비서,1,anki_basic:1766527458133
-send in,~을 제출하다,phrase,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458134
-tidy,"단정한, 깔끔한",adjective,basic,C,Arranged neatly and in order.,verified,single_source_korean_anchor,kaikki,,kaikki:tidy:adj:0:4865:s0,단정한,1,anki_basic:1766527458135
-trainee,훈련받는 사람,noun,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458136
-apply for,~에 지원하다,phrase,basic,E,,unverified,no_sense_record,,,,,1,anki_basic:1766527458137
-aptitude,"재능, 소질",noun,basic,C,A natural ability to acquire knowledge or skill.,verified,single_source_korean_anchor,kaikki,,kaikki:aptitude:noun:0:5081:s0,소질;재능,1,anki_basic:1766527458138
-be admitted to,~에 입장이 허용되다,phrase,basic,E,,unverified,no_sense_record,,,,,1,anki_basic:1766527458139
-be advised to do,~할 것을 권유받다,phrase,basic,E,,unverified,no_sense_record,,,,,1,anki_basic:1766527458140
-criteria,기준(criterion의 복수형),noun,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458141
-decade,10년,noun,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458142
-employ,고용하다,verb,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458143
-insufficient,불충분한,adjective,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458144
-minimum,최소한도 / 최소한의,adjective/noun,basic,B,the least possible,unverified,monosemous_pair,oewn,oewn-minimum__3.00.00..,kaikki:minimum:adj:0:1415:s0,,1,anki_basic:1766527458145
-party,"단체, 당사자, 연회",noun,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458146
-plentiful,풍부한,adjective,basic,D,,unverified,candidates_unaligned,,,,,1,anki_basic:1766527458147
-profession,직업,noun,basic,B,the body of people in a learned occupation,verified,double_korean_anchor,oewn,oewn-profession__1.14.00..,kaikki:profession:noun:0:2470:s3,직업,1,anki_basic:1766527458148
-achieve one's goal,목표를 달성하다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460159
-apprentice,"견습생, 도제",noun,800,B,works for an expert to learn a trade,verified,monosemous_pair,oewn,oewn-apprentice__1.18.00..,kaikki:apprentice:noun:0:2333:s0,견습생;도제,1,anki_800:1766527460160
-dress formally,정장을 입다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460161
-dressed in suit,정장을 입은,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460162
-figure out,~을 알아내다,phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460163
-full time work,정규직,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460164
-job opportunity,취업 기회,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460165
-job search,구직,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460166
-job seeker,구직자,phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460167
-lay out,"펼치다, 늘어놓다",phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460168
-letter of recommendation,추천서,phrase,800,C,"A letter written by one person who is familiar with another, usually a teacher, employer, or person of similar authority, evaluating and often extolling the fitness of the other person for a position.",verified,single_source_korean_anchor,kaikki,,kaikki:letter of recommendation:noun:0:7237:s0,추천서,1,anki_800:1766527460169
-pay raise,임금 인상,phrase,800,C,An increase in salary or wages.,unverified,single_source_only_sense,kaikki,,kaikki:pay rise:noun:0:9093:s0,,1,anki_800:1766527460170
-practical experience,실무 경험,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460171
-proof of employment,재직 증명서,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460172
-reapply,재신청하다,verb,800,C,To apply again.,unverified,single_source_only_sense,kaikki,,kaikki:reapply:verb:0:7173:s0,,1,anki_800:1766527460173
-recommendation letter,추천서,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460174
-reference letter,추천서,phrase,800,C,Synonym of letter of recommendation.,unverified,single_source_only_sense,kaikki,,kaikki:reference letter:noun:0:8058:s0,,1,anki_800:1766527460175
-send off to,~로 보내다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460176
-set up an interview,면접 약속을 잡다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460177
-take an examination,시험을 치르다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460178
-training center,훈련소,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460179
-waiting room,대기실,phrase,800,C,A room in a public place for people to wait.,verified,single_source_korean_anchor,kaikki,,kaikki:waiting room:noun:0:4884:s0,대기실,1,anki_800:1766527460180
-well-educated,"잘 교육된, 교양 있는",adjective,800,B,highly educated; having extensive information or understanding,unverified,monosemous_pair,oewn,oewn-well--educated__5.00.00.educated.00,kaikki:well-educated:adj:0:7620:s0,,1,anki_800:1766527460181
-workstation,"작업대, (사무실의) 자리",noun,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460182
-zealous,"열심인, 열광적인",adjective,800,B,marked by active interest and enthusiasm,unverified,monosemous_pair,oewn,oewn-zealous__5.00.00.enthusiastic.00,kaikki:zealous:adj:0:3238:s0,,1,anki_800:1766527460183
-cover letter,자기소개서,phrase,800,C,"A letter or written communication that serves to introduce an accompanying document; especially, a letter that introduces a résumé or curriculum vitae.",verified,single_source_korean_anchor,kaikki,,kaikki:cover letter:noun:0:4916:s0,자기소개서,1,anki_800:1766527460184
-devoted,헌신적인,adjective,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460185
-energetic,활동적인,adjective,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460186
-enthusiastic,열렬한,adjective,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460187
-excel,"(남을) 능가하다, ~보다 낫다",verb,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460188
-exclude,"제외하다, 배제하다",verb,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460189
-fluently,유창하게,adverb,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460190
-get through,"(시험 등에) 합격하다, 통과하다",phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460191
-match,"~에 어울리다, 조화되다",verb,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460192
-necessity,필요,noun,800,C,"The quality or state of being necessary, unavoidable, or absolutely requisite.",verified,single_source_korean_anchor,kaikki,,kaikki:necessity:noun:0:3505:s0,필요,1,anki_800:1766527460193
-qualification,"자격, 자격증",noun,800,C,"An ability or attribute that aids someone's chances of qualifying for something; specifically, completed professional training.",verified,single_source_korean_anchor,kaikki,,kaikki:qualification:noun:0:2234:s1,자격,1,anki_800:1766527460194
-relevant,관련된,adjective,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460195
-sign up for,"~에 등록하다, 신청하다",phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460196
-talented,"유능한, 재능이 있는",adjective,800,B,endowed with talent or talents,unverified,monosemous_pair,oewn,oewn-talented__3.00.00..,kaikki:talented:adj:0:5061:s0,,1,anki_800:1766527460197
-visiting,"방문 / 객원의, 방문하는",adjective/noun,800,B,the activity of making visits,unverified,monosemous_pair,oewn,oewn-visiting__1.04.00..,kaikki:visiting:noun:0:6512:s0,,1,anki_800:1766527460198
-workforce,"노동 인구, 직원 수",noun,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460199
-address the audience,청중에게 연설하다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460200
-be influenced by appearance,겉모습에 영향을 받다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460201
-bilingual,2개 국어를 구사하는,adjective,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460202
-curriculum vitae,이력서,phrase,800,C,"A written account of one's life comprising one's education, accomplishments, work experience, publications, etc.; especially, one used to apply for a job.",verified,single_source_korean_anchor,kaikki,,kaikki:curriculum vitae:noun:0:4948:s0,이력서,1,anki_800:1766527460203
-diploma,졸업 증서,noun,800,B,a document certifying the successful completion of a course of study,unverified,monosemous_pair,oewn,oewn-diploma__1.10.00..,kaikki:diploma:noun:0:4463:s0,,1,anki_800:1766527460204
-endurance,인내력,noun,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460205
-fluency,유창함,noun,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460206
-fluent in,~에 능숙한,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460207
-go with,(계획·제의 등을) 받아들이다,phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460208
-human resources,"인적 자원, 인사 관리",phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460209
-improperly,부적절하게,adverb,800,B,in an improper way,unverified,monosemous_pair,oewn,oewn-improperly__4.02.00..,kaikki:improperly:adv:0:6158:s0,,1,anki_800:1766527460210
-in a positive manner,긍정적으로,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460211
-in the field of,~의 분야에서,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460212
-inexperience,"무경험, 미숙",noun,800,B,lack of experience and the knowledge and understanding derived from experience,unverified,monosemous_pair,oewn,oewn-inexperience__1.09.00..,kaikki:inexperience:noun:0:6938:s0,,1,anki_800:1766527460213
-lack confidence,자신감이 결여되다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460214
-make A a regular habit,A 하는 습관을 들이다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460215
-make a commitment to,"~에 헌신하다, 전념하다",phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460216
-make a point of -ing,반드시 -하다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460217
-manpower,인력,noun,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460218
-master's degree,석사 학위,phrase,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460219
-novice,"풋내기, 무경험자",noun,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460220
-paycheck,"급료, 급료 지불 수표",noun,800,B,a check issued in payment of wages or salary,unverified,monosemous_pair,oewn,oewn-paycheck__1.21.00..,kaikki:paycheck:noun:0:6558:s0,,1,anki_800:1766527460221
-self-motivation,자기 동기부여,noun,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460222
-send a notification,통지서를 보내다,phrase,800,E,,unverified,no_sense_record,,,,,1,anki_800:1766527460223
-vacancy,"공석, 결원",noun,800,C,An unoccupied position or job.,verified,single_source_korean_anchor,kaikki,,kaikki:vacancy:noun:0:4357:s0,결원,1,anki_800:1766527460224
-wanted,"~을 구하는, ~을 모집하는",adjective,800,D,,unverified,candidates_unaligned,,,,,1,anki_800:1766527460225
-work history,"이력, 경력",phrase,800,C,Synonym of employment history.,unverified,single_source_only_sense,kaikki,,kaikki:work history:noun:0:7778:s0,,1,anki_800:1766527460226
-credential,"신임장, 자격 증명서",noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462192
-firsthand,직접적인,adjective,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462193
-hiring committee,고용 위원회,phrase,900,E,,unverified,no_sense_record,,,,,1,anki_900:1766527462194
-not to mention,~은 말할 것도 없고,phrase,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462195
-on occasion,때때로,phrase,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462196
-overqualified,필요이상으로 교육을 받은,adjective,900,C,Having too many qualifications to be deemed appropriate for a (usually unskilled) job.,unverified,single_source_only_sense,kaikki,,kaikki:overqualified:adj:0:7180:s0,,1,anki_900:1766527462197
-screening,"심사, 선발",noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462198
-lag,"뒤처지다, 뒤떨어지다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,1,anki_900:1766527462199
-on the waiting list,대기자 명단에,phrase,900,E,,unverified,no_sense_record,,,,,1,anki_900:1766527462200
-oriented,~을 지향하는,adjective,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462201
-pertaining to,~에 관계된,phrase,900,E,,unverified,no_sense_record,,,,,1,anki_900:1766527462202
-questionably,의심스럽게,adverb,900,B,in a questionable and dubious manner,unverified,monosemous_pair,oewn,oewn-questionably__4.02.00..,kaikki:questionably:adv:0:6954:s0,,1,anki_900:1766527462203
-regularity,정기적임,noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462204
-replenish,"다시 채우다, 보충하다",verb,900,B,fill something that had previously been emptied,verified,double_korean_anchor,oewn,oewn-replenish__2.30.00..,kaikki:replenish:verb:0:6836:s0,보충하다,1,anki_900:1766527462205
-simplicity,간단함,noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462206
-stellar,"뛰어난, 별의",adjective,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462207
-versatile,다재다능한,adjective,900,C,Capable of doing many things competently.,verified,single_source_korean_anchor,kaikki,,kaikki:versatile:adj:0:2254:s0,다재다능한,1,anki_900:1766527462208
-adept,능숙한,adjective,900,B,having or showing knowledge and skill and aptitude,unverified,monosemous_pair,oewn,oewn-adept__5.00.00.skilled.00,kaikki:adept:adj:0:3239:s0,,1,anki_900:1766527462209
-against all odds,모든 역경을 딛고,phrase,900,C,Despite seemingly insurmountable opposition or probability.,unverified,single_source_only_sense,kaikki,,kaikki:against all odds:prep_phrase:0:5250:s0,,1,anki_900:1766527462210
-command,"(언어) 구사력, 명령, 지배력",noun,900,C,An order to do something.,verified,single_source_korean_anchor,kaikki,,kaikki:command:noun:0:3128:s0,명령,1,anki_900:1766527462211
-commensurate,"비례한, 액수가 상응하는",adjective,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462212
-computer literate,컴퓨터 사용 기술을 가진,phrase,900,C,"Able to operate a personal computer and its associated software and hardware, and to understand most of the underlying concepts (but not necessarily the electronics, or a programming language).",unverified,single_source_only_sense,kaikki,,kaikki:computer literate:adj:0:6803:s0,,1,anki_900:1766527462213
-eagerness,열의,noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462214
-familiarize oneself with,"~에 정통하다, 익숙하다",phrase,900,E,,unverified,no_sense_record,,,,,1,anki_900:1766527462215
-increment,"증가, 인상",noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462216
-interpersonal skills,대인관계능력,phrase,900,E,,unverified,no_sense_record,,,,,1,anki_900:1766527462217
-mindful,유념하는,adjective,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462218
-preeminent,"우수한, 탁월한",adjective,900,B,greatest in importance or degree or significance or achievement,unverified,monosemous_pair,oewn,oewn-preeminent__5.00.00.superior.01,kaikki:preeminent:adj:0:5950:s0,,1,anki_900:1766527462219
-preliminary,예비의,adjective,900,B,denoting an action or event preceding or in preparation for something more important,verified,double_korean_anchor,oewn,oewn-preliminary__5.00.00.exploratory.00,kaikki:preliminary:adj:0:5508:s0,예비의,1,anki_900:1766527462220
-prerequisite,필수조건 / 필수적인,adjective/noun,900,B,required as a prior condition or course of study,unverified,monosemous_pair,oewn,oewn-prerequisite__5.00.00.obligatory.00,kaikki:prerequisite:adj:0:6650:s0,,1,anki_900:1766527462221
-probationer,"수습직원, 견습생",noun,900,D,,unverified,candidates_unaligned,,,,,1,anki_900:1766527462222
-sternly,"엄격하게, 단호하게",adverb,900,B,with sternness; in a severe manner,unverified,monosemous_pair,oewn,oewn-sternly__4.02.00..,kaikki:sternly:adv:0:6027:s0,,1,anki_900:1766527462223
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+résumé,이력서,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458081
+opening,"공석, 결원; 개장, 개시",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,1,anki_core:1766527458082
+applicant,"지원자, 신청자",noun,core,C,One who applies for something; one who makes a request; a petitioner.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:applicant:noun:0:2228:s0,신청자;지원자,1,anki_core:1766527458083
+requirement,"필요조건, 요건",noun,core,B,something that is required in advance,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-requirement__1.09.00..,kaikki:requirement:noun:0:4689:s0,,1,anki_core:1766527458084
+meet,(필요·요구 등을) 만족시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458085
+qualified,"자격있는, 적격의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458086
+candidate,"후보자, 지원자",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458087
+confidence,"확신,자신; 신임",noun,core,B,freedom from doubt; belief in yourself and your abilities,verified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-confidence__1.09.00..;oewn-confidence__1.12.00..,kaikki:confidence:noun:0:1978:s0;kaikki:confidence:noun:0:1978:s1,신임;자신;확신,1,anki_core:1766527458088
+highly,"매우, 대단히",adverb,core,B,to a high degree or extent; favorably or with much respect,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-highly__4.02.01..,kaikki:highly:adv:0:4502:s1,,1,anki_core:1766527458089
+professional,"전문적인, 직업의 / 전문가",adjective/noun,core,C,An expert.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:professional:noun:0:4218:s5,전문가,1,anki_core:1766527458090
+interview,면접 / 면접을 보다,noun/verb,core,C,"A formal meeting, in person, for the assessment of a candidate or applicant.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:interview:noun:0:4584:s3,면접,1,anki_core:1766527458091
+hire,고용하다,verb,core,B,engage or hire for work,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-hire__2.41.00..,kaikki:hire:verb:2:3081:s2,고용하다,1,anki_core:1766527458092
+training,"교육, 훈련",noun,core,C,The activity of imparting and acquiring skills.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:training:noun:0:6207:s1,훈련,1,anki_core:1766527458093
+reference,추천서; 참고,noun,core,C,A measurement one can compare (some other measurement) to.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:reference:noun:0:1663:s1,참고,1,anki_core:1766527458094
+position,"일자리, 직책 / 두다",noun/verb,core,B,put into a certain place or abstract location,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-position__2.35.00..,kaikki:position:verb:0:2511:s0,,1,anki_core:1766527458095
+achievement,"성취, 달성",noun,core,C,The act of achieving or performing; a successful performance; accomplishment.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:achievement:noun:0:83:s0,달성,1,anki_core:1766527458096
+impressed,"인상 깊게 생각하는, 감명을 받은",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458097
+excellent,"훌륭한, 탁월한",adjective,core,C,Of higher or the highest quality; splendid.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:excellent:adj:0:3136:s1,훌륭한,1,anki_core:1766527458098
+eligible,"자격이 있는,적격의",adjective,core,B,qualified for or allowed or worthy of being chosen,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-eligible__3.00.00..,kaikki:eligible:adj:0:6045:s0,,1,anki_core:1766527458099
+identify,"알아보다, 확인하다",verb,core,B,recognize as being; establish the identity of someone or something,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-identify__2.31.00..,kaikki:identify:verb:0:1695:s0,,1,anki_core:1766527458100
+associate,관련시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458101
+condition,조건,noun,core,C,A logical clause or phrase that a conditional statement uses. The phrase can either be true or false.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:condition:noun:0:722:s6,조건,1,anki_core:1766527458102
+employment,고용,noun,core,C,The act of employing.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:employment:noun:0:2009:s1,고용,1,anki_core:1766527458103
+lack,~이 없다 / 부족,noun/verb,core,C,"A deficiency or need (of something desirable or necessary); an absence, want, dearth.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:lack:noun:1:3469:s0,부족,1,anki_core:1766527458104
+managerial,관리의,adjective,core,B,of or relating to the function or responsibility or activity of management,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-managerial__3.01.00..,kaikki:managerial:adj:0:2523:s0,관리의,1,anki_core:1766527458105
+diligent,성실한,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458106
+familiar,"익숙한, 친숙한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458107
+proficiency,"숙달, 능숙",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458108
+prospective,"장래의, 미래의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458109
+appeal,"관심을 끌다, 매력적이다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458110
+specialize,"~을 전공하다, 전문적으로 다루다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458111
+apprehensive,"걱정하는, 염려하는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458112
+consultant,"고문, 컨설턴트",noun,core,C,A person or party that is consulted.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:consultant:noun:0:2744:s0,고문;컨설턴트,1,anki_core:1766527458113
+entitle,자격을 주다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458114
+degree,학위,noun,core,B,an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-degree__1.10.00..,kaikki:degree:noun:0:1386:s0,,1,anki_core:1766527458115
+payroll,"임금 대장, 급료 명부",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,1,anki_core:1766527458116
+recruit,(신입 사원 등을) 모집하다,verb,core,C,"To enroll or enlist new members or potential employees on behalf of an employer, organization, sports team, the military, etc.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:recruit:verb:0:3563:s0,모집하다,1,anki_core:1766527458117
+certification,"증명서, 증명",noun,core,C,The act of certifying.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:certification:noun:0:3295:s0,증명,1,anki_core:1766527458118
+occupation,직업,noun,core,C,"An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:occupation:noun:0:1214:s0,직업,1,anki_core:1766527458119
+wage,"임금, 급료",noun,core,B,something that remunerates,verified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-wage__1.21.00..,kaikki:wage:noun:1:126:s0,급료;임금,1,anki_core:1766527458120
+application form,신청서,phrase,basic,C,"A form one fills in when applying for a job, placement, course, service etc.",verified,ocr_exact,1-10(2) p1,n (badge),single_source_korean_anchor,kaikki,,kaikki:application form:noun:0:7066:s0,신청서,1,anki_basic:1766527458121
+career,"직업, 경력",noun,basic,B,the particular occupation for which you are trained,verified,ocr_exact,1-10(2) p1,,double_korean_anchor,oewn,oewn-career__1.04.00..,kaikki:career:noun:0:4451:s0,경력;직업,1,anki_basic:1766527458122
+completion,"완료, 완성",noun,basic,D,,unverified,ocr_exact,1-10(2) p1,n (width),candidates_unaligned,,,,,1,anki_basic:1766527458123
+fair,"공정한, 타당한",adjective,basic,D,,unverified,ocr_variant_ocr,1-10(2) p1,,candidates_unaligned,,,,,1,anki_basic:1766527458124
+graduation,졸업,noun,basic,C,The action or process of graduating and receiving a diploma for completing a course of study (such as from an educational institution).,verified,ocr_variant_ocr,1-10(2) p1,,single_source_korean_anchor,kaikki,,kaikki:graduation:noun:0:601:s0,졸업,1,anki_basic:1766527458125
+in fact,사실은,phrase,basic,D,,unverified,ocr_exact,1-10(2) p1,phr (badge),candidates_unaligned,,,,,1,anki_basic:1766527458126
+job fair,취업 박람회,phrase,basic,C,"An event organised for employers, recruiters and schools to meet with prospective jobseekers.",unverified,ocr_exact,1-10(2) p1,phr (badge),single_source_only_sense,kaikki,,kaikki:job fair:noun:0:7551:s0,,1,anki_basic:1766527458127
+job offer,일자리 제안,phrase,basic,C,"A formal proposal from an employer to a candidate, outlining the terms of employment after the hiring process.",unverified,ocr_exact,1-10(2) p1,phr (width),single_source_only_sense,kaikki,,kaikki:job offer:noun:0:7981:s0,,1,anki_basic:1766527458128
+list,"목록, 명단 / 목록에 기입하다",noun/verb,basic,B,a database containing an ordered array of items (names or topics),verified,ocr_exact,1-10(2) p1,n (width),double_korean_anchor,oewn,oewn-list__1.10.00..,kaikki:list:noun:1:937:s2,목록,1,anki_basic:1766527458129
+newcomer,"새로 온 사람, 신입사원",noun,basic,D,,unverified,ocr_exact,1-10(2) p1,n (badge),candidates_unaligned,,,,,1,anki_basic:1766527458130
+part-time,"파트타임의, 시간제의",adjective,basic,C,"For, during, or involving less than the normal time for some activity, especially the number of hours an employee works.",verified,ocr_exact,1-10(2) p1,,single_source_korean_anchor,kaikki,,kaikki:part-time:adj:0:5922:s0,파트타임의,1,anki_basic:1766527458131
+previous job,이전 직업,phrase,basic,E,,unverified,ocr_exact,1-10(2) p1,,no_sense_record,,,,,1,anki_basic:1766527458132
+secretary,비서,noun,basic,C,"A person who keeps records, takes notes and handles general clerical work.",verified,ocr_exact,1-10(2) p1,,single_source_korean_anchor,kaikki,,kaikki:secretary:noun:0:676:s0,비서,1,anki_basic:1766527458133
+send in,~을 제출하다,phrase,basic,D,,unverified,ocr_exact,1-10(2) p1,phr (badge),candidates_unaligned,,,,,1,anki_basic:1766527458134
+tidy,"단정한, 깔끔한",adjective,basic,C,Arranged neatly and in order.,verified,ocr_similar,1-10(2) p1,adj (badge),single_source_korean_anchor,kaikki,,kaikki:tidy:adj:0:4865:s0,단정한,1,anki_basic:1766527458135
+trainee,훈련받는 사람,noun,basic,D,,unverified,ocr_exact,1-10(2) p1,n (width),candidates_unaligned,,,,,1,anki_basic:1766527458136
+apply for,~에 지원하다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p1,phr (width),no_sense_record,,,,,1,anki_basic:1766527458137
+aptitude,"재능, 소질",noun,basic,C,A natural ability to acquire knowledge or skill.,verified,ocr_exact,1-10(2) p1,n (width),single_source_korean_anchor,kaikki,,kaikki:aptitude:noun:0:5081:s0,소질;재능,1,anki_basic:1766527458138
+be admitted to,~에 입장이 허용되다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p1,phr (badge),no_sense_record,,,,,1,anki_basic:1766527458139
+be advised to do,~할 것을 권유받다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p1,phr (badge),no_sense_record,,,,,1,anki_basic:1766527458140
+criteria,기준(criterion의 복수형),noun,basic,D,,unverified,ocr_exact,1-10(2) p1,,candidates_unaligned,,,,,1,anki_basic:1766527458141
+decade,10년,noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p1,,candidates_unaligned,,,,,1,anki_basic:1766527458142
+employ,고용하다,verb,basic,D,,unverified,ocr_exact,1-10(2) p1,v (badge),candidates_unaligned,,,,,1,anki_basic:1766527458143
+insufficient,불충분한,adjective,basic,D,,unverified,ocr_similar,1-10(2) p1,adj (badge),candidates_unaligned,,,,,1,anki_basic:1766527458144
+minimum,최소한도 / 최소한의,adjective/noun,basic,B,the least possible,unverified,ocr_exact,1-10(2) p1,,monosemous_pair,oewn,oewn-minimum__3.00.00..,kaikki:minimum:adj:0:1415:s0,,1,anki_basic:1766527458145
+party,"단체, 당사자, 연회",noun,basic,D,,unverified,ocr_variant_ocr,1-10(2) p1,,candidates_unaligned,,,,,1,anki_basic:1766527458146
+plentiful,풍부한,adjective,basic,D,,unverified,ocr_exact,1-10(2) p1,,candidates_unaligned,,,,,1,anki_basic:1766527458147
+profession,직업,noun,basic,B,the body of people in a learned occupation,verified,ocr_exact,1-10(2) p1,,double_korean_anchor,oewn,oewn-profession__1.14.00..,kaikki:profession:noun:0:2470:s3,직업,1,anki_basic:1766527458148
+achieve one's goal,목표를 달성하다,phrase,800,E,,unverified,ocr_prefix,1-10(2) p2,phr (width),no_sense_record,,,,,1,anki_800:1766527460159
+apprentice,"견습생, 도제",noun,800,B,works for an expert to learn a trade,verified,ocr_exact,1-10(2) p2,n (badge),monosemous_pair,oewn,oewn-apprentice__1.18.00..,kaikki:apprentice:noun:0:2333:s0,견습생;도제,1,anki_800:1766527460160
+dress formally,정장을 입다,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460161
+dressed in suit,정장을 입은,phrase,800,E,,unverified,ocr_similar,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460162
+figure out,~을 알아내다,phrase,800,D,,unverified,ocr_exact,1-10(2) p2,phr (badge),candidates_unaligned,,,,,1,anki_800:1766527460163
+full time work,정규직,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460164
+job opportunity,취업 기회,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460165
+job search,구직,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (width),no_sense_record,,,,,1,anki_800:1766527460166
+job seeker,구직자,phrase,800,D,,unverified,ocr_exact,1-10(2) p2,phr (badge),candidates_unaligned,,,,,1,anki_800:1766527460167
+lay out,"펼치다, 늘어놓다",phrase,800,D,,unverified,ocr_exact,1-10(2) p2,phr (badge),candidates_unaligned,,,,,1,anki_800:1766527460168
+letter of recommendation,추천서,phrase,800,C,"A letter written by one person who is familiar with another, usually a teacher, employer, or person of similar authority, evaluating and often extolling the fitness of the other person for a position.",verified,ocr_exact,1-10(2) p2,phr (badge),single_source_korean_anchor,kaikki,,kaikki:letter of recommendation:noun:0:7237:s0,추천서,1,anki_800:1766527460169
+pay raise,임금 인상,phrase,800,C,An increase in salary or wages.,unverified,ocr_exact,1-10(2) p2,phr (badge),single_source_only_sense,kaikki,,kaikki:pay rise:noun:0:9093:s0,,1,anki_800:1766527460170
+practical experience,실무 경험,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460171
+proof of employment,재직 증명서,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460172
+reapply,재신청하다,verb,800,C,To apply again.,unverified,ocr_exact,1-10(2) p2,v (badge),single_source_only_sense,kaikki,,kaikki:reapply:verb:0:7173:s0,,1,anki_800:1766527460173
+recommendation letter,추천서,phrase,800,E,,unverified,ocr_prefix,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460174
+reference letter,추천서,phrase,800,C,Synonym of letter of recommendation.,unverified,ocr_exact,1-10(2) p2,,single_source_only_sense,kaikki,,kaikki:reference letter:noun:0:8058:s0,,1,anki_800:1766527460175
+send off to,~로 보내다,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,,no_sense_record,,,,,1,anki_800:1766527460176
+set up an interview,면접 약속을 잡다,phrase,800,E,,unverified,ocr_prefix,1-10(2) p2,phr (width),no_sense_record,,,,,1,anki_800:1766527460177
+take an examination,시험을 치르다,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,,no_sense_record,,,,,1,anki_800:1766527460178
+training center,훈련소,phrase,800,E,,unverified,ocr_exact,1-10(2) p2,phr (badge),no_sense_record,,,,,1,anki_800:1766527460179
+waiting room,대기실,phrase,800,C,A room in a public place for people to wait.,verified,ocr_exact,1-10(2) p2,phr (badge),single_source_korean_anchor,kaikki,,kaikki:waiting room:noun:0:4884:s0,대기실,1,anki_800:1766527460180
+well-educated,"잘 교육된, 교양 있는",adjective,800,B,highly educated; having extensive information or understanding,unverified,ocr_similar,1-10(2) p2,adj (badge),monosemous_pair,oewn,oewn-well--educated__5.00.00.educated.00,kaikki:well-educated:adj:0:7620:s0,,1,anki_800:1766527460181
+workstation,"작업대, (사무실의) 자리",noun,800,D,,unverified,ocr_exact,1-10(2) p2,n (width),candidates_unaligned,,,,,1,anki_800:1766527460182
+zealous,"열심인, 열광적인",adjective,800,B,marked by active interest and enthusiasm,unverified,ocr_similar,1-10(2) p2,adj (badge),monosemous_pair,oewn,oewn-zealous__5.00.00.enthusiastic.00,kaikki:zealous:adj:0:3238:s0,,1,anki_800:1766527460183
+cover letter,자기소개서,phrase,800,C,"A letter or written communication that serves to introduce an accompanying document; especially, a letter that introduces a résumé or curriculum vitae.",verified,ocr_exact,1-10(2) p2,phr (badge),single_source_korean_anchor,kaikki,,kaikki:cover letter:noun:0:4916:s0,자기소개서,1,anki_800:1766527460184
+devoted,헌신적인,adjective,800,D,,unverified,ocr_exact,1-10(2) p2,,candidates_unaligned,,,,,1,anki_800:1766527460185
+energetic,활동적인,adjective,800,D,,unverified,ocr_exact,1-10(2) p2,adj (badge),candidates_unaligned,,,,,1,anki_800:1766527460186
+enthusiastic,열렬한,adjective,800,D,,unverified,ocr_exact,1-10(2) p2,adj (badge),candidates_unaligned,,,,,1,anki_800:1766527460187
+excel,"(남을) 능가하다, ~보다 낫다",verb,800,D,,unverified,ocr_exact,1-10(2) p2,v (badge),candidates_unaligned,,,,,1,anki_800:1766527460188
+exclude,"제외하다, 배제하다",verb,800,D,,unverified,ocr_exact,1-10(2) p2,v (badge),candidates_unaligned,,,,,1,anki_800:1766527460189
+fluently,유창하게,adverb,800,D,,unverified,ocr_prefix,1-10(2) p2,adv (badge),candidates_unaligned,,,,,1,anki_800:1766527460190
+get through,"(시험 등에) 합격하다, 통과하다",phrase,800,D,,unverified,ocr_prefix,1-10(2) p2,phr (width),candidates_unaligned,,,,,1,anki_800:1766527460191
+match,"~에 어울리다, 조화되다",verb,800,D,,unverified,ocr_variant_ocr,1-10(2) p3,,candidates_unaligned,,,,,1,anki_800:1766527460192
+necessity,필요,noun,800,C,"The quality or state of being necessary, unavoidable, or absolutely requisite.",verified,struck_through,1-10(2) p3,,single_source_korean_anchor,kaikki,,kaikki:necessity:noun:0:3505:s0,필요,1,anki_800:1766527460193
+qualification,"자격, 자격증",noun,800,C,"An ability or attribute that aids someone's chances of qualifying for something; specifically, completed professional training.",verified,ocr_exact,1-10(2) p3,,single_source_korean_anchor,kaikki,,kaikki:qualification:noun:0:2234:s1,자격,1,anki_800:1766527460194
+relevant,관련된,adjective,800,D,,unverified,struck_through,1-10(2) p3,,candidates_unaligned,,,,,1,anki_800:1766527460195
+sign up for,"~에 등록하다, 신청하다",phrase,800,E,,unverified,ocr_exact,1-10(2) p3,phr (badge),no_sense_record,,,,,1,anki_800:1766527460196
+talented,"유능한, 재능이 있는",adjective,800,B,endowed with talent or talents,unverified,ocr_variant_ocr,1-10(2) p3,,monosemous_pair,oewn,oewn-talented__3.00.00..,kaikki:talented:adj:0:5061:s0,,1,anki_800:1766527460197
+visiting,"방문 / 객원의, 방문하는",adjective/noun,800,B,the activity of making visits,unverified,ocr_similar,1-10(2) p3,,monosemous_pair,oewn,oewn-visiting__1.04.00..,kaikki:visiting:noun:0:6512:s0,,1,anki_800:1766527460198
+workforce,"노동 인구, 직원 수",noun,800,D,,unverified,ocr_exact,1-10(2) p3,,candidates_unaligned,,,,,1,anki_800:1766527460199
+address the audience,청중에게 연설하다,phrase,800,E,,unverified,ocr_similar,1-10(2) p3,,no_sense_record,,,,,1,anki_800:1766527460200
+be influenced by appearance,겉모습에 영향을 받다,phrase,800,E,,unverified,ocr_variant_ocr,1-10(2) p3,,no_sense_record,,,,,1,anki_800:1766527460201
+bilingual,2개 국어를 구사하는,adjective,800,D,,unverified,ocr_exact,1-10(2) p3,n (width),candidates_unaligned,,,,,1,anki_800:1766527460202
+curriculum vitae,이력서,phrase,800,C,"A written account of one's life comprising one's education, accomplishments, work experience, publications, etc.; especially, one used to apply for a job.",verified,ocr_exact,1-10(2) p3,phr (badge),single_source_korean_anchor,kaikki,,kaikki:curriculum vitae:noun:0:4948:s0,이력서,1,anki_800:1766527460203
+diploma,졸업 증서,noun,800,B,a document certifying the successful completion of a course of study,unverified,ocr_similar,1-10(2) p3,,monosemous_pair,oewn,oewn-diploma__1.10.00..,kaikki:diploma:noun:0:4463:s0,,1,anki_800:1766527460204
+endurance,인내력,noun,800,D,,unverified,ocr_exact,1-10(2) p3,n (width),candidates_unaligned,,,,,1,anki_800:1766527460205
+fluency,유창함,noun,800,D,,unverified,ocr_exact,1-10(2) p3,n (badge),candidates_unaligned,,,,,1,anki_800:1766527460206
+fluent in,~에 능숙한,phrase,800,E,,unverified,ocr_exact,1-10(2) p3,phr (width),no_sense_record,,,,,1,anki_800:1766527460207
+go with,(계획·제의 등을) 받아들이다,phrase,800,D,,unverified,ocr_exact,1-10(2) p3,phr (badge),candidates_unaligned,,,,,1,anki_800:1766527460208
+human resources,"인적 자원, 인사 관리",phrase,800,D,,unverified,ocr_similar,1-10(2) p3,phr (badge),candidates_unaligned,,,,,1,anki_800:1766527460209
+improperly,부적절하게,adverb,800,B,in an improper way,unverified,ocr_exact,1-10(2) p3,adv (badge),monosemous_pair,oewn,oewn-improperly__4.02.00..,kaikki:improperly:adv:0:6158:s0,,1,anki_800:1766527460210
+in a positive manner,긍정적으로,phrase,800,E,,unverified,ocr_exact,1-10(2) p3,,no_sense_record,,,,,1,anki_800:1766527460211
+in the field of,~의 분야에서,phrase,800,E,,unverified,ocr_exact,1-10(2) p3,phr (badge),no_sense_record,,,,,1,anki_800:1766527460212
+inexperience,"무경험, 미숙",noun,800,B,lack of experience and the knowledge and understanding derived from experience,unverified,ocr_exact,1-10(2) p3,n (width),monosemous_pair,oewn,oewn-inexperience__1.09.00..,kaikki:inexperience:noun:0:6938:s0,,1,anki_800:1766527460213
+lack confidence,자신감이 결여되다,phrase,800,E,,unverified,ocr_similar,1-10(2) p3,phr (badge),no_sense_record,,,,,1,anki_800:1766527460214
+make A a regular habit,A 하는 습관을 들이다,phrase,800,E,,unverified,ocr_exact,1-10(2) p3,phr (badge),no_sense_record,,,,,1,anki_800:1766527460215
+make a commitment to,"~에 헌신하다, 전념하다",phrase,800,E,,unverified,ocr_exact,1-10(2) p3,phr (badge),no_sense_record,,,,,1,anki_800:1766527460216
+make a point of -ing,반드시 -하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p3,phr (badge),no_sense_record,,,,,1,anki_800:1766527460217
+manpower,인력,noun,800,D,,unverified,ocr_exact,1-10(2) p3,,candidates_unaligned,,,,,1,anki_800:1766527460218
+master's degree,석사 학위,phrase,800,D,,unverified,ocr_exact,1-10(2) p3,phr (badge),candidates_unaligned,,,,,1,anki_800:1766527460219
+novice,"풋내기, 무경험자",noun,800,D,,unverified,ocr_exact,1-10(2) p3,,candidates_unaligned,,,,,1,anki_800:1766527460220
+paycheck,"급료, 급료 지불 수표",noun,800,B,a check issued in payment of wages or salary,unverified,ocr_exact,1-10(2) p3,,monosemous_pair,oewn,oewn-paycheck__1.21.00..,kaikki:paycheck:noun:0:6558:s0,,1,anki_800:1766527460221
+self-motivation,자기 동기부여,noun,800,E,,unverified,ocr_exact,1-10(2) p3,n (badge),no_sense_record,,,,,1,anki_800:1766527460222
+send a notification,통지서를 보내다,phrase,800,E,,unverified,ocr_similar,1-10(2) p3,phr (width),no_sense_record,,,,,1,anki_800:1766527460223
+vacancy,"공석, 결원",noun,800,C,An unoccupied position or job.,verified,ocr_exact,1-10(2) p3,,single_source_korean_anchor,kaikki,,kaikki:vacancy:noun:0:4357:s0,결원,1,anki_800:1766527460224
+wanted,"~을 구하는, ~을 모집하는",adjective,800,D,,unverified,ocr_exact,1-10(2) p3,,candidates_unaligned,,,,,1,anki_800:1766527460225
+work history,"이력, 경력",phrase,800,C,Synonym of employment history.,unverified,ocr_exact,1-10(2) p3,phr (badge),single_source_only_sense,kaikki,,kaikki:work history:noun:0:7778:s0,,1,anki_800:1766527460226
+credential,"신임장, 자격 증명서",noun,900,D,,unverified,ocr_exact,1-10(2) p4,,candidates_unaligned,,,,,1,anki_900:1766527462192
+firsthand,직접적인,adjective,900,D,,unverified,ocr_exact,1-10(2) p4,adj (badge),candidates_unaligned,,,,,1,anki_900:1766527462193
+hiring committee,고용 위원회,phrase,900,E,,unverified,ocr_prefix,1-10(2) p4,phr (badge),no_sense_record,,,,,1,anki_900:1766527462194
+not to mention,~은 말할 것도 없고,phrase,900,D,,unverified,ocr_prefix,1-10(2) p4,phr (badge),candidates_unaligned,,,,,1,anki_900:1766527462195
+on occasion,때때로,phrase,900,D,,unverified,ocr_exact,1-10(2) p4,phr (badge),candidates_unaligned,,,,,1,anki_900:1766527462196
+overqualified,필요이상으로 교육을 받은,adjective,900,C,Having too many qualifications to be deemed appropriate for a (usually unskilled) job.,unverified,ocr_similar,1-10(2) p4,adj (badge),single_source_only_sense,kaikki,,kaikki:overqualified:adj:0:7180:s0,,1,anki_900:1766527462197
+screening,"심사, 선발",noun,900,D,,unverified,ocr_prefix,1-10(2) p4,n (badge),candidates_unaligned,,,,,1,anki_900:1766527462198
+lag,"뒤처지다, 뒤떨어지다",verb,900,D,,unverified,ocr_exact,1-10(2) p4,,proposed_pair_needs_review,,,,,1,anki_900:1766527462199
+on the waiting list,대기자 명단에,phrase,900,E,,unverified,ocr_similar,1-10(2) p4,,no_sense_record,,,,,1,anki_900:1766527462200
+oriented,~을 지향하는,adjective,900,D,,unverified,ocr_exact,1-10(2) p4,adj (badge),candidates_unaligned,,,,,1,anki_900:1766527462201
+pertaining to,~에 관계된,phrase,900,E,,unverified,ocr_prefix,1-10(2) p4,phr (badge),no_sense_record,,,,,1,anki_900:1766527462202
+questionably,의심스럽게,adverb,900,B,in a questionable and dubious manner,unverified,ocr_variant_ocr,1-10(2) p4,,monosemous_pair,oewn,oewn-questionably__4.02.00..,kaikki:questionably:adv:0:6954:s0,,1,anki_900:1766527462203
+regularity,정기적임,noun,900,D,,unverified,ocr_similar,1-10(2) p4,n (badge),candidates_unaligned,,,,,1,anki_900:1766527462204
+replenish,"다시 채우다, 보충하다",verb,900,B,fill something that had previously been emptied,verified,ocr_similar,1-10(2) p4,v (badge),double_korean_anchor,oewn,oewn-replenish__2.30.00..,kaikki:replenish:verb:0:6836:s0,보충하다,1,anki_900:1766527462205
+simplicity,간단함,noun,900,D,,unverified,ocr_prefix,1-10(2) p4,,candidates_unaligned,,,,,1,anki_900:1766527462206
+stellar,"뛰어난, 별의",adjective,900,D,,unverified,ocr_exact,1-10(2) p4,adj (badge),candidates_unaligned,,,,,1,anki_900:1766527462207
+versatile,다재다능한,adjective,900,C,Capable of doing many things competently.,verified,struck_through,1-10(2) p4,,single_source_korean_anchor,kaikki,,kaikki:versatile:adj:0:2254:s0,다재다능한,1,anki_900:1766527462208
+adept,능숙한,adjective,900,B,having or showing knowledge and skill and aptitude,unverified,ocr_contains,1-10(2) p4,,monosemous_pair,oewn,oewn-adept__5.00.00.skilled.00,kaikki:adept:adj:0:3239:s0,,1,anki_900:1766527462209
+against all odds,모든 역경을 딛고,phrase,900,C,Despite seemingly insurmountable opposition or probability.,unverified,ocr_exact,1-10(2) p4,phr (badge),single_source_only_sense,kaikki,,kaikki:against all odds:prep_phrase:0:5250:s0,,1,anki_900:1766527462210
+command,"(언어) 구사력, 명령, 지배력",noun,900,C,An order to do something.,verified,ocr_exact,1-10(2) p4,,single_source_korean_anchor,kaikki,,kaikki:command:noun:0:3128:s0,명령,1,anki_900:1766527462211
+commensurate,"비례한, 액수가 상응하는",adjective,900,D,,unverified,ocr_similar,1-10(2) p4,adj (badge),candidates_unaligned,,,,,1,anki_900:1766527462212
+computer literate,컴퓨터 사용 기술을 가진,phrase,900,C,"Able to operate a personal computer and its associated software and hardware, and to understand most of the underlying concepts (but not necessarily the electronics, or a programming language).",unverified,ocr_similar,1-10(2) p4,phr (badge),single_source_only_sense,kaikki,,kaikki:computer literate:adj:0:6803:s0,,1,anki_900:1766527462213
+eagerness,열의,noun,900,D,,unverified,ocr_prefix,1-10(2) p4,,candidates_unaligned,,,,,1,anki_900:1766527462214
+familiarize oneself with,"~에 정통하다, 익숙하다",phrase,900,E,,unverified,ocr_exact,1-10(2) p4,,no_sense_record,,,,,1,anki_900:1766527462215
+increment,"증가, 인상",noun,900,D,,unverified,ocr_similar,1-10(2) p4,,candidates_unaligned,,,,,1,anki_900:1766527462216
+interpersonal skills,대인관계능력,phrase,900,E,,unverified,ocr_exact,1-10(2) p4,,no_sense_record,,,,,1,anki_900:1766527462217
+mindful,유념하는,adjective,900,D,,unverified,ocr_exact,1-10(2) p4,,candidates_unaligned,,,,,1,anki_900:1766527462218
+preeminent,"우수한, 탁월한",adjective,900,B,greatest in importance or degree or significance or achievement,unverified,ocr_variant_ocr,1-10(2) p4,,monosemous_pair,oewn,oewn-preeminent__5.00.00.superior.01,kaikki:preeminent:adj:0:5950:s0,,1,anki_900:1766527462219
+preliminary,예비의,adjective,900,B,denoting an action or event preceding or in preparation for something more important,verified,struck_through,1-10(2) p4,,double_korean_anchor,oewn,oewn-preliminary__5.00.00.exploratory.00,kaikki:preliminary:adj:0:5508:s0,예비의,1,anki_900:1766527462220
+prerequisite,필수조건 / 필수적인,adjective/noun,900,B,required as a prior condition or course of study,unverified,ocr_exact,1-10(2) p4,n (width),monosemous_pair,oewn,oewn-prerequisite__5.00.00.obligatory.00,kaikki:prerequisite:adj:0:6650:s0,,1,anki_900:1766527462221
+probationer,"수습직원, 견습생",noun,900,D,,unverified,ocr_exact,1-10(2) p4,,candidates_unaligned,,,,,1,anki_900:1766527462222
+sternly,"엄격하게, 단호하게",adverb,900,B,with sternness; in a severe manner,unverified,ocr_exact,1-10(2) p4,,monosemous_pair,oewn,oewn-sternly__4.02.00..,kaikki:sternly:adv:0:6027:s0,,1,anki_900:1766527462223

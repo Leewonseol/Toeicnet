@@ -1,169 +1,169 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-stagnant,"침체된, 불경기의",adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458630
-dramatically,극적으로,adverb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458631
-brisk,"활발한, 호황의",adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458632
-unstable,"불안정한, 변하기 쉬운",adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458633
-rapidly,"급속히, 빨리",adverb,core,B,with speed,unverified,model_reviewed_pair,oewn,oewn-rapidly__4.02.00..,kaikki:rapidly:adv:0:4963:s0,,9,anki_core:1766527458634
-soar,"(물가 등이) 폭등하다, 높이 치솟다",verb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458635
-assert,"단언하다, 주장하다",verb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458636
-boost,"(경기를) 부양시키다, 상승시키다",verb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458637
-analyst,분석가,noun,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458638
-potential,"잠재적인, 가능성",noun,core,C,A currently unrealized ability (with the most common adposition being to).,verified,single_source_korean_anchor,kaikki,,kaikki:potential:noun:0:3531:s0,가능성,9,anki_core:1766527458639
-pleased,"만족해하는, 기쁜",noun,core,E,,unverified,no_sense_record,,,,,9,anki_core:1766527458640
-remain,"계속 ~한 상태이다, 아직 ~해야 한다",verb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458641
-limited,"제한된, 한정된",adjective,core,C,With certain (often specified) limits placed upon it.,verified,single_source_korean_anchor,kaikki,,kaikki:limited:adj:0:3763:s0,제한된,9,anki_core:1766527458642
-costly,"비용이 많이 드는, 손실이 큰",noun,core,E,,unverified,no_sense_record,,,,,9,anki_core:1766527458643
-particular,특정한,adjective,core,B,unique or specific to a person or thing or category,unverified,model_reviewed_pair,oewn,oewn-particular__5.00.00.specific.00,kaikki:particular:adj:0:4085:s2,,9,anki_core:1766527458644
-drastic,"과감한, 급격한",adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458645
-evenly,"고르게, 균등하게",adverb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458646
-evidence,증거,noun,core,C,Facts or observations presented in support of an assertion.,verified,single_source_korean_anchor,kaikki,,kaikki:evidence:noun:0:3757:s0,증거,9,anki_core:1766527458647
-prospect,"전망, 예상",noun,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458648
-lead,"이끌다, 지휘하다, (어떤 결과에) 이르다",verb,core,B,take somebody somewhere,verified,double_korean_anchor,oewn,oewn-lead__2.38.01..,kaikki:lead:verb:2:539:s0,이끌다,9,anki_core:1766527458649
-fall,(값·가치가) 하락하다,verb,core,B,drop oneself to a lower or less erect position,verified,double_korean_anchor,oewn,oewn-fall__2.38.14..,kaikki:fall:verb:1:293:s0,하락하다,9,anki_core:1766527458650
-period,"기간, 시기",noun,core,B,an amount of time,unverified,model_reviewed_pair,oewn,oewn-period__1.28.00..,kaikki:period:noun:0:2259:s0,,9,anki_core:1766527458651
-indicator,"지표, 지수",noun,core,B,a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time,unverified,model_reviewed_pair,oewn,oewn-indicator__1.10.00..,kaikki:indicator:noun:0:6042:s0,,9,anki_core:1766527458652
-industry,산업,noun,core,B,the organized action of making of goods and services for sale,verified,model_reviewed_pair,oewn,oewn-industry__1.04.00..,kaikki:industry:noun:0:2980:s2,산업,9,anki_core:1766527458653
-likely,~할 것 같은,adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458654
-boom,"붐, 호황",noun,core,C,"A period of prosperity, growth, progress, or high market activity.",verified,single_source_korean_anchor,kaikki,,kaikki:boom:noun:1:339:s2,붐,9,anki_core:1766527458655
-director,"임원, 책임자",noun,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458656
-substitute,"대용품, 대신하다",verb,core,B,put in the place of another; switch seemingly equivalent items,unverified,model_reviewed_pair,oewn,oewn-substitute__2.40.00..,kaikki:substitute:verb:0:1661:s2,,9,anki_core:1766527458657
-consequence,결과,noun,core,B,a phenomenon that follows and is caused by some previous phenomenon,unverified,model_reviewed_pair,oewn,oewn-consequence__1.19.00..,kaikki:consequence:noun:0:3316:s0,,9,anki_core:1766527458658
-fairly,"상당히, 꽤",adverb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458659
-economical,"경제적인, 절약되는",adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458660
-thrive,"번영하다, 성공하다",verb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458661
-implication,"영향, 밀접한 관계",noun,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458662
-wane,"감소, 쇠퇴",noun,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458663
-prosperity,번영,noun,core,C,The condition of being prosperous: having good fortune and a fortune.,verified,single_source_korean_anchor,kaikki,,kaikki:prosperity:noun:0:4196:s0,번영,9,anki_core:1766527458664
-depression,불황,noun,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458665
-dwindle,"줄어들다, 감소되다",verb,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458666
-impede,"저해하다, 방해하다",verb,core,B,be a hindrance or obstacle to,unverified,model_reviewed_pair,oewn,oewn-impede__2.41.00..,kaikki:impede:verb:0:5324:s0,,9,anki_core:1766527458667
-promising,"유망한, 전망이 좋은",adjective,core,D,,unverified,candidates_unaligned,,,,,9,anki_core:1766527458668
-adversity,"역경, 불운",noun,core,B,a state of misfortune or affliction,verified,double_korean_anchor,oewn,oewn-adversity__1.26.00..,kaikki:adversity:noun:0:7373:s0,역경,9,anki_core:1766527458669
-business hours,영업시간,phrase,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458670
-cast,"던지다, 드리우다",verb,basic,D,,unverified,proposed_pair_needs_review,,,,,9,anki_basic:1766527458671
-CEO(chief executive officer),최고 경영자,phrase,basic,E,,unverified,no_sense_record,,,,,9,anki_basic:1766527458672
-enterprise,"기업, 사업",noun,basic,B,an organization created for business ventures,verified,double_korean_anchor,oewn,oewn-enterprise__1.14.00..,kaikki:enterprise:noun:0:597:s0,기업;사업,9,anki_basic:1766527458673
-firm,회사,noun,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458674
-franchise,"가맹 사업, 독점 판매권",noun,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458675
-nice-looking,깔끔한,adjective,basic,C,Pleasing to the eye; attractive.,unverified,single_source_only_sense,kaikki,,kaikki:nice-looking:adj:0:7227:s0,,9,anki_basic:1766527458676
-plenty,"풍부한, 충분한",adjective,basic,E,,unverified,no_sense_record,,,,,9,anki_basic:1766527458677
-session,(특정 활동) 시간,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,9,anki_basic:1766527458678
-speed up,가속화하다,phrase,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458679
-trading,거래,noun,basic,B,buying or selling securities or commodities,unverified,monosemous_pair,oewn,oewn-trading__1.04.00..,kaikki:trading:noun:0:5338:s0,,9,anki_basic:1766527458680
-beginning,"시작, 초기의",adjective,basic,B,serving to begin,unverified,monosemous_pair,oewn,oewn-beginning__5.00.00.opening.00,kaikki:beginning:adj:2:3986:s0,,9,anki_basic:1766527458681
-contribution to,~에 대한 기여,phrase,basic,E,,unverified,no_sense_record,,,,,9,anki_basic:1766527458682
-convenient,"편리한, 간편한",adjective,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458683
-differently,"다르게, 별도로",adverb,basic,B,in another and different manner,unverified,monosemous_pair,oewn,oewn-differently__4.02.00..,kaikki:differently:adv:0:6490:s0,,9,anki_basic:1766527458684
-economy,"경기, 경제",noun,basic,C,The system of production and distribution and consumption. The overall measure of a currency system; as the national economy.,verified,single_source_korean_anchor,kaikki,,kaikki:economy:noun:0:1481:s6,경제,9,anki_basic:1766527458685
-formally,"정식으로, 공식적으로",adverb,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458686
-industrial,산업의,adjective,basic,D,,unverified,proposed_pair_needs_review,,,,,9,anki_basic:1766527458687
-lightly,"가볍게, 부드럽게",adverb,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458688
-not A but B,A가 아니라 B다,phrase,basic,E,,unverified,no_sense_record,,,,,9,anki_basic:1766527458689
-optimistic,낙관적인,adjective,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458690
-overall,"전반적인, 총체적인",adjective,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458691
-possibility,가능성,noun,basic,C,The quality of being possible.,verified,single_source_korean_anchor,kaikki,,kaikki:possibility:noun:0:3174:s0,가능성,9,anki_basic:1766527458692
-private,개인적인,adjective,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458693
-rise,"오르다, 일어서다",verb,basic,C,To move upwards.,verified,single_source_korean_anchor,kaikki,,kaikki:rise:verb:1:750:s0,오르다,9,anki_basic:1766527458694
-situation,상황,noun,basic,D,,unverified,proposed_pair_needs_review,,,,,9,anki_basic:1766527458695
-strengthen,"강화하다, 강력해지다",verb,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458696
-up-and-down,"오르내리는, 기복이 있는",adjective,basic,D,,unverified,candidates_unaligned,,,,,9,anki_basic:1766527458697
-blueprint,"청사진, 계획",noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460703
-business deal,사업 거래,phrase,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460704
-family-run,가족이 운영하는,adjective,800,C,"Of a business or establishment, that is owned and operated by a family.",unverified,single_source_only_sense,kaikki,,kaikki:family-run:adj:0:8035:s0,,9,anki_800:1766527460705
-fluctuation,"변동, 오르내림",noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460706
-for business,사업상,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460707
-foreign trade,해외 무역,phrase,800,C,Trade that is conducted between a nation and other nations.,unverified,single_source_only_sense,kaikki,,kaikki:foreign trade:noun:0:7848:s0,,9,anki_800:1766527460708
-go into business,사업을 시작하다,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460709
-go out of business,폐업하다,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460710
-mutual,상호의,adjective,800,D,,unverified,proposed_pair_needs_review,,,,,9,anki_800:1766527460711
-nationwide,전국적인,adjective,800,B,occurring or extending throughout a country or nation,unverified,monosemous_pair,oewn,oewn-nationwide__5.00.00.comprehensive.00,kaikki:nationwide:adj:0:6625:s0,,9,anki_800:1766527460712
-need monitoring,관찰이 필요하다,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460713
-neighboring,"이웃의, 인접한",adjective,800,B,having a common boundary or edge; abutting; touching,unverified,monosemous_pair,oewn,oewn-neighboring__5.00.00.connected.00,kaikki:neighboring:adj:0:6153:s0,,9,anki_800:1766527460714
-real estate sale,부동산 매매,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460715
-recession,경기 후퇴,noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460716
-relieve pain,고통을 덜어주다,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460717
-role model,역할 모델,phrase,800,C,"A person who serves as an example, or whose behavior is emulated by others.",verified,single_source_korean_anchor,kaikki,,kaikki:role model:noun:0:5983:s0,역할 모델,9,anki_800:1766527460718
-unplug,플러그를 뽑다,verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460719
-worsen,악화되다,verb,800,B,grow worse,verified,double_korean_anchor,oewn,oewn-worsen__2.30.00..,kaikki:worsen:verb:0:4070:s1,악화되다,9,anki_800:1766527460720
-accumulation,"축적, 누적",noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460721
-ascend,"오르다, 올라가다",verb,800,C,"To move upward, to fly, to soar.",verified,single_source_korean_anchor,kaikki,,kaikki:ascend:verb:0:4905:s0,올라가다,9,anki_800:1766527460722
-commerce,"통상, 교역",noun,800,C,"The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",verified,single_source_korean_anchor,kaikki,,kaikki:commerce:noun:0:5128:s0,교역,9,anki_800:1766527460723
-indifferent,"무관심한, 중요하지 않은",adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460724
-prolong,연장시키다,verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460725
-relevantly,관련되어,noun,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460726
-stimulate,"자극하다, 격려하다",verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460727
-supplement,"보완하다, 보충하다",verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460728
-tedious,"지루한, 싫증나는",adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460729
-unavoidable,불가피한,adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460730
-be related to,~에 관련되다,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460731
-bring in,"(시스템을) 도입하다, (돈을) 벌다",phrase,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460732
-brokerage,"중개, 중개업소",noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460733
-business management,경영(학),phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460734
-business practice,사업 관행,phrase,800,C,"the usual procedure followed in business, or a particular business.",unverified,single_source_only_sense,kaikki,,kaikki:business practice:noun:0:7650:s0,,9,anki_800:1766527460735
-collapse,붕괴,noun,800,C,The act of collapsing.,verified,single_source_korean_anchor,kaikki,,kaikki:collapse:noun:0:1774:s0,붕괴,9,anki_800:1766527460736
-cope with,~에 대처하다,phrase,800,C,To come to terms with; to overcome any difficulties presented by.,unverified,single_source_only_sense,kaikki,,kaikki:cope with:verb:0:7450:s0,,9,anki_800:1766527460737
-cost-effective,비용 효율적인,adjective,800,B,productive relative to the cost,unverified,monosemous_pair,oewn,oewn-cost--effective__5.00.00.efficient.00,kaikki:cost-effective:adj:0:7112:s0,,9,anki_800:1766527460738
-descending,"내려가는, 하향의",adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460739
-dominate,"지배하다, 우위를 차지하다",verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460740
-downturn,(경기) 침체,noun,800,B,a worsening of business or economic activity,unverified,monosemous_pair,oewn,oewn-downturn__1.04.00..,kaikki:downturn:noun:0:7210:s0,,9,anki_800:1766527460741
-entail,"~을 수반하다, ~을 유발하다",verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460742
-exchange rate,환율,phrase,800,B,the charge for exchanging currency of one country for currency of another,verified,double_korean_anchor,oewn,oewn-exchange_rate__1.21.00..,kaikki:exchange rate:noun:0:7162:s0,환율,9,anki_800:1766527460743
-flourish,"번창하다, 융성하다",verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460744
-for large purchases,대량 구매에 대해서,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460745
-for the benefit of,~의 이익을 위해,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460746
-foremost,"선두의, 으뜸가는",adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460747
-forerunner,선구자,noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460748
-from around the globe,전 세계에서,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460749
-infrastructure,"사회 기반 시설, 경제 기반 시설",noun,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460750
-marketable,시장성이 높은,adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460751
-momentary,"순간적인, 잠깐의",adjective,800,D,,unverified,proposed_pair_needs_review,,,,,9,anki_800:1766527460752
-multinational corporation,다국적 기업,phrase,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460753
-multi-regional,다지역의,adjective,800,E,,unverified,no_sense_record,,,,,9,anki_800:1766527460754
-nationality,국적,noun,800,C,"Legal membership of a particular nation or state, by origin, birth, naturalization, ownership, allegiance or otherwise.",verified,single_source_korean_anchor,kaikki,,kaikki:nationality:noun:0:536:s0,국적,9,anki_800:1766527460755
-net income,"순수입, 실수입",phrase,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460756
-penalize,벌하다,verb,800,D,,unverified,proposed_pair_needs_review,,,,,9,anki_800:1766527460757
-put forth,"~을 내밀다, 내뿜다",phrase,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460758
-ratio,비율,noun,800,D,,unverified,proposed_pair_needs_review,,,,,9,anki_800:1766527460759
-set up,"~을 세우다, 시작하다",phrase,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460760
-skyrocket,(가격 등이) 치솟다,verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460761
-so far,지금까지,phrase,800,C,Until now; previously; yet.,verified,single_source_korean_anchor,kaikki,,kaikki:so far:adv:0:2201:s0,지금까지,9,anki_800:1766527460762
-surge,(물가가) 급등하다,verb,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460763
-synergy,상승효과,noun,800,C,"Benefits resulting from combining different groups, people, objects or processes.",verified,single_source_korean_anchor,kaikki,,kaikki:synergy:noun:0:1128:s3,상승효과,9,anki_800:1766527460764
-synthesis,"종합, 통합",noun,800,B,the combination of ideas into a complex whole,verified,double_korean_anchor,oewn,oewn-synthesis__1.09.00..,kaikki:synthesis:noun:0:1762:s0,종합;통합,9,anki_800:1766527460765
-tactics,전략,noun,800,D,,unverified,proposed_pair_needs_review,,,,,9,anki_800:1766527460766
-unemployment,실업,noun,800,C,The state of having no job; joblessness.,verified,single_source_korean_anchor,kaikki,,kaikki:unemployment:noun:0:125:s0,실업,9,anki_800:1766527460767
-variable,"변하기 쉬운, 변덕스러운",adjective,800,D,,unverified,candidates_unaligned,,,,,9,anki_800:1766527460768
-vicious cycle,악순환,phrase,800,C,"A situation in which the response to one problem creates a chain of problems, each making it more difficult to solve the original one.",verified,single_source_korean_anchor,kaikki,,kaikki:vicious circle:noun:0:8666:s0,악순환,9,anki_800:1766527460769
-without a doubt,의심할 바 없이,phrase,800,C,certainly; doubtlessly; unquestionably; indisputably; doubtless; surely; no doubt; without any doubt.,unverified,single_source_only_sense,kaikki,,kaikki:without a doubt:prep_phrase:0:7258:s0,,9,anki_800:1766527460770
-billing address,청구서 주소,phrase,900,E,,unverified,no_sense_record,,,,,9,anki_900:1766527462448
-government grant,정부 보조금,phrase,900,E,,unverified,no_sense_record,,,,,9,anki_900:1766527462449
-market value,"시가, 시세",phrase,900,D,,unverified,proposed_pair_needs_review,,,,,9,anki_900:1766527462450
-pull down,"~을 끌어내리다, ~을 하락시키다",phrase,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462451
-stationary,"움직이지 않는, 정지된",adjective,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462452
-abate,"누그러지다, 약해지다, 감소하다",verb,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462453
-cease,"중지하다, 그치다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,9,anki_900:1766527462454
-conspicuously,"눈에 띄게, 두드러지게",adverb,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462455
-deteriorate,"악화되다, 나빠지다",verb,900,B,grow progressively worse,verified,double_korean_anchor,oewn,oewn-deteriorate__2.29.00..,kaikki:deteriorate:verb:0:3345:s1,악화되다,9,anki_900:1766527462456
-implicitly,"암암리에, 절대적으로",adverb,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462457
-leisurely,"느긋한, 여유있는, 천천히",adverb,900,B,in an unhurried way or at one's convenience,unverified,monosemous_pair,oewn,oewn-leisurely__4.02.00..,kaikki:leisurely:adv:2:3494:s0,,9,anki_900:1766527462458
-menace,위협하다,verb,900,D,,unverified,proposed_pair_needs_review,,,,,9,anki_900:1766527462459
-perceptible,"상당한 정도의, 인지할 수 있는",adjective,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462460
-placement,"놓기, 배치, 취업 알선",noun,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462461
-remark,"주의하다, 말하다",verb,900,D,,unverified,proposed_pair_needs_review,,,,,9,anki_900:1766527462462
-retrieval,"복구, 만회",noun,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462463
-slowdown,경기 후퇴,noun,900,B,the act of slowing down or falling behind,unverified,monosemous_pair,oewn,oewn-slowdown__1.04.00..,kaikki:slowdown:noun:0:7114:s0,,9,anki_900:1766527462464
-solitary,"혼자의, 외로운",adjective,900,D,,unverified,proposed_pair_needs_review,,,,,9,anki_900:1766527462465
-ailing,"병든, 괴로워하는",adjective,900,B,somewhat ill or prone to illness,unverified,monosemous_pair,oewn,oewn-ailing__5.00.00.ill.01,kaikki:ailing:adj:0:6487:s0,,9,anki_900:1766527462466
-financial statement,재무제표,phrase,900,C,"A formal record of all relevant financial information of a business, person, or other entity, presented in a structured and standardized manner to allow easy understanding.",verified,single_source_korean_anchor,kaikki,,kaikki:financial statement:noun:0:7469:s0,재무제표,9,anki_900:1766527462467
-have a monopoly on,~의 독점권을 갖다,phrase,900,E,,unverified,no_sense_record,,,,,9,anki_900:1766527462468
-in demand,수요가 있는,phrase,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462469
-multilateral,다국간의,adjective,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462470
-nontransferable,양도할 수 없는,adjective,900,B,incapable of being transferred,unverified,monosemous_pair,oewn,oewn-nontransferable__5.00.00.inalienable.00,kaikki:nontransferable:adj:0:7264:s0,,9,anki_900:1766527462471
-parent company,모회사,phrase,900,C,A company that owns or controls one or more other companies.,unverified,single_source_only_sense,kaikki,,kaikki:parent company:noun:0:6944:s0,,9,anki_900:1766527462472
-privatization,민영화,noun,900,C,The transfer of a company or organization from government to private ownership and control.,verified,single_source_korean_anchor,kaikki,,kaikki:privatization:noun:0:6271:s0,민영화,9,anki_900:1766527462473
-rebound,"회복, 다시 일어서다",verb,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462474
-runner-up,"2위의 경기자, 차점자",noun,900,C,"The person who finishes second, or in any position after the first.",verified,single_source_korean_anchor,kaikki,,kaikki:runner-up:noun:0:7004:s0,차점자,9,anki_900:1766527462475
-secondary effect,부차적 영향,phrase,900,E,,unverified,no_sense_record,,,,,9,anki_900:1766527462476
-sluggish,불경기의,adjective,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462477
-stagnation,"침체, 불경기",noun,900,C,"The state of lacking activity, change or progress, or excitement in an unhealthy manner; inactivity, staleness; (countable) an instance of this.",verified,single_source_korean_anchor,kaikki,,kaikki:stagnation:noun:0:6538:s1,침체,9,anki_900:1766527462478
-volatile,(가격 등이) 심하게 변동하는,adjective,900,D,,unverified,candidates_unaligned,,,,,9,anki_900:1766527462479
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+stagnant,"침체된, 불경기의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458630
+dramatically,극적으로,adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458631
+brisk,"활발한, 호황의",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458632
+unstable,"불안정한, 변하기 쉬운",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458633
+rapidly,"급속히, 빨리",adverb,core,B,with speed,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-rapidly__4.02.00..,kaikki:rapidly:adv:0:4963:s0,,9,anki_core:1766527458634
+soar,"(물가 등이) 폭등하다, 높이 치솟다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458635
+assert,"단언하다, 주장하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458636
+boost,"(경기를) 부양시키다, 상승시키다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458637
+analyst,분석가,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458638
+potential,"잠재적인, 가능성",noun,core,C,A currently unrealized ability (with the most common adposition being to).,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:potential:noun:0:3531:s0,가능성,9,anki_core:1766527458639
+pleased,"만족해하는, 기쁜",noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,9,anki_core:1766527458640
+remain,"계속 ~한 상태이다, 아직 ~해야 한다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458641
+limited,"제한된, 한정된",adjective,core,C,With certain (often specified) limits placed upon it.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:limited:adj:0:3763:s0,제한된,9,anki_core:1766527458642
+costly,"비용이 많이 드는, 손실이 큰",noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,9,anki_core:1766527458643
+particular,특정한,adjective,core,B,unique or specific to a person or thing or category,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-particular__5.00.00.specific.00,kaikki:particular:adj:0:4085:s2,,9,anki_core:1766527458644
+drastic,"과감한, 급격한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458645
+evenly,"고르게, 균등하게",adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458646
+evidence,증거,noun,core,C,Facts or observations presented in support of an assertion.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:evidence:noun:0:3757:s0,증거,9,anki_core:1766527458647
+prospect,"전망, 예상",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458648
+lead,"이끌다, 지휘하다, (어떤 결과에) 이르다",verb,core,B,take somebody somewhere,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-lead__2.38.01..,kaikki:lead:verb:2:539:s0,이끌다,9,anki_core:1766527458649
+fall,(값·가치가) 하락하다,verb,core,B,drop oneself to a lower or less erect position,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-fall__2.38.14..,kaikki:fall:verb:1:293:s0,하락하다,9,anki_core:1766527458650
+period,"기간, 시기",noun,core,B,an amount of time,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-period__1.28.00..,kaikki:period:noun:0:2259:s0,,9,anki_core:1766527458651
+indicator,"지표, 지수",noun,core,B,a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-indicator__1.10.00..,kaikki:indicator:noun:0:6042:s0,,9,anki_core:1766527458652
+industry,산업,noun,core,B,the organized action of making of goods and services for sale,verified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-industry__1.04.00..,kaikki:industry:noun:0:2980:s2,산업,9,anki_core:1766527458653
+likely,~할 것 같은,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458654
+boom,"붐, 호황",noun,core,C,"A period of prosperity, growth, progress, or high market activity.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:boom:noun:1:339:s2,붐,9,anki_core:1766527458655
+director,"임원, 책임자",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458656
+substitute,"대용품, 대신하다",verb,core,B,put in the place of another; switch seemingly equivalent items,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-substitute__2.40.00..,kaikki:substitute:verb:0:1661:s2,,9,anki_core:1766527458657
+consequence,결과,noun,core,B,a phenomenon that follows and is caused by some previous phenomenon,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-consequence__1.19.00..,kaikki:consequence:noun:0:3316:s0,,9,anki_core:1766527458658
+fairly,"상당히, 꽤",adverb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458659
+economical,"경제적인, 절약되는",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458660
+thrive,"번영하다, 성공하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458661
+implication,"영향, 밀접한 관계",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458662
+wane,"감소, 쇠퇴",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458663
+prosperity,번영,noun,core,C,The condition of being prosperous: having good fortune and a fortune.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:prosperity:noun:0:4196:s0,번영,9,anki_core:1766527458664
+depression,불황,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458665
+dwindle,"줄어들다, 감소되다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458666
+impede,"저해하다, 방해하다",verb,core,B,be a hindrance or obstacle to,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-impede__2.41.00..,kaikki:impede:verb:0:5324:s0,,9,anki_core:1766527458667
+promising,"유망한, 전망이 좋은",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,9,anki_core:1766527458668
+adversity,"역경, 불운",noun,core,B,a state of misfortune or affliction,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-adversity__1.26.00..,kaikki:adversity:noun:0:7373:s0,역경,9,anki_core:1766527458669
+business hours,영업시간,phrase,basic,D,,unverified,ocr_exact,1-10(2) p33,n (width),candidates_unaligned,,,,,9,anki_basic:1766527458670
+cast,"던지다, 드리우다",verb,basic,D,,unverified,ocr_exact,1-10(2) p33,,proposed_pair_needs_review,,,,,9,anki_basic:1766527458671
+CEO(chief executive officer),최고 경영자,phrase,basic,E,,unverified,ocr_variant_ocr,1-10(2) p33,,no_sense_record,,,,,9,anki_basic:1766527458672
+enterprise,"기업, 사업",noun,basic,B,an organization created for business ventures,verified,ocr_exact,1-10(2) p33,,double_korean_anchor,oewn,oewn-enterprise__1.14.00..,kaikki:enterprise:noun:0:597:s0,기업;사업,9,anki_basic:1766527458673
+firm,회사,noun,basic,D,,unverified,ocr_exact,1-10(2) p33,,candidates_unaligned,,,,,9,anki_basic:1766527458674
+franchise,"가맹 사업, 독점 판매권",noun,basic,D,,unverified,ocr_exact,1-10(2) p33,,candidates_unaligned,,,,,9,anki_basic:1766527458675
+nice-looking,깔끔한,adjective,basic,C,Pleasing to the eye; attractive.,unverified,ocr_exact,1-10(2) p33,,single_source_only_sense,kaikki,,kaikki:nice-looking:adj:0:7227:s0,,9,anki_basic:1766527458676
+plenty,"풍부한, 충분한",adjective,basic,E,,unverified,ocr_exact,1-10(2) p33,,no_sense_record,,,,,9,anki_basic:1766527458677
+session,(특정 활동) 시간,noun,basic,D,,unverified,ocr_exact,1-10(2) p33,,proposed_pair_needs_review,,,,,9,anki_basic:1766527458678
+speed up,가속화하다,phrase,basic,D,,unverified,ocr_exact,1-10(2) p33,phr (badge),candidates_unaligned,,,,,9,anki_basic:1766527458679
+trading,거래,noun,basic,B,buying or selling securities or commodities,unverified,ocr_exact,1-10(2) p33,n (width),monosemous_pair,oewn,oewn-trading__1.04.00..,kaikki:trading:noun:0:5338:s0,,9,anki_basic:1766527458680
+beginning,"시작, 초기의",adjective,basic,B,serving to begin,unverified,ocr_exact,1-10(2) p33,,monosemous_pair,oewn,oewn-beginning__5.00.00.opening.00,kaikki:beginning:adj:2:3986:s0,,9,anki_basic:1766527458681
+contribution to,~에 대한 기여,phrase,basic,E,,unverified,ocr_exact,1-10(2) p33,phr (badge),no_sense_record,,,,,9,anki_basic:1766527458682
+convenient,"편리한, 간편한",adjective,basic,D,,unverified,ocr_exact,1-10(2) p33,,candidates_unaligned,,,,,9,anki_basic:1766527458683
+differently,"다르게, 별도로",adverb,basic,B,in another and different manner,unverified,ocr_exact,1-10(2) p33,v (badge),monosemous_pair,oewn,oewn-differently__4.02.00..,kaikki:differently:adv:0:6490:s0,,9,anki_basic:1766527458684
+economy,"경기, 경제",noun,basic,C,The system of production and distribution and consumption. The overall measure of a currency system; as the national economy.,verified,ocr_similar,1-10(2) p33,,single_source_korean_anchor,kaikki,,kaikki:economy:noun:0:1481:s6,경제,9,anki_basic:1766527458685
+formally,"정식으로, 공식적으로",adverb,basic,D,,unverified,ocr_exact,1-10(2) p33,v (badge),candidates_unaligned,,,,,9,anki_basic:1766527458686
+industrial,산업의,adjective,basic,D,,unverified,ocr_exact,1-10(2) p33,,proposed_pair_needs_review,,,,,9,anki_basic:1766527458687
+lightly,"가볍게, 부드럽게",adverb,basic,D,,unverified,ocr_prefix,1-10(2) p33,adv (badge),candidates_unaligned,,,,,9,anki_basic:1766527458688
+not A but B,A가 아니라 B다,phrase,basic,E,,unverified,ocr_exact,1-10(2) p33,phr (width),no_sense_record,,,,,9,anki_basic:1766527458689
+optimistic,낙관적인,adjective,basic,D,,unverified,ocr_exact,1-10(2) p33,adj (badge),candidates_unaligned,,,,,9,anki_basic:1766527458690
+overall,"전반적인, 총체적인",adjective,basic,D,,unverified,ocr_exact,1-10(2) p33,n (width),candidates_unaligned,,,,,9,anki_basic:1766527458691
+possibility,가능성,noun,basic,C,The quality of being possible.,verified,ocr_exact,1-10(2) p33,,single_source_korean_anchor,kaikki,,kaikki:possibility:noun:0:3174:s0,가능성,9,anki_basic:1766527458692
+private,개인적인,adjective,basic,D,,unverified,ocr_exact,1-10(2) p33,,candidates_unaligned,,,,,9,anki_basic:1766527458693
+rise,"오르다, 일어서다",verb,basic,C,To move upwards.,verified,ocr_exact,1-10(2) p33,v (badge),single_source_korean_anchor,kaikki,,kaikki:rise:verb:1:750:s0,오르다,9,anki_basic:1766527458694
+situation,상황,noun,basic,D,,unverified,ocr_exact,1-10(2) p33,,proposed_pair_needs_review,,,,,9,anki_basic:1766527458695
+strengthen,"강화하다, 강력해지다",verb,basic,D,,unverified,ocr_exact,1-10(2) p33,v (badge),candidates_unaligned,,,,,9,anki_basic:1766527458696
+up-and-down,"오르내리는, 기복이 있는",adjective,basic,D,,unverified,ocr_exact,1-10(2) p33,adj (badge),candidates_unaligned,,,,,9,anki_basic:1766527458697
+blueprint,"청사진, 계획",noun,800,D,,unverified,ocr_exact,1-10(2) p34,n (width),candidates_unaligned,,,,,9,anki_800:1766527460703
+business deal,사업 거래,phrase,800,D,,unverified,ocr_exact,1-10(2) p34,phr (width),candidates_unaligned,,,,,9,anki_800:1766527460704
+family-run,가족이 운영하는,adjective,800,C,"Of a business or establishment, that is owned and operated by a family.",unverified,ocr_exact,1-10(2) p34,,single_source_only_sense,kaikki,,kaikki:family-run:adj:0:8035:s0,,9,anki_800:1766527460705
+fluctuation,"변동, 오르내림",noun,800,D,,unverified,ocr_exact,1-10(2) p34,n (badge),candidates_unaligned,,,,,9,anki_800:1766527460706
+for business,사업상,phrase,800,E,,unverified,ocr_exact,1-10(2) p34,phr (width),no_sense_record,,,,,9,anki_800:1766527460707
+foreign trade,해외 무역,phrase,800,C,Trade that is conducted between a nation and other nations.,unverified,ocr_exact,1-10(2) p34,phr (width),single_source_only_sense,kaikki,,kaikki:foreign trade:noun:0:7848:s0,,9,anki_800:1766527460708
+go into business,사업을 시작하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p34,,no_sense_record,,,,,9,anki_800:1766527460709
+go out of business,폐업하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p34,phr (badge),no_sense_record,,,,,9,anki_800:1766527460710
+mutual,상호의,adjective,800,D,,unverified,ocr_exact,1-10(2) p34,,proposed_pair_needs_review,,,,,9,anki_800:1766527460711
+nationwide,전국적인,adjective,800,B,occurring or extending throughout a country or nation,unverified,ocr_similar,1-10(2) p34,,monosemous_pair,oewn,oewn-nationwide__5.00.00.comprehensive.00,kaikki:nationwide:adj:0:6625:s0,,9,anki_800:1766527460712
+need monitoring,관찰이 필요하다,phrase,800,E,,unverified,ocr_exact,1-10(2) p34,phr (badge),no_sense_record,,,,,9,anki_800:1766527460713
+neighboring,"이웃의, 인접한",adjective,800,B,having a common boundary or edge; abutting; touching,unverified,ocr_exact,1-10(2) p34,adj (badge),monosemous_pair,oewn,oewn-neighboring__5.00.00.connected.00,kaikki:neighboring:adj:0:6153:s0,,9,anki_800:1766527460714
+real estate sale,부동산 매매,phrase,800,E,,unverified,ocr_similar,1-10(2) p34,phr (badge),no_sense_record,,,,,9,anki_800:1766527460715
+recession,경기 후퇴,noun,800,D,,unverified,ocr_exact,1-10(2) p34,,candidates_unaligned,,,,,9,anki_800:1766527460716
+relieve pain,고통을 덜어주다,phrase,800,E,,unverified,ocr_exact,1-10(2) p34,phr (badge),no_sense_record,,,,,9,anki_800:1766527460717
+role model,역할 모델,phrase,800,C,"A person who serves as an example, or whose behavior is emulated by others.",verified,ocr_prefix,1-10(2) p34,phr (badge),single_source_korean_anchor,kaikki,,kaikki:role model:noun:0:5983:s0,역할 모델,9,anki_800:1766527460718
+unplug,플러그를 뽑다,verb,800,D,,unverified,ocr_prefix,1-10(2) p34,,candidates_unaligned,,,,,9,anki_800:1766527460719
+worsen,악화되다,verb,800,B,grow worse,verified,ocr_similar,1-10(2) p34,,double_korean_anchor,oewn,oewn-worsen__2.30.00..,kaikki:worsen:verb:0:4070:s1,악화되다,9,anki_800:1766527460720
+accumulation,"축적, 누적",noun,800,D,,unverified,ocr_exact,1-10(2) p34,,candidates_unaligned,,,,,9,anki_800:1766527460721
+ascend,"오르다, 올라가다",verb,800,C,"To move upward, to fly, to soar.",verified,ocr_exact,1-10(2) p34,v (badge),single_source_korean_anchor,kaikki,,kaikki:ascend:verb:0:4905:s0,올라가다,9,anki_800:1766527460722
+commerce,"통상, 교역",noun,800,C,"The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",verified,ocr_exact,1-10(2) p34,,single_source_korean_anchor,kaikki,,kaikki:commerce:noun:0:5128:s0,교역,9,anki_800:1766527460723
+indifferent,"무관심한, 중요하지 않은",adjective,800,D,,unverified,ocr_exact,1-10(2) p34,adj (badge),candidates_unaligned,,,,,9,anki_800:1766527460724
+prolong,연장시키다,verb,800,D,,unverified,ocr_exact,1-10(2) p34,v (badge),candidates_unaligned,,,,,9,anki_800:1766527460725
+relevantly,관련되어,noun,800,E,,unverified,ocr_similar,1-10(2) p34,adv (badge),no_sense_record,,,,,9,anki_800:1766527460726
+stimulate,"자극하다, 격려하다",verb,800,D,,unverified,ocr_exact,1-10(2) p34,v (badge),candidates_unaligned,,,,,9,anki_800:1766527460727
+supplement,"보완하다, 보충하다",verb,800,D,,unverified,ocr_similar,1-10(2) p34,v (badge),candidates_unaligned,,,,,9,anki_800:1766527460728
+tedious,"지루한, 싫증나는",adjective,800,D,,unverified,ocr_exact,1-10(2) p34,adj (badge),candidates_unaligned,,,,,9,anki_800:1766527460729
+unavoidable,불가피한,adjective,800,D,,unverified,ocr_exact,1-10(2) p34,,candidates_unaligned,,,,,9,anki_800:1766527460730
+be related to,~에 관련되다,phrase,800,E,,unverified,ocr_similar,1-10(2) p34,phr (width),no_sense_record,,,,,9,anki_800:1766527460731
+bring in,"(시스템을) 도입하다, (돈을) 벌다",phrase,800,D,,unverified,ocr_similar,1-10(2) p34,phr (badge),candidates_unaligned,,,,,9,anki_800:1766527460732
+brokerage,"중개, 중개업소",noun,800,D,,unverified,ocr_exact,1-10(2) p34,n (width),candidates_unaligned,,,,,9,anki_800:1766527460733
+business management,경영(학),phrase,800,E,,unverified,ocr_exact,1-10(2) p34,n (badge),no_sense_record,,,,,9,anki_800:1766527460734
+business practice,사업 관행,phrase,800,C,"the usual procedure followed in business, or a particular business.",unverified,ocr_exact,1-10(2) p34,phr (badge),single_source_only_sense,kaikki,,kaikki:business practice:noun:0:7650:s0,,9,anki_800:1766527460735
+collapse,붕괴,noun,800,C,The act of collapsing.,verified,ocr_variant_ocr,1-10(2) p35,,single_source_korean_anchor,kaikki,,kaikki:collapse:noun:0:1774:s0,붕괴,9,anki_800:1766527460736
+cope with,~에 대처하다,phrase,800,C,To come to terms with; to overcome any difficulties presented by.,unverified,ocr_variant_ocr,1-10(2) p35,,single_source_only_sense,kaikki,,kaikki:cope with:verb:0:7450:s0,,9,anki_800:1766527460737
+cost-effective,비용 효율적인,adjective,800,B,productive relative to the cost,unverified,ocr_exact,1-10(2) p35,,monosemous_pair,oewn,oewn-cost--effective__5.00.00.efficient.00,kaikki:cost-effective:adj:0:7112:s0,,9,anki_800:1766527460738
+descending,"내려가는, 하향의",adjective,800,D,,unverified,ocr_exact,1-10(2) p35,adj (badge),candidates_unaligned,,,,,9,anki_800:1766527460739
+dominate,"지배하다, 우위를 차지하다",verb,800,D,,unverified,ocr_exact,1-10(2) p35,,candidates_unaligned,,,,,9,anki_800:1766527460740
+downturn,(경기) 침체,noun,800,B,a worsening of business or economic activity,unverified,ocr_exact,1-10(2) p35,,monosemous_pair,oewn,oewn-downturn__1.04.00..,kaikki:downturn:noun:0:7210:s0,,9,anki_800:1766527460741
+entail,"~을 수반하다, ~을 유발하다",verb,800,D,,unverified,ocr_exact,1-10(2) p35,,candidates_unaligned,,,,,9,anki_800:1766527460742
+exchange rate,환율,phrase,800,B,the charge for exchanging currency of one country for currency of another,verified,ocr_exact,1-10(2) p35,phr (badge),double_korean_anchor,oewn,oewn-exchange_rate__1.21.00..,kaikki:exchange rate:noun:0:7162:s0,환율,9,anki_800:1766527460743
+flourish,"번창하다, 융성하다",verb,800,D,,unverified,ocr_prefix,1-10(2) p35,v (badge),candidates_unaligned,,,,,9,anki_800:1766527460744
+for large purchases,대량 구매에 대해서,phrase,800,E,,unverified,ocr_exact,1-10(2) p35,,no_sense_record,,,,,9,anki_800:1766527460745
+for the benefit of,~의 이익을 위해,phrase,800,E,,unverified,ocr_prefix,1-10(2) p35,,no_sense_record,,,,,9,anki_800:1766527460746
+foremost,"선두의, 으뜸가는",adjective,800,D,,unverified,ocr_exact,1-10(2) p35,n (width),candidates_unaligned,,,,,9,anki_800:1766527460747
+forerunner,선구자,noun,800,D,,unverified,ocr_similar_loose,1-10(2) p35,n (width),candidates_unaligned,,,,,9,anki_800:1766527460748
+from around the globe,전 세계에서,phrase,800,E,,unverified,ocr_exact,1-10(2) p35,,no_sense_record,,,,,9,anki_800:1766527460749
+infrastructure,"사회 기반 시설, 경제 기반 시설",noun,800,D,,unverified,ocr_prefix,1-10(2) p35,n (width),candidates_unaligned,,,,,9,anki_800:1766527460750
+marketable,시장성이 높은,adjective,800,D,,unverified,ocr_exact,1-10(2) p35,adj (badge),candidates_unaligned,,,,,9,anki_800:1766527460751
+momentary,"순간적인, 잠깐의",adjective,800,D,,unverified,ocr_exact,1-10(2) p35,adj (badge),proposed_pair_needs_review,,,,,9,anki_800:1766527460752
+multinational corporation,다국적 기업,phrase,800,E,,unverified,ocr_similar,1-10(2) p35,phr (badge),no_sense_record,,,,,9,anki_800:1766527460753
+multi-regional,다지역의,adjective,800,E,,unverified,ocr_exact,1-10(2) p35,adj (badge),no_sense_record,,,,,9,anki_800:1766527460754
+nationality,국적,noun,800,C,"Legal membership of a particular nation or state, by origin, birth, naturalization, ownership, allegiance or otherwise.",verified,ocr_exact,1-10(2) p35,n (badge),single_source_korean_anchor,kaikki,,kaikki:nationality:noun:0:536:s0,국적,9,anki_800:1766527460755
+net income,"순수입, 실수입",phrase,800,D,,unverified,ocr_exact,1-10(2) p35,phr (badge),candidates_unaligned,,,,,9,anki_800:1766527460756
+penalize,벌하다,verb,800,D,,unverified,ocr_exact,1-10(2) p35,v (badge),proposed_pair_needs_review,,,,,9,anki_800:1766527460757
+put forth,"~을 내밀다, 내뿜다",phrase,800,D,,unverified,ocr_exact,1-10(2) p35,phr (badge),candidates_unaligned,,,,,9,anki_800:1766527460758
+ratio,비율,noun,800,D,,unverified,ocr_similar,1-10(2) p35,,proposed_pair_needs_review,,,,,9,anki_800:1766527460759
+set up,"~을 세우다, 시작하다",phrase,800,D,,unverified,ocr_variant_ocr,1-10(2) p35,,candidates_unaligned,,,,,9,anki_800:1766527460760
+skyrocket,(가격 등이) 치솟다,verb,800,D,,unverified,ocr_similar,1-10(2) p35,v (badge),candidates_unaligned,,,,,9,anki_800:1766527460761
+so far,지금까지,phrase,800,C,Until now; previously; yet.,verified,image_confirmed,1-10(2) p35,,single_source_korean_anchor,kaikki,,kaikki:so far:adv:0:2201:s0,지금까지,9,anki_800:1766527460762
+surge,(물가가) 급등하다,verb,800,D,,unverified,ocr_similar_loose,1-10(2) p35,v (badge),candidates_unaligned,,,,,9,anki_800:1766527460763
+synergy,상승효과,noun,800,C,"Benefits resulting from combining different groups, people, objects or processes.",verified,ocr_exact,1-10(2) p35,n (width),single_source_korean_anchor,kaikki,,kaikki:synergy:noun:0:1128:s3,상승효과,9,anki_800:1766527460764
+synthesis,"종합, 통합",noun,800,B,the combination of ideas into a complex whole,verified,ocr_exact,1-10(2) p35,n (badge),double_korean_anchor,oewn,oewn-synthesis__1.09.00..,kaikki:synthesis:noun:0:1762:s0,종합;통합,9,anki_800:1766527460765
+tactics,전략,noun,800,D,,unverified,ocr_exact,1-10(2) p35,n (badge),proposed_pair_needs_review,,,,,9,anki_800:1766527460766
+unemployment,실업,noun,800,C,The state of having no job; joblessness.,verified,ocr_prefix,1-10(2) p35,,single_source_korean_anchor,kaikki,,kaikki:unemployment:noun:0:125:s0,실업,9,anki_800:1766527460767
+variable,"변하기 쉬운, 변덕스러운",adjective,800,D,,unverified,ocr_contains,1-10(2) p35,adj (badge),candidates_unaligned,,,,,9,anki_800:1766527460768
+vicious cycle,악순환,phrase,800,C,"A situation in which the response to one problem creates a chain of problems, each making it more difficult to solve the original one.",verified,ocr_contains,1-10(2) p35,phr (badge),single_source_korean_anchor,kaikki,,kaikki:vicious circle:noun:0:8666:s0,악순환,9,anki_800:1766527460769
+without a doubt,의심할 바 없이,phrase,800,C,certainly; doubtlessly; unquestionably; indisputably; doubtless; surely; no doubt; without any doubt.,unverified,ocr_exact,1-10(2) p35,phr (badge),single_source_only_sense,kaikki,,kaikki:without a doubt:prep_phrase:0:7258:s0,,9,anki_800:1766527460770
+billing address,청구서 주소,phrase,900,E,,unverified,ocr_exact,1-10(2) p36,,no_sense_record,,,,,9,anki_900:1766527462448
+government grant,정부 보조금,phrase,900,E,,unverified,ocr_exact,1-10(2) p36,,no_sense_record,,,,,9,anki_900:1766527462449
+market value,"시가, 시세",phrase,900,D,,unverified,ocr_exact,1-10(2) p36,,proposed_pair_needs_review,,,,,9,anki_900:1766527462450
+pull down,"~을 끌어내리다, ~을 하락시키다",phrase,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462451
+stationary,"움직이지 않는, 정지된",adjective,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462452
+abate,"누그러지다, 약해지다, 감소하다",verb,900,D,,unverified,ocr_contains,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462453
+cease,"중지하다, 그치다",verb,900,D,,unverified,ocr_exact,1-10(2) p36,,proposed_pair_needs_review,,,,,9,anki_900:1766527462454
+conspicuously,"눈에 띄게, 두드러지게",adverb,900,D,,unverified,ocr_exact,1-10(2) p36,n (width),candidates_unaligned,,,,,9,anki_900:1766527462455
+deteriorate,"악화되다, 나빠지다",verb,900,B,grow progressively worse,verified,ocr_exact,1-10(2) p36,,double_korean_anchor,oewn,oewn-deteriorate__2.29.00..,kaikki:deteriorate:verb:0:3345:s1,악화되다,9,anki_900:1766527462456
+implicitly,"암암리에, 절대적으로",adverb,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462457
+leisurely,"느긋한, 여유있는, 천천히",adverb,900,B,in an unhurried way or at one's convenience,unverified,ocr_exact,1-10(2) p36,,monosemous_pair,oewn,oewn-leisurely__4.02.00..,kaikki:leisurely:adv:2:3494:s0,,9,anki_900:1766527462458
+menace,위협하다,verb,900,D,,unverified,ocr_exact,1-10(2) p36,,proposed_pair_needs_review,,,,,9,anki_900:1766527462459
+perceptible,"상당한 정도의, 인지할 수 있는",adjective,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462460
+placement,"놓기, 배치, 취업 알선",noun,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462461
+remark,"주의하다, 말하다",verb,900,D,,unverified,ocr_exact,1-10(2) p36,,proposed_pair_needs_review,,,,,9,anki_900:1766527462462
+retrieval,"복구, 만회",noun,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462463
+slowdown,경기 후퇴,noun,900,B,the act of slowing down or falling behind,unverified,ocr_exact,1-10(2) p36,,monosemous_pair,oewn,oewn-slowdown__1.04.00..,kaikki:slowdown:noun:0:7114:s0,,9,anki_900:1766527462464
+solitary,"혼자의, 외로운",adjective,900,D,,unverified,ocr_exact,1-10(2) p36,adj (badge),proposed_pair_needs_review,,,,,9,anki_900:1766527462465
+ailing,"병든, 괴로워하는",adjective,900,B,somewhat ill or prone to illness,unverified,ocr_similar,1-10(2) p36,,monosemous_pair,oewn,oewn-ailing__5.00.00.ill.01,kaikki:ailing:adj:0:6487:s0,,9,anki_900:1766527462466
+financial statement,재무제표,phrase,900,C,"A formal record of all relevant financial information of a business, person, or other entity, presented in a structured and standardized manner to allow easy understanding.",verified,ocr_exact,1-10(2) p36,,single_source_korean_anchor,kaikki,,kaikki:financial statement:noun:0:7469:s0,재무제표,9,anki_900:1766527462467
+have a monopoly on,~의 독점권을 갖다,phrase,900,E,,unverified,ocr_exact,1-10(2) p36,,no_sense_record,,,,,9,anki_900:1766527462468
+in demand,수요가 있는,phrase,900,D,,unverified,ocr_exact,1-10(2) p36,phr (badge),candidates_unaligned,,,,,9,anki_900:1766527462469
+multilateral,다국간의,adjective,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462470
+nontransferable,양도할 수 없는,adjective,900,B,incapable of being transferred,unverified,ocr_exact,1-10(2) p36,adj (badge),monosemous_pair,oewn,oewn-nontransferable__5.00.00.inalienable.00,kaikki:nontransferable:adj:0:7264:s0,,9,anki_900:1766527462471
+parent company,모회사,phrase,900,C,A company that owns or controls one or more other companies.,unverified,ocr_exact,1-10(2) p36,,single_source_only_sense,kaikki,,kaikki:parent company:noun:0:6944:s0,,9,anki_900:1766527462472
+privatization,민영화,noun,900,C,The transfer of a company or organization from government to private ownership and control.,verified,ocr_exact,1-10(2) p36,,single_source_korean_anchor,kaikki,,kaikki:privatization:noun:0:6271:s0,민영화,9,anki_900:1766527462473
+rebound,"회복, 다시 일어서다",verb,900,D,,unverified,ocr_similar,1-10(2) p36,phr (width),candidates_unaligned,,,,,9,anki_900:1766527462474
+runner-up,"2위의 경기자, 차점자",noun,900,C,"The person who finishes second, or in any position after the first.",verified,ocr_similar,1-10(2) p36,phr (width),single_source_korean_anchor,kaikki,,kaikki:runner-up:noun:0:7004:s0,차점자,9,anki_900:1766527462475
+secondary effect,부차적 영향,phrase,900,E,,unverified,ocr_exact,1-10(2) p36,,no_sense_record,,,,,9,anki_900:1766527462476
+sluggish,불경기의,adjective,900,D,,unverified,ocr_exact,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462477
+stagnation,"침체, 불경기",noun,900,C,"The state of lacking activity, change or progress, or excitement in an unhealthy manner; inactivity, staleness; (countable) an instance of this.",verified,ocr_exact,1-10(2) p36,,single_source_korean_anchor,kaikki,,kaikki:stagnation:noun:0:6538:s1,침체,9,anki_900:1766527462478
+volatile,(가격 등이) 심하게 변동하는,adjective,900,D,,unverified,ocr_similar,1-10(2) p36,,candidates_unaligned,,,,,9,anki_900:1766527462479

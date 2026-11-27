@@ -10,7 +10,7 @@ affair,affairs during,affair during,noun+preposition,5,oanc_candidate_unreviewed
 aggression,aggression against,aggression against,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:aggression:against:noun+preposition
 annoy,annoyed by,annoy by,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:annoy:by:verb+preposition
 annoy,annoyed at,annoy at,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:annoy:at:verb+preposition
-apologize,apologizes for,apologize for,verb+preposition,90,oanc_candidate_unreviewed,COLLIGATION:apologize:for:verb+preposition
+apologize,apologized for,apologize for,verb+preposition,90,oanc_candidate_unreviewed,COLLIGATION:apologize:for:verb+preposition
 apologize,apologize to,apologize to,verb+to,35,oanc_candidate_unreviewed,COLLIGATION:apologize:to:verb+to
 applaud,applauded for,applaud for,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:applaud:for:verb+preposition
 argument,argument that,argument that,noun+preposition,100,oanc_candidate_unreviewed,COLLIGATION:argument:that:noun+preposition
@@ -50,8 +50,8 @@ cause,cause of,cause of,noun+preposition,488,oanc_candidate_unreviewed,COLLIGATI
 cause,cause for,cause for,noun+preposition,60,oanc_candidate_unreviewed,COLLIGATION:cause:for:noun+preposition
 cause,cause for,cause for,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:cause:for:verb+preposition
 cause,caused in,cause in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:cause:in:verb+preposition
-cause,cause sectoring,cause VBG,verb+VBG,10,oanc_candidate_unreviewed,COLLIGATION:cause:VBG:verb+VBG
-cause,caused to express,cause to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:cause:to:verb+to-infinitive
+cause,caused swelling,cause VBG,verb+VBG,10,oanc_candidate_unreviewed,COLLIGATION:cause:VBG:verb+VBG
+cause,causing to appear,cause to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:cause:to:verb+to-infinitive
 cause,cause with,cause with,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:cause:with:noun+preposition
 cause,causes in,cause in,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:cause:in:noun+preposition
 cause,caused to,cause to,verb+to,7,oanc_candidate_unreviewed,COLLIGATION:cause:to:verb+to
@@ -59,12 +59,12 @@ cause,cause to,cause to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:cause:to
 cause,cause that,cause that,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:cause:that:noun+preposition
 censure,censure of,censure of,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:censure:of:noun+preposition
 certain,certain that,certain that,adjective+preposition,73,oanc_candidate_unreviewed,COLLIGATION:certain:that:adjective+preposition
-certain,certain to look,certain to + infinitive,adjective+to-infinitive,33,oanc_candidate_unreviewed,COLLIGATION:certain:to:adjective+to-infinitive
+certain,certain to see,certain to + infinitive,adjective+to-infinitive,33,oanc_candidate_unreviewed,COLLIGATION:certain:to:adjective+to-infinitive
 certain,certain of,certain of,adjective+preposition,13,oanc_candidate_unreviewed,COLLIGATION:certain:of:adjective+preposition
 certain,certain whether,certain whether,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:certain:whether:adjective+preposition
 certain,certain about,certain about,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:certain:about:adjective+preposition
 combine,combined with,combine with,verb+preposition,263,oanc_candidate_unreviewed,COLLIGATION:combine:with:verb+preposition
-combine,combine to form,combine to + infinitive,verb+to-infinitive,31,oanc_candidate_unreviewed,COLLIGATION:combine:to:verb+to-infinitive
+combine,combined to mean,combine to + infinitive,verb+to-infinitive,31,oanc_candidate_unreviewed,COLLIGATION:combine:to:verb+to-infinitive
 combine,combined in,combine in,verb+preposition,27,oanc_candidate_unreviewed,COLLIGATION:combine:in:verb+preposition
 combine,combined into,combine into,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:combine:into:verb+preposition
 combine,combined for,combine for,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:combine:for:verb+preposition
@@ -120,7 +120,7 @@ confident,confident in,confident in,adjective+preposition,5,oanc_candidate_unrev
 critical,critical for,critical for,adjective+preposition,108,oanc_candidate_unreviewed,COLLIGATION:critical:for:adjective+preposition
 critical,critical to,critical to,adjective+to,86,oanc_candidate_unreviewed,COLLIGATION:critical:to:adjective+to
 critical,critical of,critical of,adjective+preposition,50,oanc_candidate_unreviewed,COLLIGATION:critical:of:adjective+preposition
-critical,critical to understand,critical to + infinitive,adjective+to-infinitive,49,oanc_candidate_unreviewed,COLLIGATION:critical:to:adjective+to-infinitive
+critical,critical to identify,critical to + infinitive,adjective+to-infinitive,49,oanc_candidate_unreviewed,COLLIGATION:critical:to:adjective+to-infinitive
 critical,critical in,critical in,adjective+preposition,34,oanc_candidate_unreviewed,COLLIGATION:critical:in:adjective+preposition
 critical,critical that,critical that,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:critical:that:adjective+preposition
 deal,deals with,deal with,verb+preposition,549,oanc_candidate_unreviewed,COLLIGATION:deal:with:verb+preposition
@@ -130,7 +130,7 @@ deal,deal to,deal to,noun+to,42,oanc_candidate_unreviewed,COLLIGATION:deal:to:no
 deal,deals in,deal in,noun+preposition,30,oanc_candidate_unreviewed,COLLIGATION:deal:in:noun+preposition
 deal,deal about,deal about,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:deal:about:noun+preposition
 deal,deal as,deal as,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:deal:as:noun+preposition
-deal,dealing in,deal in,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:deal:in:verb+preposition
+deal,deal in,deal in,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:deal:in:verb+preposition
 deal,deal between,deal between,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:deal:between:noun+preposition
 deal,deal on,deal on,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:deal:on:noun+preposition
 deal,deal for,deal for,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:deal:for:noun+preposition
@@ -159,7 +159,7 @@ evaluation,evaluation to,evaluation to,noun+to,9,oanc_candidate_unreviewed,COLLI
 evaluation,evaluation for,evaluation for,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:evaluation:for:noun+preposition
 evaluation,evaluation at,evaluation at,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:evaluation:at:noun+preposition
 exterior,exterior of,exterior of,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:exterior:of:noun+preposition
-facilitate,facilitate decisionmaking,facilitate VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:facilitate:VBG:verb+VBG
+facilitate,facilitate learning,facilitate VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:facilitate:VBG:verb+VBG
 follow-up,follow-up to,follow-up to,adjective+to,23,oanc_candidate_unreviewed,COLLIGATION:follow-up:to:adjective+to
 follow-up,follow-up of,follow-up of,adjective+preposition,11,oanc_candidate_unreviewed,COLLIGATION:follow-up:of:adjective+preposition
 follow-up,follow-up on,follow-up on,adjective+preposition,11,oanc_candidate_unreviewed,COLLIGATION:follow-up:on:adjective+preposition
@@ -208,7 +208,7 @@ observe,observed for,observe for,verb+preposition,179,oanc_candidate_unreviewed,
 observe,observed with,observe with,verb+preposition,114,oanc_candidate_unreviewed,COLLIGATION:observe:with:verb+preposition
 observe,observed at,observe at,verb+preposition,77,oanc_candidate_unreviewed,COLLIGATION:observe:at:verb+preposition
 observe,observed between,observe between,verb+preposition,69,oanc_candidate_unreviewed,COLLIGATION:observe:between:verb+preposition
-observe,observed to be,observe to + infinitive,verb+to-infinitive,59,oanc_candidate_unreviewed,COLLIGATION:observe:to:verb+to-infinitive
+observe,observed to give,observe to + infinitive,verb+to-infinitive,59,oanc_candidate_unreviewed,COLLIGATION:observe:to:verb+to-infinitive
 observe,observed by,observe by,verb+preposition,53,oanc_candidate_unreviewed,COLLIGATION:observe:by:verb+preposition
 observe,observed after,observe after,verb+preposition,46,oanc_candidate_unreviewed,COLLIGATION:observe:after:verb+preposition
 observe,observed following,observe VBG,verb+VBG,45,oanc_candidate_unreviewed,COLLIGATION:observe:VBG:verb+VBG
@@ -251,7 +251,7 @@ questionnaire,questionnaires for,questionnaire for,noun+preposition,8,oanc_candi
 questionnaire,questionnaires on,questionnaire on,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:questionnaire:on:noun+preposition
 questionnaire,questionnaires in,questionnaire in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:questionnaire:in:noun+preposition
 recall,recall that,recall that,verb+preposition,86,oanc_candidate_unreviewed,COLLIGATION:recall:that:verb+preposition
-recall,recall having,recall VBG,verb+VBG,46,oanc_candidate_unreviewed,COLLIGATION:recall:VBG:verb+VBG
+recall,recalled instructing,recall VBG,verb+VBG,46,oanc_candidate_unreviewed,COLLIGATION:recall:VBG:verb+VBG
 recall,recall of,recall of,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:recall:of:noun+preposition
 recall,recalled from,recall from,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:recall:from:verb+preposition
 recall,recall with,recall with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:recall:with:verb+preposition
@@ -279,26 +279,26 @@ relationship,relationship on,relationship on,noun+preposition,6,oanc_candidate_u
 replace,replaced by,replace by,verb+preposition,201,oanc_candidate_unreviewed,COLLIGATION:replace:by:verb+preposition
 replace,replaced with,replace with,verb+preposition,99,oanc_candidate_unreviewed,COLLIGATION:replace:with:verb+preposition
 replace,replaced in,replace in,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:replace:in:verb+preposition
-replace,replaced according,replace VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:replace:VBG:verb+VBG
+replace,replace depreciating,replace VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:replace:VBG:verb+VBG
 respond,responded to,respond to,verb+to,671,oanc_candidate_unreviewed,COLLIGATION:respond:to:verb+to
 respond,responded by,respond by,verb+preposition,67,oanc_candidate_unreviewed,COLLIGATION:respond:by:verb+preposition
 respond,responded with,respond with,verb+preposition,61,oanc_candidate_unreviewed,COLLIGATION:respond:with:verb+preposition
 respond,responded that,respond that,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:respond:that:verb+preposition
 respond,responds in,respond in,verb+preposition,30,oanc_candidate_unreviewed,COLLIGATION:respond:in:verb+preposition
-respond,respond to emerging,respond to + infinitive,verb+to-infinitive,26,oanc_candidate_unreviewed,COLLIGATION:respond:to:verb+to-infinitive
+respond,respond to changing,respond to + infinitive,verb+to-infinitive,26,oanc_candidate_unreviewed,COLLIGATION:respond:to:verb+to-infinitive
 respond,respond to,respond to,noun+to,8,oanc_candidate_unreviewed,COLLIGATION:respond:to:noun+to
-respond,responding on,respond on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:respond:on:verb+preposition
+respond,responded on,respond on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:respond:on:verb+preposition
 respond,responding from,respond from,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:respond:from:verb+preposition
 retrospective,retrospective of,retrospective of,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:retrospective:of:noun+preposition
 retrospective,retrospective at,retrospective at,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:retrospective:at:noun+preposition
 retrospective,retrospective in,retrospective in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:retrospective:in:noun+preposition
-return,return to,return to,verb+to,551,oanc_candidate_unreviewed,COLLIGATION:return:to:verb+to
+return,returned to,return to,verb+to,551,oanc_candidate_unreviewed,COLLIGATION:return:to:verb+to
 return,return to,return to,noun+to,200,oanc_candidate_unreviewed,COLLIGATION:return:to:noun+to
 return,return of,return of,noun+preposition,107,oanc_candidate_unreviewed,COLLIGATION:return:of:noun+preposition
 return,return for,return for,noun+preposition,78,oanc_candidate_unreviewed,COLLIGATION:return:for:noun+preposition
 return,return on,return on,noun+preposition,62,oanc_candidate_unreviewed,COLLIGATION:return:on:noun+preposition
 return,returning from,return from,verb+preposition,55,oanc_candidate_unreviewed,COLLIGATION:return:from:verb+preposition
-return,returning to favor,return to + infinitive,verb+to-infinitive,49,oanc_candidate_unreviewed,COLLIGATION:return:to:verb+to-infinitive
+return,returned to being,return to + infinitive,verb+to-infinitive,49,oanc_candidate_unreviewed,COLLIGATION:return:to:verb+to-infinitive
 return,returned in,return in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:return:in:verb+preposition
 return,return from,return from,noun+preposition,18,oanc_candidate_unreviewed,COLLIGATION:return:from:noun+preposition
 return,return for,return for,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:return:for:verb+preposition
@@ -368,7 +368,7 @@ visit,visit by,visit by,noun+preposition,25,oanc_candidate_unreviewed,COLLIGATIO
 visit,visit in,visit in,noun+preposition,24,oanc_candidate_unreviewed,COLLIGATION:visit:in:noun+preposition
 visit,visits from,visit from,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:visit:from:noun+preposition
 visit,visit of,visit of,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:visit:of:noun+preposition
-visit,visit in,visit in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:visit:in:verb+preposition
+visit,visited in,visit in,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:visit:in:verb+preposition
 visit,visit as,visit as,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:visit:as:noun+preposition
 visit,visited on,visit on,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:visit:on:verb+preposition
 visit,visiting for,visit for,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:visit:for:verb+preposition
@@ -376,10 +376,10 @@ visit,visit with,visit with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGA
 visit,visited during,visit during,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:visit:during:verb+preposition
 visit,visited from,visit from,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:visit:from:verb+preposition
 visit,visits at,visit at,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:visit:at:noun+preposition
-visit,visited as,visit as,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:visit:as:verb+preposition
+visit,visit as,visit as,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:visit:as:verb+preposition
 visit,visited upon,visit upon,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:visit:upon:verb+preposition
 visit,visits into,visit into,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:visit:into:noun+preposition
-willing,willing to look,willing to + infinitive,adjective+to-infinitive,484,oanc_candidate_unreviewed,COLLIGATION:willing:to:adjective+to-infinitive
+willing,willing to spend,willing to + infinitive,adjective+to-infinitive,484,oanc_candidate_unreviewed,COLLIGATION:willing:to:adjective+to-infinitive
 willing,willing to,willing to,adjective+to,19,oanc_candidate_unreviewed,COLLIGATION:willing:to:adjective+to
 willing,willing than,willing than,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:willing:than:adjective+preposition
 wonder,wondered if,wonder if,verb+preposition,146,oanc_candidate_unreviewed,COLLIGATION:wonder:if:verb+preposition

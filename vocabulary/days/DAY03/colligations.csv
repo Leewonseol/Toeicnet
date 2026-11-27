@@ -2,7 +2,7 @@ headword,colligation,lemma,combination,oanc_frequency,status,oanc_record
 acquaint,acquainted with,acquaint with,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:acquaint:with:verb+preposition
 adapt,adapted to,adapt to,verb+to,88,oanc_candidate_unreviewed,COLLIGATION:adapt:to:verb+to
 adapt,adapted from,adapt from,verb+preposition,41,oanc_candidate_unreviewed,COLLIGATION:adapt:from:verb+preposition
-adapt,adapted to mirror,adapt to + infinitive,verb+to-infinitive,16,oanc_candidate_unreviewed,COLLIGATION:adapt:to:verb+to-infinitive
+adapt,adapted to do,adapt to + infinitive,verb+to-infinitive,16,oanc_candidate_unreviewed,COLLIGATION:adapt:to:verb+to-infinitive
 adapt,adapted for,adapt for,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:adapt:for:verb+preposition
 adapt,adapted by,adapt by,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:adapt:by:verb+preposition
 administer,administered by,administer by,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:administer:by:verb+preposition
@@ -10,7 +10,7 @@ administer,administered to,administer to,verb+to,29,oanc_candidate_unreviewed,CO
 administer,administered in,administer in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:administer:in:verb+preposition
 administer,administered at,administer at,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:administer:at:verb+preposition
 administer,administered as,administer as,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:administer:as:verb+preposition
-administer,administered using,administer VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:administer:VBG:verb+VBG
+administer,administered starting,administer VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:administer:VBG:verb+VBG
 administer,administered with,administer with,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:administer:with:verb+preposition
 assignment,assignment of,assignment of,noun+preposition,74,oanc_candidate_unreviewed,COLLIGATION:assignment:of:noun+preposition
 assignment,assignment to,assignment to,noun+to,25,oanc_candidate_unreviewed,COLLIGATION:assignment:to:noun+to
@@ -51,7 +51,7 @@ colleague,colleagues that,colleague that,noun+preposition,8,oanc_candidate_unrev
 colleague,colleagues as,colleague as,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:colleague:as:noun+preposition
 colleague,colleagues by,colleague by,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:colleague:by:noun+preposition
 colleague,colleagues for,colleague for,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:colleague:for:noun+preposition
-concentrate,concentrated on,concentrate on,verb+preposition,145,oanc_candidate_unreviewed,COLLIGATION:concentrate:on:verb+preposition
+concentrate,concentrating on,concentrate on,verb+preposition,145,oanc_candidate_unreviewed,COLLIGATION:concentrate:on:verb+preposition
 concentrate,concentrated in,concentrate in,verb+preposition,71,oanc_candidate_unreviewed,COLLIGATION:concentrate:in:verb+preposition
 concentrate,concentrated by,concentrate by,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:concentrate:by:verb+preposition
 concentrate,concentrated at,concentrate at,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:concentrate:at:verb+preposition
@@ -116,10 +116,10 @@ draw,drawn in,draw in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:
 draw,drawn by,draw by,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:draw:by:verb+preposition
 draw,drawn at,draw at,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:draw:at:verb+preposition
 draw,drawn to identify,draw to + infinitive,verb+to-infinitive,12,oanc_candidate_unreviewed,COLLIGATION:draw:to:verb+to-infinitive
-draw,drawn for,draw for,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:draw:for:verb+preposition
+draw,draws for,draw for,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:draw:for:verb+preposition
 draw,drawn between,draw between,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:draw:between:verb+preposition
 draw,draw out,draw out,verb+particle,8,oanc_candidate_unreviewed,COLLIGATION:draw:out:verb+particle
-draw,draw out,draw out,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:draw:out:verb+preposition
+draw,draws out,draw out,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:draw:out:verb+preposition
 draw,drawn regarding,draw VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:draw:VBG:verb+VBG
 draw,drawn with,draw with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:draw:with:verb+preposition
 draw,draw down,draw down,verb+particle,6,oanc_candidate_unreviewed,COLLIGATION:draw:down:verb+particle
@@ -159,12 +159,12 @@ file,filed on,file on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:f
 hand,hand of,hand of,noun+preposition,179,oanc_candidate_unreviewed,COLLIGATION:hand:of:noun+preposition
 hand,hands on,hand on,noun+preposition,85,oanc_candidate_unreviewed,COLLIGATION:hand:on:noun+preposition
 hand,hand in,hand in,noun+preposition,79,oanc_candidate_unreviewed,COLLIGATION:hand:in:noun+preposition
-hand,handed over,hand over,verb+preposition,46,oanc_candidate_unreviewed,COLLIGATION:hand:over:verb+preposition
+hand,hand over,hand over,verb+preposition,46,oanc_candidate_unreviewed,COLLIGATION:hand:over:verb+preposition
 hand,hand to,hand to,noun+to,42,oanc_candidate_unreviewed,COLLIGATION:hand:to:noun+to
 hand,hand at,hand at,noun+preposition,29,oanc_candidate_unreviewed,COLLIGATION:hand:at:noun+preposition
 hand,hands with,hand with,noun+preposition,26,oanc_candidate_unreviewed,COLLIGATION:hand:with:noun+preposition
 hand,handed out,hand out,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:hand:out:verb+preposition
-hand,hand out,hand out,verb+particle,20,oanc_candidate_unreviewed,COLLIGATION:hand:out:verb+particle
+hand,handing out,hand out,verb+particle,20,oanc_candidate_unreviewed,COLLIGATION:hand:out:verb+particle
 hand,hand over,hand over,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:hand:over:noun+preposition
 hand,hand out,hand out,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:hand:out:noun+preposition
 hand,handed to,hand to,verb+to,9,oanc_candidate_unreviewed,COLLIGATION:hand:to:verb+to
@@ -181,7 +181,7 @@ headquarters,headquarters to,headquarters to,noun+to,9,oanc_candidate_unreviewed
 headquarters,headquarters for,headquarters for,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:headquarters:for:noun+preposition
 headquarters,headquarters that,headquarters that,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:headquarters:that:noun+preposition
 headquarters,headquarters at,headquarters at,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:headquarters:at:noun+preposition
-instruct,instructed to record,instruct to + infinitive,verb+to-infinitive,29,oanc_candidate_unreviewed,COLLIGATION:instruct:to:verb+to-infinitive
+instruct,instructed to stop,instruct to + infinitive,verb+to-infinitive,29,oanc_candidate_unreviewed,COLLIGATION:instruct:to:verb+to-infinitive
 instruct,instructed by,instruct by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:instruct:by:verb+preposition
 instruct,instructed to,instruct to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:instruct:to:verb+to
 involved,involved in,involved in,adjective+preposition,9,oanc_candidate_unreviewed,COLLIGATION:involved:in:adjective+preposition
@@ -200,10 +200,10 @@ manage,managed in,manage in,verb+preposition,5,oanc_candidate_unreviewed,COLLIGA
 monitor,monitored by,monitor by,verb+preposition,59,oanc_candidate_unreviewed,COLLIGATION:monitor:by:verb+preposition
 monitor,monitored for,monitor for,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:monitor:for:verb+preposition
 monitor,monitored at,monitor at,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:monitor:at:verb+preposition
-monitor,monitored following,monitor VBG,verb+VBG,13,oanc_candidate_unreviewed,COLLIGATION:monitor:VBG:verb+VBG
+monitor,monitoring using,monitor VBG,verb+VBG,13,oanc_candidate_unreviewed,COLLIGATION:monitor:VBG:verb+VBG
 monitor,monitored in,monitor in,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:monitor:in:verb+preposition
-monitor,monitoring to reduce,monitor to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:monitor:to:verb+to-infinitive
-monitor,monitors with,monitor with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:monitor:with:verb+preposition
+monitor,monitored with,monitor with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:monitor:with:verb+preposition
+monitor,monitors to prove,monitor to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:monitor:to:verb+to-infinitive
 notify,notified of,notify of,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:notify:of:verb+preposition
 offering,offerings to,offering to,noun+to,23,oanc_candidate_unreviewed,COLLIGATION:offering:to:noun+to
 offering,offerings of,offering of,noun+preposition,12,oanc_candidate_unreviewed,COLLIGATION:offering:of:noun+preposition
@@ -228,7 +228,7 @@ perform,performed with,perform with,verb+preposition,201,oanc_candidate_unreview
 perform,performed by,perform by,verb+preposition,195,oanc_candidate_unreviewed,COLLIGATION:perform:by:verb+preposition
 perform,performed as,perform as,verb+preposition,136,oanc_candidate_unreviewed,COLLIGATION:perform:as:verb+preposition
 perform,performed at,perform at,verb+preposition,116,oanc_candidate_unreviewed,COLLIGATION:perform:at:verb+preposition
-perform,performed to honor,perform to + infinitive,verb+to-infinitive,98,oanc_candidate_unreviewed,COLLIGATION:perform:to:verb+to-infinitive
+perform,performed to collect,perform to + infinitive,verb+to-infinitive,98,oanc_candidate_unreviewed,COLLIGATION:perform:to:verb+to-infinitive
 perform,performed for,perform for,verb+preposition,63,oanc_candidate_unreviewed,COLLIGATION:perform:for:verb+preposition
 perform,performed under,perform under,verb+preposition,22,oanc_candidate_unreviewed,COLLIGATION:perform:under:verb+preposition
 perform,performed after,perform after,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:perform:after:verb+preposition
@@ -269,7 +269,7 @@ reminder,reminder that,reminder that,noun+preposition,36,oanc_candidate_unreview
 reminder,reminder to,reminder to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION:reminder:to:noun+to
 request,request for,request for,noun+preposition,204,oanc_candidate_unreviewed,COLLIGATION:request:for:noun+preposition
 request,request to,request to,noun+to,55,oanc_candidate_unreviewed,COLLIGATION:request:to:noun+to
-request,requested that,request that,verb+preposition,42,oanc_candidate_unreviewed,COLLIGATION:request:that:verb+preposition
+request,requesting that,request that,verb+preposition,42,oanc_candidate_unreviewed,COLLIGATION:request:that:verb+preposition
 request,request from,request from,noun+preposition,35,oanc_candidate_unreviewed,COLLIGATION:request:from:noun+preposition
 request,request of,request of,noun+preposition,35,oanc_candidate_unreviewed,COLLIGATION:request:of:noun+preposition
 request,request that,request that,noun+preposition,34,oanc_candidate_unreviewed,COLLIGATION:request:that:noun+preposition
@@ -299,7 +299,7 @@ sample,samples per,sample per,noun+preposition,11,oanc_candidate_unreviewed,COLL
 sample,sampled at,sample at,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:sample:at:verb+preposition
 sample,sampled for,sample for,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:sample:for:verb+preposition
 sample,samples after,sample after,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:sample:after:noun+preposition
-sample,sampling using,sample VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:sample:VBG:verb+VBG
+sample,sampled using,sample VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:sample:VBG:verb+VBG
 sample,samples before,sample before,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:sample:before:noun+preposition
 sample,sampling to avoid,sample to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:sample:to:verb+to-infinitive
 seal,seal of,seal of,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:seal:of:noun+preposition
@@ -325,14 +325,14 @@ sheet,sheets in,sheet in,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATIO
 sheet,sheet with,sheet with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:sheet:with:noun+preposition
 sincerity,sincerity of,sincerity of,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:sincerity:of:noun+preposition
 strew,strewn with,strew with,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:strew:with:verb+preposition
-strive,strive to make,strive to + infinitive,verb+to-infinitive,82,oanc_candidate_unreviewed,COLLIGATION:strive:to:verb+to-infinitive
+strive,strive to improve,strive to + infinitive,verb+to-infinitive,82,oanc_candidate_unreviewed,COLLIGATION:strive:to:verb+to-infinitive
 strive,strive for,strive for,verb+preposition,32,oanc_candidate_unreviewed,COLLIGATION:strive:for:verb+preposition
 strive,strive to,strive to,verb+to,6,oanc_candidate_unreviewed,COLLIGATION:strive:to:verb+to
 submit,submit to,submit to,verb+to,159,oanc_candidate_unreviewed,COLLIGATION:submit:to:verb+to
 submit,submitted by,submit by,verb+preposition,44,oanc_candidate_unreviewed,COLLIGATION:submit:by:verb+preposition
 submit,submitted for,submit for,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:submit:for:verb+preposition
 submit,submitted in,submit in,verb+preposition,16,oanc_candidate_unreviewed,COLLIGATION:submit:in:verb+preposition
-submit,submit that,submit that,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:submit:that:verb+preposition
+submit,submits that,submit that,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:submit:that:verb+preposition
 submit,submitted as,submit as,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:submit:as:verb+preposition
 submit,submitted to comply,submit to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:submit:to:verb+to-infinitive
 subordinate,subordinates to,subordinate to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION:subordinate:to:noun+to

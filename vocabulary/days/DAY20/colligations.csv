@@ -6,14 +6,14 @@ accounting,accounting of,accounting of,noun+preposition,14,oanc_candidate_unrevi
 activate,activated by,activate by,verb+preposition,129,oanc_candidate_unreviewed,COLLIGATION:activate:by:verb+preposition
 activate,activated in,activate in,verb+preposition,44,oanc_candidate_unreviewed,COLLIGATION:activate:in:verb+preposition
 activate,activated during,activate during,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:activate:during:verb+preposition
-activate,activated to promote,activate to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:activate:to:verb+to-infinitive
+activate,activated to produce,activate to + infinitive,verb+to-infinitive,7,oanc_candidate_unreviewed,COLLIGATION:activate:to:verb+to-infinitive
 activate,activate signaling,activate VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:activate:VBG:verb+VBG
 activate,activated at,activate at,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:activate:at:verb+preposition
 activate,activated with,activate with,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:activate:with:verb+preposition
 addition,addition to,addition to,noun+to,954,oanc_candidate_unreviewed,COLLIGATION:addition:to:noun+to
 addition,addition of,addition of,noun+preposition,504,oanc_candidate_unreviewed,COLLIGATION:addition:of:noun+preposition
 adequate,adequate for,adequate for,adjective+preposition,23,oanc_candidate_unreviewed,COLLIGATION:adequate:for:adjective+preposition
-adequate,adequate to give,adequate to + infinitive,adjective+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:adequate:to:adjective+to-infinitive
+adequate,adequate to describe,adequate to + infinitive,adjective+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:adequate:to:adjective+to-infinitive
 advisor,advisors to,advisor to,noun+to,12,oanc_candidate_unreviewed,COLLIGATION:advisor:to:noun+to
 advisor,advisors for,advisor for,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:advisor:for:noun+preposition
 advisor,advisor on,advisor on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:advisor:on:noun+preposition
@@ -25,7 +25,7 @@ allocate,allocated in,allocate in,verb+preposition,6,oanc_candidate_unreviewed,C
 allocate,allocated to affected,allocate to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:allocate:to:verb+to-infinitive
 amend,amended by,amend by,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:amend:by:verb+preposition
 amend,amended as,amend as,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:amend:as:verb+preposition
-amend,amended to require,amend to + infinitive,verb+to-infinitive,11,oanc_candidate_unreviewed,COLLIGATION:amend:to:verb+to-infinitive
+amend,amended to include,amend to + infinitive,verb+to-infinitive,11,oanc_candidate_unreviewed,COLLIGATION:amend:to:verb+to-infinitive
 amend,amended in,amend in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:amend:in:verb+preposition
 attack,attacks on,attack on,noun+preposition,325,oanc_candidate_unreviewed,COLLIGATION:attack:on:noun+preposition
 attack,attacks in,attack in,noun+preposition,69,oanc_candidate_unreviewed,COLLIGATION:attack:in:noun+preposition
@@ -113,8 +113,8 @@ committee,committee about,committee about,noun+preposition,6,oanc_candidate_unre
 committee,committee as,committee as,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:committee:as:noun+preposition
 compare,compared to,compare to,verb+to,1567,oanc_candidate_unreviewed,COLLIGATION:compare:to:verb+to
 compare,compared with,compare with,verb+preposition,841,oanc_candidate_unreviewed,COLLIGATION:compare:with:verb+preposition
-compare,compared to flow,compare to + infinitive,verb+to-infinitive,70,oanc_candidate_unreviewed,COLLIGATION:compare:to:verb+to-infinitive
-compare,comparing existing,compare VBG,verb+VBG,40,oanc_candidate_unreviewed,COLLIGATION:compare:VBG:verb+VBG
+compare,compared to walking,compare to + infinitive,verb+to-infinitive,70,oanc_candidate_unreviewed,COLLIGATION:compare:to:verb+to-infinitive
+compare,compare missing,compare VBG,verb+VBG,40,oanc_candidate_unreviewed,COLLIGATION:compare:VBG:verb+VBG
 compare,compared in,compare in,verb+preposition,30,oanc_candidate_unreviewed,COLLIGATION:compare:in:verb+preposition
 compare,compared between,compare between,verb+preposition,22,oanc_candidate_unreviewed,COLLIGATION:compare:between:verb+preposition
 compare,compared by,compare by,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:compare:by:verb+preposition
@@ -183,7 +183,7 @@ fund,funds for,fund for,noun+preposition,86,oanc_candidate_unreviewed,COLLIGATIO
 fund,funds from,fund from,noun+preposition,36,oanc_candidate_unreviewed,COLLIGATION:fund:from:noun+preposition
 fund,funds in,fund in,noun+preposition,35,oanc_candidate_unreviewed,COLLIGATION:fund:in:noun+preposition
 fund,funds of,fund of,noun+preposition,27,oanc_candidate_unreviewed,COLLIGATION:fund:of:noun+preposition
-fund,funded for,fund for,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:fund:for:verb+preposition
+fund,funding for,fund for,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:fund:for:verb+preposition
 fund,fund as,fund as,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fund:as:noun+preposition
 fund,funds by,fund by,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fund:by:noun+preposition
 fund,funds into,fund into,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:fund:into:noun+preposition
@@ -191,9 +191,9 @@ fund,funded in,fund in,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:
 fund,funded through,fund through,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:fund:through:verb+preposition
 fund,fund on,fund on,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:fund:on:noun+preposition
 fund,fund at,fund at,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:fund:at:noun+preposition
+fund,funded to change,fund to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:fund:to:verb+to-infinitive
 fund,funded with,fund with,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:fund:with:verb+preposition
 fund,funding to,fund to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:fund:to:verb+to
-fund,funds to exclude,fund to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:fund:to:verb+to-infinitive
 fund,funds with,fund with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:fund:with:noun+preposition
 funding,funding for,funding for,noun+preposition,157,oanc_candidate_unreviewed,COLLIGATION:funding:for:noun+preposition
 funding,funding to,funding to,noun+to,50,oanc_candidate_unreviewed,COLLIGATION:funding:to:noun+to
@@ -204,7 +204,7 @@ funding,funding by,funding by,noun+preposition,10,oanc_candidate_unreviewed,COLL
 funding,funding on,funding on,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:funding:on:noun+preposition
 generate,generated by,generate by,verb+preposition,339,oanc_candidate_unreviewed,COLLIGATION:generate:by:verb+preposition
 generate,generated from,generate from,verb+preposition,129,oanc_candidate_unreviewed,COLLIGATION:generate:from:verb+preposition
-generate,generated mixing,generate VBG,verb+VBG,77,oanc_candidate_unreviewed,COLLIGATION:generate:VBG:verb+VBG
+generate,generated using,generate VBG,verb+VBG,77,oanc_candidate_unreviewed,COLLIGATION:generate:VBG:verb+VBG
 generate,generated in,generate in,verb+preposition,70,oanc_candidate_unreviewed,COLLIGATION:generate:in:verb+preposition
 generate,generated with,generate with,verb+preposition,31,oanc_candidate_unreviewed,COLLIGATION:generate:with:verb+preposition
 generate,generated for,generate for,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:generate:for:verb+preposition
@@ -214,7 +214,7 @@ generate,generated at,generate at,verb+preposition,15,oanc_candidate_unreviewed,
 generate,generated against,generate against,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:generate:against:verb+preposition
 generate,generated on,generate on,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:generate:on:verb+preposition
 generate,generated under,generate under,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:generate:under:verb+preposition
-generate,generated to “scale,generate to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:generate:to:verb+to-infinitive
+generate,generated to study,generate to + infinitive,verb+to-infinitive,6,oanc_candidate_unreviewed,COLLIGATION:generate:to:verb+to-infinitive
 generate,generated through,generate through,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:generate:through:verb+preposition
 generate,generated via,generate via,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:generate:via:verb+preposition
 handbook,handbook of,handbook of,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:handbook:of:noun+preposition
@@ -337,8 +337,8 @@ score,scores as,score as,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATI
 score,scoring of,score of,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:score:of:verb+preposition
 score,score above,score above,noun+preposition,10,oanc_candidate_unreviewed,COLLIGATION:score:above:noun+preposition
 score,scored on,score on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:score:on:verb+preposition
+score,scored at,score at,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:score:at:verb+preposition
 score,scores among,score among,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:score:among:noun+preposition
-score,scoring at,score at,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:score:at:verb+preposition
 score,scores below,score below,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:score:below:noun+preposition
 score,scores over,score over,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:score:over:noun+preposition
 score,scoring above,score above,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:score:above:verb+preposition
@@ -352,7 +352,7 @@ shortcoming,shortcomings of,shortcoming of,noun+preposition,17,oanc_candidate_un
 shortcoming,shortcomings in,shortcoming in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:shortcoming:in:noun+preposition
 shorten,shortened to,shorten to,verb+to,10,oanc_candidate_unreviewed,COLLIGATION:shorten:to:verb+to
 spend,spent on,spend on,verb+preposition,129,oanc_candidate_unreviewed,COLLIGATION:spend:on:verb+preposition
-spend,spend browsing,spend VBG,verb+VBG,65,oanc_candidate_unreviewed,COLLIGATION:spend:VBG:verb+VBG
+spend,spent investigating,spend VBG,verb+VBG,65,oanc_candidate_unreviewed,COLLIGATION:spend:VBG:verb+VBG
 spend,spent in,spend in,verb+preposition,58,oanc_candidate_unreviewed,COLLIGATION:spend:in:verb+preposition
 spend,spend about,spend about,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:spend:about:verb+preposition
 spend,spend at,spend at,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:spend:at:verb+preposition
@@ -361,7 +361,7 @@ spend,spent by,spend by,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION
 spend,spent to influence,spend to + infinitive,verb+to-infinitive,9,oanc_candidate_unreviewed,COLLIGATION:spend:to:verb+to-infinitive
 spend,spent with,spend with,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:spend:with:verb+preposition
 spend,spent for,spend for,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:spend:for:verb+preposition
-spend,spends over,spend over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:spend:over:verb+preposition
+spend,spend over,spend over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:spend:over:verb+preposition
 statistics,statistics for,statistics for,noun+preposition,37,oanc_candidate_unreviewed,COLLIGATION:statistics:for:noun+preposition
 statistics,statistics of,statistics of,noun+preposition,29,oanc_candidate_unreviewed,COLLIGATION:statistics:of:noun+preposition
 statistics,statistics to,statistics to,noun+to,18,oanc_candidate_unreviewed,COLLIGATION:statistics:to:noun+to

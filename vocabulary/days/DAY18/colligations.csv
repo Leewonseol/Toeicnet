@@ -13,7 +13,7 @@ available,available to,available to,adjective+to,271,oanc_candidate_unreviewed,C
 available,available in,available in,adjective+preposition,236,oanc_candidate_unreviewed,COLLIGATION:available:in:adjective+preposition
 available,available from,available from,adjective+preposition,181,oanc_candidate_unreviewed,COLLIGATION:available:from:adjective+preposition
 available,available at,available at,adjective+preposition,148,oanc_candidate_unreviewed,COLLIGATION:available:at:adjective+preposition
-available,available to give,available to + infinitive,adjective+to-infinitive,128,oanc_candidate_unreviewed,COLLIGATION:available:to:adjective+to-infinitive
+available,available to rebuild,available to + infinitive,adjective+to-infinitive,128,oanc_candidate_unreviewed,COLLIGATION:available:to:adjective+to-infinitive
 available,available on,available on,adjective+preposition,114,oanc_candidate_unreviewed,COLLIGATION:available:on:adjective+preposition
 available,available as,available as,adjective+preposition,62,oanc_candidate_unreviewed,COLLIGATION:available:as:adjective+preposition
 available,available with,available with,adjective+preposition,29,oanc_candidate_unreviewed,COLLIGATION:available:with:adjective+preposition
@@ -84,7 +84,7 @@ complication,complications of,complication of,noun+preposition,48,oanc_candidate
 complication,complications in,complication in,noun+preposition,30,oanc_candidate_unreviewed,COLLIGATION:complication:in:noun+preposition
 complication,complications during,complication during,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:complication:during:noun+preposition
 complimentary,complimentary to,complimentary to,adjective+to,6,oanc_candidate_unreviewed,COLLIGATION:complimentary:to:adjective+to
-confirm,confirms that,confirm that,verb+preposition,264,oanc_candidate_unreviewed,COLLIGATION:confirm:that:verb+preposition
+confirm,confirming that,confirm that,verb+preposition,264,oanc_candidate_unreviewed,COLLIGATION:confirm:that:verb+preposition
 confirm,confirmed by,confirm by,verb+preposition,212,oanc_candidate_unreviewed,COLLIGATION:confirm:by:verb+preposition
 confirm,confirmed in,confirm in,verb+preposition,49,oanc_candidate_unreviewed,COLLIGATION:confirm:in:verb+preposition
 confirm,confirmed to be,confirm to + infinitive,verb+to-infinitive,21,oanc_candidate_unreviewed,COLLIGATION:confirm:to:verb+to-infinitive
@@ -151,11 +151,11 @@ ingredient,ingredient to,ingredient to,noun+to,6,oanc_candidate_unreviewed,COLLI
 make,make up,make up,verb+particle,365,oanc_candidate_unreviewed,COLLIGATION:make:up:verb+particle
 make,made by,make by,verb+preposition,349,oanc_candidate_unreviewed,COLLIGATION:make:by:verb+preposition
 make,made in,make in,verb+preposition,336,oanc_candidate_unreviewed,COLLIGATION:make:in:verb+preposition
-make,make for,make for,verb+preposition,211,oanc_candidate_unreviewed,COLLIGATION:make:for:verb+preposition
+make,makes for,make for,verb+preposition,211,oanc_candidate_unreviewed,COLLIGATION:make:for:verb+preposition
 make,made of,make of,verb+preposition,197,oanc_candidate_unreviewed,COLLIGATION:make:of:verb+preposition
-make,made to settle,make to + infinitive,verb+to-infinitive,172,oanc_candidate_unreviewed,COLLIGATION:make:to:verb+to-infinitive
+make,made to take,make to + infinitive,verb+to-infinitive,172,oanc_candidate_unreviewed,COLLIGATION:make:to:verb+to-infinitive
 make,made from,make from,verb+preposition,149,oanc_candidate_unreviewed,COLLIGATION:make:from:verb+preposition
-make,making grinsing,make VBG,verb+VBG,137,oanc_candidate_unreviewed,COLLIGATION:make:VBG:verb+VBG
+make,make grinsing,make VBG,verb+VBG,137,oanc_candidate_unreviewed,COLLIGATION:make:VBG:verb+VBG
 make,made to,make to,verb+to,134,oanc_candidate_unreviewed,COLLIGATION:make:to:verb+to
 make,made with,make with,verb+preposition,96,oanc_candidate_unreviewed,COLLIGATION:make:with:verb+preposition
 make,made on,make on,verb+preposition,73,oanc_candidate_unreviewed,COLLIGATION:make:on:verb+preposition
@@ -165,7 +165,7 @@ make,made between,make between,verb+preposition,52,oanc_candidate_unreviewed,COL
 make,made about,make about,verb+preposition,50,oanc_candidate_unreviewed,COLLIGATION:make:about:verb+preposition
 make,made out,make out,verb+preposition,50,oanc_candidate_unreviewed,COLLIGATION:make:out:verb+preposition
 make,make of,make of,noun+preposition,46,oanc_candidate_unreviewed,COLLIGATION:make:of:noun+preposition
-make,made as,make as,verb+preposition,42,oanc_candidate_unreviewed,COLLIGATION:make:as:verb+preposition
+make,makes as,make as,verb+preposition,42,oanc_candidate_unreviewed,COLLIGATION:make:as:verb+preposition
 make,made during,make during,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:make:during:verb+preposition
 make,made into,make into,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:make:into:verb+preposition
 make,made over,make over,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:make:over:verb+preposition
@@ -241,7 +241,7 @@ reception,reception on,reception on,noun+preposition,8,oanc_candidate_unreviewed
 recipe,recipe for,recipe for,noun+preposition,40,oanc_candidate_unreviewed,COLLIGATION:recipe:for:noun+preposition
 recipe,recipe in,recipe in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:recipe:in:noun+preposition
 refer,referred to,refer to,verb+to,1425,oanc_candidate_unreviewed,COLLIGATION:refer:to:verb+to
-refer,referred to is,refer to + infinitive,verb+to-infinitive,39,oanc_candidate_unreviewed,COLLIGATION:refer:to:verb+to-infinitive
+refer,refers to are,refer to + infinitive,verb+to-infinitive,39,oanc_candidate_unreviewed,COLLIGATION:refer:to:verb+to-infinitive
 refer,referred in,refer in,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:refer:in:verb+preposition
 refer,refer to,refer to,noun+to,7,oanc_candidate_unreviewed,COLLIGATION:refer:to:noun+to
 refer,referred as,refer as,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:refer:as:verb+preposition

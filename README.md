@@ -16,7 +16,7 @@ rebuild-v2 결과(규칙 v3.1, Anki 덱 항목 5,071개 · 본 단어 1,241). �
 | 전체 데이터베이스 | – | Drive [SQLite·전체 JSONL(분할)](https://drive.google.com/drive/folders/1EC0-NvM6nIwTJq06T21VHE_aDwZZ9sub) · [합치는 방법](https://drive.google.com/file/d/1nrQIeCG5OXU0ue1MKbFfu2bm-keYHtt_/view) |
 | 검토 대기열 | `pending.csv` | [모델 검토 판정](vocabulary/review/model_review.jsonl) · [기준 판정](vocabulary/review/gold_sample_and_holdout.jsonl) |
 
-PDF 뒷단어 3종(Drive `토익` 폴더)은 아직 이 표에 들어 있지 않다. 파일이 비공개이고 커넥터 한도를 넘어 받지 못했다. 다음 배치 작업은 각 DAY의 `pending.csv`부터 시작한다. 배치가 끝날 때마다 `python scripts/rebuild_export.py`로 `vocabulary/`를 다시 만들어 커밋하고 `exports/rebuild-v2/`를 Drive에 올린다.
+PDF 뒷단어 3종(120쪽)은 OCR과 페이지 이미지 확인으로 Anki 뒷단어와 대조했다. `headwords.csv`의 `pdf_status`·`pdf_page`·`pdf_pos` 열과 [pdf_crosscheck.csv](vocabulary/review/pdf_crosscheck.csv)에 결과가 있다. Anki 뒷단어 3,830개 중 3,828개를 PDF에서 확인했고(4개는 손으로 지운 줄), PDF에만 있는 9개를 각 DAY 표에 `pdf_only_not_in_anki`로 넣었다. 다음 배치 작업은 각 DAY의 `pending.csv`부터 시작한다. 배치가 끝날 때마다 `python scripts/rebuild_export.py`로 `vocabulary/`를 다시 만들어 커밋하고 `exports/rebuild-v2/`를 Drive에 올린다.
 
 # 해커스 TOEIC VOCA × 보카바이블 B
 

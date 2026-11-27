@@ -1,172 +1,172 @@
-headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
-conserve,"보존하다, 유지하다",verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460019
-chance,"가능성, 기회",noun,core,B,a possibility due to a favorable combination of circumstances,verified,double_korean_anchor,oewn,oewn-chance__1.26.00..,kaikki:chance:noun:1:718:s0,가능성;기회,29,anki_core:1766527460020
-forecast,(날씨의) 예보,noun,core,C,An estimation of a future condition.,verified,single_source_korean_anchor,kaikki,,kaikki:forecast:noun:0:169:s0,예보,29,anki_core:1766527460021
-waste,"쓰레기, 폐기물",noun,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460022
-dispose,"처분하다, 처리하다",verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460023
-recycling,재활용,noun,core,C,The practice of sorting and collecting waste materials for new use.,verified,single_source_korean_anchor,kaikki,,kaikki:recycling:noun:0:6933:s0,재활용,29,anki_core:1766527460024
-clear,"말게 갠, 명백한, 분명한, 또렷하게, 완전히, 떨어져서",noun,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460025
-damage,"피해, 손해, (물건을) 손상시키다",verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460026
-significant,"상당한, 중대한, 중요한",adjective,core,D,,unverified,proposed_pair_needs_review,,,,,29,anki_core:1766527460027
-solution,해결책,noun,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460028
-occur,"(일이) 발생하다, 생기다",verb,core,B,come to pass,verified,double_korean_anchor,oewn,oewn-occur__2.30.00..,kaikki:occur:verb:0:4175:s0,발생하다,29,anki_core:1766527460029
-ideal,이상적인,adjective,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460030
-preserve,"보존하다, 보호하다",verb,core,B,"keep in safety and protect from harm, decay, loss, or destruction",unverified,model_reviewed_pair,oewn,oewn-preserve__2.40.00..,kaikki:preserve:verb:0:3465:s0,,29,anki_core:1766527460031
-aid,원조,noun,core,B,gift of money or other material help to support a person or cause,unverified,model_reviewed_pair,oewn,oewn-aid__1.21.00..,kaikki:aid:noun:1:2074:s2,,29,anki_core:1766527460032
-excessive,"지나친, 과도한",adjective,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460033
-intensively,집중적으로,adverb,core,B,in an intensive manner,unverified,monosemous_pair,oewn,oewn-intensively__4.02.00..,kaikki:intensively:adv:0:6510:s0,,29,anki_core:1766527460034
-vary,"다르다, 다양하다",adjective,core,E,,unverified,no_sense_record,,,,,29,anki_core:1766527460035
-pleasing,"즐거운, 기분 좋은, 만족스러운",adjective,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460036
-mark,"점수, 평점, 표시, 기념하다, 축하하다",verb,core,D,,unverified,proposed_pair_needs_review,,,,,29,anki_core:1766527460037
-inaccessible,"접근이 불가능한, 이용이 불가능한",adjective,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460038
-disturb,방해하다,verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460039
-pollutant,오염 물질,noun,core,B,waste matter that contaminates the water or air or soil,unverified,monosemous_pair,oewn,oewn-pollutant__1.27.00..,kaikki:pollutant:noun:0:201:s0,,29,anki_core:1766527460040
-emission,"배기가스, 방출",noun,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460041
-dense,"빽빽한, 밀집한",adjective,core,B,having component parts closely crowded together,unverified,model_reviewed_pair,oewn,oewn-dense__5.00.01.concentrated.00,kaikki:dense:adj:0:4116:s1,,29,anki_core:1766527460042
-environmental,환경적인,adjective,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460043
-consistent,"일치하는, 지속적인, 한결같은",adjective,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460044
-leak,"누출, 누출량, (물·빛이) 새게 하다",verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460045
-organization,단체,noun,core,B,a group of people who work together,verified,double_korean_anchor,oewn,oewn-organization__1.14.00..,kaikki:organization:noun:0:3002:s2,단체,29,anki_core:1766527460046
-continually,계속해서,noun,core,E,,unverified,no_sense_record,,,,,29,anki_core:1766527460047
-contaminate,오염시키다,verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460048
-disaster,재난,noun,core,B,an event resulting in great loss and misfortune,verified,double_korean_anchor,oewn,oewn-disaster__1.11.00..,kaikki:disaster:noun:0:2958:s0,재난,29,anki_core:1766527460049
-discharge,방출하다,verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460050
-resource,자원,noun,core,C,"Something that one uses to achieve an objective, e.g. raw materials or personnel.",verified,single_source_korean_anchor,kaikki,,kaikki:resource:noun:1:5226:s0,자원,29,anki_core:1766527460051
-prominent,"유명한, 두드러진",noun,core,C,Any of various moths having a conspicuous projection on the inner margin of the wings.,unverified,single_source_only_sense,kaikki,,kaikki:prominent:noun:0:4604:s0,,29,anki_core:1766527460052
-deplete,고갈시키다,verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460053
-purify,정화시키다,verb,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460054
-endangered,멸종 위기에 처한,adjective,core,B,(of flora or fauna) in imminent danger of extinction,unverified,monosemous_pair,oewn,oewn-endangered__5.00.00.vulnerable.00,kaikki:endangered:adj:0:6129:s0,,29,anki_core:1766527460055
-extinction,멸종,noun,core,C,The action of making or becoming extinct; annihilation.,verified,single_source_korean_anchor,kaikki,,kaikki:extinction:noun:0:6414:s0,멸종,29,anki_core:1766527460056
-drought,가뭄,noun,core,C,"A period of unusually low rainfall, longer and more severe than a dry spell.",verified,single_source_korean_anchor,kaikki,,kaikki:drought:noun:0:2139:s0,가뭄,29,anki_core:1766527460057
-inflict,"(고통·피해를) 입히다, 가하다",verb,core,B,impose something unpleasant,unverified,monosemous_pair,oewn,oewn-inflict__2.32.00..,kaikki:inflict:verb:0:4889:s0,,29,anki_core:1766527460058
-migration,"이동, 이주",noun,core,B,(chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule,verified,double_korean_anchor,oewn,oewn-migration__1.11.01..;oewn-migration__1.11.01..,kaikki:migration:noun:0:2093:s0;kaikki:migration:noun:0:2093:s3,이동;이주,29,anki_core:1766527460059
-ecology,"생태, 자연환경",noun,core,D,,unverified,proposed_pair_needs_review,,,,,29,anki_core:1766527460060
-habitat,(동·식물의) 서식지,noun,core,D,,unverified,candidates_unaligned,,,,,29,anki_core:1766527460061
-cave,동굴,noun,basic,C,"A large, naturally-occurring cavity formed underground or in the face of a cliff or a hillside.",verified,single_source_korean_anchor,kaikki,,kaikki:cave:noun:1:2680:s0,동굴,29,anki_basic:1766527460062
-Celsius,섭씨,noun,basic,E,,unverified,no_sense_record,,,,,29,anki_basic:1766527460063
-chilly,쌀쌀한,adjective,basic,B,appreciably or disagreeably cold,verified,double_korean_anchor,oewn,oewn-chilly__5.00.00.cold.01,kaikki:chilly:adj:1:4530:s0,쌀쌀하다,29,anki_basic:1766527460064
-clean up,"치우다, 청소하다",phrase,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460065
-cleaning supply,청소 용품,phrase,basic,E,,unverified,no_sense_record,,,,,29,anki_basic:1766527460066
-desert,사막,noun,basic,C,"A barren area of land or desolate terrain, especially one with little water or vegetation; a wasteland.",verified,single_source_korean_anchor,kaikki,,kaikki:desert:noun:1:1818:s0,사막,29,anki_basic:1766527460067
-dirt,먼지,noun,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460068
-empty a trash can,휴지통을 비우다,phrase,basic,E,,unverified,no_sense_record,,,,,29,anki_basic:1766527460069
-factory,공장,noun,basic,C,A building or other place where manufacturing takes place.,verified,single_source_korean_anchor,kaikki,,kaikki:factory:noun:0:1472:s0,공장,29,anki_basic:1766527460070
-harvest,"수확하다, 수확",noun,basic,D,,unverified,proposed_pair_needs_review,,,,,29,anki_basic:1766527460071
-humid,습한,noun,basic,E,,unverified,no_sense_record,,,,,29,anki_basic:1766527460072
-landscape,풍경,noun,basic,C,"A portion of land or territory as defined by its landform, its geographical (and architectural) features.",verified,single_source_korean_anchor,kaikki,,kaikki:landscape:noun:0:3474:s0,풍경,29,anki_basic:1766527460073
-point,"의견, 가리키다",verb,basic,B,"indicate a place, direction, person, or thing; either spatially or figuratively",verified,double_korean_anchor,oewn,oewn-point__2.32.00..,kaikki:point:verb:2:102:s0,가리키다,29,anki_basic:1766527460074
-seed,"씨, ~에 씨를 뿌리다",verb,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460075
-shade,그늘,noun,basic,C,"Darkness where light, particularly sunlight, is blocked.",verified,single_source_korean_anchor,kaikki,,kaikki:shade:noun:1:2816:s0,그늘,29,anki_basic:1766527460076
-sunny,화창한,adjective,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460077
-sunset,일몰,noun,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460078
-wet,젖은,adjective,basic,C,"Of an object, etc.: covered or impregnated with liquid, usually (but not always) water.",verified,single_source_korean_anchor,kaikki,,kaikki:wet:adj:0:827:s1,젖은,29,anki_basic:1766527460079
-windy,바람 부는,adjective,basic,C,Accompanied by wind.,verified,single_source_korean_anchor,kaikki,,kaikki:windy:adj:1:4446:s0,바람 부는,29,anki_basic:1766527460080
-wood,"나무, 목재",noun,basic,C,"The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.",verified,single_source_korean_anchor,kaikki,,kaikki:wood:noun:1:368:s0,나무;목재,29,anki_basic:1766527460081
-dust,"먼지, 먼지를 털다",verb,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460082
-flood,홍수,noun,basic,B,an overwhelming number or amount,verified,double_korean_anchor,oewn,oewn-flood__1.23.00..,kaikki:flood:noun:0:1498:s1,홍수,29,anki_basic:1766527460083
-general,일반적인,adjective,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460084
-pollution,"오염, 공해",noun,basic,C,"Physical contamination, now especially the contamination of the environment by harmful substances, or by disruptive levels of noise, light etc.",verified,single_source_korean_anchor,kaikki,,kaikki:pollution:noun:0:200:s0,오염,29,anki_basic:1766527460085
-shower,소나기,noun,basic,B,a brief period of precipitation,verified,double_korean_anchor,oewn,oewn-shower__1.19.00..,kaikki:shower:noun:1:3231:s0,소나기,29,anki_basic:1766527460086
-source,원천,noun,basic,D,,unverified,candidates_unaligned,,,,,29,anki_basic:1766527460087
-southern,남쪽의,adjective,basic,B,situated in or coming from regions of the south,verified,double_korean_anchor,oewn,oewn-southern__3.00.01..,kaikki:southern:adj:0:888:s0,남쪽의,29,anki_basic:1766527460088
-temperature,온도,noun,basic,B,the somatic sensation of cold or heat,verified,double_korean_anchor,oewn,oewn-temperature__1.09.00..,kaikki:temperature:noun:0:353:s0,온도,29,anki_basic:1766527460089
-along the shore,해변을 따라,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462056
-bay,(바다·호수의)만,noun,800,B,an indentation of a shoreline larger than a cove but smaller than a gulf,verified,double_korean_anchor,oewn,oewn-bay__1.17.00..,kaikki:bay:noun:1:2866:s0,만,29,anki_800:1766527462057
-body of water,물줄기,phrase,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462058
-bush,관목,noun,800,B,a low woody perennial plant usually having several major stems,verified,double_korean_anchor,oewn,oewn-bush__1.20.00..,kaikki:bush:noun:1:3742:s0,관목,29,anki_800:1766527462059
-cliff,절벽,noun,800,C,A vertical (or nearly vertical) rock face.,verified,single_source_korean_anchor,kaikki,,kaikki:cliff:noun:1:2248:s0,절벽,29,anki_800:1766527462060
-countryside,"시골, 지방",noun,800,B,rural regions,verified,double_korean_anchor,oewn,oewn-countryside__1.15.00..;oewn-countryside__1.15.00..,kaikki:countryside:noun:0:5752:s0;kaikki:countryside:noun:0:5752:s2,시골,29,anki_800:1766527462061
-eco-friendly,환경 친화적인,adjective,800,C,Ecologically friendly; not damaging to the natural environment.,unverified,single_source_only_sense,kaikki,,kaikki:eco-friendly:adj:0:7317:s0,,29,anki_800:1766527462062
-footpath,"보도, 오솔길",noun,800,B,a trodden path,verified,double_korean_anchor,oewn,oewn-footpath__1.06.00..,kaikki:footpath:noun:0:6499:s0,보도,29,anki_800:1766527462063
-fountain,분수,noun,800,C,"An artificial, usually ornamental, water feature (usually in a garden or public place) consisting of one or more streams of water originating from a statue or other structure.",verified,single_source_korean_anchor,kaikki,,kaikki:fountain:noun:0:1618:s1,분수,29,anki_800:1766527462064
-freezing,몹시 추운,adjective,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462065
-gardening tool,원예도구,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462066
-grasp,"꽉 잡다, 움켜잡다",verb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462067
-hail,우박,noun,800,B,precipitation of ice pellets when there are strong rising air currents,verified,double_korean_anchor,oewn,oewn-hail__1.19.00..,kaikki:hail:noun:1:2270:s0,우박,29,anki_800:1766527462068
-lakefront,호숫가,noun,800,B,land bordering a lake,unverified,monosemous_pair,oewn,oewn-lakefront__1.17.00..,kaikki:lakefront:noun:0:6665:s0,,29,anki_800:1766527462069
-landscaping,조경,noun,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462070
-lighthouse,등대,noun,800,B,a tower with a light that gives warning of shoals to passing ships,unverified,monosemous_pair,oewn,oewn-lighthouse__1.06.00..,kaikki:lighthouse:noun:0:6482:s0,,29,anki_800:1766527462071
-nightfall,해질녘,noun,800,B,the time of day immediately following sunset,verified,double_korean_anchor,oewn,oewn-nightfall__1.28.00..,kaikki:nightfall:noun:0:3506:s0,해질녘,29,anki_800:1766527462072
-off the shore,해안에,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462073
-overlook the water,호수를 굽어보다,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462074
-pull weeds,잡초를 뽑다,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462075
-rain forest,열대 우림,phrase,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462076
-rain or shine,"날씨에 상관없이, 어떤 일이 있어도",phrase,800,C,Regardless of the circumstances; (more literally) regardless of the state of the weather.,unverified,single_source_only_sense,kaikki,,kaikki:rain or shine:adv:0:7277:s0,,29,anki_800:1766527462077
-rain shower,소나기,phrase,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462078
-rainstorm,폭풍우,noun,800,C,"A storm characterized by substantial, heavy rainfall.",verified,single_source_korean_anchor,kaikki,,kaikki:rainstorm:noun:0:7085:s0,폭풍우,29,anki_800:1766527462079
-ranger,공원관리인,adjective,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462080
-riverbank,강둑,noun,800,B,the bank of a river,unverified,monosemous_pair,oewn,oewn-riverbank__1.17.00..,kaikki:riverbank:noun:0:7057:s0,,29,anki_800:1766527462081
-riverside,강변,noun,800,B,the bank of a river,unverified,monosemous_pair,oewn,oewn-riverside__1.17.00..,kaikki:riverside:noun:0:6605:s0,,29,anki_800:1766527462082
-scenery,풍경,noun,800,C,"View, natural features, landscape.",verified,single_source_korean_anchor,kaikki,,kaikki:scenery:noun:0:5239:s0,풍경,29,anki_800:1766527462083
-scenic,경치의,adjective,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462084
-slope,"비탈, 경사지다",verb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462085
-stream,"시냇물, 흐르다",verb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462086
-suburb,교외,noun,800,B,a residential district located on the outskirts of a city,verified,double_korean_anchor,oewn,oewn-suburb__1.15.00..,kaikki:suburb:noun:0:5218:s0,교외,29,anki_800:1766527462087
-sweep the leaves,낙엽을 쓸다,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462088
-thunderstorm,뇌우,noun,800,C,"A storm consisting of thunder and lightning produced by a cumulonimbus, usually accompanied with heavy rain, wind, and sometimes hail; and in rarer cases sleet, freezing rain, or snow.",verified,single_source_korean_anchor,kaikki,,kaikki:thunderstorm:noun:0:2743:s0,뇌우,29,anki_800:1766527462089
-trail,"길, 자취",noun,800,B,a path or track roughly blazed through wild or hilly country,verified,double_korean_anchor,oewn,oewn-trail__1.06.00..,kaikki:trail:noun:0:480:s1,길,29,anki_800:1766527462090
-trap,"가두다, 함정에 빠뜨리다",verb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462091
-tree trunk,나무줄기,phrase,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462092
-twilight,해질녘,noun,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462093
-weather forecast,일기 예보,phrase,800,C,"A prediction of future weather, often for a specific locality, in a newspaper or on the radio or television.",verified,single_source_korean_anchor,kaikki,,kaikki:weather forecast:noun:0:4927:s0,일기 예보,29,anki_800:1766527462094
-weather report,일기예보,phrase,800,C,"A description, especially one prepared by a governmental or other authority, of past, present or forecasted meteorological conditions for a particular geographical area.",unverified,single_source_only_sense,kaikki,,kaikki:weather report:noun:0:7353:s0,,29,anki_800:1766527462095
-windstorm,폭풍,noun,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462096
-affirmative,"긍정하는, 동의하는",adjective,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462097
-dislike,싫어하다,verb,800,C,To have a feeling of aversion or antipathy towards; not to like.,verified,single_source_korean_anchor,kaikki,,kaikki:dislike:verb:0:3168:s1,싫어하다,29,anki_800:1766527462098
-fertile,"비옥한, 기름진",noun,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462099
-in particular,특히,phrase,800,C,"Especially, individually or specifically.",verified,single_source_korean_anchor,kaikki,,kaikki:in particular:prep_phrase:0:6853:s0,특히,29,anki_800:1766527462100
-quietly,조용히,adverb,800,C,Producing little or no noise.,verified,single_source_korean_anchor,kaikki,,kaikki:quietly:adv:0:5807:s0,조용하게;조용히,29,anki_800:1766527462101
-revolve,"회전하다, 초점을 맞추다",verb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462102
-setting,"환경, 장소",noun,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462103
-sheer,"순전한, 얇은",adjective,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462104
-solid,단단한,adjective,800,C,"Measured as a single solid, as the volumes of individual pieces added together without any gaps.",verified,single_source_korean_anchor,kaikki,,kaikki:solid:adj:1:955:s19,단단하다,29,anki_800:1766527462105
-tangible,"만져서 알 수 있는, 명백한",adjective,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462106
-thoughtfully,생각이 깊게,adverb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462107
-atmospheric,"대기의, 분위기 있는",adjective,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462108
-conservation,보존,noun,800,B,an occurrence of improvement by virtue of preventing loss or injury or other change,verified,double_korean_anchor,oewn,oewn-conservation__1.11.00..,kaikki:conservation:noun:0:3318:s0,보존,29,anki_800:1766527462109
-environmental regulations,환경 규제,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462110
-ground,"지면, 근거",noun,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462111
-inclement,"(날씨가) 궂은, 혹독한",adjective,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462112
-mining,"채굴, 채광",noun,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462113
-natural habitat,자연 서식지,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462114
-noise and air pollution,소음공해와 대기 오염,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462115
-nourishment,영양분,noun,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462116
-nurture,"양육하다, 기르다",verb,800,D,,unverified,candidates_unaligned,,,,,29,anki_800:1766527462117
-overflow,"범람하다, 넘치다",verb,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462118
-react to,~에 반응하다,phrase,800,E,,unverified,no_sense_record,,,,,29,anki_800:1766527462119
-recyclable,재활용이 가능한,adjective,800,B,capable of being used again,unverified,monosemous_pair,oewn,oewn-recyclable__5.00.00.useful.00,kaikki:recyclable:adj:0:6215:s0,,29,anki_800:1766527462120
-under construction,공사 중인,phrase,800,C,Being currently constructed.,unverified,single_source_only_sense,kaikki,,kaikki:under construction:prep_phrase:0:8032:s0,,29,anki_800:1766527462121
-vague,"모호한, 애매한",adjective,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462122
-water level,수위(水位),phrase,800,D,,unverified,proposed_pair_needs_review,,,,,29,anki_800:1766527462123
-botanical,식물의,adjective,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463118
-irrigation system,관개 시설,phrase,900,E,,unverified,no_sense_record,,,,,29,anki_900:1766527463119
-mow the lawn,잔디를 깎다,phrase,900,E,,unverified,no_sense_record,,,,,29,anki_900:1766527463120
-overpass,육교,noun,900,B,bridge formed by the upper level of a crossing of two highways at different levels,unverified,monosemous_pair,oewn,oewn-overpass__1.06.00..,kaikki:overpass:noun:0:7051:s0,,29,anki_900:1766527463121
-potted,화분에 심은,adjective,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463122
-pull up,"뽑다, (차가) 서다",phrase,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463123
-shrub,관목,noun,900,B,a low woody perennial plant usually having several major stems,verified,double_korean_anchor,oewn,oewn-shrub__1.20.00..,kaikki:shrub:noun:1:3790:s0,관목,29,anki_900:1766527463124
-vacant site,공터,phrase,900,E,,unverified,no_sense_record,,,,,29,anki_900:1766527463125
-outwardly,"겉으로는, 표면상으로",adverb,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463126
-precipitation,"강수량, 강우량",noun,900,D,,unverified,proposed_pair_needs_review,,,,,29,anki_900:1766527463127
-promptness,"재빠름, 신속",noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463128
-revert,(본래대로) 되돌아가다,verb,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463129
-sustainable,지속 가능한,adjective,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463130
-tranquility,평온,noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463131
-trimming,"정돈, 장식",noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463132
-depletion,(자원 등의) 고갈,noun,900,C,The consumption of a resource faster than it can be replenished.,verified,single_source_korean_anchor,kaikki,,kaikki:depletion:noun:0:6792:s1,고갈,29,anki_900:1766527463133
-disposal,"처분, 폐기",noun,900,C,"A disposition; an arrangement, categorization, or classification of things.",verified,single_source_korean_anchor,kaikki,,kaikki:disposal:noun:0:6100:s0,처분,29,anki_900:1766527463134
-downpour,호우,noun,900,B,a heavy rain,verified,double_korean_anchor,oewn,oewn-downpour__1.19.00..,kaikki:downpour:noun:0:6125:s0,호우,29,anki_900:1766527463135
-drench,흠뻑 물에 적시다,verb,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463136
-fade,"바래다, 희미해지다",verb,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463137
-fuel emission,연료 배기,phrase,900,E,,unverified,no_sense_record,,,,,29,anki_900:1766527463138
-fumes,"가스, 연기",noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463139
-grazing,"방목, 목초지",noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463140
-logging,벌목,noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463141
-outskirts,"교외, 변두리",noun,900,B,outlying areas (as of a city or town),unverified,monosemous_pair,oewn,oewn-outskirts__1.15.00..,kaikki:outskirts:noun:1:6192:s0,,29,anki_900:1766527463142
-residue,잔여물,noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463143
-rugged,울퉁불퉁한,adjective,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463144
-sewage,"하수, 오수",noun,900,B,waste matter carried away in sewers or drains,unverified,monosemous_pair,oewn,oewn-sewage__1.27.00..,kaikki:sewage:noun:0:4856:s0,,29,anki_900:1766527463145
-splendor,장엄함,noun,900,D,,unverified,candidates_unaligned,,,,,29,anki_900:1766527463146
-terrestrial,지구상의,adjective,900,D,,unverified,proposed_pair_needs_review,,,,,29,anki_900:1766527463147
-timber,목재,noun,900,C,Trees in a forest regarded as a source of wood.,verified,single_source_korean_anchor,kaikki,,kaikki:timber:noun:0:1737:s0,목재,29,anki_900:1766527463148
-toxication,중독,noun,900,C,the metabolism of a drug or other compound to produce a toxic metabolite,unverified,single_source_only_sense,kaikki,,kaikki:toxication:noun:0:6475:s0,,29,anki_900:1766527463149
+headword,korean_textbook,pos,deck,english_grade,english_definition,korean_status,pdf_status,pdf_page,pdf_pos,verification_method,definition_source,wordnet_sense_ids,wiktionary_sense_ids,korean_evidence_wiktionary,day,item_id
+conserve,"보존하다, 유지하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460019
+chance,"가능성, 기회",noun,core,B,a possibility due to a favorable combination of circumstances,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-chance__1.26.00..,kaikki:chance:noun:1:718:s0,가능성;기회,29,anki_core:1766527460020
+forecast,(날씨의) 예보,noun,core,C,An estimation of a future condition.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:forecast:noun:0:169:s0,예보,29,anki_core:1766527460021
+waste,"쓰레기, 폐기물",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460022
+dispose,"처분하다, 처리하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460023
+recycling,재활용,noun,core,C,The practice of sorting and collecting waste materials for new use.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:recycling:noun:0:6933:s0,재활용,29,anki_core:1766527460024
+clear,"말게 갠, 명백한, 분명한, 또렷하게, 완전히, 떨어져서",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460025
+damage,"피해, 손해, (물건을) 손상시키다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460026
+significant,"상당한, 중대한, 중요한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,29,anki_core:1766527460027
+solution,해결책,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460028
+occur,"(일이) 발생하다, 생기다",verb,core,B,come to pass,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-occur__2.30.00..,kaikki:occur:verb:0:4175:s0,발생하다,29,anki_core:1766527460029
+ideal,이상적인,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460030
+preserve,"보존하다, 보호하다",verb,core,B,"keep in safety and protect from harm, decay, loss, or destruction",unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-preserve__2.40.00..,kaikki:preserve:verb:0:3465:s0,,29,anki_core:1766527460031
+aid,원조,noun,core,B,gift of money or other material help to support a person or cause,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-aid__1.21.00..,kaikki:aid:noun:1:2074:s2,,29,anki_core:1766527460032
+excessive,"지나친, 과도한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460033
+intensively,집중적으로,adverb,core,B,in an intensive manner,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-intensively__4.02.00..,kaikki:intensively:adv:0:6510:s0,,29,anki_core:1766527460034
+vary,"다르다, 다양하다",adjective,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,29,anki_core:1766527460035
+pleasing,"즐거운, 기분 좋은, 만족스러운",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460036
+mark,"점수, 평점, 표시, 기념하다, 축하하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,29,anki_core:1766527460037
+inaccessible,"접근이 불가능한, 이용이 불가능한",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460038
+disturb,방해하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460039
+pollutant,오염 물질,noun,core,B,waste matter that contaminates the water or air or soil,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-pollutant__1.27.00..,kaikki:pollutant:noun:0:201:s0,,29,anki_core:1766527460040
+emission,"배기가스, 방출",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460041
+dense,"빽빽한, 밀집한",adjective,core,B,having component parts closely crowded together,unverified,core_deck_not_in_back_word_pdf,,,model_reviewed_pair,oewn,oewn-dense__5.00.01.concentrated.00,kaikki:dense:adj:0:4116:s1,,29,anki_core:1766527460042
+environmental,환경적인,adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460043
+consistent,"일치하는, 지속적인, 한결같은",adjective,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460044
+leak,"누출, 누출량, (물·빛이) 새게 하다",verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460045
+organization,단체,noun,core,B,a group of people who work together,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-organization__1.14.00..,kaikki:organization:noun:0:3002:s2,단체,29,anki_core:1766527460046
+continually,계속해서,noun,core,E,,unverified,core_deck_not_in_back_word_pdf,,,no_sense_record,,,,,29,anki_core:1766527460047
+contaminate,오염시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460048
+disaster,재난,noun,core,B,an event resulting in great loss and misfortune,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-disaster__1.11.00..,kaikki:disaster:noun:0:2958:s0,재난,29,anki_core:1766527460049
+discharge,방출하다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460050
+resource,자원,noun,core,C,"Something that one uses to achieve an objective, e.g. raw materials or personnel.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:resource:noun:1:5226:s0,자원,29,anki_core:1766527460051
+prominent,"유명한, 두드러진",noun,core,C,Any of various moths having a conspicuous projection on the inner margin of the wings.,unverified,core_deck_not_in_back_word_pdf,,,single_source_only_sense,kaikki,,kaikki:prominent:noun:0:4604:s0,,29,anki_core:1766527460052
+deplete,고갈시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460053
+purify,정화시키다,verb,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460054
+endangered,멸종 위기에 처한,adjective,core,B,(of flora or fauna) in imminent danger of extinction,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-endangered__5.00.00.vulnerable.00,kaikki:endangered:adj:0:6129:s0,,29,anki_core:1766527460055
+extinction,멸종,noun,core,C,The action of making or becoming extinct; annihilation.,verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:extinction:noun:0:6414:s0,멸종,29,anki_core:1766527460056
+drought,가뭄,noun,core,C,"A period of unusually low rainfall, longer and more severe than a dry spell.",verified,core_deck_not_in_back_word_pdf,,,single_source_korean_anchor,kaikki,,kaikki:drought:noun:0:2139:s0,가뭄,29,anki_core:1766527460057
+inflict,"(고통·피해를) 입히다, 가하다",verb,core,B,impose something unpleasant,unverified,core_deck_not_in_back_word_pdf,,,monosemous_pair,oewn,oewn-inflict__2.32.00..,kaikki:inflict:verb:0:4889:s0,,29,anki_core:1766527460058
+migration,"이동, 이주",noun,core,B,(chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule,verified,core_deck_not_in_back_word_pdf,,,double_korean_anchor,oewn,oewn-migration__1.11.01..;oewn-migration__1.11.01..,kaikki:migration:noun:0:2093:s0;kaikki:migration:noun:0:2093:s3,이동;이주,29,anki_core:1766527460059
+ecology,"생태, 자연환경",noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,proposed_pair_needs_review,,,,,29,anki_core:1766527460060
+habitat,(동·식물의) 서식지,noun,core,D,,unverified,core_deck_not_in_back_word_pdf,,,candidates_unaligned,,,,,29,anki_core:1766527460061
+cave,동굴,noun,basic,C,"A large, naturally-occurring cavity formed underground or in the face of a cliff or a hillside.",verified,ocr_exact,16-30(1) p53,n (width),single_source_korean_anchor,kaikki,,kaikki:cave:noun:1:2680:s0,동굴,29,anki_basic:1766527460062
+Celsius,섭씨,noun,basic,E,,unverified,ocr_exact,16-30(1) p53,,no_sense_record,,,,,29,anki_basic:1766527460063
+chilly,쌀쌀한,adjective,basic,B,appreciably or disagreeably cold,verified,ocr_exact,16-30(1) p53,n (width),double_korean_anchor,oewn,oewn-chilly__5.00.00.cold.01,kaikki:chilly:adj:1:4530:s0,쌀쌀하다,29,anki_basic:1766527460064
+clean up,"치우다, 청소하다",phrase,basic,D,,unverified,ocr_exact,16-30(1) p53,,candidates_unaligned,,,,,29,anki_basic:1766527460065
+cleaning supply,청소 용품,phrase,basic,E,,unverified,ocr_exact,16-30(1) p53,,no_sense_record,,,,,29,anki_basic:1766527460066
+desert,사막,noun,basic,C,"A barren area of land or desolate terrain, especially one with little water or vegetation; a wasteland.",verified,ocr_exact,16-30(1) p53,n (width),single_source_korean_anchor,kaikki,,kaikki:desert:noun:1:1818:s0,사막,29,anki_basic:1766527460067
+dirt,먼지,noun,basic,D,,unverified,ocr_exact,16-30(1) p53,n (width),candidates_unaligned,,,,,29,anki_basic:1766527460068
+empty a trash can,휴지통을 비우다,phrase,basic,E,,unverified,ocr_exact,16-30(1) p53,,no_sense_record,,,,,29,anki_basic:1766527460069
+factory,공장,noun,basic,C,A building or other place where manufacturing takes place.,verified,ocr_exact,16-30(1) p53,,single_source_korean_anchor,kaikki,,kaikki:factory:noun:0:1472:s0,공장,29,anki_basic:1766527460070
+harvest,"수확하다, 수확",noun,basic,D,,unverified,ocr_exact,16-30(1) p53,,proposed_pair_needs_review,,,,,29,anki_basic:1766527460071
+humid,습한,noun,basic,E,,unverified,ocr_exact,16-30(1) p53,,no_sense_record,,,,,29,anki_basic:1766527460072
+landscape,풍경,noun,basic,C,"A portion of land or territory as defined by its landform, its geographical (and architectural) features.",verified,ocr_exact,16-30(1) p53,n (width),single_source_korean_anchor,kaikki,,kaikki:landscape:noun:0:3474:s0,풍경,29,anki_basic:1766527460073
+point,"의견, 가리키다",verb,basic,B,"indicate a place, direction, person, or thing; either spatially or figuratively",verified,ocr_exact,16-30(1) p53,n (width),double_korean_anchor,oewn,oewn-point__2.32.00..,kaikki:point:verb:2:102:s0,가리키다,29,anki_basic:1766527460074
+seed,"씨, ~에 씨를 뿌리다",verb,basic,D,,unverified,ocr_exact,16-30(1) p53,,candidates_unaligned,,,,,29,anki_basic:1766527460075
+shade,그늘,noun,basic,C,"Darkness where light, particularly sunlight, is blocked.",verified,ocr_similar,16-30(1) p53,,single_source_korean_anchor,kaikki,,kaikki:shade:noun:1:2816:s0,그늘,29,anki_basic:1766527460076
+sunny,화창한,adjective,basic,D,,unverified,ocr_exact,16-30(1) p53,adj (badge),candidates_unaligned,,,,,29,anki_basic:1766527460077
+sunset,일몰,noun,basic,D,,unverified,ocr_exact,16-30(1) p53,,candidates_unaligned,,,,,29,anki_basic:1766527460078
+wet,젖은,adjective,basic,C,"Of an object, etc.: covered or impregnated with liquid, usually (but not always) water.",verified,ocr_exact,16-30(1) p53,adj (badge),single_source_korean_anchor,kaikki,,kaikki:wet:adj:0:827:s1,젖은,29,anki_basic:1766527460079
+windy,바람 부는,adjective,basic,C,Accompanied by wind.,verified,ocr_exact,16-30(1) p53,adj (badge),single_source_korean_anchor,kaikki,,kaikki:windy:adj:1:4446:s0,바람 부는,29,anki_basic:1766527460080
+wood,"나무, 목재",noun,basic,C,"The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.",verified,ocr_exact,16-30(1) p53,n (width),single_source_korean_anchor,kaikki,,kaikki:wood:noun:1:368:s0,나무;목재,29,anki_basic:1766527460081
+dust,"먼지, 먼지를 털다",verb,basic,D,,unverified,ocr_exact,16-30(1) p53,,candidates_unaligned,,,,,29,anki_basic:1766527460082
+flood,홍수,noun,basic,B,an overwhelming number or amount,verified,ocr_exact,16-30(1) p53,,double_korean_anchor,oewn,oewn-flood__1.23.00..,kaikki:flood:noun:0:1498:s1,홍수,29,anki_basic:1766527460083
+general,일반적인,adjective,basic,D,,unverified,ocr_exact,16-30(1) p53,n (width),candidates_unaligned,,,,,29,anki_basic:1766527460084
+pollution,"오염, 공해",noun,basic,C,"Physical contamination, now especially the contamination of the environment by harmful substances, or by disruptive levels of noise, light etc.",verified,ocr_exact,16-30(1) p53,,single_source_korean_anchor,kaikki,,kaikki:pollution:noun:0:200:s0,오염,29,anki_basic:1766527460085
+shower,소나기,noun,basic,B,a brief period of precipitation,verified,ocr_exact,16-30(1) p53,,double_korean_anchor,oewn,oewn-shower__1.19.00..,kaikki:shower:noun:1:3231:s0,소나기,29,anki_basic:1766527460086
+source,원천,noun,basic,D,,unverified,ocr_exact,16-30(1) p53,,candidates_unaligned,,,,,29,anki_basic:1766527460087
+southern,남쪽의,adjective,basic,B,situated in or coming from regions of the south,verified,ocr_exact,16-30(1) p53,,double_korean_anchor,oewn,oewn-southern__3.00.01..,kaikki:southern:adj:0:888:s0,남쪽의,29,anki_basic:1766527460088
+temperature,온도,noun,basic,B,the somatic sensation of cold or heat,verified,ocr_exact,16-30(1) p53,,double_korean_anchor,oewn,oewn-temperature__1.09.00..,kaikki:temperature:noun:0:353:s0,온도,29,anki_basic:1766527460089
+along the shore,해변을 따라,phrase,800,E,,unverified,ocr_similar,16-30(1) p54,phr (badge),no_sense_record,,,,,29,anki_800:1766527462056
+bay,(바다·호수의)만,noun,800,B,an indentation of a shoreline larger than a cove but smaller than a gulf,verified,ocr_variant_ocr,16-30(1) p54,,double_korean_anchor,oewn,oewn-bay__1.17.00..,kaikki:bay:noun:1:2866:s0,만,29,anki_800:1766527462057
+body of water,물줄기,phrase,800,D,,unverified,ocr_exact,16-30(1) p54,phr (badge),candidates_unaligned,,,,,29,anki_800:1766527462058
+bush,관목,noun,800,B,a low woody perennial plant usually having several major stems,verified,ocr_exact,16-30(1) p54,,double_korean_anchor,oewn,oewn-bush__1.20.00..,kaikki:bush:noun:1:3742:s0,관목,29,anki_800:1766527462059
+cliff,절벽,noun,800,C,A vertical (or nearly vertical) rock face.,verified,ocr_variant_ocr,16-30(1) p54,,single_source_korean_anchor,kaikki,,kaikki:cliff:noun:1:2248:s0,절벽,29,anki_800:1766527462060
+countryside,"시골, 지방",noun,800,B,rural regions,verified,ocr_exact,16-30(1) p54,n (badge),double_korean_anchor,oewn,oewn-countryside__1.15.00..;oewn-countryside__1.15.00..,kaikki:countryside:noun:0:5752:s0;kaikki:countryside:noun:0:5752:s2,시골,29,anki_800:1766527462061
+eco-friendly,환경 친화적인,adjective,800,C,Ecologically friendly; not damaging to the natural environment.,unverified,ocr_exact,16-30(1) p54,,single_source_only_sense,kaikki,,kaikki:eco-friendly:adj:0:7317:s0,,29,anki_800:1766527462062
+footpath,"보도, 오솔길",noun,800,B,a trodden path,verified,ocr_exact,16-30(1) p54,n (badge),double_korean_anchor,oewn,oewn-footpath__1.06.00..,kaikki:footpath:noun:0:6499:s0,보도,29,anki_800:1766527462063
+fountain,분수,noun,800,C,"An artificial, usually ornamental, water feature (usually in a garden or public place) consisting of one or more streams of water originating from a statue or other structure.",verified,ocr_exact,16-30(1) p54,,single_source_korean_anchor,kaikki,,kaikki:fountain:noun:0:1618:s1,분수,29,anki_800:1766527462064
+freezing,몹시 추운,adjective,800,D,,unverified,ocr_exact,16-30(1) p54,,candidates_unaligned,,,,,29,anki_800:1766527462065
+gardening tool,원예도구,phrase,800,E,,unverified,ocr_similar,16-30(1) p54,phr (badge),no_sense_record,,,,,29,anki_800:1766527462066
+grasp,"꽉 잡다, 움켜잡다",verb,800,D,,unverified,ocr_exact,16-30(1) p54,v (badge),candidates_unaligned,,,,,29,anki_800:1766527462067
+hail,우박,noun,800,B,precipitation of ice pellets when there are strong rising air currents,verified,ocr_variant_ocr,16-30(1) p54,,double_korean_anchor,oewn,oewn-hail__1.19.00..,kaikki:hail:noun:1:2270:s0,우박,29,anki_800:1766527462068
+lakefront,호숫가,noun,800,B,land bordering a lake,unverified,ocr_prefix,16-30(1) p54,,monosemous_pair,oewn,oewn-lakefront__1.17.00..,kaikki:lakefront:noun:0:6665:s0,,29,anki_800:1766527462069
+landscaping,조경,noun,800,D,,unverified,ocr_prefix,16-30(1) p54,n (badge),candidates_unaligned,,,,,29,anki_800:1766527462070
+lighthouse,등대,noun,800,B,a tower with a light that gives warning of shoals to passing ships,unverified,ocr_prefix,16-30(1) p54,,monosemous_pair,oewn,oewn-lighthouse__1.06.00..,kaikki:lighthouse:noun:0:6482:s0,,29,anki_800:1766527462071
+nightfall,해질녘,noun,800,B,the time of day immediately following sunset,verified,ocr_prefix,16-30(1) p54,,double_korean_anchor,oewn,oewn-nightfall__1.28.00..,kaikki:nightfall:noun:0:3506:s0,해질녘,29,anki_800:1766527462072
+off the shore,해안에,phrase,800,E,,unverified,ocr_contains,16-30(1) p54,,no_sense_record,,,,,29,anki_800:1766527462073
+overlook the water,호수를 굽어보다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p54,,no_sense_record,,,,,29,anki_800:1766527462074
+pull weeds,잡초를 뽑다,phrase,800,E,,unverified,ocr_exact,16-30(1) p54,phr (badge),no_sense_record,,,,,29,anki_800:1766527462075
+rain forest,열대 우림,phrase,800,D,,unverified,ocr_exact,16-30(1) p54,,candidates_unaligned,,,,,29,anki_800:1766527462076
+rain or shine,"날씨에 상관없이, 어떤 일이 있어도",phrase,800,C,Regardless of the circumstances; (more literally) regardless of the state of the weather.,unverified,ocr_exact,16-30(1) p54,phr (badge),single_source_only_sense,kaikki,,kaikki:rain or shine:adv:0:7277:s0,,29,anki_800:1766527462077
+rain shower,소나기,phrase,800,D,,unverified,ocr_similar,16-30(1) p54,phr (badge),candidates_unaligned,,,,,29,anki_800:1766527462078
+rainstorm,폭풍우,noun,800,C,"A storm characterized by substantial, heavy rainfall.",verified,ocr_prefix,16-30(1) p54,n (width),single_source_korean_anchor,kaikki,,kaikki:rainstorm:noun:0:7085:s0,폭풍우,29,anki_800:1766527462079
+ranger,공원관리인,adjective,800,E,,unverified,ocr_similar_loose,16-30(1) p54,,no_sense_record,,,,,29,anki_800:1766527462080
+riverbank,강둑,noun,800,B,the bank of a river,unverified,ocr_prefix,16-30(1) p54,n (badge),monosemous_pair,oewn,oewn-riverbank__1.17.00..,kaikki:riverbank:noun:0:7057:s0,,29,anki_800:1766527462081
+riverside,강변,noun,800,B,the bank of a river,unverified,ocr_prefix,16-30(1) p54,n (badge),monosemous_pair,oewn,oewn-riverside__1.17.00..,kaikki:riverside:noun:0:6605:s0,,29,anki_800:1766527462082
+scenery,풍경,noun,800,C,"View, natural features, landscape.",verified,ocr_exact,16-30(1) p54,n (badge),single_source_korean_anchor,kaikki,,kaikki:scenery:noun:0:5239:s0,풍경,29,anki_800:1766527462083
+scenic,경치의,adjective,800,D,,unverified,ocr_contains,16-30(1) p54,adj (badge),proposed_pair_needs_review,,,,,29,anki_800:1766527462084
+slope,"비탈, 경사지다",verb,800,D,,unverified,ocr_prefix,16-30(1) p54,,candidates_unaligned,,,,,29,anki_800:1766527462085
+stream,"시냇물, 흐르다",verb,800,D,,unverified,ocr_exact,16-30(1) p54,n (badge),candidates_unaligned,,,,,29,anki_800:1766527462086
+suburb,교외,noun,800,B,a residential district located on the outskirts of a city,verified,ocr_exact,16-30(1) p54,n (width),double_korean_anchor,oewn,oewn-suburb__1.15.00..,kaikki:suburb:noun:0:5218:s0,교외,29,anki_800:1766527462087
+sweep the leaves,낙엽을 쓸다,phrase,800,E,,unverified,ocr_prefix,16-30(1) p54,phr (width),no_sense_record,,,,,29,anki_800:1766527462088
+thunderstorm,뇌우,noun,800,C,"A storm consisting of thunder and lightning produced by a cumulonimbus, usually accompanied with heavy rain, wind, and sometimes hail; and in rarer cases sleet, freezing rain, or snow.",verified,ocr_variant_ocr,16-30(1) p55,,single_source_korean_anchor,kaikki,,kaikki:thunderstorm:noun:0:2743:s0,뇌우,29,anki_800:1766527462089
+trail,"길, 자취",noun,800,B,a path or track roughly blazed through wild or hilly country,verified,ocr_variant_ocr,16-30(1) p55,,double_korean_anchor,oewn,oewn-trail__1.06.00..,kaikki:trail:noun:0:480:s1,길,29,anki_800:1766527462090
+trap,"가두다, 함정에 빠뜨리다",verb,800,D,,unverified,ocr_exact,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462091
+tree trunk,나무줄기,phrase,800,D,,unverified,ocr_exact,16-30(1) p55,phr (badge),candidates_unaligned,,,,,29,anki_800:1766527462092
+twilight,해질녘,noun,800,D,,unverified,ocr_similar,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462093
+weather forecast,일기 예보,phrase,800,C,"A prediction of future weather, often for a specific locality, in a newspaper or on the radio or television.",verified,ocr_prefix,16-30(1) p55,phr (badge),single_source_korean_anchor,kaikki,,kaikki:weather forecast:noun:0:4927:s0,일기 예보,29,anki_800:1766527462094
+weather report,일기예보,phrase,800,C,"A description, especially one prepared by a governmental or other authority, of past, present or forecasted meteorological conditions for a particular geographical area.",unverified,ocr_exact,16-30(1) p55,phr (badge),single_source_only_sense,kaikki,,kaikki:weather report:noun:0:7353:s0,,29,anki_800:1766527462095
+windstorm,폭풍,noun,800,D,,unverified,ocr_exact,16-30(1) p55,,proposed_pair_needs_review,,,,,29,anki_800:1766527462096
+affirmative,"긍정하는, 동의하는",adjective,800,D,,unverified,ocr_variant_ocr,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462097
+dislike,싫어하다,verb,800,C,To have a feeling of aversion or antipathy towards; not to like.,verified,ocr_contains,16-30(1) p55,v (badge),single_source_korean_anchor,kaikki,,kaikki:dislike:verb:0:3168:s1,싫어하다,29,anki_800:1766527462098
+fertile,"비옥한, 기름진",noun,800,E,,unverified,ocr_prefix,16-30(1) p55,adj (badge),no_sense_record,,,,,29,anki_800:1766527462099
+in particular,특히,phrase,800,C,"Especially, individually or specifically.",verified,ocr_prefix,16-30(1) p55,phr (width),single_source_korean_anchor,kaikki,,kaikki:in particular:prep_phrase:0:6853:s0,특히,29,anki_800:1766527462100
+quietly,조용히,adverb,800,C,Producing little or no noise.,verified,ocr_prefix,16-30(1) p55,adv (badge),single_source_korean_anchor,kaikki,,kaikki:quietly:adv:0:5807:s0,조용하게;조용히,29,anki_800:1766527462101
+revolve,"회전하다, 초점을 맞추다",verb,800,D,,unverified,ocr_similar,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462102
+setting,"환경, 장소",noun,800,D,,unverified,ocr_similar,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462103
+sheer,"순전한, 얇은",adjective,800,D,,unverified,ocr_variant_ocr,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462104
+solid,단단한,adjective,800,C,"Measured as a single solid, as the volumes of individual pieces added together without any gaps.",verified,ocr_similar,16-30(1) p55,,single_source_korean_anchor,kaikki,,kaikki:solid:adj:1:955:s19,단단하다,29,anki_800:1766527462105
+tangible,"만져서 알 수 있는, 명백한",adjective,800,D,,unverified,ocr_similar,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462106
+thoughtfully,생각이 깊게,adverb,800,D,,unverified,ocr_similar_loose,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462107
+atmospheric,"대기의, 분위기 있는",adjective,800,D,,unverified,ocr_contains,16-30(1) p55,adj (badge),proposed_pair_needs_review,,,,,29,anki_800:1766527462108
+conservation,보존,noun,800,B,an occurrence of improvement by virtue of preventing loss or injury or other change,verified,ocr_similar,16-30(1) p55,n (badge),double_korean_anchor,oewn,oewn-conservation__1.11.00..,kaikki:conservation:noun:0:3318:s0,보존,29,anki_800:1766527462109
+environmental regulations,환경 규제,phrase,800,E,,unverified,ocr_variant_ocr,16-30(1) p55,,no_sense_record,,,,,29,anki_800:1766527462110
+ground,"지면, 근거",noun,800,D,,unverified,ocr_exact,16-30(1) p55,,proposed_pair_needs_review,,,,,29,anki_800:1766527462111
+inclement,"(날씨가) 궂은, 혹독한",adjective,800,D,,unverified,ocr_similar,16-30(1) p55,n (width),candidates_unaligned,,,,,29,anki_800:1766527462112
+mining,"채굴, 채광",noun,800,D,,unverified,ocr_prefix,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462113
+natural habitat,자연 서식지,phrase,800,E,,unverified,ocr_similar,16-30(1) p55,,no_sense_record,,,,,29,anki_800:1766527462114
+noise and air pollution,소음공해와 대기 오염,phrase,800,E,,unverified,ocr_similar,16-30(1) p55,phr (badge),no_sense_record,,,,,29,anki_800:1766527462115
+nourishment,영양분,noun,800,D,,unverified,ocr_similar,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462116
+nurture,"양육하다, 기르다",verb,800,D,,unverified,ocr_similar_loose,16-30(1) p55,,candidates_unaligned,,,,,29,anki_800:1766527462117
+overflow,"범람하다, 넘치다",verb,800,D,,unverified,ocr_similar,16-30(1) p55,,proposed_pair_needs_review,,,,,29,anki_800:1766527462118
+react to,~에 반응하다,phrase,800,E,,unverified,ocr_similar,16-30(1) p55,phr (width),no_sense_record,,,,,29,anki_800:1766527462119
+recyclable,재활용이 가능한,adjective,800,B,capable of being used again,unverified,ocr_similar_loose,16-30(1) p55,n (width),monosemous_pair,oewn,oewn-recyclable__5.00.00.useful.00,kaikki:recyclable:adj:0:6215:s0,,29,anki_800:1766527462120
+under construction,공사 중인,phrase,800,C,Being currently constructed.,unverified,ocr_prefix,16-30(1) p55,phr (width),single_source_only_sense,kaikki,,kaikki:under construction:prep_phrase:0:8032:s0,,29,anki_800:1766527462121
+vague,"모호한, 애매한",adjective,800,D,,unverified,ocr_similar,16-30(1) p55,n (width),proposed_pair_needs_review,,,,,29,anki_800:1766527462122
+water level,수위(水位),phrase,800,D,,unverified,ocr_similar,16-30(1) p55,phr (badge),proposed_pair_needs_review,,,,,29,anki_800:1766527462123
+botanical,식물의,adjective,900,D,,unverified,ocr_exact,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463118
+irrigation system,관개 시설,phrase,900,E,,unverified,ocr_exact,16-30(1) p56,phr (width),no_sense_record,,,,,29,anki_900:1766527463119
+mow the lawn,잔디를 깎다,phrase,900,E,,unverified,ocr_exact,16-30(1) p56,n (badge),no_sense_record,,,,,29,anki_900:1766527463120
+overpass,육교,noun,900,B,bridge formed by the upper level of a crossing of two highways at different levels,unverified,ocr_prefix,16-30(1) p56,n (width),monosemous_pair,oewn,oewn-overpass__1.06.00..,kaikki:overpass:noun:0:7051:s0,,29,anki_900:1766527463121
+potted,화분에 심은,adjective,900,D,,unverified,ocr_similar,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463122
+pull up,"뽑다, (차가) 서다",phrase,900,D,,unverified,ocr_similar,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463123
+shrub,관목,noun,900,B,a low woody perennial plant usually having several major stems,verified,ocr_prefix,16-30(1) p56,,double_korean_anchor,oewn,oewn-shrub__1.20.00..,kaikki:shrub:noun:1:3790:s0,관목,29,anki_900:1766527463124
+vacant site,공터,phrase,900,E,,unverified,ocr_exact,16-30(1) p56,,no_sense_record,,,,,29,anki_900:1766527463125
+outwardly,"겉으로는, 표면상으로",adverb,900,D,,unverified,ocr_exact,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463126
+precipitation,"강수량, 강우량",noun,900,D,,unverified,ocr_exact,16-30(1) p56,,proposed_pair_needs_review,,,,,29,anki_900:1766527463127
+promptness,"재빠름, 신속",noun,900,D,,unverified,ocr_exact,16-30(1) p56,n (badge),candidates_unaligned,,,,,29,anki_900:1766527463128
+revert,(본래대로) 되돌아가다,verb,900,D,,unverified,ocr_exact,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463129
+sustainable,지속 가능한,adjective,900,D,,unverified,ocr_exact,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463130
+tranquility,평온,noun,900,D,,unverified,ocr_prefix,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463131
+trimming,"정돈, 장식",noun,900,D,,unverified,ocr_prefix,16-30(1) p56,n (width),candidates_unaligned,,,,,29,anki_900:1766527463132
+depletion,(자원 등의) 고갈,noun,900,C,The consumption of a resource faster than it can be replenished.,verified,ocr_similar,16-30(1) p56,n (width),single_source_korean_anchor,kaikki,,kaikki:depletion:noun:0:6792:s1,고갈,29,anki_900:1766527463133
+disposal,"처분, 폐기",noun,900,C,"A disposition; an arrangement, categorization, or classification of things.",verified,ocr_prefix,16-30(1) p56,,single_source_korean_anchor,kaikki,,kaikki:disposal:noun:0:6100:s0,처분,29,anki_900:1766527463134
+downpour,호우,noun,900,B,a heavy rain,verified,ocr_prefix,16-30(1) p56,n (width),double_korean_anchor,oewn,oewn-downpour__1.19.00..,kaikki:downpour:noun:0:6125:s0,호우,29,anki_900:1766527463135
+drench,흠뻑 물에 적시다,verb,900,D,,unverified,ocr_exact,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463136
+fade,"바래다, 희미해지다",verb,900,D,,unverified,ocr_variant_ocr,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463137
+fuel emission,연료 배기,phrase,900,E,,unverified,ocr_similar,16-30(1) p56,n (width),no_sense_record,,,,,29,anki_900:1766527463138
+fumes,"가스, 연기",noun,900,D,,unverified,ocr_prefix,16-30(1) p56,n (width),candidates_unaligned,,,,,29,anki_900:1766527463139
+grazing,"방목, 목초지",noun,900,D,,unverified,ocr_exact,16-30(1) p56,n (badge),candidates_unaligned,,,,,29,anki_900:1766527463140
+logging,벌목,noun,900,D,,unverified,ocr_prefix,16-30(1) p56,,candidates_unaligned,,,,,29,anki_900:1766527463141
+outskirts,"교외, 변두리",noun,900,B,outlying areas (as of a city or town),unverified,ocr_prefix,16-30(1) p56,,monosemous_pair,oewn,oewn-outskirts__1.15.00..,kaikki:outskirts:noun:1:6192:s0,,29,anki_900:1766527463142
+residue,잔여물,noun,900,D,,unverified,ocr_prefix,16-30(1) p56,n (badge),candidates_unaligned,,,,,29,anki_900:1766527463143
+rugged,울퉁불퉁한,adjective,900,D,,unverified,ocr_prefix,16-30(1) p56,adj (badge),candidates_unaligned,,,,,29,anki_900:1766527463144
+sewage,"하수, 오수",noun,900,B,waste matter carried away in sewers or drains,unverified,ocr_prefix,16-30(1) p56,n (width),monosemous_pair,oewn,oewn-sewage__1.27.00..,kaikki:sewage:noun:0:4856:s0,,29,anki_900:1766527463145
+splendor,장엄함,noun,900,D,,unverified,ocr_prefix,16-30(1) p56,n (badge),candidates_unaligned,,,,,29,anki_900:1766527463146
+terrestrial,지구상의,adjective,900,D,,unverified,ocr_prefix,16-30(1) p56,,proposed_pair_needs_review,,,,,29,anki_900:1766527463147
+timber,목재,noun,900,C,Trees in a forest regarded as a source of wood.,verified,ocr_prefix,16-30(1) p56,,single_source_korean_anchor,kaikki,,kaikki:timber:noun:0:1737:s0,목재,29,anki_900:1766527463148
+toxication,중독,noun,900,C,the metabolism of a drug or other compound to produce a toxic metabolite,unverified,ocr_prefix,16-30(1) p56,n (badge),single_source_only_sense,kaikki,,kaikki:toxication:noun:0:6475:s0,,29,anki_900:1766527463149

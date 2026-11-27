@@ -46,13 +46,13 @@ change,change within,change within,noun+preposition,17,oanc_candidate_unreviewed
 change,change during,change during,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:change:during:verb+preposition
 change,changes after,change after,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:change:after:noun+preposition
 change,changed since,change since,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:change:since:verb+preposition
-change,changed into,change into,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:change:into:verb+preposition
+change,changing into,change into,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:change:into:verb+preposition
 change,changed at,change at,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:change:at:verb+preposition
 change,change across,change across,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:change:across:noun+preposition
 change,change for,change for,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:change:for:verb+preposition
-change,changed using,change VBG,verb+VBG,11,oanc_candidate_unreviewed,COLLIGATION:change:VBG:verb+VBG
+change,change priming,change VBG,verb+VBG,11,oanc_candidate_unreviewed,COLLIGATION:change:VBG:verb+VBG
 change,changes as,change as,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:change:as:noun+preposition
-change,changed to capture,change to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:change:to:verb+to-infinitive
+change,changed to honor,change to + infinitive,verb+to-infinitive,10,oanc_candidate_unreviewed,COLLIGATION:change:to:verb+to-infinitive
 change,change than,change than,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:change:than:noun+preposition
 change,changes since,change since,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:change:since:noun+preposition
 change,change after,change after,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:change:after:verb+preposition
@@ -70,7 +70,7 @@ charity,charities in,charity in,noun+preposition,5,oanc_candidate_unreviewed,COL
 dean,dean of,dean of,noun+preposition,36,oanc_candidate_unreviewed,COLLIGATION:dean:of:noun+preposition
 dean,dean for,dean for,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:dean:for:noun+preposition
 decline,decline in,decline in,noun+preposition,245,oanc_candidate_unreviewed,COLLIGATION:decline:in:noun+preposition
-decline,decline to publish,decline to + infinitive,verb+to-infinitive,110,oanc_candidate_unreviewed,COLLIGATION:decline:to:verb+to-infinitive
+decline,declined to test,decline to + infinitive,verb+to-infinitive,110,oanc_candidate_unreviewed,COLLIGATION:decline:to:verb+to-infinitive
 decline,decline of,decline of,noun+preposition,94,oanc_candidate_unreviewed,COLLIGATION:decline:of:noun+preposition
 decline,declined in,decline in,verb+preposition,40,oanc_candidate_unreviewed,COLLIGATION:decline:in:verb+preposition
 decline,declined by,decline by,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:decline:by:verb+preposition
@@ -84,7 +84,7 @@ decline,decline for,decline for,verb+preposition,8,oanc_candidate_unreviewed,COL
 decline,declines by,decline by,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:decline:by:noun+preposition
 decline,decline at,decline at,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:decline:at:verb+preposition
 decline,declined over,decline over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:decline:over:verb+preposition
-decline,declined with,decline with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:decline:with:verb+preposition
+decline,declines with,decline with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:decline:with:verb+preposition
 decline,decline as,decline as,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:decline:as:noun+preposition
 decline,decline into,decline into,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:decline:into:verb+preposition
 decline,declines with,decline with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:decline:with:noun+preposition
@@ -110,7 +110,7 @@ decrease,decreased during,decrease during,verb+preposition,6,oanc_candidate_unre
 decrease,decreased on,decrease on,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:decrease:on:verb+preposition
 decrease,decrease at,decrease at,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:decrease:at:noun+preposition
 desperate,desperate for,desperate for,adjective+preposition,20,oanc_candidate_unreviewed,COLLIGATION:desperate:for:adjective+preposition
-desperate,desperate to stop,desperate to + infinitive,adjective+to-infinitive,20,oanc_candidate_unreviewed,COLLIGATION:desperate:to:adjective+to-infinitive
+desperate,desperate to help,desperate to + infinitive,adjective+to-infinitive,20,oanc_candidate_unreviewed,COLLIGATION:desperate:to:adjective+to-infinitive
 deviate,deviate from,deviate from,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:deviate:from:noun+preposition
 deviate,deviated from,deviate from,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:deviate:from:verb+preposition
 distributor,distributors of,distributor of,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:distributor:of:noun+preposition
@@ -147,7 +147,7 @@ estimate,estimated on,estimate on,verb+preposition,8,oanc_candidate_unreviewed,C
 estimate,estimates on,estimate on,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:estimate:on:noun+preposition
 estimate,estimate because,estimate because,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:estimate:because:noun+preposition
 estimate,estimate to,estimate to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:estimate:to:verb+to
-exceed,exceed that,exceed that,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:exceed:that:verb+preposition
+exceed,exceeds that,exceed that,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:exceed:that:verb+preposition
 exceed,exceeded by,exceed by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:exceed:by:verb+preposition
 factor,factor in,factor in,noun+preposition,275,oanc_candidate_unreviewed,COLLIGATION:factor:in:noun+preposition
 factor,factor for,factor for,noun+preposition,211,oanc_candidate_unreviewed,COLLIGATION:factor:for:noun+preposition
@@ -202,7 +202,7 @@ gain,gain in,gain in,noun+preposition,46,oanc_candidate_unreviewed,COLLIGATION:g
 gain,gained from,gain from,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:gain:from:verb+preposition
 gain,gain from,gain from,noun+preposition,25,oanc_candidate_unreviewed,COLLIGATION:gain:from:noun+preposition
 gain,gained by,gain by,verb+preposition,19,oanc_candidate_unreviewed,COLLIGATION:gain:by:verb+preposition
-gain,gaining in,gain in,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:gain:in:verb+preposition
+gain,gain in,gain in,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:gain:in:verb+preposition
 gain,gains on,gain on,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:gain:on:noun+preposition
 gain,gains for,gain for,noun+preposition,13,oanc_candidate_unreviewed,COLLIGATION:gain:for:noun+preposition
 gain,gain to,gain to,noun+to,12,oanc_candidate_unreviewed,COLLIGATION:gain:to:noun+to
@@ -302,11 +302,11 @@ increase,increase if,increase if,verb+preposition,7,oanc_candidate_unreviewed,CO
 increase,increasing about,increase about,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:increase:about:verb+preposition
 increase,increase after,increase after,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:increase:after:noun+preposition
 increase,increase because,increase because,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:increase:because:verb+preposition
-increase,increased to cover,increase to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:increase:to:verb+to-infinitive
+increase,increased to meet,increase to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:increase:to:verb+to-infinitive
 incur,incurred by,incur by,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:incur:by:verb+preposition
 incur,incurred for,incur for,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:incur:for:verb+preposition
 incur,incurred in,incur in,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:incur:in:verb+preposition
-incur,incurred to bring,incur to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:incur:to:verb+to-infinitive
+incur,incurred to produce,incur to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:incur:to:verb+to-infinitive
 indicative,indicative of,indicative of,adjective+preposition,107,oanc_candidate_unreviewed,COLLIGATION:indicative:of:adjective+preposition
 infusion,infusion of,infusion of,noun+preposition,45,oanc_candidate_unreviewed,COLLIGATION:infusion:of:noun+preposition
 lesson,lesson of,lesson of,noun+preposition,68,oanc_candidate_unreviewed,COLLIGATION:lesson:of:noun+preposition
@@ -420,7 +420,7 @@ reduce,reduced to,reduce to,verb+to,150,oanc_candidate_unreviewed,COLLIGATION:re
 reduce,reduced by,reduce by,verb+preposition,101,oanc_candidate_unreviewed,COLLIGATION:reduce:by:verb+preposition
 reduce,reduced in,reduce in,verb+preposition,66,oanc_candidate_unreviewed,COLLIGATION:reduce:in:verb+preposition
 reduce,reduced to detect,reduce to + infinitive,verb+to-infinitive,23,oanc_candidate_unreviewed,COLLIGATION:reduce:to:verb+to-infinitive
-reduce,reduce stuttering,reduce VBG,verb+VBG,18,oanc_candidate_unreviewed,COLLIGATION:reduce:VBG:verb+VBG
+reduce,reduce misunderstanding,reduce VBG,verb+VBG,18,oanc_candidate_unreviewed,COLLIGATION:reduce:VBG:verb+VBG
 reduce,reduced from,reduce from,verb+preposition,18,oanc_candidate_unreviewed,COLLIGATION:reduce:from:verb+preposition
 reduce,reduced as,reduce as,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:reduce:as:verb+preposition
 reduce,reduced if,reduce if,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:reduce:if:verb+preposition
@@ -451,7 +451,7 @@ revenue,revenues in,revenue in,noun+preposition,23,oanc_candidate_unreviewed,COL
 revenue,revenue by,revenue by,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:revenue:by:noun+preposition
 revenue,revenue per,revenue per,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:revenue:per:noun+preposition
 revenue,revenue as,revenue as,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:revenue:as:noun+preposition
-rewarding,rewarding to explore,rewarding to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:rewarding:to:adjective+to-infinitive
+rewarding,rewarding to leave,rewarding to + infinitive,adjective+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:rewarding:to:adjective+to-infinitive
 sale,sale of,sale of,noun+preposition,181,oanc_candidate_unreviewed,COLLIGATION:sale:of:noun+preposition
 sale,sale in,sale in,noun+preposition,43,oanc_candidate_unreviewed,COLLIGATION:sale:in:noun+preposition
 sale,sales to,sale to,noun+to,34,oanc_candidate_unreviewed,COLLIGATION:sale:to:noun+to
@@ -472,17 +472,17 @@ save,save on,save on,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:sa
 save,save up,save up,verb+particle,7,oanc_candidate_unreviewed,COLLIGATION:save:up:verb+particle
 save,saving resulting,save VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:save:VBG:verb+VBG
 save,saving through,save through,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:save:through:verb+preposition
-save,saving about,save about,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:save:about:verb+preposition
+save,saved about,save about,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:save:about:verb+preposition
 send,sent to,send to,verb+to,193,oanc_candidate_unreviewed,COLLIGATION:send:to:verb+to
 send,sent in,send in,verb+preposition,71,oanc_candidate_unreviewed,COLLIGATION:send:in:verb+preposition
 send,sent by,send by,verb+preposition,55,oanc_candidate_unreviewed,COLLIGATION:send:by:verb+preposition
 send,sent out,send out,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:send:out:verb+preposition
 send,sent out,send out,verb+particle,25,oanc_candidate_unreviewed,COLLIGATION:send:out:verb+particle
-send,sent to put,send to + infinitive,verb+to-infinitive,15,oanc_candidate_unreviewed,COLLIGATION:send:to:verb+to-infinitive
+send,sent to pine,send to + infinitive,verb+to-infinitive,15,oanc_candidate_unreviewed,COLLIGATION:send:to:verb+to-infinitive
 send,sent for,send for,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:send:for:verb+preposition
-send,sending supporting,send VBG,verb+VBG,9,oanc_candidate_unreviewed,COLLIGATION:send:VBG:verb+VBG
 send,sent from,send from,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:send:from:verb+preposition
-send,sent off,send off,verb+particle,8,oanc_candidate_unreviewed,COLLIGATION:send:off:verb+particle
+send,sent summarizing,send VBG,verb+VBG,9,oanc_candidate_unreviewed,COLLIGATION:send:VBG:verb+VBG
+send,sending off,send off,verb+particle,8,oanc_candidate_unreviewed,COLLIGATION:send:off:verb+particle
 send,send up,send up,verb+particle,7,oanc_candidate_unreviewed,COLLIGATION:send:up:verb+particle
 send,sent into,send into,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:send:into:verb+preposition
 send,sent on,send on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:send:on:verb+preposition
@@ -496,7 +496,7 @@ share,sharing between,share between,verb+preposition,28,oanc_candidate_unreviewe
 share,shared among,share among,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:share:among:verb+preposition
 share,share in,share in,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:share:in:noun+preposition
 share,share with,share with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:share:with:noun+preposition
-share,shared underlying,share VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:share:VBG:verb+VBG
+share,shared upbringing,share VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:share:VBG:verb+VBG
 shift,shift in,shift in,noun+preposition,154,oanc_candidate_unreviewed,COLLIGATION:shift:in:noun+preposition
 shift,shift to,shift to,verb+to,67,oanc_candidate_unreviewed,COLLIGATION:shift:to:verb+to
 shift,shift of,shift of,noun+preposition,41,oanc_candidate_unreviewed,COLLIGATION:shift:of:noun+preposition
@@ -519,7 +519,7 @@ split,split on,split on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION
 split,split with,split with,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:split:with:noun+preposition
 submission,submission of,submission of,noun+preposition,44,oanc_candidate_unreviewed,COLLIGATION:submission:of:noun+preposition
 submission,submission to,submission to,noun+to,30,oanc_candidate_unreviewed,COLLIGATION:submission:to:noun+to
-sufficient,sufficient to see,sufficient to + infinitive,adjective+to-infinitive,242,oanc_candidate_unreviewed,COLLIGATION:sufficient:to:adjective+to-infinitive
+sufficient,sufficient to supply,sufficient to + infinitive,adjective+to-infinitive,242,oanc_candidate_unreviewed,COLLIGATION:sufficient:to:adjective+to-infinitive
 sufficient,sufficient for,sufficient for,adjective+preposition,86,oanc_candidate_unreviewed,COLLIGATION:sufficient:for:adjective+preposition
 sufficient,sufficient to,sufficient to,adjective+to,27,oanc_candidate_unreviewed,COLLIGATION:sufficient:to:adjective+to
 sufficient,sufficient in,sufficient in,adjective+preposition,5,oanc_candidate_unreviewed,COLLIGATION:sufficient:in:adjective+preposition
@@ -558,11 +558,11 @@ whole,whole of,whole of,noun+preposition,43,oanc_candidate_unreviewed,COLLIGATIO
 whole,whole in,whole in,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:whole:in:noun+preposition
 win,won by,win by,verb+preposition,31,oanc_candidate_unreviewed,COLLIGATION:win:by:verb+preposition
 win,win over,win over,verb+preposition,26,oanc_candidate_unreviewed,COLLIGATION:win:over:verb+preposition
-win,won in,win in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:win:in:verb+preposition
+win,win in,win in,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:win:in:verb+preposition
 win,won on,win on,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:win:on:verb+preposition
-win,wins because,win because,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:win:because:verb+preposition
+win,wins” because,win because,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:win:because:verb+preposition
 win,won out,win out,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:win:out:verb+preposition
-win,win for,win for,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:win:for:verb+preposition
+win,wins for,win for,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:win:for:verb+preposition
 win,won with,win with,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:win:with:verb+preposition
 win,win for,win for,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:win:for:noun+preposition
 win,win at,win at,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:win:at:verb+preposition

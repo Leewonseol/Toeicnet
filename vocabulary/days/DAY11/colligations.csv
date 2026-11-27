@@ -1,6 +1,6 @@
 headword,colligation,lemma,combination,oanc_frequency,status,oanc_record
 accurate,accurate than,accurate than,adjective+preposition,17,oanc_candidate_unreviewed,COLLIGATION:accurate:than:adjective+preposition
-accurate,accurate to allow,accurate to + infinitive,adjective+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:accurate:to:adjective+to-infinitive
+accurate,accurate to estimate,accurate to + infinitive,adjective+to-infinitive,14,oanc_candidate_unreviewed,COLLIGATION:accurate:to:adjective+to-infinitive
 accurate,accurate in,accurate in,adjective+preposition,12,oanc_candidate_unreviewed,COLLIGATION:accurate:in:adjective+preposition
 accurate,accurate as,accurate as,adjective+preposition,11,oanc_candidate_unreviewed,COLLIGATION:accurate:as:adjective+preposition
 accurate,accurate for,accurate for,adjective+preposition,8,oanc_candidate_unreviewed,COLLIGATION:accurate:for:adjective+preposition
@@ -12,24 +12,24 @@ advance,advance for,advance for,noun+preposition,21,oanc_candidate_unreviewed,CO
 advance,advanced by,advance by,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:advance:by:verb+preposition
 advance,advanced to,advance to,verb+to,17,oanc_candidate_unreviewed,COLLIGATION:advance:to:verb+to
 advance,advanced in,advance in,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:advance:in:verb+preposition
-advance,advance indicating,advance VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:advance:VBG:verb+VBG
+advance,advanced programming,advance VBG,verb+VBG,12,oanc_candidate_unreviewed,COLLIGATION:advance:VBG:verb+VBG
 advance,advances to,advance to,noun+to,12,oanc_candidate_unreviewed,COLLIGATION:advance:to:noun+to
 advance,advanced into,advance into,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:advance:into:verb+preposition
 advance,advances from,advance from,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:advance:from:noun+preposition
 advance,advance into,advance into,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:advance:into:noun+preposition
+advance,advanced on,advance on,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:advance:on:verb+preposition
 advance,advanced than,advance than,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:advance:than:verb+preposition
 advance,advances on,advance on,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:advance:on:noun+preposition
-advance,advancing on,advance on,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:advance:on:verb+preposition
 advance,advance that,advance that,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:advance:that:noun+preposition
-advance,advancing through,advance through,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:advance:through:verb+preposition
+advance,advance through,advance through,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:advance:through:verb+preposition
 advancement,advancement of,advancement of,noun+preposition,21,oanc_candidate_unreviewed,COLLIGATION:advancement:of:noun+preposition
 advancement,advancements in,advancement in,noun+preposition,14,oanc_candidate_unreviewed,COLLIGATION:advancement:in:noun+preposition
-allow,allowed to rent,allow to + infinitive,verb+to-infinitive,416,oanc_candidate_unreviewed,COLLIGATION:allow:to:verb+to-infinitive
+allow,allowed to enter,allow to + infinitive,verb+to-infinitive,416,oanc_candidate_unreviewed,COLLIGATION:allow:to:verb+to-infinitive
 allow,allowing for,allow for,verb+preposition,315,oanc_candidate_unreviewed,COLLIGATION:allow:for:verb+preposition
 allow,allowed to,allow to,verb+to,57,oanc_candidate_unreviewed,COLLIGATION:allow:to:verb+to
-allow,allowed silencing,allow VBG,verb+VBG,24,oanc_candidate_unreviewed,COLLIGATION:allow:VBG:verb+VBG
+allow,allowed leading,allow VBG,verb+VBG,24,oanc_candidate_unreviewed,COLLIGATION:allow:VBG:verb+VBG
 allow,allowed in,allow in,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:allow:in:verb+preposition
-allow,allow that,allow that,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:allow:that:verb+preposition
+allow,allowed that,allow that,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:allow:that:verb+preposition
 allow,allowed by,allow by,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:allow:by:verb+preposition
 allow,allow at,allow at,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:allow:at:verb+preposition
 allow,allowed on,allow on,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:allow:on:verb+preposition
@@ -92,7 +92,7 @@ control,control before,control before,noun+preposition,7,oanc_candidate_unreview
 control,control over,control over,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:control:over:verb+preposition
 control,control than,control than,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:control:than:noun+preposition
 control,controls without,control without,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:control:without:noun+preposition
-control,control binding,control VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:control:VBG:verb+VBG
+control,control neighbouring,control VBG,verb+VBG,5,oanc_candidate_unreviewed,COLLIGATION:control:VBG:verb+VBG
 copyright,copyright to,copyright to,noun+to,6,oanc_candidate_unreviewed,COLLIGATION:copyright:to:noun+to
 customize,customized for,customize for,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:customize:for:verb+preposition
 delighted,delighted that,delighted that,adjective+preposition,7,oanc_candidate_unreviewed,COLLIGATION:delighted:that:adjective+preposition
@@ -141,7 +141,7 @@ development,development with,development with,noun+preposition,10,oanc_candidate
 development,development within,development within,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:development:within:noun+preposition
 development,development during,development during,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:development:during:noun+preposition
 devise,devised by,devise by,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:devise:by:verb+preposition
-devise,devised to deal,devise to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:devise:to:verb+to-infinitive
+devise,devised to detect,devise to + infinitive,verb+to-infinitive,8,oanc_candidate_unreviewed,COLLIGATION:devise:to:verb+to-infinitive
 discovery,discovery of,discovery of,noun+preposition,148,oanc_candidate_unreviewed,COLLIGATION:discovery:of:noun+preposition
 discovery,discovery that,discovery that,noun+preposition,44,oanc_candidate_unreviewed,COLLIGATION:discovery:that:noun+preposition
 discovery,discovery in,discovery in,noun+preposition,28,oanc_candidate_unreviewed,COLLIGATION:discovery:in:noun+preposition
@@ -154,11 +154,11 @@ dysfunction,dysfunction in,dysfunction in,noun+preposition,10,oanc_candidate_unr
 dysfunction,dysfunction of,dysfunction of,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:dysfunction:of:noun+preposition
 envision,envisioned by,envision by,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:envision:by:verb+preposition
 envision,envision that,envision that,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:envision:that:verb+preposition
-envision,envision cutting,envision VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:envision:VBG:verb+VBG
+envision,envisioned placing,envision VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:envision:VBG:verb+VBG
 evolve,evolved from,evolve from,verb+preposition,49,oanc_candidate_unreviewed,COLLIGATION:evolve:from:verb+preposition
 evolve,evolved in,evolve in,verb+preposition,46,oanc_candidate_unreviewed,COLLIGATION:evolve:in:verb+preposition
 evolve,evolved into,evolve into,verb+preposition,45,oanc_candidate_unreviewed,COLLIGATION:evolve:into:verb+preposition
-evolve,evolved to manipulate,evolve to + infinitive,verb+to-infinitive,28,oanc_candidate_unreviewed,COLLIGATION:evolve:to:verb+to-infinitive
+evolve,evolved to prevent,evolve to + infinitive,verb+to-infinitive,28,oanc_candidate_unreviewed,COLLIGATION:evolve:to:verb+to-infinitive
 evolve,evolved to,evolve to,verb+to,19,oanc_candidate_unreviewed,COLLIGATION:evolve:to:verb+to
 evolve,evolved over,evolve over,verb+preposition,15,oanc_candidate_unreviewed,COLLIGATION:evolve:over:verb+preposition
 evolve,evolved under,evolve under,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:evolve:under:verb+preposition
@@ -167,7 +167,7 @@ evolve,evolved as,evolve as,verb+preposition,9,oanc_candidate_unreviewed,COLLIGA
 evolve,evolving at,evolve at,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:evolve:at:verb+preposition
 evolve,evolved through,evolve through,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:evolve:through:verb+preposition
 evolve,evolving with,evolve with,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:evolve:with:verb+preposition
-evolve,evolving on,evolve on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:evolve:on:verb+preposition
+evolve,evolve on,evolve on,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:evolve:on:verb+preposition
 exploration,exploration of,exploration of,noun+preposition,83,oanc_candidate_unreviewed,COLLIGATION:exploration:of:noun+preposition
 explore,exploring whether,explore whether,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:explore:whether:verb+preposition
 explore,explore on,explore on,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:explore:on:verb+preposition
@@ -177,14 +177,14 @@ extend,extend beyond,extend beyond,verb+preposition,39,oanc_candidate_unreviewed
 extend,extended to include,extend to + infinitive,verb+to-infinitive,22,oanc_candidate_unreviewed,COLLIGATION:extend:to:verb+to-infinitive
 extend,extends over,extend over,verb+preposition,22,oanc_candidate_unreviewed,COLLIGATION:extend:over:verb+preposition
 extend,extending into,extend into,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:extend:into:verb+preposition
+extend,extend for,extend for,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:extend:for:verb+preposition
 extend,extended by,extend by,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:extend:by:verb+preposition
-extend,extends for,extend for,verb+preposition,17,oanc_candidate_unreviewed,COLLIGATION:extend:for:verb+preposition
 extend,extended in,extend in,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:extend:in:verb+preposition
 extend,extend through,extend through,verb+preposition,11,oanc_candidate_unreviewed,COLLIGATION:extend:through:verb+preposition
 extend,extending on,extend on,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:extend:on:verb+preposition
 extend,extended throughout,extend throughout,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:extend:throughout:verb+preposition
 extend,extending across,extend across,verb+preposition,8,oanc_candidate_unreviewed,COLLIGATION:extend:across:verb+preposition
-extend,extending out,extend out,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:extend:out:verb+preposition
+extend,extends out,extend out,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:extend:out:verb+preposition
 feature,features of,feature of,noun+preposition,528,oanc_candidate_unreviewed,COLLIGATION:feature:of:noun+preposition
 feature,features in,feature in,noun+preposition,70,oanc_candidate_unreviewed,COLLIGATION:feature:in:noun+preposition
 feature,features on,feature on,noun+preposition,35,oanc_candidate_unreviewed,COLLIGATION:feature:on:noun+preposition
@@ -210,7 +210,7 @@ grant,granted for,grant for,verb+preposition,8,oanc_candidate_unreviewed,COLLIGA
 grant,granted in,grant in,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:grant:in:verb+preposition
 grant,grant with,grant with,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:grant:with:noun+preposition
 grant,grant from,grant from,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:grant:from:verb+preposition
-grant,grant to buy,grant to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:grant:to:verb+to-infinitive
+grant,grant to help,grant to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:grant:to:verb+to-infinitive
 grant,grants in,grant in,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:grant:in:noun+preposition
 grant,grants that,grant that,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:grant:that:noun+preposition
 guidance,guidance on,guidance on,noun+preposition,78,oanc_candidate_unreviewed,COLLIGATION:guidance:on:noun+preposition
@@ -238,19 +238,19 @@ hold,held off,hold off,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION
 hold,hold out,hold out,verb+particle,13,oanc_candidate_unreviewed,COLLIGATION:hold:out:verb+particle
 hold,hold as,hold as,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:hold:as:verb+preposition
 hold,held until,hold until,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:hold:until:verb+preposition
-hold,held “disappearing,hold VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:hold:VBG:verb+VBG
+hold,holding flaming,hold VBG,verb+VBG,7,oanc_candidate_unreviewed,COLLIGATION:hold:VBG:verb+VBG
 hold,held with,hold with,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:hold:with:verb+preposition
 hold,held between,hold between,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:hold:between:verb+preposition
-hold,held over,hold over,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:hold:over:verb+preposition
+hold,held down,hold down,verb+particle,5,oanc_candidate_unreviewed,COLLIGATION:hold:down:verb+particle
 hold,hold over,hold over,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:hold:over:noun+preposition
-hold,holding down,hold down,verb+particle,5,oanc_candidate_unreviewed,COLLIGATION:hold:down:verb+particle
+hold,hold over,hold over,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:hold:over:verb+preposition
 implant,implanted in,implant in,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:implant:in:verb+preposition
 improve,improved by,improve by,verb+preposition,34,oanc_candidate_unreviewed,COLLIGATION:improve:by:verb+preposition
 improve,improve on,improve on,verb+preposition,24,oanc_candidate_unreviewed,COLLIGATION:improve:on:verb+preposition
 improve,improved in,improve in,verb+preposition,23,oanc_candidate_unreviewed,COLLIGATION:improve:in:verb+preposition
-improve,improved with,improve with,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:improve:with:verb+preposition
-improve,improve existing,improve VBG,verb+VBG,20,oanc_candidate_unreviewed,COLLIGATION:improve:VBG:verb+VBG
-improve,improves as,improve as,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:improve:as:verb+preposition
+improve,improve with,improve with,verb+preposition,21,oanc_candidate_unreviewed,COLLIGATION:improve:with:verb+preposition
+improve,improves stuttering,improve VBG,verb+VBG,20,oanc_candidate_unreviewed,COLLIGATION:improve:VBG:verb+VBG
+improve,improve as,improve as,verb+preposition,12,oanc_candidate_unreviewed,COLLIGATION:improve:as:verb+preposition
 improve,improve upon,improve upon,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:improve:upon:verb+preposition
 improve,improved over,improve over,verb+preposition,10,oanc_candidate_unreviewed,COLLIGATION:improve:over:verb+preposition
 improve,improved after,improve after,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:improve:after:verb+preposition
@@ -273,7 +273,7 @@ inspiration,inspiration for,inspiration for,noun+preposition,23,oanc_candidate_u
 inspiration,inspiration of,inspiration of,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:inspiration:of:noun+preposition
 inspiration,inspiration from,inspiration from,noun+preposition,7,oanc_candidate_unreviewed,COLLIGATION:inspiration:from:noun+preposition
 inspiration,inspiration to,inspiration to,noun+to,7,oanc_candidate_unreviewed,COLLIGATION:inspiration:to:noun+to
-intend,intend to make,intend to + infinitive,verb+to-infinitive,551,oanc_candidate_unreviewed,COLLIGATION:intend:to:verb+to-infinitive
+intend,intend to visit,intend to + infinitive,verb+to-infinitive,551,oanc_candidate_unreviewed,COLLIGATION:intend:to:verb+to-infinitive
 intend,intended for,intend for,verb+preposition,48,oanc_candidate_unreviewed,COLLIGATION:intend:for:verb+preposition
 intend,intended to,intend to,verb+to,34,oanc_candidate_unreviewed,COLLIGATION:intend:to:verb+to
 intend,intended as,intend as,verb+preposition,14,oanc_candidate_unreviewed,COLLIGATION:intend:as:verb+preposition
@@ -294,7 +294,7 @@ laboratory,laboratory at,laboratory at,noun+preposition,10,oanc_candidate_unrevi
 laboratory,laboratories on,laboratory on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:laboratory:on:noun+preposition
 laboratory,laboratory as,laboratory as,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:laboratory:as:noun+preposition
 laboratory,laboratory during,laboratory during,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:laboratory:during:noun+preposition
-late,late to submit,late to + infinitive,adjective+to-infinitive,36,oanc_candidate_unreviewed,COLLIGATION:late:to:adjective+to-infinitive
+late,late to contribute,late to + infinitive,adjective+to-infinitive,36,oanc_candidate_unreviewed,COLLIGATION:late:to:adjective+to-infinitive
 late,late to,late to,adjective+to,9,oanc_candidate_unreviewed,COLLIGATION:late:to:adjective+to
 lid,lid on,lid on,noun+preposition,5,oanc_candidate_unreviewed,COLLIGATION:lid:on:noun+preposition
 manual,manual of,manual of,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:manual:of:noun+preposition
@@ -342,7 +342,7 @@ reliable,reliable in,reliable in,adjective+preposition,5,oanc_candidate_unreview
 remnant,remnant of,remnant of,noun+preposition,40,oanc_candidate_unreviewed,COLLIGATION:remnant:of:noun+preposition
 repeat,repeated in,repeat in,verb+preposition,38,oanc_candidate_unreviewed,COLLIGATION:repeat:in:verb+preposition
 repeat,repeat of,repeat of,noun+preposition,32,oanc_candidate_unreviewed,COLLIGATION:repeat:of:noun+preposition
-repeat,repeated deworming,repeat VBG,verb+VBG,27,oanc_candidate_unreviewed,COLLIGATION:repeat:VBG:verb+VBG
+repeat,repeated suffering,repeat VBG,verb+VBG,27,oanc_candidate_unreviewed,COLLIGATION:repeat:VBG:verb+VBG
 repeat,repeated at,repeat at,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:repeat:at:verb+preposition
 repeat,repeated with,repeat with,verb+preposition,20,oanc_candidate_unreviewed,COLLIGATION:repeat:with:verb+preposition
 repeat,repeat in,repeat in,noun+preposition,17,oanc_candidate_unreviewed,COLLIGATION:repeat:in:noun+preposition
@@ -403,7 +403,7 @@ screen,screen out,screen out,verb+preposition,7,oanc_candidate_unreviewed,COLLIG
 screen,screened as,screen as,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:screen:as:verb+preposition
 screen,screened in,screen in,verb+preposition,6,oanc_candidate_unreviewed,COLLIGATION:screen:in:verb+preposition
 screen,screened using,screen VBG,verb+VBG,6,oanc_candidate_unreviewed,COLLIGATION:screen:VBG:verb+VBG
-screen,screened to identify,screen to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:screen:to:verb+to-infinitive
+screen,screened to exclude,screen to + infinitive,verb+to-infinitive,5,oanc_candidate_unreviewed,COLLIGATION:screen:to:verb+to-infinitive
 sensor,sensor of,sensor of,noun+preposition,6,oanc_candidate_unreviewed,COLLIGATION:sensor:of:noun+preposition
 shape,shape of,shape of,noun+preposition,133,oanc_candidate_unreviewed,COLLIGATION:shape:of:noun+preposition
 shape,shaped by,shape by,verb+preposition,28,oanc_candidate_unreviewed,COLLIGATION:shape:by:verb+preposition
@@ -463,7 +463,7 @@ test,tests at,test at,noun+preposition,16,oanc_candidate_unreviewed,COLLIGATION:
 test,test as,test as,noun+preposition,15,oanc_candidate_unreviewed,COLLIGATION:test:as:noun+preposition
 test,tested as,test as,verb+preposition,13,oanc_candidate_unreviewed,COLLIGATION:test:as:verb+preposition
 test,test if,test if,noun+preposition,11,oanc_candidate_unreviewed,COLLIGATION:test:if:noun+preposition
-test,tested to look,test to + infinitive,verb+to-infinitive,11,oanc_candidate_unreviewed,COLLIGATION:test:to:verb+to-infinitive
+test,tested to improve,test to + infinitive,verb+to-infinitive,11,oanc_candidate_unreviewed,COLLIGATION:test:to:verb+to-infinitive
 test,test because,test because,noun+preposition,9,oanc_candidate_unreviewed,COLLIGATION:test:because:noun+preposition
 test,tested against,test against,verb+preposition,9,oanc_candidate_unreviewed,COLLIGATION:test:against:verb+preposition
 test,test during,test during,noun+preposition,8,oanc_candidate_unreviewed,COLLIGATION:test:during:noun+preposition
@@ -482,5 +482,5 @@ update,updated with,update with,verb+preposition,7,oanc_candidate_unreviewed,COL
 update,updating of,update of,verb+preposition,7,oanc_candidate_unreviewed,COLLIGATION:update:of:verb+preposition
 update,updated by,update by,verb+preposition,5,oanc_candidate_unreviewed,COLLIGATION:update:by:verb+preposition
 update,updated to,update to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:update:to:verb+to
-upgrade,upgrade to,upgrade to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:upgrade:to:verb+to
 upgrade,upgrades to,upgrade to,noun+to,5,oanc_candidate_unreviewed,COLLIGATION:upgrade:to:noun+to
+upgrade,upgrading to,upgrade to,verb+to,5,oanc_candidate_unreviewed,COLLIGATION:upgrade:to:verb+to
